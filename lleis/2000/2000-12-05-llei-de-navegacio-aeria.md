@@ -1,0 +1,1190 @@
+---
+title: "Llei de navegació aèria, de 9-11-2000."
+type: act
+jurisdiction: ad
+language: ca
+date: 2000-11-08
+published: 2000-12-05
+bopa: "BOPA núm. 75, any 2000"
+status: unknown
+consolidated: false
+source: "https://www.bopa.ad/Documents/Detall?doc=1F9F2"
+document_url: "https://bopadocuments.blob.core.windows.net/bopa-documents/012075/html/1_1F9F2.html"
+retrieved: 2026-10-13
+---
+
+# Llei de navegació aèria, de 9-11-2000.
+
+Llei
+
+de navegació aèria
+
+Atès que el Consell General en la seva sessió del dia 9 de novembre del 2000 ha aprovat la següent:
+
+llei de navegació aèria
+
+## Exposició de motius
+
+Les activitats aeronàutiques i la navegació aèria han tingut tradicionalment a Andorra una transcendència escassa. El país es va caracteritzar durant molts anys pel seu aïllament i per la seva incomunicació respecte de la resta del món.
+
+Avui, però, queda lluny aquella recomanació del Politar andorrà, el qual, en fer referència a les comunicacions, diu literalment: "Los camins dels ports no han de ser molt bons, ans bé fragosos i dolents, sols se puga transitar merament", a diferència dels camins rals d'ús interior, que han d'estar en bon estat.
+
+Andorra s'ha obert al món en la segona part del segle XX amb un important creixement de les activitats basades en el turisme, l'hosteleria, el comerç i els serveis. A més, l'economia andorrana es troba actualment oberta a les influències internacionals amb l'aparició de nous reptes i de noves oportunitats en les diverses branques especialitzades en el camp dels serveis.
+
+El desenvolupament i la promoció de les capacitats fonamentals d'Andorra en aquells camps requereix un millorament constant de les infraestructures, amb l'oferiment d'unes instal·lacions modernes i sobretot d'un accés fàcil al país per tots els mitjans possibles.
+
+En aquestes condicions, la navegació aèria es converteix en una necessitat. És ben cert que la situació geogràfica i l'orografia d'Andorra comporten moltes limitacions per a la utilització d'aeronaus. Però són indubtables els avantatges de disposar ja actualment de serveis d'helicòpters i d'helisuperfícies, tant des de la perspectiva d'utilització tant exclusivament interior com exterior. En l'àmbit intern, l'helicòpter és útil per a la realització de diversos serveis i/o tasques de salvament que poden ser requerits en situacions normals, d'intervencions o actuacions en casos de catàstrofes o d'esdeveniments extraordinaris, i també per les facilitats que atorga per accedir a llocs d'accés difícil en què s'hagin d'efectuar rescats o bastir edificacions o obres civils. I en l'àmbit extern, l'alternativa de poder desplaçar-se als països veïns, especialment als seus aeroports, sense haver d'utilitzar imperativament els transports terrestres representa un avantatge important.
+
+Per la mateixa naturalesa de la seva activitat, les aeronaus creuen l'espai sobre tots els països, posen en relació els uns amb els altres i transporten persones o mercaderies amb origen i destinació en els racons més apartats del món sense estar condicionades pel caràcter marítim o muntanyenc dels llocs ni per l'existència d'accidents geogràfics difícils de franquejar, com succeeix en els transports de superfície.
+
+La navegació aèria provoca una revolució dinàmica en les relacions humanes i origina, des del moment en què tal realitat es fa present, la necessitat de l'existència d'una regulació legal.
+
+Amb l'aprovació de la Constitució l'espai aeri situat sobre el territori del Principat d'Andorra queda també subjecte a la sobirania de l'Estat andorrà i el poder legislatiu té la facultat d'establir-ne el règim jurídic. En aquest sentit la present Llei regula l'ordenació i l'estructuració de l'espai aeri, del trànsit aeri i de les infraestructures aeronàutiques, i estableix l'ordenació i el control de la política aeronàutica i de totes les circumstàncies que se'n deriven.
+
+Finalment, cal tenir en compte que el fet que la navegació civil sigui de caràcter principalment internacional dóna origen a la necessitat que el poder polític es posi en relació amb altres països, amb la finalitat d'homologar les mesures bàsiques de seguretat i altres matèries en aquest tipus d'activitat. És obligada, doncs, la referència al Conveni sobre l'aviació civil internacional, adoptat en la Conferència de Chicago de 7 de desembre de 1944, i als seus annexos, les normes i les recomanacions establerts per l'Organització de l'Aviació Civil Internacional (OACI), als quals es fa referència expressa en la disposició addicional segona de la Llei, perquè aquest Conveni constitueix el que s'ha convingut d'anomenar la carta magna de l'aviació civil a què estan adherits pràcticament tots els estats del món.
+
+## Títol I. Disposicions generals
+
+#### Article 1
+
+La present Llei té per objecte establir el règim jurídic de l'aeronàutica civil al Principat d'Andorra.
+
+En particular, és objecte d'aquesta Llei:
+
+1) Regular l'ordenació i l'estructuració de l'espai aeri, del trànsit aeri i de controlar-los.
+
+2) Determinar el règim jurídic del Registre de Matrícula d'Aeronaus.
+
+3) Definir, classificar i establir el règim jurídic de les infraestructures aeronàutiques civils, en el marc de les competències de l'Estat i en especial tot allò relatiu als aeroports que sigui d'interès general i establir el règim jurídic dels explotadors aeris.
+
+4) Establir el marc jurídic del personal al servei de l'aeronàutica civil que hagi d'estar sotmès a llicències o habilitacions així com els requisits per a la seva formació.
+
+5) Regular el règim jurídic del transport i dels treballs aeris i de l'aviació no comercial.
+
+6) Regular la investigació d'accidents aeris i incidents en l'aviació civil.
+
+7) Determinar el marc jurídic de l'exercici de l'activitat inspectora de l'Estat sobre les activitats, les infraestructures, els explotadors i altres elements aeronàutics.
+
+8) Establir el règim d'infraccions i sancions administratives en l'àmbit de l'aeronàutica civil.
+
+#### Article 2
+
+A l'efecte de determinar les competències de l'Estat, s'entén per:
+
+1) Espai aeri andorrà: el segment atmosfèric situat per sobre del territori andorrà, sobre el qual l'Estat exerceix la sobirania.
+
+2) Infraestructures per a l'aterratge i l'enlairament: el conjunt d'instal·lacions i serveis integrats com a elements bàsics del trànsit aeri que serveixen per a la sortida o l'arribada d'aeronaus.
+
+3) Sistema de circulació aèria: el conjunt d'instal·lacions i serveis destinats a la consecució d'una circulació aèria segura, ordenada i fluida, mitjançant el subministrament d'informacions aeronàutiques i meteorològiques, el subministrament de senyals de navegació i guiatge, i la prestació dels serveis de trànsit aeri.
+
+4) Matriculació d'aeronaus: la inscripció en el Registre de Matrícula d'Aeronaus de les aeronaus civils, tot conferint-los les marques de nacionalitat i matrícula andorranes, a l'efecte que cap aeronau nacional pugui volar en l'espai aeri andorrà sense la documentació que acrediti la seva inscripció en aquest Registre. A més a més de la matriculació, s'hi han d'inscriure els actes i contractes que afectin els drets sobre l'aeronau.
+
+5) Aeroports d'interès general: els que estan qualificats així o els que el Govern qualifiqui quan valori i apliqui els criteris bàsics establerts en aquesta mateixa Llei.
+
+6) Trànsit aeri: la circulació efectuada per tot tipus d'aeronaus, qualsevol que sigui la seva activitat, en vol i en l'àrea de maniobra d'un aeròdrom.
+
+7) Transport aeri: el trasllat per aquest espai, entre diferents aeròdroms, de passatgers, càrrega o correu a canvi de qualsevol tipus de remuneració.
+
+8) Servei meteorològic aeronàutic: aquell que facilita informació d'aquesta mena en tot el territori i espai aeri de responsabilitat andorrana per tal de donar suport al trànsit aeri.
+
+#### Article 3
+
+Correspon al ministeri encarregat dels transports com a òrgan competent en la matèria regulada per aquesta Llei, la proposta al Govern de la política aeronàutica.
+
+#### Article 4
+
+Les activitats aerospacials s'entenen d'acord amb el que disposa aquesta Llei, en allò que li resulti aplicable, sense perjudici de les regulacions espacials tant nacionals com internacionals.
+
+#### Article 5
+
+La present Llei és d'aplicació en tot el territori de l'Estat andorrà i en el seu espai aeri.
+
+## Títol II. De l'espai aeri i lleis aplicables, de les infraestructures aeronàutiques i
+
+de la circulació aèria
+
+### Capítol I. De l'espai aeri i lleis aplicables
+
+#### Article 6
+
+L'espai aeri situat sobre el territori andorrà està subjecte a la sobirania de l'Estat andorrà. El seu ús resta limitat i ordenat d'acord amb el que s'estableix en aquesta Llei i en tractats o convenis subscrits per l'Estat andorrà.
+
+#### Article 7
+
+Les aeronaus nacionals poden fer ús de l'espai aeri andorrà per navegar-hi.
+
+L'Estat andorrà, mitjançant tractats o convenis amb altres estats, o bé mitjançant un permís especial, pot autoritzar el trànsit innocu sobre el seu territori de les aeronaus estrangeres.
+
+#### Article 8
+
+Per raons de defensa del territori, de l'ordenació del trànsit i de la seguretat aèria, el Govern pot fixar les zones en què es prohibeix o es restringeix el trànsit d'aeronaus sobre el territori andorrà, així com els canals d'entrada i sortida i la seva coordinació amb les infraestructures aeronàutiques, i també designar els aeròdroms habilitats amb despatx de duana.
+
+Així mateix, pot suspendre, totalment o parcialment, les activitats aèries en l'espai aeri en circumstàncies excepcionals durant períodes d'emergència per raons de policia i seguretat aèria o una altra causa de seguretat pública.
+
+#### Article 9
+
+Els propietaris de béns subjacents han de suportar la navegació aèria.
+
+#### Article 10
+
+Les aeronaus d'Estat andorranes es consideren territori andorrà i estan sotmeses a les lleis andorranes, sigui quin sigui el lloc o espai en què es trobin.
+
+Les aeronaus civils es consideren territori andorrà i estan sotmeses a les lleis andorranes quan volin per l'espai lliure o es trobin en territori estranger o el sobrevolin, si no s'hi oposen les lleis del país subjacent.
+
+#### Article 11
+
+Són d'aplicació a les aeronaus estrangeres mentre es trobin en territori de sobirania o en espai aeri andorrà, les disposicions d'aquesta Llei, així com les d'altres que les puguin afectar.
+
+### Capítol II. De les infraestructures aeronàutiques
+
+#### Article 12
+
+A l'efecte d'aquesta Llei, les infraestructures aeronàutiques civils es classifiquen en dos grups:
+
+a) Les àrees definides en la superfície terrestre, o sobre una estructura artificial, destinades totalment o parcialment a l'arribada, la sortida i el moviment en superfície d'aeronaus civils.
+
+b) Les afectes i integrades en el sistema de circulació aèria que atenen, faciliten i controlen l'ús ordenat i segur, per al trànsit aeri civil, de l'espai aeri.
+
+El control de l'espai aeri comporta la necessitat de controlar el nombre, la ubicació o les característiques de les infraestructures definides a l'apartat a)
+
+anterior, per la qual cosa, per a l'establiment, el funcionament o la modificació de les que ja existeixen, es requerirà una autorització prèvia del Govern.
+
+Correspon al ministeri encarregat dels transports la titularitat de totes les infraestructures descrites en l'apartat b) i de tots els serveis que suporten, qualsevol que en sigui la ubicació, dins o fora de les àrees de les infraestructures de l'apartat a). Reglamentàriament se'n determinarà l'homologació, l'establiment, l'operació, el manteniment i la inspecció.
+
+### Capítol III. De la circulació aèria
+
+#### Article 13
+
+A l'efecte d'aquesta Llei, s'entén per circulació o trànsit aeri el conjunt d'aeronaus en vol, i les que circulen per l'àrea de maniobra d'un aeròdrom.
+
+#### Article 14
+
+El Govern vetlla per la consecució d'una circulació aèria segura, ordenada i fluida, la qual es regula per les disposicions d'aquesta Llei i dels reglaments que desenvolupin aquesta matèria, i en correspon l'aplicació al ministeri encarregat dels transports mitjançant l'establiment d'un sistema de circulació aèria.
+
+Les disposicions sobre circulació aèria obliguen totes les aeronaus.
+
+#### Article 15
+
+El sistema nacional de circulació aèria, en la seva missió general de control de l'espai aeri, desenvolupa, bàsicament, les funcions operatives següents:
+
+a) Generar i difondre informació sobre l'estat operatiu de la circulació i dels aeròdroms i sobre els perills per a la navegació aèria.
+
+b) Generar i facilitar informació sobre la situació meteorològica, actual o prevista, en terminals i rutes.
+
+c) Prestar els serveis d'alerta, d'informació de vol i de control, coneguts generalment com serveis de trànsit aeri.
+
+d) Oferir, dintre de les seves possibilitats, informació de navegació o guiatge que ajudi l'aeronau a seguir la trajectòria prevista, mitjançant referències visuals o radioelèctriques o amb qualsevol altre sistema de telecomunicació.
+
+Per al compliment de les seves responsabilitats, l'organisme encarregat del sistema nacional de circulació aèria compta amb els òrgans tècnics necessaris, inclosos el servei meteorològic aeronàutic i el servei de comprovació en vol de radioajudes, radiocomunicacions i radars.
+
+#### Article 16
+
+La utilització dels serveis enumerats en l'article anterior, i en general de les infraestructures aeronàutiques, té caràcter obligatori i s'ajusta a les condicions i tarifes establertes.
+
+#### Article 17
+
+La inspecció de la circulació aèria vetlla pel compliment de tots els reglaments i totes les disposicions i normes permanents o decisions eventuals que portin a aconseguir un ràpid, ordenat i segur trànsit de les aeronaus, tant en vol com en terra.
+
+#### Article 18
+
+Correspon al ministeri encarregat dels transports l'establiment, la millora o la supressió d'instal·lacions o serveis terminals de circulació aèria en aeròdroms d'ús públic, la qual cosa es realitza atenent criteris objectius i de coneixement general, basats en consideracions de rendiment socioeconòmic de la inversió, que es determinen reglamentàriament.
+
+El cost de l'establiment, la millora i el funcionament de les instal·lacions o els serveis esmentats va a càrrec del titular de l'aeròdrom.
+
+#### Article 19
+
+L'establiment de les infraestructures de l'apartat b) de l'article 12 gaudeixen, a l'efecte expropiatori, de la declaració d'utilitat pública, i resten subordinats a aquesta declaració els béns i drets, qualsevol que sigui la seva titularitat, afectats per aquestes instal·lacions, o per les limitacions que se'n derivin, que són establertes pel Govern.
+
+#### Article 20
+
+Correspon al ministeri encarregat dels transports la direcció i la coordinació de les operacions de recerca i salvament aeris, sense perjudici de les funcions operatives assignades a altres organismes i entitats.
+
+#### Article 21
+
+Tota aeronau en vol resta obligada a seguir les instruccions que rebi de les autoritats andorranes: a aterrar en l'aeròdrom que se li indiqui o a variar la seva ruta d'acord amb allò que se li requereixi.
+
+#### Article 22
+
+Perquè una aeronau pugui volar dins de l'espai aeri andorrà ha de ser autoritzada, posseir les marques de nacionalitat, matrícula o número i portar la documentació exigida per aquesta Llei, els seus reglaments o els convenis o tractats internacionals.
+
+#### Article 23
+
+Tota aeronau ha de seguir en el seu vol els canals o les zones de navegació que li siguin imposats i respecta les restriccions o prohibicions establertes.
+
+#### Article 24
+
+Les operacions de sortida i arribada de les aeronaus no poden efectuar-se si no és en els aeròdroms autoritzats oficialment.
+
+#### Article 25
+
+Les condicions d'utilització i operació de les aeronaus sense pilot es determinen reglamentàriament.
+
+## Títol III. De les aeronaus, de la seva definició, classificació, nacionalitat i
+
+matrícula. Dels documents de bord. Del registre de matrícula, de les operacions i del certificat d'aeronavegabilitat
+
+### Capítol I. De les aeronaus, de la seva definició i classificació
+
+#### Article 26
+
+A l'efecte d'aquesta Llei, s'entén per aeronau tot giny que pugui sustentar-se a l'atmosfera per reaccions de l'aire que no siguin les reaccions d'aquest contra la superfície de la terra. No es consideren aeronaus les ales delta, les ales de pendent i els ultralleugers, que es regularan per la seva pròpia normativa reglamentària.
+
+#### Article 27
+
+L'adquisició, la modificació o l'extinció dels drets sobre una aeronau ha de constar, necessàriament, en document públic o privat.
+
+#### Article 28
+
+Les aeronaus es classifiquen en aeronaus d'Estat i aeronaus civils, quedant definides de la següent manera:
+
+1\. Es consideren aeronaus d'Estat les aeronaus, de titularitat pública o privada, quan s'utilitzin en serveis no comercials de les administracions públiques.
+
+2\. Són aeronaus civils totes les aeronaus no incloses en el cas previst en l'apartat anterior. S'estableixen reglamentàriament les categories d'aeronaus civils per raó de la utilització o destinació.
+
+#### Article 29
+
+La inscripció de l'aeronau en el Registre de Matrícula en determina la nacionalitat i confereix les marques de nacionalitat i matrícula. Les aeronaus estrangeres tenen la nacionalitat de l'Estat en el qual estan matriculades.
+
+### Capítol II. De la nacionalitat i matrícula
+
+#### Article 30
+
+Només poden ser inscrites al Registre de Matrícula d'Aeronaus d'Andorra les que pertanyin, ja sigui per tenir-les en propietat o per tenir-les arrendades, a persones físiques o jurídiques de nacionalitat andorrana o a persones estrangeres que tinguin el permís de residència andorrà en vigor.
+
+#### Article 31
+
+La pèrdua de nacionalitat o del permís de residència de la persona física o jurídica implica la pèrdua de nacionalitat de l'aeronau.
+
+#### Article 32
+
+Una aeronau matriculada a Andorra perd la nacionalitat andorrana si es matricula a l'estranger.
+
+Una aeronau matriculada a l'estranger no es pot matricular a Andorra sense haver-ne justificat prèviament la baixa del Registre de Matriculació del país de procedència.
+
+Les aeronaus han de portar visibles a l'exterior les marques de nacionalitat i matrícula que s'estableixin, i en un lloc visible, ja sigui a l'interior o a l'exterior, una placa amb la indicació del tipus, número de sèrie i matrícula de l'aparell, i nom del propietari.
+
+### Capítol III. Dels documents de bord
+
+#### Article 33
+
+Les aeronaus han de portar a bord els documents següents, lliurats per l'òrgan competent en la matèria:
+
+1\. Certificat de matrícula, en el qual consta el títol de propietat.
+
+2\. Certificat d'aeronavegabilitat.
+
+3\. Llicència d'aptitud de cadascun dels tripulants.
+
+4\. Certificat de l'estació de radio.
+
+5\. Quadern de l'aeronau.
+
+6\. Qualsevol altra documentació que pugui ser exigida per la legislació vigent en cada moment.
+
+#### Article 34
+
+Les autoritats dels aeròdroms on es trobin les aeronaus poden examinar-ne tots els documents.
+
+#### Article 35
+
+Si durant el vol succeeixen incidents no enregistrats en la documentació de bord, el comandant de l'aeronau n'ha de donar comptes suficients a les autoritats de l'aeròdrom d'arribada.
+
+#### Article 36
+
+Tots els models dels documents indicats als articles anteriors són models oficials establerts reglamentàriament.
+
+#### Article 37
+
+Els certificats d'aeronavegabilitat estrangers i les llicències d'aptitud dels tripulants poden ser validats a Andorra, sempre que tinguin els requisits mínims establerts per als certificats i títols andorrans.
+
+### Capítol IV. Del registre de matrícula, de les operacions i del certificat
+
+d'aeronavegabilitat
+
+Secció 1a. Del Registre de Matrícula
+
+#### Article 38
+
+Sota la jurisdicció del ministeri encarregat dels transports, s'estableix el Registre de Matrícula d'Aeronaus, el qual té caràcter administratiu.
+
+#### Article 39
+
+Les aeronaus han de ser matriculades necessàriament a l'esmentat Registre especial, on es faran constar tots els contractes d'adquisició, de lloguer o d'altres similars, i tots els actes de modificació, transmissió i extinció de drets i altres vicissituds que afectin l'aeronau en general.
+
+Tota operació que es pretengui inscriure al Registre ha de constar en document públic o privat, segons escaigui, i requereix la presentació simultània del corresponent document duaner i de títol de propietat o possessió, a fi de relacionar-hi l'assentament practicat. Les inscripcions de transferències de propietat o canvis de titular es practiquen en virtut de document públic.
+
+#### Article 40
+
+La certificació del Registre de Matrícula substitueix el títol de propietat en cas de pèrdua o destrucció, mentre se n'expedeix un duplicat.
+
+#### Article 41
+
+És obligatòria la inscripció al Registre de Matrícula dels actes i dels contractes que afecten l'aeronau totalment o parcialment.
+
+La inscripció en el Registre de Matrícula d'Aeronaus dels actes i contractes relatius a les aeronaus no eximeix de l'obligació d'inscriure'ls en qualsevol altre registre públic si fos preceptiu.
+
+#### Article 42
+
+Cap aeronau andorrana no pot realitzar vols sense el document que acrediti la inscripció en el Registre de Matrícula d'Aeronaus i l'actualització pels canvis de titular que es produeixin. Tot això sense perjudici d'altra documentació relativa a l'aeronau que ha de posseir l'explotador o titular, exceptuant el que disposen els convenis internacionals o disposicions especials per a les estrangeres.
+
+No obstant això, el ministeri encarregat dels transports pot establir l'exclusió d'inscripció de determinats tipus o classes d'aeronaus segons la seva finalitat d'esbarjo, les dimensions o si tenen les possibilitats operatives limitades, i de les que disposin d'una autorització especial o provisional basada en les característiques esmentades o en la seva situació documental o operativa, establint-ne reglamentàriament el control.
+
+La cancel·lació de matrícula d'aeronau no es practica si està subjecta a càrregues o gravàmens inscrits en registre públic, llevat que hi hagi conformitat dels creditors documentada fefaentment.
+
+#### Article 43
+
+El Registre de Matrícula d'Aeronaus es pot incorporar al suport informàtic. Els llibres de matrícula de fulls mòbils, la legalització, el format, els models de contractes, els documents exigibles per a les inscripcions, la forma d'efectuar- les i la manera de portar-los administrativament i funcionalment, estan subjectes a l'ordenació que reglamentàriament estableixi el ministeri encarregat dels transports.
+
+#### Article 44
+
+El Govern aprovarà per Decret el pertinent Reglament del Registre de Matrícula.
+
+Secció 2a. De les operacions i del certificat d'aeronavegabilitat
+
+#### Article 45
+
+Es denomina operació d'aeronau l'ús que se'n fa quan correspon al seu tipus i a les seves característiques. Tota aeronau opera d'acord amb les condicions de la seva aprovació i amb els requisits que s'estableixin.
+
+#### Article 46
+
+Cap aeronau no s'autoritza per volar sense l'expedició d'un certificat d'aeronavegabilitat lliurat pel ministeri encarregat dels transports, el qual el pot renovar, revocar o suspendre d'acord amb el que es preveu reglamentàriament.
+
+S'entén per certificat d'aeronavegabilitat el document que serveix per identificar tècnicament l'aeronau, definir-ne les característiques i expressar la qualificació que mereix per a la seva utilització, deduïda de la inspecció en terra i de les corresponents proves en vol.
+
+Poden ser validats a Andorra els certificats d'aeronavegabilitat que reuneixin les condicions mínimes acceptades internacionalment.
+
+#### Article 47
+
+Reglamentàriament s'estableixen els diferents models, els períodes de validesa i el procediment d'emissió d'aquests certificats. D'acord amb la finalitat, l'ús específic o les condicions especials que tinguin, el ministeri encarregat dels transports pot excloure motivadament determinades aeronaus del requisit de certificat d'aeronavegabilitat.
+
+#### Article 48
+
+S'entén per explotador la persona física o jurídica que per qualsevol títol pot disposar les operacions de l'aeronau. Li corresponen les responsabilitats inherents al manteniment i l'operació de l'aeronau, d'acord amb el que estableix aquesta Llei, i ha d'estar acreditada la seva capacitat.
+
+#### Article 49
+
+1\. Els explotadors d'aeronaus necessiten l'obtenció prèvia del certificat d'explotador si es dediquen al transport aeri comercial. Els altres tipus de transport necessiten la corresponent autorització que acrediti la seva idoneïtat tècnica per a les activitats aeronàutiques específiques. Correspon al ministeri encarregat dels transports l'establiment dels requisits per a l'obtenció i el manteniment en vigor de les esmentades certificacions i autoritzacions, així com per a la suspensió i la revocació.
+
+2\. El lloguer d'aeronaus contractades sense pilot, entès com a tal la utilització amb finalitat privada d'aeronaus de propietat aliena mitjançant contraprestació, té la consideració d'activitat específica. Aquesta activitat se sotmet al que disposa aquesta Llei quan li sigui d'aplicació i a les disposicions que, en desenvolupament o com a complement, es dictin.
+
+Es determinen reglamentàriament les condicions que hagin de complir les empreses i aeronaus dedicades a l'activitat esmentada, per a l'establiment de les quals es tenen en compte les seves característiques especials pel que fa a les assegurances obligatòries, els requisits tècnics aplicables i l'excepció de determinades obligacions registrals.
+
+#### Article 50
+
+El ministeri encarregat dels transports estableix reglamentàriament els requisits i les condicions que han d'acreditar els sol·licitants del certificat o autorització.
+
+Per aplicació de normes o convenis internacionals es pot exigir la necessitat del reconeixement d'un altre personal tècnic de l'explotador; igualment en el cas que es consideri necessari reforçar la garantia de la idoneïtat de l'operació, es pot estendre aquesta exigència a un altre personal.
+
+#### Article 51
+
+Les aeronaus que volin cap a o des d'aeròdroms andorrans, han d'acreditar el compliment dels requisits que s'estableixin d'acord amb les normes vigents de l'OACI relatius a emissions acústiques o gasoses. El ministeri encarregat dels transports pot establir limitacions sobre l'operació d'aeronaus per aquestes mateixes raons.
+
+Els documents lliurats per altres Estats a aquests efectes poden ser acceptats pel ministeri encarregat dels transports.
+
+#### Article 52
+
+Les operacions de transport de mercaderies perilloses han d'efectuar-se de conformitat amb la seva normativa específica, amb l'autorització del ministeri encarregat dels transports, que ha d'autoritzar igualment el personal encarregat de les operacions amb la càrrega.
+
+## Títol IV. Dels aeroports i aeròdroms
+
+#### Article 53
+
+Les superfícies disposades per a l'arribada i la sortida d'aeronaus es classifiquen en aeròdroms i aeroports.
+
+Els primers poden ser permanents i eventuals.
+
+S'entén per aeròdrom la superfície de límits definits de terra o aigua destinada totalment o parcialment a l'arribada, la sortida i el moviment en superfície d'aeronaus, amb inclusió, si escau, d'edificis i instal·lacions. Són eventuals quan el seu establiment obeeix a necessitats transitòries o està designat per a la utilització particular en circumstàncies especials.
+
+S'entén per aeroport tot aeròdrom en el qual existeixen de manera permanent instal·lacions i serveis amb caràcter públic, per tal d'assistir de manera regular el trànsit aeri, permetre l'aparcament i la reparació del material aeri, així com serveis i infraestructures per tal d'atendre aeronaus, passatgers o càrrega.
+
+L'aeròdrom o aeroport destinat únicament a l'arribada i la sortida d'helicòpters es denomina heliport.
+
+Els aeròdroms, aeroports i heliports poden ser públics o privats.
+
+#### Article 54
+
+Són aeroports d'interès general els que el Govern qualifiqui així d'acord amb les seves condicions per servir el trànsit internacional, o els que per la situació, les característiques o la capacitat per generar trànsit puguin incidir en l'ordenació del transport aeri, en el control del propi espai aeri i, en tot cas, els que tinguin interès per a la defensa nacional.
+
+La qualificació porta implícita la declaració d'utilitat pública a l'efecte d'expropiació forçosa i de possibles limitacions de drets afectats per la ubicació i el funcionament, tant present com futur, previstos en la legislació vigent.
+
+#### Article 55
+
+Correspon al Govern la construcció, la qualificació, la inspecció i l'explotació d'aeròdroms, aeroports i heliports públics dins el territori andorrà, i l'habilitació dels corresponents despatxos de duana.
+
+Correspon al Govern l'autorització de la instal·lació d'aeroports, aeròdroms, i heliports privats, així com la qualificació i la inspecció.
+
+#### Article 56
+
+Correspon al Govern fixar les tarifes d'aterratge, sortida i estacionament de les aeronaus, ajuts a la navegació, comunicacions específicament aeronàutiques i altres serveis dels aeroports, aeròdroms i heliports de caràcter públic.
+
+## Títol V. De les servituds aeronàutiques
+
+#### Article 57
+
+Els terrenys, les construccions i les instal·lacions que envolten els aeròdroms, els aeroports, heliports i ajudes a la navegació aèria, estan subjectes a les servituds ja establertes o que s'estableixin en disposicions especials.
+
+#### Article 58
+
+Correspon al ministeri encarregat dels transports, el compliment d'aquelles disposicions i fer efectives les esmentades servituds pels seus propis mitjans; si aquestes disposicions fossin insuficients, pot sol·licitar la cooperació i l'auxili d'altres organismes i autoritats, fins i tot si fos necessari per a l'enderroc o la desaparició immediats del que hi ha edificat, instal·lat i plantat que contravingui la limitació de què es tracti.
+
+#### Article 59
+
+Els propietaris o els posseïdors d'immobles no poden oposar-se a l'entrada o al pas per les seves finques per a les operacions de salvament o auxili de les aeronaus accidentades.
+
+#### Article 60
+
+Els danys i perjudicis que es provoquin en els béns afectats per les servituds a què es refereixen els articles 57 i 59 són indemnitzables, si escau, d'acord amb les disposicions legals vigents.
+
+#### Article 61
+
+Per a la protecció de la seguretat del trànsit aeri, el Govern pot establir, en les condicions i l'extensió previstes en els reglaments aprovats, les limitacions a la propietat, al seu ús i els drets següents:
+
+Fixació d'alçades màximes, prohibició d'instal·lacions generadores de fums i boires o de circumstàncies que atreguin aus en llibertat als terrenys adjacents a aeròdroms, així com establiment de restriccions a l'expansió de la població en les zones de major risc aeri properes a aquestes infraestructures.
+
+Limitació de grans alçades en tot el territori nacional que puguin incidir especialment en la circulació aèria.
+
+Establiment de zones de seguretat i d'alçades per al manteniment de la integritat i la precisió dels senyals radioelèctrics aeronàutics, i necessitat d'autorització prèvia d'emissores radioelèctriques en aquestes zones.
+
+La naturalesa i extensió d'aquestes limitacions es determinen a proposta del ministeri encarregat dels transports. En casos d'urgència, poden ser establertes pel ministeri encarregat dels transports, i resten sense efecte si en el termini d'un any no són confirmades.
+
+## Títol VI. Del personal aeronàutic, dels explotadors aeris i del tràfic aeri
+
+### Capítol I. Del personal aeronàutic
+
+#### Article 62
+
+A l'efecte d'aquesta Llei, es considera personal aeronàutic aquell al qual cal llicència, habilitació o mera autorització per exercir funcions relacionades amb les aeronaus en terra o en vol, segons s'estableix en els supòsits següents:
+
+1\. El personal que tingui funcions essencials en la cabina de pilotatge per a les operacions en vol.
+
+2\. El personal al qual se li assignin funcions en vol en la cabina de passatgers relacionades amb el seu transport.
+
+3\. El personal que exerceix les funcions de control de trànsit aeri.
+
+4\. El personal que exerceix funcions de certificació de treballs de manteniment del material aeronàutic.
+
+Aquest personal ha de reunir i complir els requisits i les condicions que es determinin.
+
+El Govern, a proposta del ministeri encarregat dels transports, amb motiu de l'aplicació de normes o convenis internacionals o de l'evolució de les professions i les tècniques relacionades amb la seguretat aeronàutica, pot establir l'exigència de llicència o autorització per a d'altres funcions aeronàutiques, així com la reducció a mera autorització d'alguna de les actualment sotmeses a llicència.
+
+#### Article 63
+
+La llicència és el document oficialment emès pel ministeri encarregat dels transports que faculta el seu titular per a l'exercici de determinades funcions aeronàutiques. Les habilitacions consisteixen en anotacions en les llicències o en documents associats, en les quals s'especifiquen condicions, atribucions especials o restriccions en relació amb les facultats atorgades en la llicència.
+
+Les autoritzacions en matèria de personal aeronàutic consisteixen en el reconeixement formal pel ministeri encarregat dels transports de la concurrència en una determinada persona dels requisits personals i professionals per al desenvolupament del seu lloc amb funcions aeronàutiques regulades administrativament. L'organisme esmentat pot ordenar la suspensió o la revocació de les llicències, habilitacions o autoritzacions en cas d'incompliment dels requisits establerts per a la seva validesa o eficàcia.
+
+#### Article 64
+
+Les llicències i habilitacions lliurades per altres Estats poden ser reconegudes o validades a Andorra d'acord amb els convenis i tractats internacionals vigents.
+
+Alguns dels aspectes de la formació de la persona que sol·licita poden ser acceptats a l'efecte de l'acompliment dels requisits per a l'obtenció del reconeixement o validació.
+
+Circumstancialment, pot autoritzar-se l'ús de personal aeronàutic amb llicències estrangeres o qualificacions equivalents quan ho aconselli la millora de l'activitat específica de què es tracti. Aquesta autorització té, en qualsevol cas, validesa temporal limitada a un màxim d'un any.
+
+#### Article 65
+
+L'ensenyament requerit per a l'obtenció de llicències i habilitacions pot ser impartit per qualsevol persona física o jurídica que estigui en possessió de la corresponent autorització, lliurada pel ministeri encarregat dels transports, que acrediti el compliment de les condicions sobre personal, material i programes que reglamentàriament s'estableixin.
+
+#### Article 66
+
+El comandant de l'aeronau és la persona designada per l'explotador per a exercir el comandament a bord i és responsable de l'operació i la seguretat de l'aeronau, i de la tripulació, els passatgers, els equipatges i la càrrega, des que se'n fa càrrec per tal d'iniciar el vol, encara que no la piloti, fins que es produeix el lliurament, un cop finalitzat el vol, a un altre representant de l'explotador o autoritat competent.
+
+La designació de comandant és obligatòria en vols dels explotadors comercials.
+
+El pilot designat ha de tenir la llicència i les habilitacions vàlides a Andorra per tal d'exercir professionalment l'activitat, i adequades a l'operació a efectuar en cada cas; també ha de reunir les condicions complementàries que reglamentàriament s'estableixin.
+
+El comandant ha de gaudir plenament dels seus drets civils i tenir la nacionalitat andorrana o d'algun Estat membre de l'Organització de l'Aviació Civil Internacional o, si escau, d'un altre Estat amb el qual Andorra estableixi acord especial. Com a representant de l'explotador i responsable de l'operació i dels elements humans i materials que hi estan implicats, té autoritat sobre tots aquests elements d'acord amb les lleis i els reglaments.
+
+#### Article 67
+
+En tot aeròdrom hi ha un director que és responsable del compliment dels requisits establerts per al seu funcionament.
+
+El director de l'aeròdrom està autoritzat d'acord amb el que estableix el ministeri encarregat dels transports a proposta de l'entitat explotadora.
+
+### Capítol II. Dels explotadors aeris
+
+#### Article 68
+
+Els explotadors aeris definits en l'article 48 d'aquesta Llei es classifiquen, pel règim jurídic a què queda sotmesa la seva activitat aeronàutica, en explotadors comercials i no comercials.
+
+Els explotadors de transport aeri també es denominen companyies aèries o transportistes.
+
+### Capítol III. Del tràfic aeri
+
+Secció 1a. Del tràfic aeri comercial.
+
+#### Article 69
+
+Es considera tràfic aeri comercial aquell que es realitza mitjançant una contraprestació econòmica, amb finalitat de transport, de treball aeri o de formació de pilots.
+
+#### Article 70
+
+El tràfic aeri comercial amb origen, destinació, o dins del territori andorrà, només pot ser exercit per les persones, empreses, organismes o entitats que estiguin habilitades a aquest efecte mitjançant una llicència d'explotació o títols equivalents, i la inscripció al registre de comerç que autoritzi específicament per a l'exercici d'aquesta activitat, lliurats per les autoritats competents, a més a més d'aquells altres certificats d'índole tècnica que resultin exigibles.
+
+S'entén per llicència d'explotació l'autorització concedida a una empresa per la qual se li permet el transport aeri comercial de passatgers, correu o càrrega, en les condicions que hi figuren.
+
+#### Article 71
+
+Correspon al Govern o al ministeri encarregat dels transports l'expedició, la renovació, el control i la revocació de les llicències d'explotació, certificats d'explotador i autorització tècnica a les persones, empreses, organismes i entitats que tinguin el seu domicili social a Andorra.
+
+#### Article 72
+
+1\. S'entén per transport aeri comercial el trasllat per via aèria, entre un punt d'origen i un punt de destinació, de passatgers, càrrega o correu, a canvi de remuneració o pagament de lloguer.
+
+2\. No tenen la consideració de transport aeri comercial, a l'efecte d'aquesta Llei, els vols efectuats amb aeronaus sense motor o amb ginys amb o sense motor no definits com aeronaus a l'article 26.
+
+#### Article 73
+
+Cap persona, empresa, organisme o entitat no pot efectuar transport aeri comercial, si no està en possessió d'una llicència d'explotació o certificat d'explotador, lliurats d'acord amb les disposicions aplicables.
+
+#### Article 74
+
+El Govern dicta les normes adequades per tal de verificar i assegurar el compliment de les condicions establertes en matèria de propietat i control de les companyies aèries andorranes, d'acord amb la reglamentació aplicable.
+
+Així mateix, el Govern adopta les mesures procedents amb l'objecte de garantir l'exercici dels drets de tràfic que, en virtut de convenis aeris subscrits per Andorra amb altres Estats, estigui reservat a empreses la propietat majoritària i el control efectiu de les quals pertanyi a nacionals no andorrans.
+
+#### Article 75
+
+Les condicions per a l'establiment dels serveis aeris internacionals de caràcter regular entre Andorra i altres Estats s'estableixen mitjançant convenis amb els Estats interessats, tot i tenint en compte els interessos generals directament vinculats amb el transport aeri.
+
+En absència de conveni, o en relació amb les rutes o serveis no previstos en conveni, el Govern pot concedir autoritzacions, amb caràcter provisional i per un termini no superior a un any, a les companyies andorranes o estrangeres quan les circumstàncies ho justifiquin, tot i tenint en compte la consideració deguda a l'interès esmentat.
+
+#### Article 76
+
+Les designacions per a l'explotació dels serveis regulars de passatgers i/o mercaderies i correu en les rutes especificades en els convenis aeris, s'atorguen a companyies aèries, amb la valoració prèvia de la conveniència de la designació corresponent, d'acord amb els objectius de la política aèria. En tot cas, s'ha de verificar, entre d'altres, la idoneïtat de les condicions tècniques i financeres de la companyia aèria interessada.
+
+Els mateixos criteris s'apliquen a les autoritzacions provisionals per a l'explotació de serveis internacionals regulars a companyies en relació amb el que preveu el paràgraf segon de l'article 75.
+
+#### Article 77
+
+El Govern pot modificar, suspendre o revocar les designacions o autoritzacions, així com substituir una companyia per una altra, quan els serveis per als quals foren concedides les designacions o autoritzacions no comencin dins els terminis previstos o deixin d'operar sense cap causa justificada, s'operin en forma manifestament insuficient o inadequada, o l'interès públic ho demani.
+
+En la designació o autorització s'expressa la duració, l'objecte del transport, les rutes i altres condicions dels serveis, així com les causes que poden donar lloc a la suspensió o revocació de tal designació o autorització.
+
+Els serveis aeris d'Andorra per al tràfic internacional de caràcter regular s'estableixen mitjançant convenis amb els Estats interessats. Els permisos o concessions a empreses estrangeres s'atorguen baix el principi de reciprocitat.
+
+#### Article 78
+
+Amb l'objecte de verificar que les companyies aèries estrangeres compleixen les condicions previstes en els corresponents convenis, així com en d'altres convenis internacionals aplicables, i en les lleis i reglaments andorrans, aquestes companyies han de presentar la documentació i complir els requisits establerts reglamentàriament.
+
+#### Article 79
+
+Correspon al Govern la imposició de les obligacions de servei públic quan impliqui despesa pública. En altres supòsits, el ministeri encarregat dels transports decideix i determina les condicions de l'obligació de servei públic, d'acord amb els procediments aplicables.
+
+#### Article 80
+
+Les companyies aèries andorranes han de facilitar, en la forma i manera requerides, la informació que sobre les activitats que realitzin els sol·licitin els organismes competents en l'exercici de les seves funcions i de conformitat amb les normes d'aquesta Llei i els seus reglaments.
+
+Els organismes competents poden, igualment, sol·licitar a les companyies aèries que realitzin serveis fins a i des d'Andorra, informacions estadístiques i d'altres dades sobre els serveis, amb l'objecte d'avaluar-ne la qualitat i, si escau, publicar les informacions que siguin procedents sobre aquesta matèria.
+
+#### Article 81
+
+Les companyies aèries estan subjectes a complir la normativa aplicable en matèria de seguretat pública d'aeronaus, persones i coses.
+
+#### Article 82
+
+A l'efecte d'aquesta Llei, s'entén per treballs aeris:
+
+Les activitats especialitzades executades amb aeronaus, que no inclouen operacions de transport aeri compreses en els articles 72 a 81 d'aquesta Llei, principalment en agricultura, fotografia, publicitat, vigilància, extinció d'incendis forestals, hissat, trasllat i posició de càrregues suspeses, o d'altres operacions similars.
+
+Es consideren també treballs aeris els vols que es realitzen per tal de traslladar les persones o els equips, i el material necessari per a la realització d'un treball aeri contractat des de la base d'operacions fins al seu punt d'execució.
+
+#### Article 83
+
+Cap empresa, organisme o entitat establert a Andorra no pot realitzar treballs aeris, en qualsevol de les seves especialitats, o formació de personal sense disposar d'un certificat d'aptitud tècnica amb aquest efecte.
+
+Secció 2a. Del tràfic aeri privat
+
+#### Article 84
+
+A l'efecte d'aquesta Llei, es considera tràfic aeri privat la navegació aèria no compresa en la secció 1a del capítol III del títol VI d'aquesta Llei.
+
+#### Article 85
+
+1\. El tràfic aeri privat comprèn la navegació de turisme, el transport privat d'empresa i l'aviació esportiva.
+
+2\. Per navegació de turisme s'entén la realitzada per tal de satisfer les necessitats de desplaçament de caràcter personal del titular d'una aeronau i els seus familiars propers. Aquesta navegació no pot en cap cas donar lloc a remuneració directa o indirecta.
+
+3\. Constitueix transport privat d'empresa el que efectua una empresa amb les seves pròpies aeronaus per a empreses l'objecte de les quals no és el transport, amb la finalitat de traslladar el seu personal, com a complement de la seva activitat mercantil, mercaderies i productes.
+
+Aquesta activitat no pot tenir caràcter comercial, ni ser contractada o facturada de forma independent.
+
+4\. S'entén per aviació esportiva les activitats de vol amb finalitat recreativa o de competició efectuades o organitzades en el si d'una associació o entitat esportiva.
+
+S'exclouen d'aquest concepte les activitats de paracaigudisme, ala de pendent, aeromodelisme, vol lliure i altres d'anàlogues, la pràctica de les quals està sotmesa a les disposicions específiques que estableix el ministeri encarregat dels transports amb l'objecte de garantir la seguretat de la navegació aèria, amb la col·laboració, si escau, de les agrupacions de clubs, ens de promoció o federacions esportives corresponents.
+
+5\. Les demostracions aèries, festivals aeris, i en general, les activitats de vol obertes al públic amb caràcter d'exhibició, d'espectacle o de promoció, han d'organitzar-se a través d'entitats reconegudes o autoritzades amb aquest efecte, i no poden tenir lloc si no és en les condicions prescrites reglamentàriament.
+
+#### Article 86
+
+Tan aviat li sigui aplicable, el tràfic aeri privat està subjecte a les previsions d'aquesta Llei i de les disposicions que reglamentàriament la desenvolupin. En l'esmentat desenvolupament reglamentari es tindran en compte les característiques especials d'aquest tràfic, de manera que les condicions i els procediments per al seu exercici responguin als criteris de flexibilitat i màxima simplificació, sense menysteniment de la seguretat.
+
+Per a l'exercici del tràfic aeri privat, poden utilitzar-se terrenys diferents dels aeròdroms oberts al tràfic aeri, de conformitat amb les disposicions reglamentàries que s'estableixin en aquesta matèria.
+
+## Títol VII. Del contracte de transport de viatgers i mercaderies
+
+### Capítol I. Del contracte de transport
+
+#### Article 87
+
+El contracte de transport per via aèria es reputa mercantil i té per objecte el transport de viatgers o mercaderies.
+
+#### Article 88
+
+El termini per iniciar accions derivades del contracte de transport per via aèria prescriu al cap de sis mesos a comptar de la data en què s'hagi produït o constatat el dany o el perjudici.
+
+#### Article 89
+
+El transport combinat entre diverses companyies aèries i, si escau, amb altres mitjans de transport, els constitueix en responsables solidaris, de forma que l'expedidor o destinatari pot presentar la seva reclamació davant qualsevol que hagi participat en el transport.
+
+### Capítol II. Del contracte de transport de viatgers
+
+#### Article 90
+
+En el contracte de transport de viatgers el transportista lliura, inexcusablement, el bitllet de passatge, que ha de contenir la informació següent:
+
+Lloc i data de l'emissió
+
+Nom i adreça del transportista
+
+Lloc de sortida i de destinació
+
+Nom del passatger
+
+Classe i preu del transport
+
+Data i hora de viatge
+
+Indicació sumària de la via a seguir, així com de les escales previstes Indicació del règim de responsabilitat a què està sotmès el transport No obstant això, poden acceptar-se altres títols de transport amb la informació que s'estableix en els reglaments.
+
+#### Article 91
+
+El bitllet de passatge és un document nominatiu i intransferible, i únicament pot ser utilitzat en el viatge per al qual ha estat estès i en el lloc de l'aeronau que, si escau, determini.
+
+#### Article 92
+
+La suspensió, l'endarreriment del viatge o la denegació de l'embarcament poden donar dret a una indemnització a favor dels passatgers afectats, en les condicions que reglamentàriament s'estableixin. Quan la suspensió o l'endarreriment del viatge sigui degut a causes de força major o a raons meteorològiques que afectin la seguretat del vol, el transportista ha de provar aquestes causes; en aquest cas, queda alliberat de responsabilitat amb la devolució del preu del bitllet.
+
+Un cop iniciat el viatge, si s'interrompia per qualsevol causa aliena a la voluntat del viatger, el transportista ha de sufragar les despeses de manutenció i allotjament durant tot el temps que duri la interrupció. En el supòsit de no poder reprendre el viatge, el transportista està obligat a efectuar el trasllat del viatger i del seu equipatge pel seu compte, utilitzant el mitjà més ràpid possible, fins a deixar-lo en la seva destinació, llevat que el passatger opti pel reembossament del preu total pagat pel bitllet.
+
+#### Article 93
+
+El passatger pot renunciar al seu dret d'efectuar el viatge, i obtenir la devolució del preu del passatge en la mesura i les condicions que es determinin en el contracte de transport que hagin subscrit.
+
+#### Article 94
+
+En anunciar o vendre els seus serveis directament o indirectament, i per qualsevol mitjà, el transportista ha d'assegurar-se que la informació que es facilita al públic conté les característiques i les condicions essencials del transport, com el nom del transportista de fet, documents d'identificació necessaris per realitzar el viatge, règim d'indemnitzacions i assegurances a què té dret i la forma de procedir per tal de sol·licitar-les.
+
+En l'adquisició de bitllets mitjançant sistemes informàtics, aquests sistemes han d'estar capacitats per facilitar l'esmentada informació.
+
+#### Article 95
+
+En els casos en què es denegui l'embarcament en un vol amb excés de reserva a passatgers que tinguin un bitllet vàlid i una reserva confirmada, el passatger té dret a una compensació, en la forma que reglamentàriament es determini.
+
+Així mateix, en cas de denegació d'embarcament en un vol comercialitzat com a part d'un viatge combinat, s'actua de conformitat amb el que es disposa en el paràgraf anterior.
+
+#### Article 96
+
+El transportista, i en nom seu el comandant de l'aeronau, queda facultat per excloure del transport els passatgers que, per malaltia, intoxicació etílica o de qualsevol altra droga, conducta antisocial o d'altres circumstàncies, puguin alterar l'ordre dins l'aeronau o posar en perill la seguretat del vol. Els passatgers exclosos tenen dret que se'ls reembossi el preu pagat pel bitllet.
+
+#### Article 97
+
+Per tal de facilitar el transport de passatgers malalts o afectats d'incapacitat, els reglaments determinen les condicions en les quals s'ha de realitzar l'esmentat transport.
+
+#### Article 98
+
+El transportista està obligat a transportar, juntament amb els viatgers, i inclòs dins del preu del bitllet, l'equipatge, inclòs el de mà, amb les limitacions de pes i volum que es fixin. L'excés és objecte d'estipulació especial. El transportista és responsable de la pèrdua, furt o deteriorament de l'equipatge que li hagi estat lliurat per custodiar, llevat que provi que la pèrdua, furt o deteriorament ha provingut d'un cas de força major.
+
+Quan l'equipatge admès no s'anoti en el bitllet, s'ha d'enregistrar un taló annex que ha de contenir les indicacions que reglamentàriament es fixin.
+
+El lliurament de l'equipatge es fa contra la presentació del bitllet o taló, qualsevol que sigui la persona que l'exhibeixi. La manca de presentació dóna dret al transportista a cerciorar-se de la personalitat de qui reclami l'equipatge, i en pot diferir el lliurament fins que la justificació resulti suficient.
+
+#### Article 99
+
+La rebuda de l'equipatge sense protesta del seu receptor constitueix, excepte prova en contra, presumpció que ha estat lliurat en bon estat. Els reglaments determinen els terminis i la forma en què els transportistes poden alienar en subhasta pública l'equipatge abandonat pels passatgers.
+
+### Capítol III. Del contracte de transport de mercaderies
+
+#### Article 100
+
+El contracte de transport de mercaderies es perfecciona amb el seu lliurament al transportista. Aquest estableix la carta de port aeri, en la qual han de constar, almenys, les dades que reglamentàriament es fixin.
+
+#### Article 101
+
+La carta de port aeri constitueix plena prova de l'existència del contracte segons els termes continguts en tal contracte i, en el moment que qualsevol persona el presenti, el transportista ha de lliurar la mercaderia després de complir els requisits duaners, sanitaris i altres d'administratius exigibles.
+
+En cas de pèrdua o furt de l'esmentada carta, el transportista queda obligat a facilitar-ne una còpia literal al remitent o consignatari, després d'acreditar-ne la personalitat. Si ofereix les garanties suficients amb aquest efecte, el transportista també pot lliurar la mercaderia al consignatari.
+
+El remitent és responsable de l'exactitud de les indicacions i declaracions relatives a la mercaderia inscrites a la carta de port aeri.
+
+#### Article 102
+
+Si per motius de força major el transport no pot continuar l'itinerari previst en el taló, el transportista lliura pel seu compte el paquet a una altra empresa de transports per tal que procedeixi a conduir-lo al més ràpidament possible d'acord amb les instruccions donades o que es demanin a l'expedidor o destinatari.
+
+#### Article 103
+
+El transportista no en respon si el transport no s'efectua en la data i l'hora previstes quan la suspensió o el retard obeeixin a raons de força major o meteorològiques que afectin la seguretat del vol. Tampoc està obligat a indemnitzar respecte de la càrrega comercial que hagi de reduir per alguna d'aquestes circumstàncies.
+
+#### Article 104
+
+El transportista està obligat a lliurar la cosa transportada immediatament després de l'arribada a la seva destinació, després de complir, si escau, els requisits que exigeixin els reglaments. Es considera perduda la mercaderia quan transcorrin els terminis que reglamentàriament es fixin sense efectuar-ne el lliurament.
+
+#### Article 105
+
+El transportista té l'obligació de custodiar els objectes que li hagin estat lliurats per al transport i respondre'n de la pèrdua, avaria o retard en el lliurament a causa del viatge, quan no siguin conseqüència exclusiva de la naturalesa o vici propis dels propis objectes en qüestió. El transportista respon també de la pèrdua, necessària, en cas d'abocament, per tal d'assolir la seguretat de la navegació.
+
+#### Article 106
+
+Quan no es pugui dur a terme el lliurament dels objectes transportats perquè no es trobi el destinatari, o perquè aquest es negui a rebre les mercaderies sense consignar protesta pel deteriorament que puguin tenir, o perquè el destinatari no vulgui pagar les despeses de reembossament, transport o d'altres que li corresponguin, el transportista ho ha de comunicar a l'expedidor. En aquest cas, el transportista és dipositari remunerat de les mercaderies durant el període d'un mes, transcorregut el qual, si l'expedidor no n'ha disposat, les pot alienar en subhasta pública amb les formalitats que el reglament assenyali, i rescabalar-se de les despeses, la resta queda a disposició d'aquells que hi resultin amb dret.
+
+Si l'objecte del transport és de naturalesa perible, el termini fixat en el paràgraf anterior pot ser reduït en benefici del valor de venda de la cosa transportada.
+
+El dipòsit de les coses a què fan al·lusió els paràgrafs anteriors pot ser efectuat pel transportista, sota la seva responsabilitat, fora del seu domicili.
+
+#### Article 107
+
+La recepció de les coses transportades sense protesta per part del destinatari constitueix presumpció que les mercaderies han estat lliurades en bon estat, d'acord amb el contracte de transport. En cas de protesta del destinatari, s'ha de fer constar en la carta de port aeri o document que la substitueixi. En el termini de vuit dies s'ha de formalitzar la reclamació corresponent davant del transportista. Si aquesta reclamació no es verifica en l'esmentat termini, la seva responsabilitat s'entén extingida.
+
+#### Article 108
+
+L'expedidor té dret a disposar de les coses objecte del transport i pot, després d'haver subscrit el contracte, d'acord amb el transportista, retirar-les de l'aeroport de sortida o de destinació, detenir-les en el curs del viatge a un aeroport, canviar el lloc de destinació o la persona destinatària o demanar-ne el retorn a l'aeroport de sortida. Les despeses que ocasioni l'exercici d'aquest dret són per compte de l'expedidor.
+
+#### Article 109
+
+El transportista pot excloure del contracte de transport aquelles mercaderies que pel seu mal estat, condicionament o per altres circumstàncies greus que els reglaments assenyalin, poden constituir un perill evident per a la seguretat de la navegació.
+
+#### Article 110
+
+Queda terminantment prohibit el transport de substàncies perilloses que puguin constituir un risc important per a la seguretat, la salut o la propietat, així com el transport d'explosius, armes i municions.
+
+Excepcionalment, i amb l'autorització expressa i especial del Govern, es poden transportar aquests tipus de materials, tot complint sempre els requisits que estableix l'Annex 18 del Conveni de Chicago, relatiu al transport sense risc de mercaderies perilloses per via aèria.
+
+## Títol VIII. De la responsabilitat dels operadors
+
+#### Article 111
+
+El transportista o explotador de l'aeronau i els seus empleats són responsables, quan actuen en l'exercici de les seves funcions, dels danys causats als viatgers o a les coses de bord de l'aeronau per acció de la mateixa aeronau, per les persones o pels objectes que se'n desprenguin, o com a conseqüència de les operacions d'embarcament o desembarcament dins les instal·lacions aeroportuàries.
+
+#### Article 112
+
+Els transportistes o explotadors de les aeronaus han de reparar els danys en la superfície que pateixin les persones o les coses només si es prova que els danys provenen d'una aeronau en vol o d'una persona o d'una cosa caiguda de l'esmentada aeronau, segons el que es regula en els convenis internacionals que siguin d'aplicació a Andorra.
+
+#### Article 113
+
+Els transportistes o explotadors de les aeronaus han de reparar els danys causats als passatgers, les mercaderies o els equipatges, d'acord amb el que regulen els convenis internacionals que siguin d'aplicació a Andorra, fins i tot si el transport no és internacional d'acord amb la definició dels convenis esmentats, amb l'excepció establerta a l'article següent.
+
+#### Article 114
+
+Si la persona que utilitza l'aeronau ho fa sense el coneixement del transportista, explotador o propietari, aquella persona en respon il·limitadament, i el propietari, transportista o explotador, subsidiàriament, llevat que demostrin que els ha estat impossible impedir-ne l'ús il·lícit.
+
+#### Article 115
+
+La competència per a l'exercici de les accions de responsabilitat previstes en aquest títol s'estableix en cada cas segons les normes i convenis internacionals citats anteriorment.
+
+#### Article 116
+
+L'acció de responsabilitat contra els transportistes o explotadors d'aeronaus per tal d'exigir el pagament de les indemnitzacions a què fa referència aquest títol prescriu, d'acord amb el que estableixen els convenis internacionals anteriorment esmentats, i en el que no preveuen aquells convenis, en el termini de dos anys a comptar des de la data en què s'ha produït el dany.
+
+#### Article 117
+
+En cas de col·lisió de dues o més aeronaus, els empresaris són solidàriament responsables dels danys causats a tercers. Si la col·lisió es produeix per culpa de la tripulació d'una de les aeronaus, l'explotador de tal aeronau es fa càrrec dels danys. Si la culpa és comuna, o indeterminada, els explotadors responen conjuntament.
+
+## Títol IX. De les assegurances aèries
+
+#### Article 118
+
+Les assegurances aèries tenen per objecte garantir la cobertura dels riscs propis de la navegació aèria que afectin l'aeronau, les mercaderies, els passatgers, els nòlits i els equipatges, així com les responsabilitats derivades dels danys causats a tercers, per les aeronaus en terra, aigua o en vol.
+
+Així mateix, en els aeròdroms s'han d'establir les assegurances de responsabilitat civil que garanteixin la cobertura dels riscos que puguin generar, en els termes que es determinin reglamentàriament.
+
+#### Article 119
+
+És obligatòria l'assegurança de passatgers, la d'equipatge, la de càrrega, la de danys causats a tercers, i la d'aeronaus objecte d'hipoteca.
+
+#### Article 120
+
+La indemnització per l'assegurança de l'aeronau en cas de sinistre o de la seva pèrdua ha de ser consignada judicialment, per al seu lliurament a qui correspongui, en el cas que apareguin terceres persones amb possible dret a l'expressada indemnització o s'hagi promogut reclamació judicial de preferència sobre l'aeronau.
+
+Per tal de facilitar al creditor hipotecari l'exercici dels seus drets, l'autoritat judicial davant qui es consigni la indemnització li notifica, si és conegut, l'esmentat sinistre.
+
+#### Article 121
+
+No s'autoritza la circulació per l'espai aeri d'Andorra de cap aeronau estrangera que no justifiqui tenir assegurats els danys que pugui produir a les persones o coses transportades i a tercers en la superfície.
+
+## Títol X. Dels gravàmens
+
+#### Article 122
+
+Les aeronaus poden ser objecte d'hipoteca, usdefruit, arrendament i altres drets que les lleis autoritzin.
+
+Per a la seva plena eficàcia, és necessari fer-ne assentament en el Registre de Matrícula. Les transferències de propietat de l'aeronau per a la seva plena eficàcia també s'han d'efectuar mitjançant assentament en el Registre de Matrícula.
+
+#### Article 123
+
+Només poden ser objecte d'hipoteca les aeronaus matriculades a Andorra.
+
+L'embargament d'aeronaus que estiguin prestant servei com a conseqüència d'obligacions de servei públic no produeix la interrupció de tal servei, llevat que s'adoptin les mesures específiques que garanteixin la continuació en la seva prestació. Les autoritats que ho decretin han de posar el fet en coneixement del ministeri encarregat dels transports.
+
+El no pagament de taxes aeroportuàries o de navegació aèria pot donar lloc a la retenció de l'aeronau causant del dèbit, mentre no s'aboni el deute pendent.
+
+## Títol XI. Dels accidents, de l'assistència i el salvament i de les troballes
+
+#### Article 124
+
+L'assistència i el salvament de les aeronaus accidentades o en perill són d'interès públic. S'efectuen sota la direcció del ministeri encarregat dels transports, a qui li correspon també la investigació i la determinació de les responsabilitats en cas d'accident.
+
+#### Article 125
+
+Les indemnitzacions degudes a tasques de salvament de persones no poden excedir, per cada una, la quarta part de les quantitats fixades en el cas de mort, en la normativa donada per Andorra o pels convenis internacionals que són d'aplicació a Andorra.
+
+En el cas d'assistència o salvament d'aeronaus o mercaderies, la indemnització no pot excedir el seu valor o el capital de la seva assegurança.
+
+#### Article 126
+
+La troballa d'una aeronau abandonada o de les seves restes s'ha de notificar al propietari, en cas de ser conegut, i li ha de ser retornada, després de l'abonament de les despeses corresponents, a més a més d'un premi per la tercera part del seu valor a qui la descobreixi.
+
+L'aeronau o les seves restes es consideren abandonades quan estan sense tripulació i no és possible determinar-se la legítima pertinença mitjançant els documents de bord, marques de matrícula que posseeixi o altres mitjans d'identificació, o bé quan el propietari manifesti de manera expressa el seu desig d'abandonar-la.
+
+#### Article 127
+
+Per tal de facilitar al propietari l'exercici del seu dret, se li notifica la troballa, si és conegut. Transcorregut el termini d'un any des de la data de la troballa sense que hi hagi reclamació del propietari, s'estima la presumpció legal de l'abandonament.
+
+#### Article 128
+
+Si l'aeronau o les seves restes no poden conservar-se o han transcorregut els terminis a què es refereix l'article anterior, són venuts en subhasta pública i el seu import queda en benefici de l'Estat, deduïdes les despeses i el premi, si n'hi ha.
+
+#### Article 129
+
+Disposicions especials regularan les obligacions i les funcions sobre aquesta matèria i, en particular, el procediment a què s'hagi de sotmetre la investigació i les col·laboracions de caràcter internacional que s'hagin d'admetre.
+
+#### Article 130
+
+Les accions derivades de l'assistència i el salvament prescriuen al cap de dos anys d'haver finalitzat les operacions.
+
+## Títol XII. De la inspecció aeronàutica i de la investigació d'accidents i incidents
+
+en aviació civil
+
+### Capítol I. De la inspecció aeronàutica
+
+#### Article 131
+
+El ministeri encarregat dels transports és l'encarregat de la creació i el control d'una autoritat d'inspecció aeronàutica.
+
+La inspecció aeronàutica comprèn la supervisió i el control de l'acompliment de la normativa vigent en matèria de personal, aeronaus, instal·lacions, formació, explotadors, activitats i serveis aeronàutics, tant en operacions de vol com de terra.
+
+Aquesta activitat té per objecte, a més a més de la comprovació del compliment adequat de la normativa vigent, el de les condicions expressades en les diferents autoritzacions que es concedeixen d'acord amb aquesta Llei i els reglaments que la desenvolupen.
+
+#### Article 132
+
+Els subjectes sotmesos a aquesta inspecció estan obligats a facilitar l'accés a les instal·lacions, als materials i a la documentació necessària per a la correcta realització de la inspecció.
+
+#### Article 133
+
+Les aeronaus d'altres Estats estan subjectes a inspecció, a la verificació dels seus certificats i d'altra documentació requerida d'acord amb els convenis internacionals, així com a la verificació del compliment d'allò establert en aquesta Llei i els seus desenvolupaments reglamentaris sempre que els sigui d'aplicació.
+
+#### Article 134
+
+La tasca inspectora estarà dirigida i impulsada per l'autoritat aeronàutica, i executada directament o indirectament, en la forma que reglamentàriament es determini.
+
+Es desenvolupen reglamentàriament, en allò que correspongui, les disposicions que regulen aquesta activitat i la del personal que l'ha d'exercir.
+
+#### Article 135
+
+Els titulars o responsables dels serveis, infraestructures, aeronaus, activitats i materials aeronàutics a què es refereix aquesta Llei, estan obligats a facilitar als membres de la inspecció aeronàutica, en l'exercici de les seves funcions, l'accés a les seves instal·lacions i el control dels elements i dels documents que estiguin obligats a posseir o conservar.
+
+Les actes o informes dels inspectors integrants de la inspecció aeronàutica donen fe, exceptuant prova en contra, dels fets que s'hi reflecteixen, sense perjudici de la seva obligació d'aportar tots els elements de prova que siguin possibles en relació amb el seu contingut.
+
+#### Article 136
+
+Dins l'espai aeri andorrà, qualsevol aeronau resta obligada a aterrar a l'aeroport, aeròdrom o heliport que li sigui indicat per l'autoritat aeronàutica que vigili la circulació aèria, així com a variar la ruta a requeriment de l'esmentada autoritat.
+
+### Capítol II. De la investigació d'accidents i incidents en aviació civil
+
+#### Article 137
+
+A l'efecte d'aquesta Llei, es considera accident d'aviació civil l'esdeveniment que motivi la mort o lesions greus de persones, danys a l'aeronau o la seva desaparició, sempre que estigui relacionat amb la utilització de l'aeronau i es donin les circumstàncies que reglamentàriament s'especifiquin.
+
+#### Article 138
+
+Els esdeveniments que afecten o poden afectar la seguretat de les operacions aèries, relacionades amb la utilització d'una aeronau, que no siguin classificats de conformitat amb el que disposa l'article anterior com a accidents, i es donin les circumstàncies que reglamentàriament s'especifiquin, reben el nom d'incidents greus i incidents.
+
+#### Article 139
+
+La investigació tècnica d'accidents i incidents d'aviació civil, ocorreguts en territori andorrà, correspon a una entitat o comissió funcionalment independent de l'autoritat aeronàutica, i es realitza tenint en compte allò que disposen els tractats i convenis internacionals. El procediment utilitzat en la investigació té sempre per objecte la prevenció d'accidents i comprèn la recopilació de dades i anàlisis d'informació, l'obtenció de conclusions, inclosa la determinació de les possibles causes i, quan sigui procedent, la formulació de recomanacions sobre seguretat, que no suposa en cap cas presumpció de culpa o responsabilitat en relació amb un accident o incident.
+
+#### Article 140
+
+L'entitat o comissió d'investigació d'accidents pot demanar la col·laboració de tots els poders públics així com dels organismes d'investigació d'altres Estats, realitzar investigacions en l'exterior quan hi hagi interessos nacionals involucrats o quan hagi estat requerit per autoritats aeronàutiques de tercers països.
+
+#### Article 141
+
+Les persones designades pel ministeri encarregat dels transports per a la investigació tècnica d'un accident o incident d'aviació civil, gaudeixen de plena independència i autoritat per tal de portar a terme la missió encomanada, i tenen accés sense restriccions a les restes de les aeronaus i un control absolut sobre aquestes, a fi de garantir-ne, en les millors condicions possibles, l'anàlisi tècnica, la recollida de restes o components, l'accés immediat al contingut dels registradors de vol, o qualsevol altre registre; d'accedir als resultats de qualsevol examen o presa de mostres dels cossos de les víctimes; de prendre declaració a testimonis; d'accedir lliurament a qualsevol informació pertinent relacionada amb l'esdeveniment i que estigui en possessió de qualsevol persona física o jurídica, així com de practicar qualsevol altre tipus de diligències que es considerin necessàries.
+
+## Títol XIII. De les infraccions administratives aeronàutiques i de les sancions
+
+### Capítol I. De les infraccions administratives aeronàutiques
+
+#### Article 142
+
+Amb caràcter general, és objecte de sanció l'incompliment de qualsevol de les disposicions establertes en aquesta Llei per la persona, física o jurídica, que estigui obligada a complir-les.
+
+#### Article 143
+
+Constitueixen infraccions administratives en matèria aeronàutica civil les accions o omissions tipificades, classificades i sancionades en la present Llei.
+
+Les infraccions administratives en matèria aeronàutica civil es classifiquen en lleus, greus i molt greus, de conformitat amb el que s'estableix en els articles següents.
+
+#### Article 144
+
+Són infraccions lleus:
+
+1) Tripular aeronaus, desenvolupar funcions pròpies del personal aeronàutic i realitzar el transport de persones o coses sense portar o no presentar, en el moment en què les autoritats competents ho exigeixin, els documents de caràcter obligatori exigits per la present Llei i les seves disposicions reglamentàries de desenvolupament i aplicació.
+
+2) Incomplir el deure de conservació i custòdia de llibres, quaderns, certificats i de qualsevol altra documentació relacionada amb activitats aeronàutiques, quan ho exigeixi la present Llei o les seves disposicions reglamentàries de desenvolupament i aplicació.
+
+3) Incomplir el deure de facilitar la informació o la documentació que hagi de subministrar-se a l'autoritat aeronàutica d'acord amb la legislació aèria, així com facilitar-la de manera incorrecta, inexacta, insuficient o defectuosa.
+
+4) Permetre, o no comunicar a l'autoritat aeronàutica, l'aterratge o l'enlairament d'aeronaus en superfícies que no tinguin la consideració d'aeròdroms oficialment autoritzats.
+
+5) Realitzar vols sense complir els requisits i la documentació necessària quan siguin preceptius d'acord amb el que disposa la present Llei o les seves disposicions reglamentàries de desenvolupament i aplicació.
+
+6) Realitzar serveis de transport aeri o establir tarifes incomplint els tràmits administratius corresponents.
+
+7) Incomplir el deure de transport conjunt, en la mateixa aeronau, del passatger i del seu equipatge facturat o incomplir l'obligació d'expedir taló o document acreditatiu de la facturació de l'equipatge esmentat.
+
+8) Transportar mercaderies perilloses per via aèria, així com manipular-les en els aeroports incomplint la normativa vigent per a aquest tipus de transport, sempre que la infracció no suposi perill per a l'aeronau ni per a les persones i coses.
+
+9) Infringir les obligacions en matèria d'informació als usuaris sense que se'ls produeixi cap dany ni perjudici.
+
+10) Negar el lliure accés de l'usuari a la utilització dels serveis aeris degudament publicats i de coneixement general exceptuant el que sigui per causes previstes en la normativa vigent.
+
+11) Incomplir allò establert en la normativa vigent relativa al sistema de compensació per denegació d'embarcament en el transport aeri.
+
+12) Utilitzar sense autorització terrenys, edificis i, en general, equips, instal·lacions i serveis del recinte aeroportuari, així com realitzar activitats, operacions i maniobres fora dels llocs específicament habilitats a l'efecte o sense respectar les mesures i les condicions de seguretat establertes per l'autoritat aeronàutica, sempre que no constitueixi una altra infracció més greu.
+
+13) Incomplir les mesures i les limitacions establertes per aquesta Llei i per les seves disposicions de desenvolupament reglamentari sobre limitacions a la propietat, el seu ús i drets per raons aeronàutiques (servituds aeronàutiques).
+
+14) Utilitzar en les aeronaus aparells que puguin afectar els sistemes de navegació de l'aeronau, o permetre'n l'ús sense autorització, quan aquesta sigui preceptiva.
+
+15) Incomplir els terminis d'inscripció o anotació en el Registre d'Aeronaus, relatius als canvis de titularitat per transmissió de la propietat o possessió, o respecte d'aquells actes i contractes d'obligada inscripció o anotació que afectin les aeronaus.
+
+16) Incomplir les ordres donades per l'autoritat aeroportuària en l'àmbit de les seves competències establertes reglamentàriament.
+
+#### Article 145
+
+Són infraccions greus:
+
+1) Incomplir les condicions o obligacions que es determinin com a essencials en els permisos, autoritzacions, llicències o concessions que de conformitat amb la present Llei i les seves disposicions reglamentàries de desenvolupament i aplicació siguin necessàries en relació amb les activitats d'aviació civil.
+
+2) Efectuar vols per part d'aeronaus sense pilot en zones que puguin suposar risc per a la seguretat aèria, tripular aeronaus sense motor o realitzar vols esportius sense les autoritzacions o permisos preceptius.
+
+3) No atendre o incomplir el requeriment de l'autoritat aeronàutica per a la realització de les proves tècniques necessàries per comprovar la seguretat de l'aeronau o el funcionament normal de les instal·lacions de navegació aèria i aeroportuàries.
+
+4) Realitzar activitats sotmeses per la present Llei a llicències, habilitacions i autoritzacions sense haver-les obtingut o tenint-les caducades.
+
+5) Realitzar vols sense complir les prescripcions relatives als serveis de duana, sanitat, policia i seguretat, sempre que afectin l'activitat aeronàutica normal.
+
+6) Impartir formació aeronàutica com a centre reconegut sense l'autorització pertinent, realitzar proves de vol en llocs no autoritzats o amb persones no qualificades oficialment, així com incomplir els programes d'ensenyament aeronàutic i les hores de docència necessàries que estableixi l'autoritat competent per a l'obtenció i el manteniment en vigor de llicències i habilitacions.
+
+7) Efectuar anotacions incompletes o inexactes en els llibres, quaderns, certificats o qualsevol altra documentació relacionada amb activitats aeronàutiques, contravenint allò exigit per la present Llei o per les seves disposicions reglamentàries.
+
+8) Incomplir les autoritzacions o instruccions dels serveis de trànsit aeri per a la utilització de l'espai aeri, així com volar en zones prohibides, i incomplir allò establert per a zones restringides sense causa justificada.
+
+9) Aterrar o enlairar en superfícies que no tinguin la consideració d'aeròdroms autoritzats, exceptuant autorització expressa de l'autoritat aeronàutica.
+
+10) Incomplir la normativa vigent sobre emissions acústiques, gasoses o abocaments aeroportuaris de qualsevol classe realitzats per les aeronaus o per equips.
+
+11) Realitzar vols per part d'aeronaus estrangeres sobre territori de sobirania nacional amb infracció del que disposen els acords internacionals subscrits per Andorra.
+
+12) Realitzar vols aïllats o sèries de vols, a i des d'Andorra, sense haver obtingut la corresponent autorització de l'autoritat aeronàutica.
+
+13) Iniciar el vol amb excés de càrrega o amb una distribució de tal càrrega que no s'ajusti a les limitacions establertes en la documentació de l'aeronau.
+
+14) Incomplir qualsevol requisit o disposició relacionada amb el manteniment del material aeronàutic, o no posar la diligència deguda en el manteniment de les aeronaus, els equips o les instal·lacions, la qual cosa pugui limitar-ne la seguretat i l'eficàcia.
+
+15) Realitzar vols sense assegurances obligatòries.
+
+16) No donar coneixement immediat a l'autoritat aeronàutica, tant per part del comandant de l'aeronau com del seu explotador, dels accidents i incidents patits per l'aeronau.
+
+17) No col·laborar en les operacions de recerca i salvament quan aquesta col·laboració hagi estat requerida per les autoritats competents.
+
+18) Utilitzar aeronaus sense les marques de nacionalitat, matrícula i plaques d'identificació, o que les porti alterades o manipulades.
+
+19) Admetre l'embarcament d'estrangers amb destinació al territori andorrà sense que el portador hagi pres les precaucions degudes, amb l'objecte que portin els documents mínims de control d'entrada exigibles.
+
+20) Expedir bitllets amb vulneració de les disposicions normatives que regulen el contracte de transport o altres d'obligada observació.
+
+21) Incomplir el que hi ha disposat sobre tarifes, itineraris, freqüències de vol i horaris aprovats, exceptuant casos de força major.
+
+22) Transportar mercaderies perilloses per via aèria, així com manipular-les en els aeroports, sense complir les condicions reglamentàriament establertes per a aquest tipus de transport, quan es pugui derivar de la infracció perill per a l'aeronau o per a les persones.
+
+23) Embarcar o desembarcar, sense autorització o sense haver efectuat els tràmits duaners, si escau, per a la importació i exportació de mercaderies, passatge, càrrega o correu.
+
+24) Realitzar transport aeri remunerat per part d'aeronaus dedicades al transport aeri particular o per part de les utilitzades en l'aviació esportiva i en treballs aeris, excepte si han obtingut l'autorització preceptiva.
+
+25) Infringir les obligacions en matèria d'informació als usuaris o donar informació no veraç o esbiaixada, que causi danys i perjudicis als passatgers o usuaris.
+
+26) Utilitzar aparells electrònics no autoritzats que interfereixin els equips de bord.
+
+27) Incomplir les mesures i les limitacions establertes per aquesta Llei i les seves disposicions de desenvolupament reglamentari sobre limitacions a la propietat, el seu ús i drets per raons aeronàutiques (servituds aeronàutiques), tot originant risc per a la navegació aèria.
+
+28) Posar en servei instal·lacions de navegació aèria i aeroportuàries sense complir els requisits establerts legalment o reglamentàriament.
+
+29) No conservar les instal·lacions de navegació aèria i aeroportuàries en l'estat operatiu adequat per a la realització de les seves funcions.
+
+30) Permetre o realitzar l'operació d'aeronaus en aeròdroms, incomplint les condicions reglamentàriament establertes.
+
+31) Incomplir les condicions o requisits pel que fa a personal, capacitat econòmica i instal·lacions que determini la present Llei i les seves disposicions reglamentàries de desenvolupament i aplicació, per a les empreses que es dediquin al disseny industrial, la fabricació o el manteniment d'aeronaus i de productes aeronàutics.
+
+32) Incomplir les normes vigents sobre limitacions de temps de vol i períodes màxims d'activitat aèria i períodes mínims de descans per a les tripulacions.
+
+33) Incomplir la normativa vigent sobre limitacions d'activitat i períodes de descans per part dels controladors de trànsit aeri.
+
+34) Realitzar o permetre la realització de vols de prova, de demostració o d'acrobàcia sense l'autorització preceptiva.
+
+35) Incomplir les ordres rebudes dels òrgans competents en matèria de seguretat, control i vigilància de la navegació aèria.
+
+36) Incomplir els procediments operacionals continguts en els manuals d'operacions i de vol de l'aeronau i en altres documents relacionats amb el certificat d'aeronavegabilitat.
+
+37) Incomplir els procediments operacionals relatius a emissions acústiques o de qualsevol altre contaminant.
+
+38) Realitzar operacions especials sense les autoritzacions o els permisos preceptius, o sense complir els requisits legals o reglamentàriament establerts.
+
+39) Prestar o permetre la realització de serveis aeronàutics relacionats amb la seguretat aèria per a la prestació de la qual es requereixi llicència o autorització, quan el subjecte es trobi sota la influència de begudes alcohòliques, substàncies psicotròpiques o estupefaents.
+
+40) Permetre la intervenció, exceptuant casos de força major, en operacions de vol, de persones alienes a les operacions.
+
+41) Permetre l'ús d'aparells que puguin afectar els sistemes de navegació o consentir-ne l'ús sense autorització, quan sigui preceptiva, en les aeronaus.
+
+42) Incomplir les obligacions relatives a les aeronaus, tripulació, passatgers i càrrega, així com les relacionades amb les operacions en terra que afectin la correcta realització del tràfic aeri i els seus compliments formalistes, origen de retards injustificats, que alterin l'esmentat tràfic o les condicions i els efectes comercials de l'operació.
+
+43) Reincidir en una infracció tipificada com a lleu si en els dotze mesos anteriors l'autor de la infracció n'ha comès una altra que ha estat objecte de sanció mitjançant resolució definitiva.
+
+#### Article 146
+
+Són infraccions molt greus:
+
+1) Realitzar accions o omissions tipificades en els articles precedents quan posin en greu perill la seguretat de les persones o produeixin danys al material o les instal·lacions aeronàutiques per un valor superior als 150.000 euros i les que posin en greu perill la seguretat de l'aeronau o de la navegació aèria.
+
+2) Obstruir o impedir les funcions de reconeixement, inspecció, seguretat o vigilància previstes en la normativa aeronàutica vigent.
+
+3) Comercialitzar sense aprovació prèvia del disseny, o realitzar activitats de disseny o fabricació industrial de material aeronàutic complexa, així com desenvolupar activitats de manteniment, reparació o modificació sense haver obtingut l'autorització de l'autoritat aeronàutica.
+
+4) Utilitzar material aeronàutic, un cop finalitzat el procés de fabricació, sense l'aprovació prèvia de l'autoritat aeronàutica.
+
+5) Efectuar o introduir modificacions o alteracions en el material aeronàutic que contravinguin o siguin alienes al disseny aprovat, o en les tasques de manteniment, sense autorització de l'autoritat aeronàutica.
+
+6) Ordenar o emprendre el vol sense que l'aeronau reuneixi les degudes condicions d'aeronavegabilitat, fent perillar la seva seguretat.
+
+7) Prestar o permetre la realització de serveis aeronàutics relacionats amb la seguretat per a la prestació de la qual es requereixi llicència o autorització, quan el subjecte es trobi sota la influència de begudes alcohòliques, substàncies psicotròpiques o estupefaents, posant en perill la seguretat aèria.
+
+8) Acomplir un lloc de treball de control de trànsit aeri de forma irregular o negligent que ocasioni riscos per al trànsit aeri o l'operació de les aeronaus.
+
+9) Abandonar el lloc de control, sense autorització, per part de la persona a la qual li ha estat assignat.
+
+10) Reincidir en una infracció tipificada com a greu si en els dotze mesos anteriors l'autor de la infracció n'ha comès una altra que ha estat objecte de sanció mitjançant resolució definitiva.
+
+### Capítol II. De les sancions
+
+#### Article 147
+
+Les infraccions establertes en el capítol anterior són sancionades d'acord amb la seva classificació.
+
+1) Les infraccions lleus se sancionen amb advertiment o multa de fins a 6.000 euros; les greus, amb multa de fins a 150.000 euros, i les molt greus, amb multa de fins a 600.000 euros.
+
+2) En el cas d'infraccions greus i molt greus, el ministeri encarregat dels transports pot acordar la suspensió de la llicència de les persones implicades per un període de temps comprès entre un mes i un any, per a les greus, i des d'un any fins a la inhabilitació definitiva, per a les molt greus.
+
+3) Igualment, en els casos d'infraccions greus i molt greus de les quals resultin responsables persones que realitzin activitats industrials o mercantils relacionades amb les aeronaus o els aeròdroms, i n'alterin el funcionament i la utilització normals, el ministeri encarregat dels transports pot acordar la suspensió temporal fins a un any, per a les infraccions greus, i per un temps superior a un any, o fins i tot la revocació, per a les molt greus, de les autoritzacions i les concessions de les quals fossin titulars els infractors.
+
+4) Els límits màxims en la quantia de les multes, establerts per aquesta Llei, poden ser actualitzats pel Govern en funció de les modificacions que experimenti l'índex anual de preus al consum.
+
+#### Article 148
+
+En la tramitació dels expedients i en l'aplicació de les sancions, se segueixen els principis següents:
+
+1) La gradació de les sancions, dins els límits establerts per a cada classe d'infracció, s'efectua tot tenint en compte els perjudicis causats, la valoració del perill que la conducta infractora hagi suposat per a la seguretat de les persones i coses, la intencionalitat de l'infractor i la reiteració en infraccions en matèria aeronàutica que, a l'efecte d'aquesta Llei, no puguin classificar-se com a reincidència.
+
+2) Si una mateixa acció o omissió és constitutiva de dues o més infraccions, es pren en consideració únicament aquella que comporta la sanció més greu.
+
+3) En el cas que durant la instrucció d'un expedient administratiu apareguin indicis que els fets poden haver estat constitutius de delicte o falta penal, es trasllada al Ministeri Fiscal i se suspèn el procediment sancionador mentre l'autoritat judicial no hagi dictat sentència ferma o resolució que posi fi al procés.
+
+4) La sanció penal exclou la imposició de sanció administrativa. Si no s'ha estimat l'existència de delicte o falta, l'Administració continua l'expedient sancionador, tot tenint en compte, si escau, els fets declarats provats en la resolució de l'òrgan judicial competent.
+
+5) Durant la tramitació de l'expedient, o en cas de suspensió del procediment sancionador, poden adoptar-se immediatament les mesures administratives tendents a salvaguardar l'activitat aeronàutica i a restablir la situació alterada per la infracció, i igualment poden iniciar-se els procediments de suspensió dels efectes i de l'anul·lació o resolució dels actes administratius o contractes en els quals suposadament pugui emparar-se l'actuació il·legal.
+
+#### Article 149
+
+A l'efecte d'aquesta Llei, la responsabilitat administrativa correspon:
+
+a) En les infraccions comeses en ocasió de la prestació de serveis o realització d'activitats emparades per concessió o autorització administrativa, a la persona física o jurídica titular de la concessió o autorització.
+
+b) En les infraccions comeses en l'exercici de les seves funcions per part de persones relacionades amb la navegació, el control i la seguretat en vol de les aeronaus, a l'autor material de la infracció, el qual respon solidàriament amb l'empresa titular de l'autorització en què presti serveis.
+
+c) En les infraccions comeses per propietaris, explotadors, empreses, escoles de formació de personal aeronàutic, agents, remitents, consignataris, passatgers, usuaris, tripulants o, en general, per tercers que, sense estar compresos en els apartats anteriors, realitzin activitats que estiguin afectades per la legislació aeronàutica, a la persona física o jurídica que sigui suposadament autora de la infracció i a la qual les normes corresponents atribueixin específicament la responsabilitat.
+
+Les persones que siguin responsables administratives, de conformitat amb el que disposa l'apartat anterior, poden exercir les accions que resultin procedents contra aquelles a les quals siguin materialment imputables les infraccions.
+
+#### Article 150
+
+La competència administrativa per a la resolució de procediments sancionadors per infraccions del que disposa aquesta Llei correspon al ministeri encarregat dels transports.
+
+#### Article 151
+
+El que disposa aquest títol s'entén sense perjudici de les possibles responsabilitats penals, laborals o fiscals aplicables.
+
+#### Article 152
+
+Les mesures cautelars relacionades amb la immobilització i el dipòsit de les aeronaus únicament es poden adoptar en els casos en què es pugui veure afectada la seguretat aèria.
+
+## Disposicions addicionals
+
+Primera
+
+El transport de correu, de procedència nacional o estrangera, es regula per la legislació específica del ram.
+
+Segona
+
+Per al que no està establert en aquesta Llei, és d'aplicació el Conveni sobre Aviació Civil Internacional de Chicago, de 7 de setembre de 1944, així com els seus annexos i les normes i recomanacions que estableixi l'Organització d'Aviació Civil Internacional.
+
+Tercera
+
+La prestació dels serveis a què es fa referència en la present Llei i la utilització del domini públic aeroportuari acrediten les taxes que legalment es determinin a favor de l'autoritat aeronàutica i del gestor aeroportuari.
+
+Quarta
+
+Les facultats i obligacions d'inspecció i control que aquesta Llei estableix podran ser realitzades directament pel ministeri competent en matèria de transports o bé, per la seva delegació, per organismes públics o empreses privades d'inspecció i control que tinguin la solvència tècnica i econòmica i la imparcialitat degudes per a la realització de la seva activitat, i que disposin dels mitjans humans i materials necessaris.
+
+## Disposicions finals
+
+Primera
+
+El Govern desenvoluparà aquesta Llei per la via reglamentària.
+
+Així mateix, s'autoritza al ministeri encarregat dels transports per tal de dictar, en l'àmbit de les seves competències, les normes i les disposicions tècniques i administratives de caràcter general que requereixi el desenvolupament i l'aplicació d'aquesta Llei.
+
+Segona
+
+Aquesta Llei entrarà en vigor l'endemà de la seva publicació al Butlletí Oficial del Principat d'Andorra.
+
+Casa de la Vall, 9 de novembre del 2000
+
+Francesc Areny Casal
+
+Síndic General
+
+Nosaltres els coprínceps la sancionem i promulguem i n'ordenem la publicació en el Butlletí Oficial del Principat d'Andorra.
+
+Jacques Chirac
+
+Joan Marti Alanis
+
+President de la
+
+República Francesa
+
+Bisbe d'Urgell
+
+Copríncep d'Andorra
+
+Copríncep d'Andorra
