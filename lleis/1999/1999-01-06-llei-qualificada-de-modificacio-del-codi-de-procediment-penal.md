@@ -3,7 +3,7 @@ title: "Llei qualificada de modificació del Codi de procediment penal, de 10-12
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1998-12-09
+date: 1998-12-10
 published: 1999-01-06
 bopa: "BOPA núm. 1, any 1999"
 status: unknown

@@ -3,7 +3,7 @@ title: "Correcció d'errata relativa a un error en la Llei de modificació de la
 type: other
 jurisdiction: ad
 language: ca
-date: 1996-08-20
+date: 1996-08-14
 published: 1996-08-22
 bopa: "BOPA núm. 59, any 1996 (extra)"
 status: unknown

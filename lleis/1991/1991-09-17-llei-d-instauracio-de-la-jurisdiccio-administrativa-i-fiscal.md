@@ -3,7 +3,7 @@ title: "Llei d'Instauració de la Jurisdicció Administrativa i Fiscal, de 7-9-9
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-09-06
+date: 1991-09-07
 published: 1991-09-17
 bopa: "BOPA núm. 38, any 1991"
 status: unknown

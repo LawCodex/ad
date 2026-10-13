@@ -1,0 +1,1402 @@
+---
+title: "Correcció d’errata"
+type: legislative_decree
+jurisdiction: ad
+language: ca
+date: 2017-06-21
+published: 2017-06-27
+bopa: "BOPA núm. 42, any 2017"
+status: unknown
+consolidated: false
+source: "https://www.bopa.ad/Documents/Detall?doc=GL20170626_09_34_01"
+document_url: "https://bopadocuments.blob.core.windows.net/bopa-documents/029042/html/1_GL20170626_09_34_01.html"
+retrieved: 2026-10-13
+---
+
+# Correcció d’errata
+
+Correcció d’errata del 21-06-2017 per la qual s’esmena un error de transcripció constatat al Decret legislatiu del 24-5-2017 de publicació del text refós de la Llei de la funció pública, del 15 de desembre del 2000.
+
+Vist que s’ha constatat un error de transcripció al Decret legislatiu del 24-5-2017 de publicació del text refós de la Llei de la funció pública, del 15 de desembre del 2000, publicat al BOPA núm. 35 de data 31-05-2017, es procedeix a publicar de nou el text refós de la Llei de la funció pública, del 15 de desembre del 2000.
+
+**“Decret**
+
+Decret legislatiu del 24-5-2017 de publicació del text refós de la Llei de la funció pública, del 15 de desembre del 2000.
+
+Vist l’article 59 de la Constitució andorrana, segons el qual, mitjançant llei, el Consell General pot delegar l’exercici de la funció legislativa en el Govern;
+
+Vista la delegació legislativa a favor del Govern establerta en la disposició final cinquena de la [Llei 2/2017](https://www.bopa.ad/bopa/029015/Pagines/CGL20170224_10_31_15.aspx), del 9 de febrer, qualificada de modificació de la [Llei 8/2004](https://www.bopa.ad/bopa/016039/Pagines/369BA.aspx), del 27 de maig, qualificada del Cos de Policia, segons la qual s’encomana al Govern que publiqui al Butlletí Oficial del Principat d’Andorra el text consolidat de la Llei de la funció pública, del 15 de desembre del 2000, que inclogui les modificacions introduïdes fins al moment en aquesta Llei;
+
+Vist que en compliment del que preveu la disposició final cinquena la [Llei 2/2017](https://www.bopa.ad/bopa/029015/Pagines/CGL20170224_10_31_15.aspx), es refon en aquest Decret legislatiu el contingut de la Llei de la funció pública, del 15 de desembre del 2000, on s’inclouen les modificacions que dimanen de la [Llei 3/2007](https://www.bopa.ad/bopa/019036/Pagines/4B14A.aspx), del 22 de març, del Cos Penitenciari; de la [Llei 23/2014](https://www.bopa.ad/bopa/026067/Pagines/lq26067001.aspx), del 30 d’octubre, qualificada de creació i de regulació del pla de pensions de la funció pública; de la [Llei 2/2017](https://www.bopa.ad/bopa/029015/Pagines/CGL20170224_10_31_15.aspx) esmentada anteriorment; de la [Llei 6/2017](https://www.bopa.ad/bopa/029031/Pagines/CGL20170509_12_15_44.aspx), del 20 d’abril, de modificació de la [Llei 3/2007](https://www.bopa.ad/bopa/019036/Pagines/4B14A.aspx), del 22 de març, del Cos Penitenciari, i de la [Llei 7/2017](https://www.bopa.ad/bopa/029031/Pagines/CGL20170509_12_16_31.aspx), del 20 d’abril, del Cos de Prevenció i Extinció d’Incendis i Salvaments;
+
+Ateses les consideracions esmentades, a proposta del ministre d’Afers Socials, Justícia i Interior i de la ministra de Funció Pública i Reforma de l’Administració, el Govern, en la sessió del 24 de maig del 2017, aprova aquest Decret legislatiu amb el contingut següent:
+
+##### Article únic
+
+S’aprova la publicació al Butlletí Oficial del Principat d’Andorra del text refós de la Llei de la funció pública, del 15 de desembre del 2000, que entrarà en vigor l’endemà de ser-hi publicat.
+
+Cosa que es fa pública per a coneixement general.
+
+Andorra la Vella, 24 de maig del 2017
+
+Antoni Martí Petit   Cap de Govern
+
+**Text refós de la Llei de la funció pública, del 15 de desembre del 2000**
+
+## Títol I. Disposicions Generals
+
+### Capítol I. Objecte i àmbit de la Llei
+
+##### Article 1. Objecte i rang de la Llei
+
+1. La present Llei té per objecte establir en l’Administració pública el règim de la funció pública, entenent com a tal, la relació d’ocupació que manté amb el seu personal i el conjunt de sistemes de gestió dels recursos humans que garanteixin, amb eficàcia i qualitat, la prestació dels serveis públics al ciutadà.
+
+2. Els preceptes del capítol II del títol II d’aquesta Llei, que regulen el sistema de provisió de places i de la disposició addicional primera, que estableix la integració dels funcionaris i dels contractuals, tenen rang de llei qualificada. La resta de preceptes de la present Llei tenen rang de llei ordinària, sense les limitacions dels articles 57.3 i 60.2 de la Constitució.
+
+##### Article 2. P rincipis
+
+L’Administració pública ha de servir amb objectivitat l’interès general d’acord amb els valors que inspiren la present Llei i reconeix com a principis reguladors de la seva funció pública i, per tant, exigibles en el comportament de l’Administració i del seu personal, l’eficiència, la professionalitat, la neutralitat i l’equitat.
+
+##### Article 3. Àmbit de la Llei
+
+1. L’àmbit de la Llei se circumscriu a l’Administració pública; no s’aplica, per tant, a les institucions i/o càrrecs següents:
+
+a) Consell General.
+
+b) Membres del Consell Superior de la Justícia i membres de la carrera judicial de la Batllia, Tribunal de Corts, Tribunal Superior de Justícia i Ministeri Fiscal.
+
+c) Magistrats del Tribunal Constitucional.
+
+2. Així mateix, dintre de l’Administració pública del Principat, la Llei no és aplicable a les entitats i els òrgans de direcció administrativa següents:
+
+a) Secretari general del Govern, secretaris d’Estat, cap de Gabinet del Cap de Govern i ambaixadors del Principat d’Andorra.
+
+b) Interventor general, que es regula pel que disposa la Llei general de les finances públiques i les disposicions que la desenvolupen.
+
+c) Secretaris generals dels comuns.
+
+d) Organismes autònoms i entitats parapúbliques dependents del Govern i dels comuns, els treballadors dels quals es regulen pel que disposa la seva normativa pròpia.
+
+### Capítol II. Relacions d’ocupació en l’Administració pública
+
+##### Article 4. Tipus d’ocupació
+
+1. El personal de l’Administració pública es classifica en:
+
+- Funcionaris.
+
+- Agents de l’Administració.
+
+- Personal de relació especial.
+
+El règim jurídic del personal és de naturalesa estatutària, contractual i de relació especial, respectivament.
+
+2. Els funcionaris estan subjectes a una relació de treball estatutària, regulada pel dret administratiu, que està definida per aquesta Llei i les normes que la desenvolupen.
+
+3. Els agents de l’Administració estan subjectes a una relació contractual que podrà ser indefinida o eventual, i es regula per les particularitats que, en cada cas, s’estableixen en aquesta Llei i en les normes que la desenvolupen, i per la normativa laboral.
+
+4. La relació especial es regula per les particularitats que s’estableixen en aquesta Llei i en les normes que la desenvolupen, i per la normativa que reguli la relació concreta.
+
+5. La provisió de places vacants o de nova creació que no quedin cobertes en fase de promoció interna, són cobertes per agents de l’Administració, excepció feta de les què afectin als cossos especials de duana, prevenció i extinció d’incendis i salvament, penitenciaria, policia i cos de banders i de les corresponents a inspectors i interventors, que es cobreixen amb personal funcionari.
+
+##### Article 5. Funcionaris
+
+Són funcionaris els qui, tenen la nacionalitat andorrana i després de ser nomenats pel Govern, queden vinculats a l’Administració pública per una relació d’ocupació de caràcter estable, subjecta a dret administratiu.
+
+Els funcionaris exerceixen activitats permanents de l’Administració pública i només poden ser separats del servei actiu per les causes i en les condicions que s’estableixen en la present Llei.
+
+##### Article 6. Agents de l’Administració de caràcter indefinit
+
+Es considera agent de l’Administració de caràcter indefinit el personal de l’Administració pública que sigui contractat per realitzar funcions de caràcter permanent de l’Administració.
+
+La relació laboral de l’agent de l’Administració s’ha de formalitzar mitjançant un contracte que es regeix per la normativa laboral i les particularitats que s’estableixen en la present Llei i en les normes que la desenvolupen.
+
+##### Article 7. Agents de l’Administració de caràcter eventual
+
+Es consideren agents de l’Administració de caràcter eventual aquells que es vinculen temporalment amb l’Administració pública.
+
+##### Article 8. Personal de relació especial
+
+És personal de relació especial aquell que presta, amb caràcter de confiança, serveis d’assessoria o assistència al cap de Govern, als ministres, al president del Consell Superior de la Justícia i als cònsols; el seu nomenament correspon directament a aquestes autoritats; aquestes persones poden ser destituïdes en qualsevol moment, i en tot cas cessen quan també ho faci el titular del càrrec que els va nomenar.
+
+### Capítol III. Òrgans competents en el règim de la funció pública
+
+##### Article 9. Govern
+
+El Govern dirigeix la política de recursos humans i exerceix la funció executiva i la potestat reglamentària del règim de la funció pública.
+
+En l’àmbit de l’Administració general, la Secretaria d’Estat de Funció Pública és l’òrgan responsable de l’aplicació d’aquesta Llei, dels seus reglaments i de la impulsió dels sistemes de gestió aplicables a la funció pública.
+
+##### Article 10. Òrgans de govern de l’Administració de justícia
+
+Els òrgans de govern de l’Administració de justícia són els responsables d’aplicar el contingut de la present Llei en tot allò que els afecti.
+
+##### Article 11. Òrgans de govern dels comuns
+
+Els òrgans de govern de cada comú són els responsables d’aplicar el contingut de la present Llei en tot allò que els afecti.
+
+##### Article 12. Comissió Consultiva
+
+En l’àmbit de l’Administració general el Govern ha de crear la Comissió Consultiva com a òrgan col·legiat de consulta i participació sobre funció pública.
+
+Correspon a la Comissió emetre informes, preceptius però no vinculants, sobre projectes de llei o normes reglamentàries relacionades amb la funció pública i, a iniciativa del Govern, informar sobre temes relacionats amb la funció pública que li siguin consultats. La Comissió, a iniciativa seva, pot recomanar al Govern l’adopció de mesures dirigides a millorar el funcionament de l’Administració, les condicions de treball, i qualsevol altra que afavoreixi l’eficiència administrativa i la consideració social del personal.
+
+La Comissió està integrada pel titular de la Secretaria d’Estat de Funció Pública, que la presideix; tres membres de l’Administració, un per cada grup funcional, designats pel Govern, i tres en representació del personal, designats per les associacions o organitzacions dels funcionaris.
+
+Correspon al Govern aprovar-ne les normes d’organització i funcionament.
+
+##### Article 13. Registre de la Funció Pública
+
+1. El Registre de la Funció Pública de l’Administració general, dependent de la Secretaria d’Estat de Funció Pública, inscriu els llocs de treball, els funcionaris, els agents de l’Administració i el personal de relació especial.
+
+Així mateix, per reglament es determinen les dades que han de constar en el Registre de la Funció Pública, les quals s’han de referir exclusivament a la vida administrativa.
+
+2. L’Administració de justícia i les administracions dels comuns han d’establir el seu propi Registre.
+
+## Títol II. Del règim de la funció pública en l’Administració general
+
+### Capítol I. Sistema de classificació de la funció pública
+
+#### Secció primera. Principis generals del sistema
+
+##### Article 14. Característiques del sistema de classificació
+
+El sistema de classificació és un instrument de racionalització i ordenació dels llocs de treball i de la prestació de serveis del funcionariat.
+
+El sistema de classificació organitzativa està dissenyat per adaptar-se als objectius que l’Administració general estableixi en tot moment, amb la finalitat de proporcionar la millor resposta en la gestió dels serveis públics.
+
+El sistema identifica l’abast de la prestació dels funcionaris i els drets, vinculats als llocs de treball, que tenen els seus titulars.
+
+##### Article 15. Elements del sistema de classificació
+
+Els elements que componen el sistema de classificació són els següents:
+
+a) Cossos, que estan integrats pels llocs de treball corresponents, segons la naturalesa organitzativa de la prestació, i pels funcionaris que n’ocupen les places.
+
+b) Grups funcionals, o trams de contingut organitzatiu homogeni, que agrupen els llocs de treball per raó de la funció que desenvolupen d’acord amb criteris d’avaluació organitzativa.
+
+c) Ocupacions professionals tipus, o agrupació de llocs de treball amb funcions similars, que permeten identificar, a través del lloc de treball que integra, intensitats de responsabilitat diferents dins d’un mateix contingut.
+
+d) Lloc de treball, o ocupació professional, que defineix el contingut organitzatiu de la prestació de serveis del personal de l’Administració general.
+
+e) Plaça pressupostada, o nombre d’ocupacions d’un determinat lloc de treball que figuren pressupostades.
+
+f) Nivell o posició que s’assigna a un lloc de treball dins el sistema de classificació, segons el seu contingut organitzatiu.
+
+#### Secció segona. Cossos, grups i nivells del sistema
+
+##### Article 16. Cossos
+
+En l’àmbit de l’Administració general hi han els cossos següents:
+
+1. Cos general:
+
+El Cos general incorpora totes les funcions de gestió administrativa i tècnica no reservades als cossos especials.
+
+2. Cossos especials:
+
+Els cossos especials incorporen les funcions específiques que segons la naturalesa organitzativa de la seva prestació no poden ser exercides pel cos general. Són cossos especials els següents que ja existeixen:
+
+- Banders.
+
+- Duana.
+
+- Ensenyament.
+
+- Prevenció i extinció d’incendis i salvament.
+
+- Penitenciaria.
+
+- Policia.
+
+Els cossos especials que es creïn amb independència dels ja existents ho han de ser per Llei, que determinarà la creació, la denominació i la missió del cos.
+
+##### Article 17. Integració dels funcionaris i agents de l’Administració en cossos
+
+Els funcionaris i els agents de l’Administració s’integren en els cossos general o especials segons la naturalesa de la seva prestació; la integració esmentada implica l’ocupació d’una plaça del lloc de treball corresponent.
+
+Les condicions de treball dels funcionaris integrats en algun dels cossos especials es regulen per la present Llei i les normes que la desenvolupen, i per les particularitats que estableixi la normativa específica corresponent.
+
+##### Article 18. Grups funcionals, ocupacions professionals tipus i nivells de classificació
+
+1. El sistema de classificació professional inclou els grups següents:
+
+a) Grup A
+
+b) Grup B
+
+c) Grup C
+
+2. Tant al cos general com als cossos especials, tots els llocs de treball tenen assignat un nivell de classificació i han d’estar enquadrats en un grup funcional i en una ocupació professional tipus. Cada lloc de treball pot tenir una o diverses places pressupostades.
+
+3. Els llocs de treball es classifiquen en quinze nivells per al cos general i, en tres nivells, com a mínim, i vuit nivells, com a màxim, per als cossos especials; segons les seves estructures organitzatives.
+
+L’assignació del nivell corresponent a un lloc de treball determinat, per al Cos General i per als cossos especials, depèn del seu contingut organitzatiu, mesurat en termes de tres factors i vuit elements, d’acord amb el sistema de valoració establert a l’Administració general, que són els següents:
+
+a) La competència, que inclou la competència tècnica, la competència gerencial i la interacció humana.
+
+b) La solució de problemes, que inclou el marc de referència i l’exigència dels problemes.
+
+c) La responsabilitat, que inclou la llibertat per actuar, la magnitud i l’impacte.
+
+4. En els cossos especials, l’assignació del nivell integra, a més a més, un complement específic, mesurat en termes de les circumstàncies de treball següents:
+
+a) Torn: consisteix en l’ocupació successiva i constant d’un lloc de treball per part del funcionari que pertany a un cos especial, en períodes horaris diferents, que pot incloure dies festius i jornada nocturna. Quan el règim de torns inclou la jornada nocturna, l’assignació de la part del complement específic per torn implica que el funcionari no percebi addicionalment la compensació per nocturnitat, d’acord amb el que estableixi el Reglament de sistemes de compensació.
+
+b) Funcions permanents: quan la missió i les funcions atribuïdes als cossos especials, que han de ser exercides en qualsevol circumstància, moment i conjuntura, determinen que el funcionari que hi pertany no pugui exercir el dret de vaga ni accions substitutives d’aquest dret o concertades que puguin alterar el funcionament normal i la prestació continuada del servei.
+
+c) Contingència especial: quan l’entorn del lloc dels cossos especials o la seva naturalesa determina que el funcionari que hi pertany, a causa de la prestació del servei, es troba exposat a circumstàncies especials que puguin implicar perjudicis per a la seva persona. La contingència especial es mesura amb els paràmetres següents: el risc personal a què està sotmès el funcionari en l’exercici habitual de les seves funcions; el port d’arma, que es refereix al possible ús de l’arma per part del funcionari i a la responsabilitat en la seva custòdia i el seu maneig, i la funció repressora, que fa referència a la naturalesa del cos especial que requereix l’aplicació d’una funció repressora enfront del delicte.
+
+El complement específic no es percep durant el període de formació.
+
+##### Article 19. Grup A
+
+El Grup A integra els llocs de treball de director que tenen com a funcions principals les de dirigir, planificar i organitzar el treball dels departaments, definint, o contribuint en la determinació de les directrius generals i en el desenvolupament dels grans objectius de l’organització, i que és el suport tècnic del ministre i del secretari d’Estat del qual depèn orgànicament. Aquests llocs formen part del cos general.
+
+També s’integren en aquest grup aquells llocs de treball del cos general i dels cossos especials que, tot i no ser llocs de director, realitzen activitats d’especial nivell tècnic i/o comandament.
+
+##### Article 20. Grup B
+
+El Grup B integra tots els llocs de treball del cos general i dels cossos especials que requereixen tenir coneixements i habilitats especialitzades, o desenvolupen funcions tècniques complexes, ja sigui pel seu caràcter purament especialitzat, ja sigui perquè les seves finalitats es compleixen mitjançant la direcció d’equips de treball i de recursos que hagin de resoldre problemes complexos i de gran varietat, des d’un pla tàctic o tàctic/operatiu.
+
+##### Article 21. Grup C
+
+El Grup C integra, per una banda, els llocs de treball del cos general i dels cossos especials que desenvolupen la seva tasca en un àmbit tècnic, i que requereixen tenir coneixements i habilitats que poden ser adquirits a través d’una formació acadèmica específica i/o a través de l’experiència; i d’altra banda, els llocs que desenvolupen la seva tasca en un àmbit tecnicoadministratiu, administratiu o d’oficis.
+
+En general, aquests llocs de treball poden ser responsables de processos funcionals i grups de persones; els seus resultats s’orienten cap al pla tècnic i/o operatiu.
+
+##### Article 22. Manual funcional d’ocupacions professionals tipus
+
+El Manual funcional d’ocupacions professionals tipus de l’Administració general identifica i descriu les ocupacions professionals tipus, els llocs de treball que s’hi integren i la missió, les finalitats i els requeriments necessaris per al seu acompliment.
+
+#### Secció tercera. Procés de classificació de llocs de treball
+
+##### Article 23. Competència per classificar els llocs de treball
+
+La Secretaria d’Estat de Funció Pública és l’òrgan responsable de classificar els llocs de treball de l’Administració general.
+
+A aquests efectes, l’òrgan directiu esmentat, una vegada analitzada la descripció del lloc de treball, assigna el nivell de classificació o modifica una assignació preexistent, i després procedeix a la inscripció en el Registre de la Funció Pública.
+
+Un lloc de treball únicament pot tenir un nivell de classificació assignat.
+
+##### Article 24. Procediment per a la classificació de llocs de treball
+
+El Manual funcional d’ocupacions professionals tipus estableix el procediment a seguir per a la classificació i, si és el cas, la revisió dels llocs de treball i les atribucions que en aquest procés hauran de tenir les persones que han de participar-hi.
+
+### Capítol II. Sistema de provisió de places
+
+#### Secció primera. Sistema de selecció per a la provisió de places de funcionaris de l’Administració general
+
+##### Article 25. Principis generals del sistema de selecció
+
+La provisió de places és un procés que té com a objectiu incorporar a l’Administració general els candidats idonis, mitjançant l’aplicació d’un procediment de selecció objectiu i adequat als requeriments del lloc de treball.
+
+La provisió de places es basa en el principi de mèrit, com a garantia d’una valoració justa i objectiva per tal que les persones més ben preparades per a l’acompliment d’un lloc de treball siguin les que hi accedeixin.
+
+En els processos de provisió de places han de garantir-se, així mateix, els principis de publicitat, igualtat i concurrència, i cap candidat no en pot ser exclòs per raons diferents de les previstes expressament en la present Llei.
+
+##### Article 26. Requisits generals
+
+Per optar a la provisió d’una plaça de funcionari, s’han de complir els requisits generals següents:
+
+a) Tenir la nacionalitat andorrana.
+
+b) Ser major d’edat.
+
+c) Reunir les condicions necessàries establertes per ocupar la plaça vacant o de nova creació.
+
+d) No trobar-se inhabilitat per a l’ocupació de la plaça per resolucions de caràcter penal o administratiu.
+
+La normativa dels cossos especials pot establir condicions específiques en funció de la singularitat dels llocs de treball.
+
+##### Article 27. Criteris sobre provisió de places en la planificació de recursos humans
+
+El procés de provisió de les places vacants o de nova creació, amb excepció de les places de director, que es regulen en la secció següent, s’inclou en la planificació de recursos humans que ha d’elaborar la Secretaria d’Estat de Funció Pública, a partir de les necessitats trameses pels directors dels departaments, i ha de tenir present les regles generals següents:
+
+1. Abans de la convocatòria pública, les places vacants o de nova creació han de ser cobertes atenent les sol·licituds de reingrés del personal amb excedència sense reserva de plaça, sempre que la plaça vacant o de nova creació sigui d’un lloc de treball del mateix nivell de classificació que la plaça que el funcionari va deixar en el moment de l’excedència, i que reuneixi els requisits necessaris per a la plaça vacant o de nova creació.
+
+2. La provisió de les places vacants o de nova creació, un cop complert el tràmit de l’apartat anterior, es du a terme en dues fases:
+
+a) Promoció interna
+
+b) Procediment selectiu d’ingrés
+
+Amb caràcter excepcional el Govern, a proposta de la Secretaria d’Estat de Funció Pública i del departament corresponent, pot decidir que la provisió de determinades places vacants o de nova creació es porti a terme únicament mitjançant procediment selectiu d’ingrés.
+
+3. En la planificació de recursos humans, cal adoptar les mesures necessàries per afavorir que les persones amb discapacitat accedeixin a les places vacants o de nova creació de funcionaris, d’acord amb la normativa vigent en matèria de discapacitats.
+
+##### Article 28. Promoció interna
+
+Amb caràcter general, abans de la convocatòria d’ingrés dirigida als aspirants externs a l’Administració general, s’ha de fer la convocatòria per cobrir les places vacants o de nova creació mitjançant promoció interna entre els funcionaris.
+
+Els requisits exigibles als candidats a les places vacants o de nova creació són els adequats al perfil del lloc de treball de què es tracti.
+
+A part de les proves específiques per a cada lloc de treball, les convocatòries de promoció interna han d’incloure la valoració dels aspectes següents:
+
+a) Experiència laboral en les places ocupades amb anterioritat, dels llocs de treball corresponents, amb informes dels caps immediats respectius.
+
+b) Qualsevol capacitació adquirida en cursos de formació que siguin d’interès per a la plaça que s’ha de cobrir.
+
+c) Experiència en l’àrea d’activitat on estigui adscrita la plaça vacant o de nova creació, amb informe dels caps immediats.
+
+d) Diversitat de funcions prestades per mobilitat funcional en interès del servei públic.
+
+e) Resultats de l’avaluació de l’acompliment, una vegada s’incorpori dins l’Administració general el procés de gestió amb caràcter general i de forma homogènia.
+
+##### Article 29. Inexistència de candidats per promoció interna
+
+Quan les places vacants o de nova creació no siguin cobertes per mitjà de promoció interna per falta de concurrència de personal propi, per no existir funcionaris amb qualificació suficient o perquè no reuneixen els requisits exigits per ocupar-les, aquestes places vacants o de nova creació s’han d’incloure en les convocatòries d’ingrés.
+
+##### Article 30. Bases de la convocatòria
+
+El procés selectiu per a la provisió de places vacants o de nova creació, tant en promoció interna com en provisió externa, requereix l’aprovació de la Secretaria d’Estat de Funció Pública i la publicació de les bases de la convocatòria corresponents.
+
+Les bases de la convocatòria són el document públic que recull tots els requisits del procés de provisió d’una o més places vacants o de nova creació, informa del procediment que se seguirà per cobrir-la, i conté la informació bàsica que ha de conèixer el candidat que opta a ocupar la plaça vacant o de nova creació.
+
+Quan es tracta de convocatòries de provisió externa, el termini de presentació de sol·licituds en cap cas pot ser inferior a 15 dies hàbils, comptats a partir de l’endemà de la publicació al Butlletí Oficial del Principat d’Andorra. En les convocatòries de promoció interna, els terminis poden reduir-se a la meitat i la publicitat s’ha de garantir a través dels mitjans habituals que, a aquest efecte, tingui establerts la Secretaria d’Estat de Funció Pública.
+
+Quan el tipus de la plaça vacant o de nova creació ho aconselli, s’han de publicar les bases de la convocatòria o bé un extracte d’aquestes bases en els mitjans de comunicació que en permetin la màxima difusió.
+
+##### Article 31. Comitè Tècnic de Selecció
+
+Per organitzar les proves i avaluar-ne els resultats per escollir els candidats idonis per ocupar les places vacants o de nova creació, s’ha de constituir un Comitè Tècnic de Selecció.
+
+El Comitè Tècnic de Selecció ha d’estar integrat, com a mínim, per dos membres del departament corresponent, designats pel director, i que ocupin una plaça d’un lloc de treball de nivell de classificació superior al de la plaça vacant o de nova creació a cobrir, per garantir l’avaluació tècnica dels requeriments exigits d’aquesta naturalesa, i dos representants de la Secretaria d’Estat de Funció Pública que actuen, un, com a president i, l’altre, com a secretari del Comitè Tècnic. Poden designar-se membres titulars i suplents, i la participació en els comitès tècnics és obligatòria, amb l’excepció de l’existència de circumstàncies de força major o quan es produeixi un motiu d’abstenció, d’acord amb el que estableix la normativa vigent.
+
+Quan els coneixements o les competències exigibles per a l’ocupació adequada de la plaça ho aconsellin, o l’aplicació adequada de tècniques de selecció ho facin necessari, el Comitè Tècnic de Selecció pot incorporar experts externs a l’Administració general.
+
+##### Article 32. Proposta de nomenament
+
+Finalitzat el procés selectiu, el Comitè Tècnic de Selecció ha de proposar al Govern el o els candidats que hagin obtingut la millor qualificació global de les proves realitzades, d’acord amb les bases de la convocatòria, perquè el/s nomeni funcionari/s en període de formació per als cossos especials, excepte en el cos especial d’ensenyament, i funcionari/s en període de prova per al cos general i el cos especial d’ensenyament.
+
+En els cossos especials, quan s’acaba el procés formatiu, després de l’informe del director del departament, el Comitè Tècnic de Selecció ha de proposar al Govern el funcionari o els funcionaris que hagin superat el període de formació, perquè el/s nomeni funcionari/s en període de prova.
+
+El nombre de candidats proposats no pot superar en cap cas el de les places vacants o de nova creació que s’han de cobrir.
+
+Així mateix, un cop cobertes totes les places vacants els candidats següents que han superat el procés de selecció queden en situació de reserva, d’acord amb el que estableixi el Reglament de selecció, promoció i carrera professional.
+
+El nomenament com a funcionari en període de formació o funcionari en període de prova s’ha d’inscriure en el Registre de la Funció Pública.
+
+##### Article 33. Òrgans competents per a la gestió dels processos de provisió de les places vacants o de nova creació
+
+La Secretaria d’Estat de Funció Pública és la responsable per gestionar el procés selectiu per a la provisió de les places vacants o de nova creació de l’Administració general. Així mateix, és competent, a proposta del director del departament corresponent, per designar els membres del Comitè Tècnic de Selecció atenent els requeriments exigibles en les places vacants o de nova creació que s’hagin de cobrir.
+
+#### Secció segona. Provisió de places dels llocs de treball del Grup A
+
+##### Article 34. Provisió de les places dels llocs de treball de director
+
+Dins el Grup A, les places dels llocs de treball de director són proveïts mitjançant lliure designació, entre funcionaris o agents de l’Administració, d’acord amb el previst en l’apartat 5 de l’article 4, de nacionalitat andorrana que siguin titulars de les places dels llocs de treball que estiguin inclosos en el Grup A i en el Grup B, del sistema de classificació establert.
+
+Els directors són els alts càrrecs de l’Administració general, i tenen les funcions que els atribueix la normativa vigent, i també les que els encomani el ministre o secretari d’Estat corresponent.
+
+Quan un director és designat en un cos especial, té totes les atribucions i les competències específiques del cos, i també les que d’acord amb la normativa vigent siguin necessàries per al desenvolupament correcte de les seves funcions.
+
+En tot cas, el funcionari o agent de l’Administració designat per al càrrec haurà de tenir l’experiència i els coneixements adequats als requeriments del lloc de treball.
+
+##### Article 35. Del nomenament i cessament de directors
+
+Els titulars de les places dels llocs de treball de director són nomenats i destituïts lliurement pel Govern, mitjançant acte degudament publicat al Butlletí Oficial del Principat d’Andorra, a proposta del titular del ministeri al qual estigui adscrit el lloc de treball. El nomenament implica la reserva de la plaça de procedència fins al moment del seu cessament com a director i l’assignació del complement de responsabilitat addicional a què es refereix l’article 63 de la present Llei.
+
+El director pren possessió del càrrec mitjançant jurament o promesa davant el membre del Govern de qui hagi de dependre orgànicament.
+
+Un cop s’hagi produït el cessament, el funcionari o agent de l’Administració torna a la plaça de procedència i deixa de percebre el complement a què es refereix el paràgraf anterior. Si el funcionari o agent de l’Administració ha ocupat la plaça del lloc de treball de director per un període superior a cinc anys, a més de les retribucions de la plaça del lloc de treball que passi a ocupar, se li assigna un complement salarial que s’anomena “reconeixement de la funció directiva”. La quantia i l’actualització d’aquest complement s’ha d’establir reglamentàriament.
+
+##### Article 36. Provisió d’altres llocs de treball dins del Grup A
+
+Les places vacants o de nova creació del Grup A que no siguin places de llocs de treball de director, es cobreixen mitjançant el procediment que es regula en la secció primera del present capítol; i, si és el cas, d’acord amb la normativa dels cossos especials.
+
+### Capítol III. Nomenament, situacions i cessament dels funcionaris
+
+#### Secció primera. Nomenament dels funcionaris
+
+##### Article 37. Adquisició de la condició de funcionari
+
+La condició de funcionari s’adquireix pel compliment successiu dels requisits següents:
+
+a) Superació del procés de selecció.
+
+b) Nomenament conferit per l’autoritat competent.
+
+c) Acceptació per jurament o promesa de les obligacions inherents al lloc de treball, davant l’alt càrrec de qui hagi de dependre orgànicament.
+
+##### Article 38. Període de prova
+
+Conclòs el procés selectiu i, si escau, el procés formatiu, els candidats proposats per ocupar les places vacants o de nova creació, són nomenats pel Govern com a funcionaris en període de prova.
+
+Aquest període és de dotze mesos de duració per als funcionaris d’ingrés i de, com a màxim, sis mesos per als qui procedeixen del torn de promoció interna. Durant aquest període, el director del departament on estigui adscrit el funcionari, juntament amb la Secretaria d’Estat de Funció Pública, han d’apreciar la capacitat, la dedicació, les aptituds, l’adaptació i les competències del funcionari en relació amb el lloc.
+
+Si durant el període de prova el funcionari no és avaluat favorablement o existeix una causa justificada per al cessament, la Secretaria d’Estat de Funció Pública ha de notificar per escrit a la persona interessada l’acabament de la seva relació de treball sense més responsabilitat que liquidar-li les remuneracions corresponents al temps treballat.
+
+Quan es tracti de funcionaris que hagin accedit a la plaça vacant o de nova creació mitjançant promoció interna, en cas de no superar el període de prova, o de renúncia a la nova plaça durant aquest període, el funcionari retorna a la seva plaça anterior, i percep, a partir del seu retorn efectiu, les retribucions corresponents a la plaça que, fins llavors, havia quedat en situació de reserva. Durant el temps de reserva de plaça i en cas d’urgència, la plaça vacant o de nova creació pot ser proveïda eventualment conforme al que s’estableix a l’article 7.
+
+##### Article 39. Nomenament definitiu
+
+Conclòs satisfactòriament el període de prova, el director del departament on estigui adscrit el funcionari, ho ha de comunicar a la Secretaria d’Estat de Funció Pública perquè ho notifiqui a la persona interessada, perquè certifiqui el caràcter definitiu del nomenament per a la inscripció en el Registre de la Funció Pública, i per a la publicació en el Butlletí Oficial del Principat d’Andorra.
+
+#### Secció segona. Situacions administratives dels funcionaris
+
+##### Article 40. Tipus de situacions
+
+Els funcionaris poden trobar-se en alguna de les situacions administratives següents:
+
+a) Servei actiu.
+
+b) Excedència.
+
+c) Suspensió.
+
+d) Jubilació.
+
+##### Article 41. Servei actiu
+
+Els funcionaris es troben en situació de servei actiu en els casos següents:
+
+a) Quan presten servei com a funcionaris en una plaça d’un lloc de treball del sistema de classificació de l’Administració general.
+
+b) Durant les vacances i els permisos reglamentaris.
+
+c) Quan es trobin en situació de reforma.
+
+d) Quan es trobin en situació de comissió de serveis, d’acord amb el que estableix l’article 53 de la present Llei.
+
+Els funcionaris poden ser declarats en situació de reforma quan, després de l’alta mèdica, i de conformitat amb els informes de l’organisme encarregat de la seguretat social:
+
+a) La situació d’invalidesa els impedeix la realització de les funcions del lloc de treball de la plaça que són titulars, però estan capacitats per exercir les funcions d’un altre lloc de treball de l’Administració general.
+
+b) La situació d’invalidesa, tot i estar capacitats per exercir les funcions del lloc de treball de la plaça que són titulars, els impedeix la realització completa de la jornada de treball.
+
+La declaració de la situació de reforma i l’adscripció consegüent del funcionari a la nova plaça correspon al Govern.
+
+Al funcionari en situació de reforma, se li garanteix el manteniment de les retribucions fixes que rebia amb anterioritat a la declaració de la situació de reforma. A aquest efecte, el Govern li ha d’assignar la diferència entre aquella quantitat i les percepcions que li assigni l’organisme encarregat de la seguretat social.
+
+##### Article 42. Excedències
+
+1. Els funcionaris es troben en situació d’excedència quan se separen temporalment del servei actiu per alguna de les circumstàncies que s’estableixen en el present article.
+
+2. Els funcionaris han de sol·licitar l’excedència amb reserva de plaça:
+
+a) Quan són nomenats membres del Govern, cònsol major i cònsol menor o per als càrrecs de secretari general de Govern, secretaris d’Estat, cap de Gabinet del Cap de Govern, interventor general, director d’un organisme autònom o entitat parapública, ambaixadors del Principat d’Andorra, secretaris generals dels comuns o quan el Govern els designi davant organismes internacionals o governs estrangers per al desenvolupament de programes o projectes de duració superior a sis mesos.
+
+b) Quan accedeixen a la condició de conseller general o hagin estat escollits directament per a càrrecs el nomenament dels quals correspon, per atribució constitucional, al Consell General.
+
+c) Quan són designats membres del Consell Superior de la Justícia o magistrats del Tribunal Constitucional.
+
+d) Quan són nomenats personal de relació especial en l’Administració general, en l’Administració de justícia o en els comuns.
+
+e) Quan són nomenats per ocupar un càrrec de naturalesa política.
+
+Per a tots els supòsits anteriors, mentre dura l’excedència el funcionari rep la retribució assignada pel càrrec, i deixa de percebre la que li corresponia per la plaça que ocupava com a funcionari; així mateix, la reserva de la plaça es manté fins que cessi la causa objecte de la concessió de l’excedència. La plaça reservada pot ser coberta per un funcionari, o un agent de l’Administració de caràcter indefinit o eventual, pel temps que duri l’excedència.
+
+3. Els funcionaris tenen dret a excedència sense reserva de plaça quan, de forma voluntària, ho sol·licitin:
+
+a) Per interès particular:
+
+Aquesta excedència pot sol·licitar-se quan s’hagin prestat almenys cinc anys consecutius de serveis en l’Administració general des de l’ingrés, o bé des del reingrés des d’una altra excedència de la mateixa naturalesa; la concessió de l’excedència per interès particular està supeditada a l’interès públic, després de l’informe del director del departament.
+
+b) Per plans de reestructuració:
+
+Aquesta excedència pot sol·licitar-se quan, per causa del canvi de titularitat d’un servei, una unitat o un programa, bé a una altra entitat pública bé a una entitat privada, el funcionari opti o no per incorporar-se a aquesta entitat.
+
+La duració màxima de l’excedència sense reserva de plaça és de tres anys i el reingrés al servei actiu pot sol·licitar-se abans que s’acabi el període atorgat.
+
+Si en el moment de sol·licitar el reingrés no hi ha cap plaça vacant o de nova creació d’un lloc de treball del mateix nivell de classificació que el que va deixar en el moment de l’excedència, i no vol quedar en situació de reserva, el funcionari pot optar per:
+
+a) Presentar-se, per promoció interna, a una plaça vacant o de nova creació d’un lloc de treball de nivell de classificació superior al lloc de treball que va deixar en el moment de l’excedència.
+
+b) Sol·licitar el reingrés en una plaça vacant o de nova creació d’un lloc de treball de nivell de classificació inferior al lloc de treball que va deixar en el moment de l’excedència. En aquest supòsit, el funcionari percep les retribucions corresponents al lloc de treball de classificació inferior.
+
+Per als casos de l’excedència sense reserva de plaça, durant el període atorgat el funcionari no té dret a percebre cap retribució com a funcionari.
+
+4. Els efectes de l’excedència es computen a partir de les dates següents:
+
+a) Per als supòsits d’excedència amb reserva de plaça, des de la data en què el funcionari prengui possessió del càrrec de què es tracti.
+
+b) Per a l’excedència sense reserva de plaça, des de la data que indiqui la resolució que atorga l’excedència.
+
+5. La declaració de la situació d’excedència i les resolucions sobre el reingrés dels funcionaris en situació d’excedència són aprovades per la Secretaria d’Estat de Funció Pública, després de l’informe del director del departament.
+
+##### Article 43. Reingrés al servei actiu dels funcionaris en excedència
+
+1. Reingrés de funcionaris en situació d’excedència amb reserva de plaça:
+
+a) En el termini de tres mesos, a partir de la data de cessament en el càrrec que va motivar l’excedència amb reserva de plaça, el funcionari ha de sol·licitar el reingrés al servei actiu. Dins els trenta dies naturals següents a la sol·licitud de reingrés, el funcionari pot reincorporar-se al servei actiu. Si la plaça reservada ha estat ocupada per un funcionari o agent de l’Administració de caràcter indefinit o eventual, aquest ha de cessar per a la reincorporació del funcionari titular de la plaça.
+
+Transcorreguts els tres mesos sense que s’hagi produït la sol·licitud de reincorporació, o els trenta dies posteriors sense que s’hagi fet efectiva aquesta reincorporació, es considera que la persona interessada renuncia a la condició de funcionari.
+
+b) El temps d’excedència amb reserva de plaça es computa com de servei actiu a tots els efectes.
+
+2. Reingrés de funcionaris en situació d’excedència sense reserva de plaça:
+
+a) El funcionari en situació d’excedència sense reserva de plaça ha de sol·licitar el reingrés abans de l’acabament del temps de l’excedència. Si no ho fa, o si al cap de trenta dies naturals des de la data prevista del reingrés al servei actiu no s’incorpora a la plaça que li ha estat assignada, es considera que la persona interessada renuncia a la seva condició de funcionari.
+
+b) El temps d’excedència per interès particular no es computa a cap efecte.
+
+c) El temps d’excedència per plans de reestructuració es computa com de servei actiu a tots els efectes.
+
+##### Article 44. Suspensió
+
+1. La declaració de situació de suspensió significa, per a la persona afectada, que durant el període de suspensió cessa en la seva activitat professional.
+
+2. La situació de suspensió només es pot declarar per una de les causes següents:
+
+a) Suspensió de funcions en la plaça d’origen i durant el període de prova, en cas de promoció del funcionari a una altra plaça d’un lloc de treball de nivell superior. Durant el període de suspensió el funcionari percep les retribucions del lloc de treball a què correspon la plaça que passa a ocupar per promoció.
+
+b) Suspensió cautelar de funcions en el cas que el funcionari estigui implicat en un procés d’investigació disciplinària, d’acord amb el que preveu l’article 76 d’aquesta Llei. El període de suspensió per aquesta causa no pot ser superior a tres mesos. Durant el període de suspensió el funcionari continua percebent la retribució que correspon al seu lloc.
+
+c) Suspensió per al cas que el funcionari estigui implicat en un procediment judicial en què es decreti privació de llibertat o una altra mesura que determini la impossibilitat d’ocupar la plaça. La situació és declarada d’ofici en el moment en què l’Administració general tingui coneixement de la impossibilitat d’ocupació de la plaça per la privació de llibertat del funcionari i durant el temps que duri la impossibilitat de prestació dels serveis.
+
+d) Suspensió de funcions, d’una durada màxima de sis mesos, com a sanció per la comissió d’una falta, en aplicació del règim disciplinari establert en la present Llei i les normes que la desenvolupen.
+
+3. La declaració de la situació de suspensió correspon a la Secretaria d’Estat de Funció Pública.
+
+##### Article 45. Jubilació
+
+El funcionari es troba en situació de jubilació quan se separa definitivament del servei actiu, d’acord amb el que disposa l’article 48.
+
+#### Secció tercera. Pèrdua de la condició de funcionari
+
+##### Article 46. Causes de pèrdua de la condició de funcionari
+
+La condició de funcionari de l’Administració general es perd per alguna de les causes següents:
+
+a) Renúncia escrita del funcionari.
+
+b) Pèrdua de la nacionalitat andorrana.
+
+c) Defunció.
+
+d) Acomiadament d’acord amb el que estableix el règim disciplinari de la present Llei.
+
+e) Condemna a pena principal o accessòria que l’inhabilitin per exercir les funcions corresponents al lloc de treball.
+
+f) Renúncia com a conseqüència de plans de reestructuració.
+
+##### Article 47. Renúncia
+
+Es considera renúncia l’extinció de la relació de treball per part del funcionari de forma voluntària, sempre que sigui tramitada d’acord amb aquesta Llei i les normes que la desenvolupen.
+
+La renúncia ha de realitzar-se per escrit, amb una antelació mínima de tres mesos, davant el director del departament, que ho haurà de comunicar a la Secretaria d’Estat de Funció Pública.
+
+La renúncia del funcionari no l’inhabilita per a la seva reincorporació a la funció pública, la qual, però, només podrà dur-se a terme mitjançant la participació, com qualsevol altre aspirant, en les proves selectives d’ingrés.
+
+##### Article 48. Jubilació
+
+1. La jubilació obligatòria dels funcionaris adscrits al cos general i al cos d’ensenyament i dels agents de l’Administració adscrits a l’Administració general amb caràcter indefinit es produeix als 65 anys d’edat.
+
+2. La jubilació obligatòria dels funcionaris adscrits als cossos especials de duana, prevenció i extinció d’incendis i salvament, penitenciaria, policia i cos de banders es produeix als 60 anys.
+
+##### Article 49. Acomiadament per causes disciplinàries
+
+Els funcionaris únicament poden ser acomiadats per les causes establertes en aquesta Llei i d’acord amb el procediment que s’hi fixa.
+
+Quan la resolució ferma que resolgui la reclamació per acomiadament, en via administrativa o en via jurisdiccional, sigui favorable al funcionari, aquest pot optar entre:
+
+a) Reincorporar-se al servei actiu, en la mateixa plaça que ocupava o a una altra de condicions idèntiques, si aquella està coberta per un altre funcionari de manera definitiva.
+
+En aquest cas té dret a totes les retribucions que li haurien correspost durant el període de separació de la plaça i al reconeixement d’aquest període com de temps de serveis prestats a l’Administració general a tots els altres efectes.
+
+b) Cessar com a funcionari, amb el dret de cobrar, a més de les retribucions deixades de percebre, una indemnització que s’ha de fixar reglamentàriament, i que no pot ser inferior a una mensualitat per any de servei a l’Administració general. Per al còmput del temps a l’efecte de la indemnització es té en compte el període comprès entre la data en què va tenir efecte l’acomiadament i la data de la resolució que en declara la improcedència.
+
+El cessament per aquesta situació no impedeix al funcionari participar en processos selectius d’ingrés.
+
+##### Article 50. Plans de reestructuració
+
+1. Correspon al Govern aprovar els plans de reestructuració que impliquin el cessament de funcionaris per causa de canvi de titularitat d’un servei, una unitat o un programa, bé a una altra entitat pública bé a una entitat privada.
+
+2. Els plans de reestructuració han de preveure:
+
+2.1. Que els funcionaris afectats, abans de la seva incorporació a la nova entitat, puguin optar:
+
+a) Per incorporar-se a l’entitat, i donar per finalitzada, per renúncia, la seva relació com a funcionari.
+
+b) Per incorporar-se a l’entitat i sol·licitar ser declarat en excedència sense reserva de plaça per plans de reestructuració.
+
+c) Per no incorporar-se a l’entitat i donar per finalitzada, per renúncia, la seva relació com a funcionari.
+
+Únicament en aquest cas pot ser indemnitzat en els termes que s’estableixin en els plans.
+
+d) Per no incorporar-se a l’entitat i sol·licitar ser declarat en excedència sense reserva de plaça per plans de reestructuració.
+
+2.2. Quan el funcionari opti per incorporar-se a la nova entitat ha de regular la seva relació de treball d’acord amb el règim que hi sigui aplicable, si bé se li han de respectar els drets econòmics que tingui assignats pel nivell del lloc de treball a què correspon la plaça que estigui ocupant, els quals s’han d’adaptar a l’estructura salarial vigent a l’entitat de destinació.
+
+Si la nova entitat separa el funcionari abans de tres anys des de la seva incorporació, les indemnitzacions que puguin correspondre s’han de computar tenint en compte, a més dels períodes de temps de servei a la nova entitat, tot el temps de servei prestat pel funcionari a l’Administració.
+
+El temps de servei prestat pel funcionari a l’Administració es computa com d’antiguitat a tots els efectes, en la nova entitat.
+
+Els funcionaris afectats poden fer efectius els drets passius adquirits o, si els han perdut, se’ls ha de compensar la pèrdua.
+
+### Capítol IV. Mobilitat dels funcionaris
+
+##### Article 51. Principi de mobilitat
+
+1. L’àmbit de la prestació laboral del funcionari, dins de l’ocupació d’una plaça del lloc de treball corresponent, és el de tota l’Administració general. Per això, al funcionari titular d’una plaça li poden ser encomanades, en benefici de l’interès públic, qualssevol de les funcions corresponents als llocs de treball que s’integren en la mateixa ocupació professional tipus de la plaça de què és titular.
+
+2. El principi de mobilitat és aplicable als funcionaris que presten serveis a l’estranger; correspon al Govern regular el tractament singular que aquests serveis requereixen.
+
+3. Quan l’Administració general requereixi atendre els serveis públics mitjançant la mobilitat, la mobilitat dels funcionaris és valorada, en l’àmbit del que estableix l’article 28, com a desenvolupament professional, atès que el funcionari adquireix capacitats i responsabilitats noves.
+
+##### Article 52. Reubicació dels funcionaris
+
+1. La reubicació és el canvi del funcionari a iniciativa de l’Administració general, a una plaça d’un altre lloc de treball. El canvi pot afectar un únic funcionari o un col·lectiu de funcionaris.
+
+2. La reubicació individual és obligatòria quan, existint raons de servei públic, aquestes no poden ser ateses mitjançant adscripcions voluntàries de funcionaris.
+
+3. La reubicació col·lectiva es produeix per l’adequació del nombre de funcionaris als serveis que hagi de prestar l’Administració general i pot requerir el canvi d’ocupació de la plaça del lloc de treball de més d’un funcionari. A aquest efecte, s’han d’establir plans de reubicació a través de processos d’assignació i distribució de personal per raons de tancament d’un servei o per raons de necessitat del servei, des d’unitats on es constati l’existència d’excedent de personal a altres unitats, actuals o de nova creació, que, contràriament, necessitin més recursos humans.
+
+En els casos de tancament d’un servei la mobilitat és obligatòria. En els altres casos els plans han d’establir que la mobilitat sigui inicialment voluntària entre els funcionaris titulars de les places dels llocs de treball afectats per la reubicació.
+
+Esgotada la fase de mobilitat voluntària, si persisteixen les necessitats de reubicació, s’ha de procedir a la mobilitat obligatòria.
+
+4. Per decidir la reubicació obligatòria col·lectiva o, si escau, individual, s’han de tenir en compte per aquest ordre: la proximitat o llunyania del domicili dels funcionaris respecte a la nova plaça, les càrregues familiars i l’antiguitat en l’Administració general.
+
+5. La reubicació dels funcionaris, individual o col·lectiva, s’ha de fer sempre en places de llocs de treball iguals o de característiques similars, amb el mateix nivell de classificació, que permetin exercir la funció encomanada de forma immediata o mitjançant un període d’adaptació no superior a dos mesos.
+
+6. Els plans de reubicació col·lectiva han de ser aprovats pel Govern, a proposta de la Secretaria d’Estat de Funció Pública. L’aplicació de la reubicació individual és responsabilitat del director del departament, que posteriorment ho ha de comunicar a la Secretaria d’Estat de Funció Pública per anotar-ho en el Registre de la Funció Pública.
+
+##### Article 53. Comissió de serveis
+
+1. Per necessitats del servei i per un termini no superior a dos anys, l’Administració general pot adscriure un funcionari, sempre que hi estigui d’acord, a una plaça diferent d’aquella de què sigui titular. Quan es produeix aquesta adscripció la persona interessada percep les retribucions del lloc de treball a què correspon la plaça que passa a ocupar, excepte si aquest lloc de treball té assignada una retribució inferior.
+
+Si el termini màxim de la comissió de serveis s’ha de prorrogar, aquesta pròrroga pot fer-se efectiva una única vegada, per un període no superior a un any i amb l’acceptació del funcionari afectat.
+
+2. Es pot autoritzar com a comissió de serveis, amb el consentiment previ de les persones interessades, l’adscripció de funcionaris, per un temps determinat, en altres administracions públiques, tant nacionals com estrangeres, per al desenvolupament o l’aprenentatge de funcions d’interès públic.
+
+L’adscripció temporal pot ser sol·licitada o bé pel funcionari interessat o bé per l’administració corresponent, i les condicions de l’adscripció s’han d’establir en la mateixa resolució que l’autoritzi.
+
+3. Les comissions de serveis són resoltes i autoritzades, després de l’informe del director del departament, per la Secretaria d’Estat de Funció Pública.
+
+##### Article 54. Trasllats
+
+El trasllat significa la sol·licitud d’un canvi, a iniciativa del funcionari interessat, dins del mateix departament en una plaça d’un lloc de treball igual o amb característiques similars a aquella de què el funcionari és titular, i no implica un increment de salari.
+
+Correspon als directors dels departaments gestionar les sol·licituds de les persones interessades.
+
+##### Article 55. Inscripció de la mobilitat dels funcionaris
+
+Les resolucions que s’adoptin relatives a la mobilitat dels funcionaris han d’anotar-se en el Registre de la Funció Pública.
+
+### Capítol V. Drets i obligacions dels funcionaris
+
+#### Secció primera. Drets dels funcionaris
+
+##### Article 56. Drets generals
+
+Els funcionaris tenen, a més de les garanties contingudes en aquesta Llei, els drets següents:
+
+1. A un tracte just i respectuós per part dels superiors i companys de feina.
+
+2. A l’estabilitat laboral i, per tant, a no ser acomiadats per causa diferent d’alguna de les previstes en la Llei i conforme als procediments que s’hi estableixen i les normes que la desenvolupen.
+
+3. A percebre una remuneració d’acord amb el nivell de classificació del lloc de treball de la plaça que ocupa i la política retributiva definida per l’Administració general.
+
+4. A no ser discriminats per raons polítiques.
+
+5. A ser informats sobre l’objecte, l’organització i el funcionament del departament al qual estiguin adscrits, i en especial sobre les atribucions, obligacions i responsabilitats que se’ls assignin en funció del lloc de treball.
+
+6. A la protecció de l’ús de la informació que, sobre cada persona, la Secretaria d’Estat de Funció Pública posseeix en el Registre de la Funció Pública, i que cada departament pugui tenir internament; i també a l’accés a aquesta informació, i a obtenir certificacions quan ho desitgin.
+
+7. A rebre cursos de capacitació i actualització professional, d’acord amb els programes que planifiqui la Secretaria d’Estat de Funció Pública, i tenint en compte les necessitats formatives que resultin del sistema de gestió de l’acompliment.
+
+8. A participar de forma individual o a través de les associacions o organitzacions professionals en la millora de l’Administració pública.
+
+9. A ser defensats i a exigir que l’Administració general reclami la responsabilitat civil i penal de les persones que atemptin contra la seva vida, la seva integritat, la seva dignitat o la dels seus familiars o béns personals, o que els injuriïn o calumniïn de qualsevol manera, tot això amb motiu del desenvolupament de les seves funcions, tant si estan en situació de servei actiu com si estan en situació de jubilació.
+
+10. Que l’Administració general els garanteixi la cobertura de responsabilitat civil derivada del compliment de la seva actuació professional quan aquesta responsabilitat no els sigui imputable individualment per actes qualificats de dolosos.
+
+##### Article 57. Permisos administratius
+
+1. Els funcionaris, sempre que no hagi raons de servei públic que ho impedeixin, obtindran permisos administratius retribuïts, proporcionalment retribuïts, i no retribuïts en els casos i en les condicions que reglamentàriament s’estableixin.
+
+2. Correspon a la Secretaria d’Estat de Funció Pública, conjuntament amb el director del departament, donar o denegar i formalitzar els permisos administratius, i també establir els procediments necessaris per tramitar-los.
+
+3. L’obtenció de permisos administratius implica la reserva de plaça per a les persones interessades; si transcorregut el període del permís el funcionari no es reincorpora a la seva plaça, es considerarà que s’ha produït abandonament del servei.
+
+##### Article 58. Vacances
+
+1. Tots els funcionaris tenen dret, amb caràcter general, a vint-i-cinc dies hàbils de vacances retribuïdes cada any.
+
+2. Reglamentàriament el Govern regula en matèria de vacances les particularitats del cos general i dels cossos especials.
+
+3. El període de vacances no realitzat durant l’any natural a què corresponguin, i com a màxim fins al 31 de gener de l’any immediat següent, no pot acumular-se en anys posteriors, excepte en casos puntuals, degudament justificats, després de l’informe del director del departament.
+
+#### Secció segona. Obligacions i incompatibilitats dels funcionaris
+
+##### Article 59. Obligacions
+
+Els funcionaris han d’exercir les funcions que tenen atribuïdes amb lleialtat, eficiència i objectivitat tècnica, i guiats pels valors ètics del servei públic de neutralitat, imparcialitat i integritat; i en concret tenen les obligacions següents:
+
+1. Respectar i acatar la Constitució i l’ordenament jurídic; respectar les institucions del Principat, i no efectuar manifestacions o actes que en perjudiquin el bon nom.
+
+2. Mantenir la neutralitat política en l’exercici de les seves funcions.
+
+3. Inhibir-se d’intervenir en el desenvolupament d’assumptes en els quals tinguin interès personalment, o els seus familiars fins al quart grau de consanguinitat o segon d’afinitat.
+
+4. Complir amb el règim de jornada i horaris establerts.
+
+5. Aplicar amb diligència les instruccions legítimes que emanen dels superiors immediats emmarcades en l’àmbit de les seves funcions.
+
+6. Col·laborar en l’execució de funcions i/o treballs addicionals que el superior immediat els sol·liciti o, en cas de necessitat que l’Administració general requereixi, sempre que siguin afins o compatibles amb la plaça que ocupin del lloc de treball corresponent.
+
+7. Guardar reserva sobre els assumptes de l’Administració en general i del seu treball en particular, i vetllar per la seguretat dels valors i els documents que tenen a càrrec seu.
+
+8. Mantenir una conducta responsable d’atenció, cordialitat i bon tracte amb el públic, els superiors, els subordinats i els companys de treball.
+
+9. Difondre els coneixements i les habilitats adquirits en seminaris, cursos i altres estudis subvencionats per l’Administració general.
+
+##### Article 60. Incompatibilitats
+
+1. El funcionari, en situació de servei actiu i suspensió, no pot exercir altres activitats professionals diferents de les de la seva condició de funcionari ni en el sector públic ni en el sector privat, llevat de les següents, sempre i quan es realitzin fora de l’horari laboral:
+
+a) Les derivades de la gestió del propi patrimoni o del familiar, així com la col·laboració en el negoci familiar dels pares o del consort, sempre i quan no es percebi cap tipus de remuneració;
+
+b) La participació a congressos, conferències, seminaris o cursos, en qualitat de ponent o formador, per raó de la plaça que ocupa a l’Administració general;
+
+c) La producció i creació literària, artística, científica i tècnica; i també les publicacions derivades de la mateixa, sempre i quan aquesta producció i creació, així com les publicacions no siguin contràries al que estableix l’article 59 de la present Llei;
+
+d) Les de caràcter d’investigació, en qualitat d’investigador per raó de la plaça que ocupa a l’Administració general;
+
+e) Aquelles excepcionals que per a casos concrets autoritzi el Govern mitjançant decret, en les condicions fixades en l’autorització.
+
+2. Correspon als directors i als caps immediats de l’Administració general prevenir i, si convé, corregir l’incompliment de les obligacions i incompatibilitats en què pugui incórrer el funcionari, i promoure, quan sigui procedent, la incoació de l’expedient disciplinari corresponent.
+
+### Capítol VI. Sistema retributiu
+
+##### Article 61. Principis generals del sistema
+
+La política retributiva del Govern, com a element bàsic per a la compensació, motivació i gestió dels seus recursos humans, s’orienta al principi que els titulars de les places dels llocs de treball, classificats de conformitat amb les disposicions d’aquesta Llei, han de tenir assignades les seves remuneracions amb vista, d’una banda, a garantir-los una retribució equitativa i justa, i d’altra banda, a facilitar la consecució dels objectius de l’Administració general.
+
+##### Article 62. Estructura retributiva
+
+Les retribucions dels funcionaris es componen dels conceptes retributius següents:
+
+a) Base retributiva:
+
+Retribueix el lloc de treball en funció del grup funcional a què pertany.
+
+b) Complement de lloc:
+
+Retribueix el lloc de treball en funció del nivell de classificació. La seva quantia és la diferència resultant entre l’assignada al grup i la del nivell corresponent.
+
+c) Complement de millora:
+
+Retribueix el desenvolupament professional en el lloc de treball, en funció de l’acompliment del funcionari titular d’una plaça d’aquest lloc de treball, mesurat d’acord amb el sistema de gestió de l’acompliment que s’estableixi. Es percep amb caràcter fix i la seva quantia mínima i màxima queda establerta pel nivell corresponent al lloc de treball.
+
+d) Complement d’antiguitat:
+
+Consisteix en una quantitat igual per a tots els funcionaris, per cada tres anys de servei prestat en l’Administració general.
+
+El temps de servei prestat a l’Administració de justícia i als comuns, pot computar-se a efectes de l’apartat anterior sempre que es tracti de serveis que s’hagin deixat de prestar en el seu lloc de treball anterior, com a màxim dos mesos abans de la seva incorporació a l’Administració general, i sempre que existeixi un conveni de reciprocitat en el reconeixement per part de l’administració de procedència.
+
+e) Complement de responsabilitat addicional (CRA):
+
+Retribueix les funcions assumides en una plaça d’un lloc de treball de nivell superior pel temps que sigui necessari; per tenir dret a la realització d’aquesta prestació de serveis i també al seu pagament és necessària l’autorització de la Secretaria d’Estat de Funció Pública; aquest complement no s’abona quan les funcions esmentades es deixen de realitzar.
+
+f) Complement específic:
+
+Retribueix, en els cossos especials, si escau, les circumstàncies de treball recollides en l’article 18.3.
+
+Les quanties del complement específic s’estableixen en funció del cos especial, d’acord amb els paràmetres definits en l’article 18.3. El complement específic és estructural del lloc.
+
+La persona interessada percep el complement específic quan ocupa una plaça d’un lloc de treball que el tingui assignat, d’acord amb el sistema de classificació del cos especial al qual pertany.
+
+El complement específic no es consolida en l’estructura retributiva, quan el funcionari del cos especial canvia a una plaça d’un lloc de treball del cos general. En aquest cas, l’assignació del nivell correspon a la del sistema de classificació del cos general, d’acord amb els paràmetres de valoració descrits en l’article 18.3.
+
+Les retribucions establertes en els apartats anteriors d’aquest article es perceben en tretze pagues: dotze pagues mensuals, més una paga extraordinària al mes de desembre. La tretzena paga es prorratejarà, en el seu cas, en funció del temps de servei en actiu de l’anualitat.
+
+g) Altres conceptes:
+
+El reglament de sistemes de compensació ha d’identificar i descriure altres conceptes, no inclosos en els complements anteriors, estructurals i no estructurals del lloc de treball, com a conseqüència de circumstàncies laborals i d’organització del treball.
+
+Aquests conceptes solament es compensen quan el funcionari ocupa una plaça d’un lloc de treball que els tingui assignats, i no es consoliden en l’estructura retributiva.
+
+Les retribucions corresponents als conceptes estructurals del lloc de treball a què fa referència aquest apartat es perceben en tretze pagues: dotze pagues mensuals, més una paga extraordinària al mes de desembre, i les corresponents als conceptes no estructurals del lloc de treball es perceben en dotze pagues.
+
+### Capítol VII. Sistema de gestió de l’acompliment
+
+##### Article 63. Finalitats del sistema
+
+La gestió de l’acompliment és un procés sistemàtic i periòdic que permet analitzar i avaluar l’acompliment dels funcionaris en les seves places dels llocs respectius per tal de garantir:
+
+a) La qualitat, mitjançant els estils de treball que contribueixin a la millora dels serveis que es presten al ciutadà d’acord amb els objectius de l’Administració general.
+
+b) L’eficàcia, amb l’obtenció dels millors resultats possibles, mitjançant accions que potenciïn la motivació i un desenvolupament professional adequat.
+
+El sistema ha d’aconseguir una informació objectiva per a una gestió adequada dels recursos humans.
+
+##### Article 64. Elements que integren el sistema
+
+El sistema de gestió de l’acompliment comprèn l’avaluació de dos elements: d’una banda, objectius concrets, i de l’altra, comportaments o competències que convé desenvolupar.
+
+1. Els objectius s’han de considerar com a metes concretes a obtenir per l’ocupant d’una plaça, durant un període de temps determinat i que es desprenen de les funcions del lloc de treball.
+
+2. Les competències comprenen el conjunt de capacitats, habilitats i actituds que tenen les persones, mitjançant les quals incideixen directament en el desenvolupament de les funcions del lloc de treball corresponent a la plaça que ocupen i en el comportament organitzatiu.
+
+##### Article 65. Aplicacions del sistema de gestió de l’acompliment
+
+L’aplicació del sistema de gestió de l’acompliment té incidència en els àmbits següents dels recursos humans de l’Administració general:
+
+1. En la direcció i la gestió dels departaments, proporcionant informació qualificada que, juntament amb els resultants d’altres sistemes d’avaluació dels serveis, permeti orientar adequadament els projectes pressupostaris.
+
+2. En el procés d’evolució de la cultura organitzativa, orientant els funcionaris i les direccions cap al desenvolupament de comportaments i la consecució de resultats coherents amb les finalitats de l’Administració general.
+
+3. En la promoció dels funcionaris, com un reconeixement de l’actuació en el treball que podrà ser valorat com a mèrit per optar a places de llocs de treball de nivell superior.
+
+4. En la compensació retributiva, com a reconeixement als funcionaris amb millors acompliments, a través del complement de millora.
+
+5. En els processos de capacitació i desenvolupament professional dels funcionaris, facilitant informació per a la identificació de les necessitats de formació.
+
+6. En la gestió ordinària, per adoptar mesures correctores als funcionaris que no siguin avaluats satisfactòriament.
+
+### Capítol VIII. Règim i procediment disciplinari
+
+#### Secció primera. Règim disciplinari
+
+##### Article 66. Responsabilitat disciplinària
+
+1. Els funcionaris de l’Administració general han de respectar els deures i les obligacions establerts en la Constitució i en l’ordenament jurídic, i els regulats expressament per la present Llei, i incorren en responsabilitat disciplinària en cas d’incompliment.
+
+2. Es considera falta disciplinària tota acció o omissió que signifiqui l’incompliment de les obligacions dels funcionaris.
+
+La comissió d’una falta implica l’exigència de responsabilitat disciplinària mitjançant la imposició de la sanció que sigui procedent en funció de la tipificació i el procediment que estableix aquesta Llei.
+
+3. La responsabilitat disciplinària no solament serà atribuïble a l’autor de la falta, sinó també als altres funcionaris que consentin, encobreixin o indueixin a l’incompliment de les obligacions.
+
+4. L’exigència de la responsabilitat disciplinària s’entén sense perjudici de la responsabilitat civil o penal en què puguin incórrer els funcionaris per l’incompliment dels seus deures i les seves obligacions.
+
+##### Article 67. Faltes disciplinàries
+
+Les faltes es classifiquen en:
+
+a) Lleus.
+
+b) Greus.
+
+c) Molt greus.
+
+##### Article 68. Faltes lleus
+
+Es consideren faltes lleus:
+
+a) L’incompliment injustificat de l’horari de treball.
+
+b) La falta d’assistència d’un dia, sense autorització del superior o sense motius justificats de força major.
+
+c) Utilitzar equip i materials del servei per a assumptes personals.
+
+d) Conducta negligent o imperícia en la utilització de documentació, materials i equip d’oficina que no impliqui la qualificació de falta greu.
+
+e) La poca diligència o atenció a les instruccions del superior en el compliment de les funcions pròpies del lloc de treball.
+
+f) No assistir amb puntualitat i de forma reiterada a les reunions de treball o accions formatives a què hagin estat convocats pels superiors o establerts en el Reglament de formació del personal de l’Administració general.
+
+g) La incorrecció amb el públic, els superiors, els subordinats i/o els companys.
+
+h) No difondre els coneixements i les habilitats adquirits en seminaris, cursos i altres estudis subvencionats per l’Administració general.
+
+##### Article 69. Faltes greus
+
+Es consideren faltes greus:
+
+a) L’abús d’autoritat en l’exercici de les funcions del lloc de treball, fent ús de les atribucions pròpies o dels béns i recursos de l’Administració general per a fins aliens a les funcions atribuïdes.
+
+b) La indisciplina o la falta d’obediència deguda als superiors i les autoritats.
+
+c) La tolerància dels superiors respecte a la comissió de faltes greus o molt greus pels subordinats.
+
+d) Causar danys culposos als béns de l’Administració general.
+
+e) L’emissió d’informes i acords que amb motiu d’una actuació negligent causin perjudici greu a l’Administració general i als ciutadans i no constitueixi falta molt greu.
+
+f) No mantenir la neutralitat política en l’exercici de les seves funcions.
+
+g) L’acompliment insuficient, segons les disposicions d’aplicació del sistema de gestió de l’acompliment.
+
+h) La desconsideració greu amb el públic, els superiors, els subordinats o els companys.
+
+i) La pertorbació greu del servei.
+
+j) La falta de reserva respecte als assumptes dels quals es tingui coneixement per raó de les funcions pròpies del lloc de treball.
+
+k) Permetre la continuïtat en la prestació de serveis d’un agent de l’Administració de caràcter eventual, una vegada conclosa la duració màxima del contracte.
+
+l) Les accions o les omissions dirigides a evadir els sistemes de control d’horari o a impedir que siguin detectats els incompliments injustificats de la jornada de treball.
+
+m) Haver estat sancionat/ada per la comissió de tres faltes lleus en un període d’un any.
+
+n) Exercir activitats professionals incompatibles o les compatibles sense la deguda autorització, quan no constitueixin falta molt greu.
+
+##### Article 70. Faltes molt greus
+
+Es consideren faltes molt greus:
+
+a) La conducta constitutiva de delicte relacionat amb el servei que causi danys a l’Administració.
+
+b) Tota actuació discriminatòria per raons polítiques, religioses, racials, de sexe o de qualsevol altra condició o circumstància personal o social.
+
+c) L’obstaculització de l’exercici de les llibertats públiques.
+
+d) No respectar o no acatar la Constitució o l’ordenament jurídic; no respectar les institucions del Principat, o efectuar manifestacions o actes que en perjudiquin el bon nom.
+
+e) L’emissió d’informes, l’adopció d’acords i qualsevol acció o omissió manifestament il·legal que causin perjudici molt greu a l’Administració o als ciutadans.
+
+f) L’abandonament del servei durant més de tres dies laborals consecutius.
+
+g) Trobar-se en estat d’embriaguesa o sota els efectes de substàncies estupefaents, en l’exercici de les funcions del lloc de treball.
+
+h) La qualificació d’insuficiència reiterada en l’acompliment del treball avaluat a través del sistema de gestió de l’acompliment.
+
+i) La falta de discreció i reserva respecte als assumptes que es coneguin per raó del lloc de treball quan causi perjudici greu a l’Administració o als ciutadans.
+
+j) Causar danys dolosos als béns de l’Administració general.
+
+k) Rebre donatius, avantatges o privilegis de qualsevol naturalesa per a un mateix o per a tercers, per raó dels serveis encomanats com a funcionari.
+
+l) Haver estat sancionat/ada per la comissió de tres faltes greus en un període d’un any.
+
+m) Exercir activitats professionals d’un altre tipus, públiques o privades, que impedeixin el compliment de les obligacions del funcionari o comprometin la seva imparcialitat i independència.
+
+##### Article 71. Sancions disciplinàries
+
+1. Per raó de les faltes tipificades en la Llei, les sancions que poden ser imposades són les següents:
+
+a) Per la comissió d’una falta lleu:
+
+- Amonestació escrita.
+
+- Suspensió temporal de funcions i pèrdua de salari durant un període màxim de quinze dies.
+
+b) Per la comissió d’una falta greu:
+
+- Reubicació obligatòria a un altre lloc de treball, amb l’adaptació corresponent de l’estructura salarial al nou lloc de treball.
+
+- Suspensió temporal de funcions i de salari de quinze dies a un mes.
+
+- Destitució del càrrec de comandament, amb l’adaptació corresponent de l’estructura salarial al nou lloc de treball.
+
+c) Per la comissió de falta molt greu:
+
+- Suspensió temporal de funcions i de salari d’un mes a sis mesos.
+
+- Acomiadament i inhabilitació, temporal o definitiva, per prestar serveis en qualsevol altre lloc de treball de l’Administració pública.
+
+La comissió d’una falta molt greu pot comportar, addicionalment a la sanció imposada, la reubicació i/o la destitució esmentades en l’apartat de faltes greus.
+
+2. No poden imposar-se sancions per faltes lleus, greus o molt greus si no és en virtut d’expedient disciplinari, instruït conforme al procediment regulat en el present capítol i les normes que el desenvolupen.
+
+3. Entre la falta comesa i la sanció imposada ha d’existir l’adequada proporcionalitat.
+
+4. Quan de la instrucció d’un expedient disciplinari resulti l’existència d’indicis fundats de criminalitat, s’ha de suspendre la tramitació i cal posar-ho en coneixement del Ministeri Fiscal.
+
+##### Article 72. Valoració de les faltes i les sancions disciplinàries
+
+Les graduacions de les faltes i de les sancions disciplinàries es fa d’acord amb els criteris següents:
+
+- Antecedents del funcionari.
+
+- Responsabilitat del lloc de treball corresponent a la plaça que ocupi.
+
+- Gravetat dels danys causats a l’Administració.
+
+- Intencionalitat.
+
+- Grau de participació.
+
+- Reincidència.
+
+##### Article 73. Òrgans competents per imposar les sancions disciplinàries
+
+Les sancions per faltes molt greus són imposades pel Govern; les sancions corresponents a faltes greus, per la Secretaria d’Estat de Funció Pública, i les sancions per faltes lleus, pel director del departament, on estigui adscrit el funcionari.
+
+#### Secció segona. Procediment disciplinari
+
+##### Article 74. Iniciació del procediment
+
+1. El procediment l’inicia d’ofici el cap immediat o el director del departament on estigui adscrit el funcionari, quan es tracti de conductes qualificables de faltes lleus o de faltes greus respectivament.
+
+2. Quan es tracti de conductes qualificables de faltes molt greus, el director del departament ho ha de comunicar, per mitjà d’un informe escrit, a la Secretaria d’Estat de Funció Pública, perquè iniciï l’expedient disciplinari.
+
+3. La resolució d’inici de la tramitació de l’expedient disciplinari s’ha de notificar, per escrit, al funcionari subjecte a expedient.
+
+##### Article 75. Instrucció de l’expedient disciplinari
+
+1. Durant la instrucció de l’expedient disciplinari el cap immediat, el director del departament o la Secretaria d’Estat de Funció Pública, segons si es tracta de faltes lleus, greus o molt greus respectivament, han d’ordenar la pràctica de totes les diligències que siguin adequades per a la determinació i la comprovació dels fets, i en particular de totes aquelles proves, acreditables per qualsevol mitjà admissible en dret, que puguin conduir a l’esclariment i a la determinació de les responsabilitats susceptibles de sanció.
+
+2. Si de la pràctica de totes les diligències en resulta que els fets constatats poden ser constitutius d’una falta per a la qual l’instructor no és competent, aquest ha d’elevar l’expedient disciplinari al seu superior immediat, i informar el funcionari d’aquest fet.
+
+3. Tots els òrgans de l’Administració general estan obligats a facilitar al cap immediat, al director del departament o a la Secretaria d’Estat de Funció Pública, segons el tipus de falta, els informes necessaris per al desenvolupament de les seves actuacions.
+
+4. A la vista de les actuacions practicades i en un termini màxim d’un mes per a les faltes lleus; dos mesos per a les faltes greus, i tres mesos per a les faltes molt greus, comptats a partir de l’inici de l’expedient, el cap immediat, el director del departament o la Secretaria d’Estat de Funció Pública, segons el tipus de falta, ha de formular el plec de càrrecs corresponent, que ha d’incloure els fets imputats, amb expressió de les faltes presumptament comeses i de les sancions que puguin ser aplicables.
+
+En el cas de faltes greus el director del departament o molt greus la Secretaria d’Estat de Funció Pública pot ordenar la suspensió cautelar de funcions de la persona objecte de l’expedient, en els termes previstos en l’article 44 de la present Llei, si s’estima necessari per assegurar la investigació disciplinària i l’eficàcia de la resolució que pugui recaure.
+
+5. El plec de càrrecs s’ha de notificar a la persona interessada, la qual disposa d’un termini de deu dies hàbils per contestar-lo amb les al·legacions que consideri convenients per a la seva defensa i amb l’aportació de tots els documents que cregui oportuns. En aquest tràmit ha de sol·licitar, si ho estima oportú, la pràctica de les proves que entengui necessàries per a la seva defensa.
+
+6. Contestat el plec o transcorregut el termini sense fer-ho, el cap immediat, el director del departament o la Secretaria d’Estat de Funció Pública, segons el tipus de falta, pot ordenar la pràctica de les proves sol·licitades que jutgi oportunes i ho ha de notificar a la persona objecte de l’expedient. Per a la pràctica de les proves disposa del termini màxim d’un mes.
+
+7. Després de realitzar les diligències previstes en els números anteriors, es dóna vista de l’expedient a la persona interessada perquè, en el termini de deu dies hàbils, al·legui el que estimi pertinent per a la seva defensa.
+
+##### Article 76. Resolució de l’expedient
+
+1. La competència per dictar la resolució correspon al director del departament per a les faltes lleus, a la Secretaria d’Estat de Funció Pública per a les faltes greus i al Govern per a les faltes molt greus.
+
+2. Finalitzat el termini concedit per a la vista i les al·legacions a què fa referència l’apartat 7 de l’article anterior, el termini màxim per dictar la resolució és de vint dies hàbils per a les faltes lleus, trenta dies hàbils per a les faltes greus i quaranta-cinc dies hàbils per les faltes molt greus.
+
+3. La resolució de l’òrgan competent ha de ser motivada i no s’hi poden incloure fets diferents dels que han servit de base al plec de càrrecs, sense perjudici de la valoració jurídica que se’n faci.
+
+Si la resolució és sancionadora, ha de determinar-se amb precisió la falta que s’estima comesa, el precepte i la norma en què apareix recollida la falta, el nom del funcionari sancionat i la sanció que s’imposa.
+
+4. Contra la resolució que imposa la sanció pot interposar-se recurs en els termes previstos pel Codi de l’Administració.
+
+##### Article 77. Anotació de les sancions
+
+Les sancions disciplinàries que s’imposin als funcionaris s’han d’anotar en el Registre de la Funció Pública amb indicació de les faltes que les han motivat.
+
+Les anotacions de sancions s’han de cancel·lar d’ofici en el Registre de la Funció Pública i, en tot cas, no computen a efectes de la reincidència, quan hagin transcorregut els terminis següents des de la resolució que les ha imposat:
+
+a) Un any en el cas de faltes lleus.
+
+b) Dos anys en el cas de faltes greus.
+
+c) Tres anys en el cas de faltes molt greus quan no hagin significat acomiadament disciplinari.
+
+#### Secció tercera. Extinció de la responsabilitat disciplinària
+
+##### Article 78. Causes d’extinció de la responsabilitat disciplinària
+
+La responsabilitat disciplinària s’extingeix pel compliment de la sanció, la defunció del funcionari o la prescripció de la falta o de les sancions.
+
+##### Article 79. Extinció de responsabilitat per pèrdua de la condició de funcionari
+
+Si durant la instrucció del procediment disciplinari es produeix la pèrdua de la condició de funcionari de la persona interessada, s’ha de dictar una resolució que declari extingit el procediment i s’ha d’ordenar l’arxiu de les actuacions, llevat que alguna part interessada insti la continuació de l’expedient. No obstant això, la pèrdua de la condició de funcionari no allibera de responsabilitat civil o penal per faltes comeses durant el temps en què el funcionari hagi estat en servei actiu.
+
+##### Article 80. Prescripció de faltes i sancions
+
+1. Les faltes prescriuen al cap de quatre anys en els casos de faltes molt greus; al cap de dos anys en els casos de faltes greus, i al cap de dos mesos en els casos de faltes lleus. El termini de prescripció comença a comptar-se des de la data del fet causant.
+
+El termini de prescripció de les faltes s’interromp per la iniciació de l’expedient disciplinari.
+
+2. Les sancions prescriuen al cap de quatre anys les imposades per faltes molt greus; al cap de dos anys en cas de sancions per faltes greus, i al cap de dos mesos en el cas de sancions per faltes lleus.
+
+El termini de prescripció comença a comptar-se des de l’endemà del dia que s’hagi dictat la resolució sancionadora.
+
+### Capítol IX. Acció social, salut laboral i mútua de funcionaris
+
+##### Article 81. Prestacions passives i mútua
+
+1. Es reconeix als funcionaris i als agents de l’Administració de caràcter indefinit el dret a les prestacions per jubilació, d’acord amb el que estableix la normativa existent sobre aquesta matèria.
+
+2. El Govern pot establir millores a les prestacions passives de l’organisme encarregat de la seguretat social mitjançant l’aprovació de plans dirigits, o bé a col·lectius concrets o bé amb caràcter general, a tots els funcionaris i agents de l’Administració de caràcter indefinit.
+
+En tot cas, per ser beneficiari de les millores, els plans han d’incloure per a la seva efectivitat i el seu finançament, a més de les aportacions de l’Administració general, aportacions dels funcionaris i agents de l’Administració de caràcter indefinit interessats.
+
+3. Reglamentàriament quedarà regulada en tots els aspectes la mútua de funcionaris i agents de l’Administració de caràcter indefinit de l’Administració general.
+
+##### Article 82. Incompatibilitats en la percepció de les prestacions passives
+
+La percepció de prestacions de jubilació, obligatòria o voluntària, a càrrec de l’Administració, és incompatible amb qualsevol altra retribució com a funcionari o agent de l’Administració de caràcter indefinit o eventual, per serveis prestats al sector públic.
+
+En el cas de prestació de serveis a l’Administració per part de funcionaris i/o agents de l’Administració en el marc d’una relació especial, les prestacions de jubilació voluntària i de jubilació obligatòria a càrrec de l’Administració quedaran en suspens durant la durada de la dita relació especial.
+
+##### Article 83. Prevenció de riscos laborals
+
+L’Administració general promou la millora de les condicions de treball del seu personal, dirigida a prevenir, evitar o disminuir la possibilitat de danys derivats del treball.
+
+##### Article 84. Salut laboral
+
+L’Administració general ha de garantir al seu personal i amb el seu consentiment, la vigilància periòdica de l’estat de salut, com a mesura preventiva per evitar riscos laborals. La vigilància és obligatòria i s’ha de fer amb respecte total a la seva intimitat, quan es tracti de verificar si l’estat de salut d’un treballador pot constituir un risc per a ell mateix, per als companys o per a altres persones relacionades amb l’Administració.
+
+## Títol III. Dels agents de l’Administració i del personal de relació especial
+
+### Capítol I. Agents de l’Administració
+
+##### Article 85
+
+1. Aplicació de la Llei als agents de l’Administració de caràcter indefinit:
+
+Coherentment amb el previst en l’apartat 5 de l’article 4, amb agents de l’Administració de caràcter indefinit es poden proveir, contractualment, places vacants o de nova creació, sempre que comportin la realització de funcions de caràcter permanent.
+
+2. La selecció dels agents de l’Administració de caràcter indefinit ha d’estar sotmesa a regles que garanteixin la igualtat, la publicitat i la concurrència, i té com a finalitat incorporar els candidats idonis mitjançant l’aplicació d’un procés de selecció objectiu i adequat als requeriments del lloc de treball.
+
+3. En l’Administració general, amb les adaptacions necessàries a la relació contractual, és d’aplicació a aquests agents de l’Administració de caràcter indefinit, el contingut de:
+
+- Mobilitat.
+
+- Drets.
+
+- Obligacions i incompatibilitats.
+
+- Sistema retributiu.
+
+- Sistema de gestió de l’acompliment.
+
+- Règim i procediment disciplinari.
+
+- Acció social, salut laboral i mútua de funcionaris que regula el títol II per als funcionaris.
+
+##### Article 86. Supòsits per a la contractació d’agents de l’Administració de caràcter eventual
+
+Poden existir agents de l’Administració de caràcter eventual en els supòsits següents:
+
+1. Per substituir un funcionari quan aquest tingui reserva de plaça.
+
+2. Per proveir temporalment una plaça vacant o de nova creació, quan aquesta hagi de ser coberta per funcionaris i fins que sigui proveït definitivament pel procés selectiu previst en aquesta Llei.
+
+3. Per dur a terme una obra o la prestació d’un servei determinat.
+
+##### Article 87. Períodes de duració de la contractació eventual
+
+Per establir el termini de duració de la contractació d’eventuals, s’han d’observar els principis següents:
+
+1. La contractació per a la substitució temporal d’un funcionari pot arribar com a màxim fins a la data de la reincorporació d’aquest a la plaça reservada.
+
+En el supòsit que el titular de la plaça no s’hi reincorpori, l’Administració pot optar:
+
+a) Per extingir la relació eventual de la persona que estigui ocupant la plaça en el moment d’aprovar la resolució que declari la renúncia.
+
+b) Per mantenir la relació eventual per un període màxim de nou mesos i sempre que s’iniciï el procés selectiu per a la provisió de la plaça conforme a l’establert en la present Llei i les normes que la desenvolupin.
+
+2. La contractació per ocupar una plaça vacant o de nova creació subjecta a procés selectiu, pot dur-se a terme, per un període màxim de nou mesos, i en tot cas, fins a la cobertura de la plaça vacant o de nova creació corresponent.
+
+3. La contractació per a la realització d’una obra determinada és pot fer, com a màxim, fins a l’acabament de l’obra.
+
+4. La contractació per a la prestació d’un servei determinat ha de ser de caràcter temporal i pot realitzar-se amb caràcter d’urgència o integrar-se en un projecte de treball concret; el termini de duració de la contractació pot ser el període estimat d’una o més fases o tasques determinades incloses en aquest període, o com a màxim, el període complet definit prèviament per a la seva execució; la durada màxima d’aquest contracte és de 18 mesos.
+
+5. La substitució d’un agent de l’Administració de caràcter eventual, quan hagi causat baixa a iniciativa pròpia o a la de l’Administració abans del període fixat en el contracte, no altera aquest període, de manera que pot contractar-se la substitució pel període que resti entre la baixa i el que inicialment s’hagi fixat contractualment.
+
+##### Article 88. Requisits previs a la contractació dels agents de l’Administració de caràcter eventual
+
+1. Amb caràcter previ a la contractació eventual, s’ha d’acreditar:
+
+a) L’existència de crèdit pressupostari a aquest fi.
+
+b) Que les persones que es volen contractar s’adaptin als requeriments del lloc de treball i/o a les funcions que desenvolupin.
+
+2. Que en el supòsit del contracte eventual per a la prestació d’un servei determinat, estiguin expressament justificats els projectes de treball concrets o les raons d’urgència o necessitat que motiven la contractació; aquesta justificació, que ha d’incloure les característiques principals del contracte, s’ha de presentar a la Secretaria d’Estat de Funció Pública.
+
+##### Article 89. Retribució dels eventuals
+
+Les retribucions dels eventuals són les que es fixin en el seu contracte de treball, d’acord amb la política retributiva establerta.
+
+##### Article 90. Efectes de l’extinció de la relació dels agents de l’Administració de caràcter eventual
+
+Conclòs el període de duració de la contractació eventual, s’extingeix automàticament la relació de treball sense més efectes que la liquidació dels havers acreditats i no percebuts.
+
+L’extinció de la relació de treball, en el cas que en el contracte no figuri una data certa d’acabament, ha d’anar precedida d’un preavís mínim de quinze dies naturals que l’Administració ha de comunicar al treballador. L’incompliment total o parcial del preavís únicament obligarà a l’Administració a abonar al treballador, la retribució proporcional al nombre de dies que no han estat objecte del preavís amb un límit màxim de quinze.
+
+La continuïtat en la prestació de serveis per l’empleat eventual, una vegada conclosa la duració màxima, no implica, en cap cas la seva integració com a funcionari ni la transformació del contracte temporal en indefinit, i sí que comporta l’exigència de les responsabilitats disciplinàries que escaiguin als funcionaris responsables d’aquesta situació.
+
+L’acabament de la relació eventual amb anterioritat al termini establert en el contracte solament es pot produir amb la justificació adequada per part de l’Administració.
+
+##### Article 91. Formalització dels contractes
+
+En l’Administració general, correspon a la Secretaria d’Estat de Funció Pública formalitzar les contractacions dels agents de l’Administració. Així mateix, aquest òrgan és el responsable de comunicar, si és el cas, l’extinció del contracte.
+
+En l’Administració de justícia i en els comuns, el secretari general és l’òrgan competent per formalitzar la contractació i l’extinció de la relació de treball dels agents de l’Administració.
+
+### Capítol II. Personal de relació especial
+
+##### Article 92. Supòsits del personal de relació especial
+
+És personal de relació especial aquella persona que, amb el caràcter de confiança, és nomenada lliurement com a assessor o assistent personal del cap de Govern, els ministres, el president del Consell Superior de la Justícia i els cònsols dels comuns, o s’integra en els seus gabinets d’assistència personal i tècnica.
+
+##### Article 93. Cessament del personal de relació especial
+
+El personal de relació especial pot ser destituït en qualsevol moment pel titular del càrrec que el va nomenar, i cessa quan cessi el titular.
+
+##### Article 94. Nomenament i cessament com a personal de relació especial d’un funcionari
+
+Quan la persona nomenada com a personal de relació especial té la condició de funcionari, se suspèn aquesta última relació de treball amb reserva de la plaça de la qual és titular com a funcionari en la seva administració d’origen.
+
+Una vegada cessi com a personal de relació especial, el funcionari pot reintegrar-se a la seva plaça i li ha de ser reconegut, a tots els efectes, el temps de servei prestat.
+
+## Títol IV. Del règim de la funció pública de l’Administració de justícia
+
+##### Article 95. Criteris generals
+
+Sense perjudici de les normes de la present Llei que els són aplicables directament, en l’Administració de justícia s’ha de regular el règim estatutari de la seva funció pública pròpia.
+
+##### Article 96. Normes de la Llei aplicables directament a l’Administració de justícia
+
+Són aplicables directament als funcionaris de l’Administració de justícia les normes contingudes en els títols I i III, de la present Llei, així com els articles 25 (principis generals del sistema de selecció), 26 (requisits generals), 30 (bases de la convocatòria), 37 (adquisició de la condició de funcionari), 40 (tipus de situacions), 46 (causes de la pèrdua de la condició de funcionari), 47 (renúncia), 57 (drets generals), 60 (obligacions), 61 (incompatibilitats) i 83 (incompatibilitats en la percepció de les prestacions passives) del títol II, en què les referències a òrgans de l’Administració general, s’entenen substituïdes per la menció Consell Superior de la Justícia. També és aplicable als funcionaris de l’Administració de justícia el contingut de l’apartat 2 de la disposició addicional primera.
+
+## Títol V. Del règim de la funció pública dels comuns
+
+##### Article 97. Criteris generals
+
+Sense perjudici de les normes de la present Llei que els són aplicables directament, els comuns han de regular el règim estatutari de la seva funció pública pròpia.
+
+##### Article 98. Normes de la Llei aplicables directament per als comuns
+
+Són aplicables directament als comuns les normes contingudes en els títols I i III, de la present Llei, així com els articles 25 (principis generals del sistema de selecció), 26 (requisits generals), 30 (bases de la convocatòria), 37 (adquisició de la condició de funcionari), 40 (tipus de situacions), 46 (causes de la pèrdua de la condició de funcionari), 47 (renúncia), 56 (drets generals), 59 (obligacions), 60 (incompatibilitats) i 82 (incompatibilitats en la percepció de les prestacions passives) del títol II, en què les referències a òrgans de l’Administració general, s’entenen substituïdes pels òrgans comunals corresponents. També és aplicable als comuns el contingut de l’apartat 2 de la disposició addicional primera.
+
+## Disposició addicional primera. Integració dels funcionaris i dels contractuals
+
+1. Els funcionaris de l’Administració general s’integraran en els grups i les ocupacions professionals tipus del sistema de classificació, en funció dels llocs de treball corresponents a les places que ocupin en el moment de l’entrada en vigor de la Llei.
+
+2. Adquiriran la condició de funcionari, en els termes previstos en aquesta Llei, els qui, en el moment de l’entrada en vigor, estiguin ocupant com a contractuals, funcions de caràcter permanent.
+
+Els contractuals a qui es refereix el paràgraf anterior, que no tinguin la nacionalitat andorrana, adquiriran la condició de funcionaris, sempre que faci més de cinc anys seguits que treballen a l’Administració general i que posseeixin l’autorització de residència al Principat. Tanmateix, serà causa de pèrdua d’aquesta condició la no possessió de l’autorització de residència al Principat.
+
+La Secretaria d’Estat de Funció Pública haurà d’establir els procediments per a la incorporació com a funcionaris del personal a què es refereix l’apartat anterior.
+
+## Disposició addicional segona. Integració dels directors
+
+Els funcionaris que hagin ocupat places de lloc de treball de director amb anterioritat a l’entrada en vigor d’aquesta Llei, o bé que estiguin ocupant aquestes places en el moment de la seva entrada en vigor, quedaran classificats en el Grup A o en el Grup B i en les ocupacions professionals tipus que el Govern, a proposta de la Secretaria d’Estat de Funció Pública, consideri adequats al perfil professional corresponent, i en el cas de cessament, els serà d’aplicació l’article 35 de la Llei.
+
+## Disposició addicional tercera. Normativa dels cossos especials
+
+La part de les disposicions vigents referent a la creació, la denominació i la missió dels cossos especials de banders, duana, ensenyament i penitenciaria queda incorporada a l’ordenament jurídic general amb rang de llei.
+
+Dins els dotze mesos següents a l’entrada en vigor de la Llei, s’haurà d’aprovar la normativa de funcionament dels cossos especials de l’Administració general que sigui necessària.
+
+Fins que no s’aprovi la normativa esmentada, continuarà vigent la normativa anterior que els sigui aplicable, en tot allò que no contradigui o vulneri l’establert per la present Llei.
+
+## Disposició addicional quarta. Personal dels cossos especials
+
+Els cossos especials ja existents a què fa referència l’article 16 de la present Llei, únicament inclouen el personal amb funcions de bander, duaneres, d’ensenyament, de prevenció i extinció d’incendis i salvament, penitenciàries i policíaques, pròpiament dites.
+
+Pel que fa al cos especial d’ensenyament, s’entén com a personal amb funcions d’ensenyament aquell que està regulat pels Estatuts del personal docent dependent del Govern d’Andorra, de data 23 de desembre de 1993, modificat en data 19 de juliol de 1995; dels ajudants de mestre d’ensenyament maternal, de data 23 de desembre de 1993; del personal amb responsabilitat de gestió administrativa i/o pedagògica dependent del Govern d’Andorra, de data 11 de setembre de 1996, i del personal del Servei d’Orientació Educativa i Intervenció Psicopedagògica.
+
+## Disposició addicional cinquena. Organismes autònoms i entitats parapúbliques
+
+Als funcionaris procedents de serveis inicialment dependents del Consell General o del Govern, que a l’entrada en vigor de la Llei estiguin prestant serveis en algun organisme autònom o alguna entitat parapública els serà d’aplicació el present text legal. Quan es produeixi una plaça vacant d’algun d’aquests llocs de treball, serà coberta d’acord amb les normes de constitució, o aprovades en el desenvolupament, de cada organisme o entitat parapública.
+
+## Disposició addicional sisena. Quanties dels conceptes retributius
+
+1. En el cos general i el cos especial d’ensenyament les quanties de la base retributiva, el complement de lloc i el màxim complement de millora són les que figuren a l’annex 1 i 2 de la Llei.
+
+2. En la resta dels cossos especials les quanties de la base retributiva, el complement de lloc, el complement específic i el màxim complement de millora són les que figuren als annexos 3, 4, 5, 6 i 7 de la Llei.
+
+3. El valor de cada paga mensual per trienni, a què fa referència la lletra d) de l’article 62, serà de tretze mil pessetes, aplicant, com a mínim, l’augment anual de l’índex de preus de consum (IPC).
+
+4. La Llei que aprovi els pressupostos de cada exercici haurà d’establir els augments de tots els conceptes retributius inclosos en l’estructura salarial establerta a l’article 62.
+
+Els conceptes de la base retributiva, el complement de lloc, el complement específic i el complement de millora; i també el complement personal d’antiguitat i els conceptes que estableixi el reglament de sistemes de compensació han de tenir sempre el mateix augment.
+
+## Disposició addicional setena. Manual del sistema de gestió de l’acompliment
+
+La Secretaria d’Estat de Funció Pública determinarà el moment en què el sistema de gestió de l’acompliment hagi de ser implantat. Per això, i per garantir la qualitat, l’objectivitat i l’equitat de les avaluacions, en el termini màxim d’un any, a partir de la publicació de la present Llei, haurà de proposar al Govern per a la seva aprovació, el Manual del sistema de gestió de l’acompliment dels funcionaris de l’Administració general. Aquest Manual haurà de contenir la metodologia que hagi de ser aplicada de forma general i homogènia.
+
+## Disposició addicional vuitena. Prestacions de jubilació del cos general i dels cossos especials
+
+Les prestacions per jubilació dels funcionaris i dels agents de l’Administració general de caràcter indefinit es regularan per la Llei qualificada de creació i de regulació del pla de pensions de la funció pública o normativa que la substitueixi.
+
+## Disposició addicional novena. Dels agents administratius del Cos especial de policia
+
+Els agents administratius ingressats abans del 30 de gener de 1982 al cos especial de policia, mantenen el dret a jubilar-se en la forma reconeguda per la norma transitòria del Decret del 21 d’agost de 1989.
+
+## Disposició addicional desena. Manual funcional d’ocupacions professionals tipus
+
+El Govern, a proposta de la Secretaria d’Estat de Funció Pública, haurà d’aprovar, en el termini d’un any a partir de la publicació de la present Llei, el Manual funcional d’ocupacions professionals tipus.
+
+## Disposició transitòria primera. Complement d’absorció
+
+Els funcionaris als quals sigui d’aplicació el nou sistema retributiu previst en aquesta Llei conservaran les retribucions fixes que perceben en l’actualitat amb l’excepció de l’antiguitat, que es respectarà d’acord amb el que estableix la disposició transitòria segona; per aquest motiu, es crea un complement d’absorció que recollirà les diferències salarials que existeixin, a favor del funcionari, derivades de l’estructura retributiva anterior.
+
+El complement d’absorció, per la seva naturalesa, serà compensable i absorbible, conforme als criteris que, d’acord amb els intervals retributius i el grau d’absorció, estableixi la Llei de pressupost per a cada exercici; la compensació i l’absorció esmentades es faran efectives amb els increments futurs dels conceptes del nou sistema, i quan es promocioni a places de llocs de treball de nivell superior al de la plaça de què cada persona sigui titular.
+
+El complement d’absorció haurà de figurar a la nòmina amb aquest nom i es percebrà en tretze pagaments de la mateixa quantia.
+
+## Disposició transitòria segona. Complement personal d’antiguitat
+
+1. Es reconeixerà als funcionaris en servei actiu el temps de servei prestat amb anterioritat a l’entrada en vigor del nou sistema retributiu, mitjançant un complement personal d’antiguitat.
+
+2. Al personal que fins a la data d’entrada en vigor de la Llei se li hagi calculat l’antiguitat mitjançant triennis, li correspondrà un complement personal d’antiguitat que incorporarà les quanties següents:
+
+a) La quantia total reconeguda per antiguitat amb inclusió de l’últim trienni reconegut.
+
+b) La quantia que generi el proper trienni al qual tingui dret, calculada amb dues fórmules diferents:
+
+Pel període transcorregut abans de l’aprovació de la Llei s’aplicarà el càlcul d’acord amb la normativa anterior.
+
+Pel període transcorregut després de l’aprovació de la Llei s’aplicarà el càlcul d’acord amb la present Llei.
+
+3. Al personal que, fins a l’aprovació de la Llei, se li hagi calculat l’antiguitat mitjançant quadriennis i quinquennis, li correspondrà un complement personal d’antiguitat per les quantitats següents:
+
+a) Quantia reconeguda per antiguitat fins a l’últim quadrienni o quinquenni reconegut.
+
+b) Quantia que resulti d’aplicar el càlcul següent:
+
+Pel temps transcorregut des de l’últim quadrienni o quinquenni reconegut fins a la data d’entrada en vigor de la Llei, s’aplicarà la normativa anterior. A partir de l’entrada en vigor de la present Llei s’iniciarà un nou còmput del temps de servei, mitjançant triennis i conforme al sistema previst per la Llei.
+
+4. El complement personal d’antiguitat, haurà de figurar amb aquesta denominació dins la nòmina i s’abonarà en tretze pagaments de la mateixa quantia.
+
+## Disposició transitòria tercera. Absorció del complement de reconeixement de la funció directiva
+
+Per als directors als quals per aplicació del nou sistema retributiu hagi estat assignat un complement d’absorció, i als quals una vegada cessat en el seu càrrec, se’ls reconegui el complement de reconeixement de la funció directiva, segons el previst en l’article 35 les quanties d’aquest últim complement reduiran les que els corresponen pel complement d’absorció.
+
+## Disposició transitòria quarta. Dels directors dels cossos especials
+
+Els funcionaris que ocupin places de llocs de treball de director en algun dels cossos especials esmentats en l’article 16, mantenen les condicions específiques del cos especial on estiguin adscrits a l’entrada en vigor de la Llei, fins a la data de la jubilació.
+
+## Disposició transitòria cinquena. Complement específic
+
+Els funcionaris dels cossos especials que, a l’entrada en vigor de la Llei, ocupin places de llocs de treball que tinguin assignada una retribució per complement específic, mantindran la retribució d’aquest complement quan canviïn a una altra plaça d’un altre lloc de treball, tant del cos general com d’un altre cos especial que tingui assignat un complement específic inferior; tot i això, les quanties que es garanteixen s’integraran en els complements corresponents a cada cos, d’acord amb el que estableix l’article 62 de la present Llei i, en el cas de superar la retribució màxima de tots els complements, l’excés resultant passarà a formar part del complement d’absorció.
+
+En aquests casos, l’excés resultant no estarà subjecte a la disposició transitòria primera.
+
+## Disposició transitòria sisena. Complement de responsabilitat addicional
+
+Els funcionaris que, a l’entrada en vigor de la Llei, ocupin places de llocs de treball que tinguin assignades retribucions per complement de responsabilitat addicional, mantindran la retribució d’aquest complement quan canviïn a una altra plaça d’un lloc de treball que no tingui assignat aquest complement, solament en els casos en què aquest complement hagi estat inclòs per al càlcul de la seva posició retributiva.
+
+Les quanties que es garanteixen s’integraran en els complements corresponents a cada cos, d’acord amb el que estableix l’article 63 de la present Llei i, en el cas de superar la retribució màxima de tots els complements, l’excés resultant passarà a formar part del complement d’absorció.
+
+En aquests casos, l’excés resultant no estarà subjecte a la disposició transitòria primera.
+
+## Disposició transitòria setena. Comissió de serveis
+
+Els funcionaris que, a l’entrada en vigor de la Llei, ocupin llocs de treball en situació de comissió de serveis, tenen un període de tres anys per optar:
+
+a) Retornar a la plaça del lloc de treball del qual provenien.
+
+b) Adscriure’s definitivament a la plaça del lloc de treball que estiguin ocupant en comissió de serveis. En aquest supòsit, únicament percebran les retribucions que estiguin assignades al lloc de treball referit.
+
+## Disposició transitòria vuitena. Normativa de la funció pública de l’Administració de justícia
+
+1. Els treballadors que, a l’entrada en vigor de la Llei, estiguin prestant servei amb caràcter eventual, continuaran vinculats a l’Administració de justícia d’acord amb el contingut dels seus contractes de treball respectius, i els seran aplicables les disposicions vigents en el moment de la formalització dels contractes.
+
+Les noves contractacions d’agents de l’Administració i els nomenaments de personal de relació especial hauran de realitzar-se d’acord amb el que estableixen els títols I i III.
+
+2. Abans del 31 de desembre del 2002, s’haurà d’aprovar en l’Administració de justícia la normativa de la seva funció pública pròpia en tot allò no regulat pels títols I, III, i els articles del títol II que els són aplicables directament.
+
+3. Fins que no s’aprovi en l’Administració de justícia la normativa de la seva funció pública pròpia, seran aplicables als seus funcionaris, a més de les normes a les quals fa referència l’article 96, les que fins a la data s’hagin aplicat en el seu àmbit respectiu.
+
+No obstant això, l’òrgan de govern de l’Administració de justícia podrà decidir que, fins que no s’aprovi la seva normativa, s’apliqui als seus funcionaris, en allò que sigui procedent, el contingut del títol II. L’acord que ho decideixi haurà de ser publicat en el Butlletí Oficial del Principat d’Andorra.
+
+4. Si s’exhaureix el termini al qual es refereix el número 2 de la present disposició sense que s’hagi procedit a aprovar en l’Administració de justícia la normativa de la seva funció pública pròpia, el règim estatutari d’aplicació als seus funcionaris haurà de ser el previst en la present Llei.
+
+## Disposició transitòria novena. Normativa de la funció pública dels comuns
+
+1. Els treballadors que, a l’entrada en vigor de la Llei, estiguin prestant servei amb caràcter eventual, continuaran vinculats als comuns d’acord amb el contingut dels seus contractes de treball respectius, i els seran d’aplicació les disposicions vigents en el moment de la formalització dels contractes.
+
+Les noves contractacions d’agents de l’Administració i els nomenaments de personal de relació especial hauran de realitzar-se d’acord amb el que estableixen els títols I i III.
+
+2. Abans del 31 de desembre del 2002, els comuns hauran d’aprovar la normativa de la seva funció pública pròpia en tot allò no regulat pels títols I, III, i els articles del títol II que els són aplicables directament.
+
+3. Fins que cadascun dels comuns no aprovi la normativa de la seva funció pública pròpia, seran aplicables als seus funcionaris, a més de les normes a les quals fa referència l’article 98, les que fins a la data s’hagin aplicat en els seus àmbits respectius.
+
+No obstant això, els òrgans de govern dels comuns podran decidir que, fins que no aprovin la seva normativa, s’apliqui als seus funcionaris, en allò que sigui procedent, el contingut del títol II. L’acord que ho decideixi haurà de ser publicat en el Butlletí Oficial del Principat d’Andorra.
+
+4. Si s’exhaureix el termini al qual es refereix el número 2 de la present disposició sense que el comú corresponent hagi procedit a aprovar la normativa de la seva funció pública pròpia, el règim estatutari d’aplicació als seus funcionaris haurà de ser el previst en la present Llei.
+
+## Disposició transitòria desena. Normativa dels organismes autònoms i entitats parapúbliques
+
+Abans del 31 de desembre del 2002, s’haurà d’aprovar la normativa relativa al personal, que sigui necessària per un funcionament correcte dels organismes autònoms i les entitats parapúbliques.
+
+## Disposició derogatòria
+
+Queden derogades totes les disposicions de rang igual o inferior que s’oposin a l’establert en la present Llei.
+
+## Disposició final
+
+Aquesta Llei entrarà en vigor l’endemà de la seva publicació en el Butlletí Oficial del Principat d’Andorra.”
+
+Cosa que es fa pública per a coneixement general.
+
+Andorra la Vella, 21 de juny del 2017
+
+Antoni Martí Petit   Cap de Govern
+
+[Document associat](https://www.bopa.ad/bopa/029035/Pagines/GL20170525_15_28_28.aspx)
+
+[Annex.pdf](https://www.bopa.ad/bopa/029042/Documents/Annex_GL20170626_09_34_01.pdf)

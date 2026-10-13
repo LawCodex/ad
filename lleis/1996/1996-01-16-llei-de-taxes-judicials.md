@@ -3,7 +3,7 @@ title: "Llei de taxes judicials, de 20-12-95."
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-01-19
+date: 1995-12-20
 published: 1996-01-16
 bopa: "BOPA núm. 6, any 1996"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei de regulació dels criteris de solvència i de liquiditat de les en
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-02-28
+date: 1996-02-29
 published: 1996-03-26
 bopa: "BOPA núm. 22, any 1996"
 status: unknown

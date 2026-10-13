@@ -1,19 +1,19 @@
 ---
-title: "Constitució del Principat d'Andorra, de 28-4-93."
+title: "Constitució del Principat d'Andorra"
 type: constitution
 jurisdiction: ad
 language: ca
-date: 1993-04-27
+date: 1993-04-28
 published: 1993-05-03
 bopa: "BOPA núm. 24, any 1993 (extra)"
-status: unknown
+status: in_force
 consolidated: false
 source: "https://www.bopa.ad/Documents/Detall?doc=7586"
 document_url: "https://bopadocuments.blob.core.windows.net/bopa-documents/005024/html/7586.html"
 retrieved: 2026-10-13
 ---
 
-# Constitució del Principat d'Andorra, de 28-4-93.
+# Constitució del Principat d'Andorra
 
 Constitució del Principat d'Andorra
 

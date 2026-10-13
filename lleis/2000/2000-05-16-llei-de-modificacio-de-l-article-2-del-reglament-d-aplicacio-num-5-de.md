@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 2 del Reglament d'aplicació núm. 5 d
 type: act
 jurisdiction: ad
 language: ca
-date: 2000-04-12
+date: 2000-04-13
 published: 2000-05-16
 bopa: "BOPA núm. 24, any 2000"
 status: unknown

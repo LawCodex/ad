@@ -3,7 +3,7 @@ title: "Llei de modificació dels articles 1, 3, 5 i 9 del Reglament d'Aplicaci�
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-10-11
+date: 1989-10-12
 published: 1989-10-19
 bopa: "BOPA núm. 25, any 1989"
 status: unknown

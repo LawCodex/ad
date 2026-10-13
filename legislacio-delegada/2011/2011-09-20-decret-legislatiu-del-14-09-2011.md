@@ -3,7 +3,7 @@ title: "Decret legislatiu del 14-09-2011, de publicació del text refós de la L
 type: legislative_decree
 jurisdiction: ad
 language: ca
-date: 2011-09-13
+date: 2010-12-16
 published: 2011-09-20
 bopa: "BOPA núm. 57, any 2011"
 status: unknown

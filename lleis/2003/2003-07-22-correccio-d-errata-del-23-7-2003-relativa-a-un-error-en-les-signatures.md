@@ -3,7 +3,7 @@ title: "Correcció d'errata del 23-7-2003 relativa a un error en les signatures 
 type: other
 jurisdiction: ad
 language: ca
-date: 2003-07-22
+date: 2003-06-12
 published: 2003-07-22
 bopa: "BOPA núm. 57, any 2003"
 status: unknown

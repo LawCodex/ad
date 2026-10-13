@@ -3,7 +3,7 @@ title: "Llei de suplement de crèdit per fer front a les despeses derivades de l
 type: act
 jurisdiction: ad
 language: ca
-date: 1998-06-03
+date: 1998-06-04
 published: 1998-07-07
 bopa: "BOPA núm. 33, any 1998"
 status: unknown

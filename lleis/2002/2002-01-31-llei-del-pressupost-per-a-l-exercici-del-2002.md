@@ -3,7 +3,7 @@ title: "Llei del pressupost per a l'exercici del 2002, de 16-1-2002."
 type: act
 jurisdiction: ad
 language: ca
-date: 2002-01-15
+date: 2002-01-16
 published: 2002-01-31
 bopa: "BOPA núm. 8, any 2002 (extra)"
 status: unknown

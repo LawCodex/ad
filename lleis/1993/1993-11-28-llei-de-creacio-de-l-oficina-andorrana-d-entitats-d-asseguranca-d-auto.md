@@ -3,7 +3,7 @@ title: "Llei de creació de l'Oficina Andorrana d'Entitats d'Assegurança d'Auto
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-11-03
+date: 1993-11-04
 published: 1993-11-28
 bopa: "BOPA núm. 64, any 1993 (extra)"
 status: unknown

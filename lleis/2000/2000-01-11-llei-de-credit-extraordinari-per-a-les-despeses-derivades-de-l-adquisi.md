@@ -3,7 +3,7 @@ title: "Llei de crèdit extraordinari per a les despeses derivades de l'adquisic
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-12-15
+date: 1999-12-16
 published: 2000-01-11
 bopa: "BOPA núm. 2, any 2000"
 status: unknown

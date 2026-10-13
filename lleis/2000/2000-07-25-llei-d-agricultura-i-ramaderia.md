@@ -3,7 +3,7 @@ title: "Llei d'agricultura i ramaderia, de 22-6-2000."
 type: act
 jurisdiction: ad
 language: ca
-date: 2000-06-21
+date: 2000-06-22
 published: 2000-07-25
 bopa: "BOPA núm. 41, any 2000 (extra)"
 status: unknown

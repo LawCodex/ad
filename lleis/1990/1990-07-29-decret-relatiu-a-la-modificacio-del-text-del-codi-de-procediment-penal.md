@@ -3,7 +3,7 @@ title: "Decret relatiu a la modificació del text del Codi de Procediment Penal 
 type: code
 jurisdiction: ad
 language: ca
-date: 1990-07-15
+date: 1989-02-16
 published: 1990-07-29
 bopa: "BOPA núm. 21, any 1990"
 status: unknown

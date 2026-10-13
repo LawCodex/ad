@@ -3,7 +3,7 @@ title: "Llei de regulació del règim disciplinari del sistema financer, de 27-1
 type: act
 jurisdiction: ad
 language: ca
-date: 1997-11-26
+date: 1997-11-27
 published: 1997-12-30
 bopa: "BOPA núm. 78, any 1997"
 status: unknown

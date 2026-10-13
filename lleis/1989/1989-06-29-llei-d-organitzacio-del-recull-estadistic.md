@@ -3,7 +3,7 @@ title: "Llei d'organització del Recull Estadístic, de 12-6-89."
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-06-11
+date: 1989-06-12
 published: 1989-06-29
 bopa: "BOPA núm. 13, any 1989"
 status: unknown

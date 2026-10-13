@@ -3,7 +3,7 @@ title: "Llei qualificada del matrimoni, de 30-6-95."
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1995-06-29
+date: 1995-06-30
 published: 1995-08-01
 bopa: "BOPA núm. 42, any 1995"
 status: unknown

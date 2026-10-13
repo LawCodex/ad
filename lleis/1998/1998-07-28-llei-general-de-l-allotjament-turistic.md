@@ -3,7 +3,7 @@ title: "Llei general de l'allotjament turístic, de 30-6-98."
 type: act
 jurisdiction: ad
 language: ca
-date: 1998-06-29
+date: 1998-06-30
 published: 1998-07-28
 bopa: "BOPA núm. 37, any 1998"
 status: unknown

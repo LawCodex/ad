@@ -3,7 +3,7 @@ title: "Llei de modificació dels Estatuts de l'Institut d'Estudis Andorrans, de
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-10-15
+date: 1996-10-16
 published: 1996-11-19
 bopa: "BOPA núm. 77, any 1996"
 status: unknown

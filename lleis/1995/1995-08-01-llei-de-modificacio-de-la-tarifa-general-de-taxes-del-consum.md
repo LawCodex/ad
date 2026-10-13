@@ -3,7 +3,7 @@ title: "Llei de modificació de la tarifa general de taxes del consum, de 30-6-9
 type: act
 jurisdiction: ad
 language: ca
-date: 1995-06-29
+date: 1995-06-30
 published: 1995-08-01
 bopa: "BOPA núm. 42, any 1995"
 status: unknown

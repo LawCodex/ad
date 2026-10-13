@@ -3,7 +3,7 @@ title: "Llei de creació de la cambra de Comerç, Indústria i Serveis d'Andorra
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-09-02
+date: 1993-09-03
 published: 1993-09-27
 bopa: "BOPA núm. 51, any 1993 (extra)"
 status: unknown

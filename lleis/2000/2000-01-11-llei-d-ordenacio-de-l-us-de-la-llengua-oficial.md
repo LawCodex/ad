@@ -3,7 +3,7 @@ title: "Llei d'ordenació de l'ús de la llengua oficial, de 16-12-99."
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-12-15
+date: 1999-12-16
 published: 2000-01-11
 bopa: "BOPA núm. 2, any 2000"
 status: unknown

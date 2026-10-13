@@ -3,7 +3,7 @@ title: "Decret pel qual es publica el Codi Penal, d'11-7-90."
 type: code
 jurisdiction: ad
 language: ca
-date: 1990-07-10
+date: 1990-07-11
 published: 1990-07-29
 bopa: "BOPA núm. 21, any 1990"
 status: unknown

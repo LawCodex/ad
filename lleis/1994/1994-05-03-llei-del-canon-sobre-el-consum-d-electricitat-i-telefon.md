@@ -3,7 +3,7 @@ title: "Llei del cànon sobre el consum d'electricitat i telèfon, de 5-4-94."
 type: act
 jurisdiction: ad
 language: ca
-date: 1994-04-04
+date: 1994-04-05
 published: 1994-05-03
 bopa: "BOPA núm. 32, any 1994"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 2 del reglament d'aplicació núm. 6 i
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-12-22
+date: 1991-12-23
 published: 1991-12-29
 bopa: "BOPA núm. 201, any 1991 (extra)"
 status: unknown

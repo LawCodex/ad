@@ -3,7 +3,7 @@ title: "Llei de modificació de la llei de radiodifusió i televisió, de 13-7-9
 type: act
 jurisdiction: ad
 language: ca
-date: 1992-07-12
+date: 1992-07-13
 published: 1992-07-28
 bopa: "BOPA núm. 31, any 1992"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei del Pressupost per al 1990, de 24-7-90."
 type: act
 jurisdiction: ad
 language: ca
-date: 1990-07-23
+date: 1990-07-24
 published: 1990-08-09
 bopa: "BOPA núm. 22, any 1990"
 status: unknown

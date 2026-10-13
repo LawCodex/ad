@@ -3,7 +3,7 @@ title: "Llei de suplement de crèdit per un import de 85.920.450 ptes, als efect
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-11-29
+date: 1989-11-30
 published: 1989-12-19
 bopa: "BOPA núm. 30, any 1989"
 status: unknown

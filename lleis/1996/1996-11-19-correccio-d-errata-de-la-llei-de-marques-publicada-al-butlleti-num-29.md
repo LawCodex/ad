@@ -3,7 +3,7 @@ title: "Correcció d'errata de la Llei de marques publicada al butlletí núm. 2
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-10-15
+date: 1995-05-24
 published: 1996-11-19
 bopa: "BOPA núm. 77, any 1996"
 status: unknown

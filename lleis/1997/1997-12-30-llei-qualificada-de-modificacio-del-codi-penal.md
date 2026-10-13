@@ -3,7 +3,7 @@ title: "Llei qualificada de modificació del Codi Penal, de 27-11-97."
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1997-11-26
+date: 1997-11-27
 published: 1997-12-30
 bopa: "BOPA núm. 78, any 1997"
 status: unknown

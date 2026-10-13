@@ -3,7 +3,7 @@ title: "Llei sobre l'administració institucional dels serveis socials, de 30-11
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-11-29
+date: 1989-11-30
 published: 1989-12-19
 bopa: "BOPA núm. 30, any 1989"
 status: unknown

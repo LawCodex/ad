@@ -3,7 +3,7 @@ title: "Llei dels agents i gestors immobiliaris, de 15-12-2000."
 type: act
 jurisdiction: ad
 language: ca
-date: 2000-12-14
+date: 2000-12-15
 published: 2001-01-09
 bopa: "BOPA núm. 3, any 2001"
 status: unknown

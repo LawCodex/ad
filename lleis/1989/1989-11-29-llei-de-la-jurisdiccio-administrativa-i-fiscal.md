@@ -3,7 +3,7 @@ title: "Llei de la jurisdicció administrativa i fiscal, de 15-11-89."
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-11-14
+date: 1989-11-15
 published: 1989-11-29
 bopa: "BOPA núm. 28, any 1989"
 status: unknown

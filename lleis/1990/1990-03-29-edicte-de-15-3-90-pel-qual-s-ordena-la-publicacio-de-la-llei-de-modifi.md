@@ -3,7 +3,7 @@ title: "Edicte de 15-3-90 pel qual s'ordena la publicació de la Llei de modific
 type: other
 jurisdiction: ad
 language: ca
-date: 1990-03-14
+date: 1990-03-15
 published: 1990-03-29
 bopa: "BOPA núm. 9, any 1990"
 status: unknown

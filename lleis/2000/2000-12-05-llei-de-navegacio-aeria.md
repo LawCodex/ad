@@ -3,7 +3,7 @@ title: "Llei de navegació aèria, de 9-11-2000."
 type: act
 jurisdiction: ad
 language: ca
-date: 2000-11-08
+date: 2000-11-09
 published: 2000-12-05
 bopa: "BOPA núm. 75, any 2000"
 status: unknown

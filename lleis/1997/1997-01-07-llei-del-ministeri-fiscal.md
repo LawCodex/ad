@@ -3,7 +3,7 @@ title: "Llei del Ministeri Fiscal, de 12-12-96."
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-12-11
+date: 1996-12-12
 published: 1997-01-07
 bopa: "BOPA núm. 3, any 1997"
 status: unknown

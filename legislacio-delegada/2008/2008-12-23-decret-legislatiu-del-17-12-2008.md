@@ -3,7 +3,7 @@ title: "Decret legislatiu del 17-12-2008, de publicació del text refós del Cod
 type: legislative_decree
 jurisdiction: ad
 language: ca
-date: 2008-12-16
+date: 2008-12-17
 published: 2008-12-23
 bopa: "BOPA núm. 92, any 2008 (extra)"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei de modificació del Reglament Laboral, de 13-7-90."
 type: act
 jurisdiction: ad
 language: ca
-date: 1990-07-12
+date: 1990-07-13
 published: 1990-07-29
 bopa: "BOPA núm. 21, any 1990"
 status: unknown

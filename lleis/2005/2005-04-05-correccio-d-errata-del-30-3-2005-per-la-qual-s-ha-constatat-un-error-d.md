@@ -3,7 +3,7 @@ title: "Correcció d'errata del 30-3-2005 per la qual s'ha constatat un error de
 type: other
 jurisdiction: ad
 language: ca
-date: 2005-03-29
+date: 2005-02-21
 published: 2005-04-05
 bopa: "BOPA núm. 30, any 2005"
 status: unknown

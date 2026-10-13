@@ -3,7 +3,7 @@ title: "Llei de pressupost per al 1995, de 17-2-95."
 type: act
 jurisdiction: ad
 language: ca
-date: 1995-02-16
+date: 1995-02-17
 published: 1995-03-14
 bopa: "BOPA núm. 15, any 1995"
 status: unknown

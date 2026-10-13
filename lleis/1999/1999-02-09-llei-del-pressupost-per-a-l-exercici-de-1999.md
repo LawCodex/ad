@@ -3,7 +3,7 @@ title: "Llei del pressupost per a l'exercici de 1999, de 14-1-99."
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-01-13
+date: 1999-01-14
 published: 1999-02-09
 bopa: "BOPA núm. 9, any 1999"
 status: unknown

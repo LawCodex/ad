@@ -3,7 +3,7 @@ title: "Llei del Pressupost per al 1992, de 31-7-92."
 type: act
 jurisdiction: ad
 language: ca
-date: 1992-07-30
+date: 1992-07-31
 published: 1992-08-12
 bopa: "BOPA núm. 201, any 1992 (extra)"
 status: unknown

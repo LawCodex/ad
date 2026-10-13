@@ -3,7 +3,7 @@ title: "Llei reguladora de la formació professional mitjançant l'aprenentatge 
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-07-10
+date: 1996-07-11
 published: 1996-08-13
 bopa: "BOPA núm. 57, any 1996"
 status: unknown

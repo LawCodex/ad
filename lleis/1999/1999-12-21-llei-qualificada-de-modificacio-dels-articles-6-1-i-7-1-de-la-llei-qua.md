@@ -3,7 +3,7 @@ title: "Llei qualificada de modificació dels articles 6.1 i 7.1 de la llei qual
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1999-11-25
+date: 1999-11-26
 published: 1999-12-21
 bopa: "BOPA núm. 76, any 1999"
 status: unknown

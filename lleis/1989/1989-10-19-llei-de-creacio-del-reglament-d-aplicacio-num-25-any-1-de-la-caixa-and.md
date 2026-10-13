@@ -3,7 +3,7 @@ title: "Llei de creació del Reglament d'Aplicació Núm. 25 / any 1 de la Caixa
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-10-11
+date: 1989-10-12
 published: 1989-10-19
 bopa: "BOPA núm. 25, any 1989"
 status: unknown

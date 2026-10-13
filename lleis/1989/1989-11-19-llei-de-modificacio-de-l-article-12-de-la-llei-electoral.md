@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 12 de la Llei Electoral, de 24-10-89."
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-10-23
+date: 1989-10-24
 published: 1989-11-19
 bopa: "BOPA núm. 27, any 1989"
 status: unknown

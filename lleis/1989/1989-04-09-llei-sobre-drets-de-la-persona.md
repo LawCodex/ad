@@ -3,7 +3,7 @@ title: "Llei sobre drets de la persona, de 29-3-89."
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-03-28
+date: 1989-03-29
 published: 1989-04-09
 bopa: "BOPA núm. 6, any 1989"
 status: unknown

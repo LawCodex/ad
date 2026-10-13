@@ -3,7 +3,7 @@ title: "Llei de suplement de crèdit pressupostari per fer front a les despeses 
 type: act
 jurisdiction: ad
 language: ca
-date: 1994-05-18
+date: 1994-05-19
 published: 1994-06-14
 bopa: "BOPA núm. 41, any 1994"
 status: unknown

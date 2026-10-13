@@ -3,7 +3,7 @@ title: "Llei de suplement de crèdit pressupostari per a les despeses ocasionade
 type: act
 jurisdiction: ad
 language: ca
-date: 1994-12-20
+date: 1994-12-21
 published: 1995-01-24
 bopa: "BOPA núm. 6, any 1995"
 status: unknown

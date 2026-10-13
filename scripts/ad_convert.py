@@ -215,6 +215,34 @@ def doc_type(tema, title):
     return "other"
 
 
+CA_MONTHS = {"gener": 1, "febrer": 2, "març": 3, "marc": 3, "abril": 4, "maig": 5, "juny": 6, "juliol": 7,
+             "agost": 8, "setembre": 9, "octubre": 10, "novembre": 11, "desembre": 12}
+
+
+def title_date(title):
+    """Date of the act as stated in its title (e.g. "Llei 9/2026, del 7 de maig" or "de 30-5-92")."""
+    m = re.search(r"\b(\d{1,2})\s+(?:de\s+|d['’]\s*)([a-zç]+)(?:\s+(?:de\s+|del\s+)?(\d{4}))?", title.lower())
+    if m and m.group(2) in CA_MONTHS:
+        year = m.group(3)
+        if not year:
+            y = re.search(r"\d+/(\d{4})", title)
+            year = y.group(1) if y else None
+        if year:
+            try:
+                return datetime.date(int(year), CA_MONTHS[m.group(2)], int(m.group(1))).isoformat()
+            except ValueError:
+                return None
+    m = re.search(r"\b(\d{1,2})-(\d{1,2})-(\d{2,4})\b", title)
+    if m:
+        y = int(m.group(3))
+        y = y + (1900 if y > 50 else 2000) if y < 100 else y
+        try:
+            return datetime.date(y, int(m.group(2)), int(m.group(1))).isoformat()
+        except ValueError:
+            return None
+    return None
+
+
 def identifier(title):
     m = re.match(r"^(Llei(?: qualificada)?|Decret legislatiu)\s+(\d+/\d{4})", title, re.I)
     if m:
@@ -258,6 +286,8 @@ def main():
         else:
             units = units_old(raw)
         title = title.rstrip()
+        if d.get("tema", "").startswith("Constitució"):
+            title = "Constitució del Principat d'Andorra"
         body = render(units, title)
         if not body.strip():
             missing.append(d["nomDocument"])
@@ -265,7 +295,9 @@ def main():
         tema = d.get("tema") or ""
         typ = doc_type(tema, title)
         pub = local_date(d.get("dataPublicacioButlleti"))
-        dart = local_date(d.get("dataArticle"))
+        dart = title_date(title) or title_date(sumari)
+        if not dart or (pub and not (int(pub[:4]) - 3 <= int(dart[:4]) <= int(pub[:4]))):
+            dart = local_date(d.get("dataArticle"))
         ident = identifier(title)
         meta = {"title": title}
         if ident:
@@ -277,7 +309,7 @@ def main():
             meta["date"] = dart
         meta["published"] = pub
         meta["bopa"] = f"BOPA núm. {d.get('numButlleti')}, any {d.get('anyButlleti')}" + (" (extra)" if d.get("isExtra") == "True" else "")
-        meta["status"] = "unknown"
+        meta["status"] = "in_force" if typ == "constitution" else "unknown"
         meta["consolidated"] = False
         meta["source"] = "https://www.bopa.ad/Documents/Detall?doc=" + d["nomDocument"]
         meta["document_url"] = d["metadata_storage_path"]

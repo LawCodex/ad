@@ -3,7 +3,7 @@ title: "Llei de modificació del Codi de la Circulació, de 4-12-91."
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-12-03
+date: 1991-12-04
 published: 1991-12-26
 bopa: "BOPA núm. 52, any 1991"
 status: unknown

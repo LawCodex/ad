@@ -1,0 +1,830 @@
+---
+title: "Decret legislatiu pel que s’aprova el text refós de la Llei qualificada del règim electoral i del referèndum"
+type: legislative_decree
+jurisdiction: ad
+language: ca
+date: 2014-11-26
+published: 2014-12-02
+bopa: "BOPA núm. 68, any 2014"
+status: unknown
+consolidated: false
+source: "https://www.bopa.ad/Documents/Detall?doc=la26068002"
+document_url: "https://bopadocuments.blob.core.windows.net/bopa-documents/026068/html/1_la26068002.html"
+retrieved: 2026-10-13
+---
+
+# Decret legislatiu pel que s’aprova el text refós de la Llei qualificada del règim electoral i del referèndum
+
+Vist l’article 59 de la Constitució andorrana, segons el qual, mitjançant llei, el Consell General pot delegar l’exercici de la funció legislativa en el Govern;
+
+Vistes les modificacions que la [Llei 28/2007](https://www.bopa.ad/bopa/019107/Pagines/50D2A.aspx), del 22 de novembre, qualificada de modificació de la Llei qualificada del règim electoral i del referèndum; la [Llei 9/2008](https://www.bopa.ad/bopa/020054/Pagines/55136.aspx), del 12 de juny, qualificada de modificació de la Llei qualificada del règim electoral i del referèndum, del 3 de setembre de 1993; i per la [Llei 7/2014](https://www.bopa.ad/bopa/026030/Pagines/86272.aspx), del 24 d’abril, qualificada de modificació de la [Llei 28/2007](https://www.bopa.ad/bopa/019107/Pagines/50D2A.aspx), del 22 de novembre, qualificada de modificació de la Llei qualificada de règim electoral i del referèndum; realitzen sobre la Llei qualificada del règim electoral i del referèndum, de 3 de setembre de 1993.
+
+Vista la delegació a favor del Govern establerta a la disposició final primera de [Llei 7/2014](https://www.bopa.ad/bopa/026030/Pagines/86272.aspx), del 24 d’abril, qualificada de modificació de la [Llei 28/2007](https://www.bopa.ad/bopa/019107/Pagines/50D2A.aspx), del 22 de novembre, qualificada de modificació de la Llei qualificada de règim electoral i del referèndum, perquè en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra, el text refós de la [Llei 28/2007](https://www.bopa.ad/bopa/019107/Pagines/50D2A.aspx), del 22 de novembre, qualificada de modificació de la Llei qualificada del règim electoral i del referèndum, que inclogui les modificacions introduïdes en aquesta Llei.
+
+D’acord amb l’habilitació citada, s’ha procedit ha integrar en un text únic totes les modificacions introduïdes per les normes dalt esmentades a la Llei de 28/2007, qualificada del règim electoral i del referèndum, quina es deroga en la seva totalitat, així com es deroguen expressament la resta de disposicions ans esmentades que la modificaven.
+
+A proposta del cap de Govern, el Govern, en la sessió del 26 de novembre del 2014, ha aprovat el següent
+
+**Decret**
+
+#### Article únic
+
+S’aprova el Text refós de la Llei qualificada del règim electoral i del referèndum, quin text s’insereix a continuació.
+
+## Disposició derogatòria única. Derogació normativa
+
+1. Queden derogades totes les disposicions d’igual o inferior rang que s’oposin a la present, i en particular les següents:
+
+- Llei qualificada del règim electoral i del referèndum, de 3 de setembre de 1993;
+
+- Llei qualificada de modificació dels articles 6.1 i 7.1 de la llei qualificada del règim electoral i del referèndum, de 26-11-99;
+
+- Llei de modificació de la Llei qualificada del règim electoral i del referèndum, de 15 de febrer del 2000;
+
+- [Llei 28/2007](https://www.bopa.ad/bopa/019107/Pagines/50D2A.aspx), del 22 de novembre, qualificada de modificació de la Llei qualificada del règim electoral i del referèndum.
+
+- [Llei 9/2008](https://www.bopa.ad/bopa/020054/Pagines/55136.aspx), del 12 de juny, qualificada de modificació de la Llei qualificada del règim electoral i del referèndum, del 3 de setembre de 1993.
+
+- [Llei 7/2014](https://www.bopa.ad/bopa/026030/Pagines/86272.aspx), del 24 d’abril, qualificada de modificació de la [Llei 28/2007](https://www.bopa.ad/bopa/019107/Pagines/50D2A.aspx), del 22 de novembre, qualificada de modificació de la Llei qualificada de règim electoral i del referèndum.
+
+2. Conserven la seva vigència les habilitacions per al desenvolupament normatiu següents:
+
+La continguda en la disposició final segona de la [Llei 7/2014](https://www.bopa.ad/bopa/026030/Pagines/86272.aspx), del 24 d’abril, qualificada de modificació de la [Llei 28/2007](https://www.bopa.ad/bopa/019107/Pagines/50D2A.aspx), del 22 de novembre, qualificada de modificació de la Llei qualificada de règim electoral i del referèndum.
+
+## Disposició final única
+
+Aquest Decret i el text refós que aprova entrarà en vigor l’endemà de ser publicat al Butlletí Oficial del Principat d’Andorra.
+
+Cosa que es fa pública per coneixement general.
+
+Andorra la Vella, 26 de novembre del 2014
+
+Antoni Martí Petit
+
+Cap de Govern
+
+**Text refós**
+
+**de la Llei qualificada del règim electoral i del referèndum**
+
+## Títol I. Disposicions Generals
+
+### Capítol primer. El dret de sufragi
+
+#### Article 1
+
+**Dret de sufragi**
+
+1. El sufragi és universal, lliure, igual, directe i secret.
+
+2. El dret de sufragi correspon a tots els andorrans, majors d’edat, amb ple ús dels seus drets civils i polítics.
+
+3. No tenen dret de sufragi:
+
+a) Els condemnats per sentència judicial ferma a la pena principal o accessòria de privació del dret de sufragi, durant el temps del seu compliment.
+
+b) Els declarats incapaços en virtut de sentència judicial ferma, sempre que en aquesta es declari expressament la incapacitat per a l’exercici del dret de sufragi.
+
+### Capítol segon. Les llistes electorals
+
+#### Article 2
+
+**Inclusió a les llistes electorals**
+
+Poden exercitar el dret a votar en les eleccions els andorrans que, gaudint del dret de sufragi segons la legislació vigent, figurin nominalment inscrits en la llista electoral de la parròquia de residència o d’origen, en la data en què la referida llista quedi completada.
+
+#### Article 3
+
+**Característiques i contingut de les llistes**
+
+1. Les llistes electorals són permanents. La seva elaboració correspon als comuns, que les actualitzen i publiquen semestralment.
+
+2. Les eleccions i els referèndums s’efectuen segons la llista definitiva, amb les modificacions previstes per la Llei.
+
+3. Les llistes electorals han de contenir el nom i els cognoms dels electors que constin al registre electoral i el seu número de passaport. Les llistes electorals definitives han de contenir, a més, el col·legi electoral i la mesa on correspondria votar a cada elector.
+
+#### Article 4
+
+**Registre electoral**
+
+1. El registre electoral ha de contenir el nom i els cognoms de cada elector, la data i el lloc de naixement, el domicili i el seu número de passaport, així com el col·legi electoral i la mesa on li correspondria votar.
+
+2. El registre que conté les dades electorals es conserva als arxius del comú.
+
+#### Article 5
+
+**Organització del registre electoral**
+
+1. Els comuns organitzaran per mitjans informàtics una còpia del registre electoral que, als efectes previstos en aquesta Llei, estarà a disposició del Consell General i del Govern, si la sol·liciten.
+
+2. El registre electoral de cada parròquia contindrà també els electors residents a altres parròquies i a l’estranger.
+
+3. Les candidatures a les eleccions del Consell General o a les comunals tenen dret a obtenir gratuïtament còpia de les llistes electorals de la circumscripció corresponent, en la qual només figurarà el nom, cognoms i l’adreça dels electors que consti al registre electoral.
+
+#### Article 6
+
+**Condicions de la inscripció al registre electoral**
+
+1. Els comuns han d’inscriure al registre electoral de cada parròquia els andorrans que estiguin donats d’alta en el seu cens de població i els que hagin obtingut la inscripció per parròquia d’origen, i que compleixin els requisits a què es refereix l’article 1.
+
+2. El Govern, cada vegada que resolgui favorablement un expedient de nacionalitat amb ple ús dels drets civils i polítics ho ha de notificar als comuns. Cada comú ha de donar d’alta d’ofici al registre electoral de la seva parròquia la persona que hagi obtingut la nacionalitat amb ple ús dels drets civils i polítics, d’acord amb el que disposa el paràgraf anterior.
+
+3. Els electors que figurin inscrits en el cens de població i en el registre electoral d’una parròquia, i que hi causin baixa com a residents per haver fixat llur residència a l’estranger, continuen inscrits en el registre electoral d’aquella parròquia, a menys que l’interessat exerciti l’opció prevista en l’article 7.
+
+4. Els andorrans que resideixin a l’estranger i que no estiguin inscrits en el registre electoral de cap parròquia, poden sol·licitar la seva inscripció a la parròquia d’origen, d’acord amb les disposicions de l’article 7, si compleixen els requisits de l’article 1.
+
+#### Article 7
+
+**Inscripció al registre electoral de la parròquia de residència o d’origen**
+
+1. Tot elector inscrit en el registre electoral de la parròquia de residència pot optar per canviar la seva inscripció al de la seva parròquia d’origen, si ho demana al comú d’aquesta i aporta la documentació que acrediti el seu dret. S’entén per parròquia d’origen la de residència dels pares en el moment de néixer o ésser adoptat l’elector o, quan faci el cas, la de residència de la darrera generació d’ascendents andorrans de l’elector, o la de residència en el moment d’adquirir o recuperar la nacionalitat andorrana amb plenitud de drets civils i polítics.
+
+2. Els electors que hagin adquirit la nacionalitat andorrana per matrimoni poden exercir el dret d’opció per la parròquia d’origen del seu cònjuge.
+
+3. L’elector que hagi optat per la inscripció al registre electoral de la parròquia d’origen pot obtenir novament la inscripció al de residència si ho demana al comú d’aquesta i aporta la documentació que justifiqui la residència.
+
+#### Article 8
+
+**Publicació de les llistes**
+
+1. Tots els comuns han de publicar al seu tauler d’edictes la llista provisional d’electors els dies 30 de març i 30 de setembre de cada any, excepte si la data de publicació queda inclosa en període electoral o de referèndum. Cada comú confecciona la llista segons les dades del registre electoral que té al seu càrrec i corregeix els errors i les omissions que hi observi, bo i procurant que sigui el més completa possible.
+
+2. Els comuns inscriuen d’ofici a la llista totes les persones, tant residents a la parròquia com en una altra parròquia o a l’estranger, que hagin obtingut el dret a votar a la parròquia i, per tant, s’hagin incorporat al registre electoral des de l’anterior publicació de les llistes electorals i n’eliminen les dades d’aquelles que l’hagin perdut.
+
+3. Els comuns incorporen d’ofici a la llista, en un annex diferenciat, totes les persones que, sense necessitat de fer cap expedient, podrien exercir el dret a votar si fossin majors d’edat i arribessin a aquesta majoria d’edat al llarg dels propers sis mesos, indicant-ne la data a partir de la qual es podria fer efectiu el dret a votar.
+
+4. Al cap de tres dies hàbils de la publicació al Butlletí Oficial del Principat d’Andorra del decret de convocatòria d’eleccions o de referèndum els comuns fan públiques les llistes electorals. Aquestes llistes tenen la consideració de definitives.
+
+#### Article 9
+
+**Canvis i actualització del registre electoral**
+
+1. Les opcions previstes en l’article 7 es poden exercitar sol·licitant el canvi en el registre electoral en qualsevol moment, excepte quan hagi estat convocat referèndum o eleccions i fins a la resolució de la convocatòria.
+
+2. Cada any, a partir dels dies 15 de març i 15 de setembre, els comuns s’han d’adreçar mútuament la llista dels electors que hagin demanat i obtingut l’exercici de l’opció contemplada en aquest article, a fi que siguin donats de baixa al registre electoral en llur parròquia de residència o d’origen, segons correspongui. Quan hi hagi una convocatòria electoral o de referèndum aquest tràmit s’ha d’efectuar en el termini de 3 dies hàbils des de la data d’aquesta convocatòria, i únicament per les demandes presentades fins el dia anterior a la mateixa.
+
+#### Article 10
+
+**Correcció i impugnació d’una inclusió a les llistes**
+
+1. La persona que es consideri amb dret a votar i no sigui inscrita en la llista provisional d’electors, pot demanar la seva inscripció al comú dins el termini de 15 dies naturals des de la publicació, havent de formular aquesta petició per escrit i aportant la documentació que cregui oportuna.
+
+2. Qualsevol elector pot impugnar, sol o juntament amb d’altres, el dret a figurar en la llista electoral provisional de la persona o les persones que, al seu entendre, no tinguin dret al vot, o no en tinguin a la parròquia on figurin inscrites. A aquest efecte, ha de formular la corresponent impugnació al comú, en el mateix termini del paràgraf anterior.
+
+#### Article 11
+
+**Decisió dels comuns sobre les correccions i les impugnacions**
+
+Els comuns examinaran les peticions rebudes i s’hi pronunciaran dins el termini de 8 dies naturals, i inclouran o exclouran de la llista electoral provisional els noms corresponents; tot seguit, en publicaran una relació complementària al tauler d’edictes i decretaran les demandes acceptades i també les desestimades, amb la motivació que correspongui segons el seu criteri.
+
+#### Article 12
+
+**Recurs contra la decisió dels comuns**
+
+1. Contra les decisions dels comuns, incloent o excloent alguna persona de la llista electoral, els interessats podran interposar recurs davant els tribunals dins els 8 dies naturals següents a la seva publicació.
+
+2. Si el recurs es fonamenta en la lesió d’un dret fonamental es regularà pel procediment urgent i preferent previst en la Constitució.
+
+#### Article 13
+
+**Modificació com a conseqüència d’una sentència**
+
+Els comuns, immediatament a la notificació d’una sentència ferma reconeixent o denegant el dret a votar a alguna persona, han de modificar el registre electoral i, en conseqüència, les llistes electorals provisionals o definitives, produint-se els efectes oportuns en ordre a la realització de la votació.
+
+#### Article 14
+
+**Adquisició de nacionalitat i dret d’inscripció**
+
+La resolució en període electoral o de referèndum de qualsevol expedient sobre adquisició de la nacionalitat andorrana, no dóna dret a la persona interessada a fer-se inscriure en el registre electoral ni, en conseqüència, a la llista electoral fins a la primera revisió posterior a l’acabament del procés electoral o de referèndum en curs.
+
+### Capítol tercer. Les candidatures
+
+#### Article 15
+
+**Persones elegibles**
+
+Són elegibles tots els andorrans, majors d’edat, en el ple ús dels seus drets civils i polítics, inscrits al registre electoral i a les llistes electorals i que no estiguin sotmesos a cap causa d’inelegibilitat.
+
+#### Article 16
+
+**Causes d’inelegibilitat**
+
+1. Són inelegibles amb caràcter general:
+
+a) els magistrats del Tribunal Constitucional.
+
+b) els membres del Consell Superior de la Justícia.
+
+c) els batlles i magistrats i els membres del Ministeri Fiscal.
+
+d) els vocals de la Junta Electoral.
+
+2. Les causes d’inelegibilitat de l’apartat anterior ho són també d’incompatibilitat.
+
+3. No poden figurar en una candidatura els consellers generals o els membres del Govern, en el cas de les eleccions comunals, ni els membres del comú, en el cas de les eleccions generals, si prèviament no han perdut aquesta condició mitjançant la seva renúncia irrevocable al càrrec, per escrit, davant de l’òrgan corresponent. L’òrgan destinatari de la carta de dimissió ho ha de comunicar per escrit al Govern o al comú, segons escaigui, perquè es pugui validar la candidatura corresponent.
+
+4. Són també inelegibles els condemnats per sentència ferma a pena privativa de llibertat, durant el temps de la seva durada.
+
+#### Article 17
+
+**Incompatibilitat amb l’exercici d’un càrrec electiu**
+
+L’exercici de la funció pública tant per part dels funcionaris en situació de servei actiu com per part de les persones que mantenen amb l’Administració una relació de caràcter laboral amb una contraprestació salarial és incompatible amb l’exercici de qualsevol càrrec electiu de l’Administració a la qual es trobin adscrits.
+
+#### Article 18
+
+**Prohibició de formar part de més d’una candidatura**
+
+Ningú podrà ésser a la vegada candidat en dues o més candidatures en la mateixa elecció. Tampoc es podrà ésser candidat simultàniament al Consell General i al comú en el cas que l’elecció es realitzés en el mateix dia.
+
+#### Article 19
+
+**Acceptació i nombre de candidats**
+
+1. Els candidats hauran de signar la seva acceptació per formar part d’una candidatura. Sense el compliment d’aquest requisit la candidatura no serà vàlida.
+
+2. Serà nul·la qualsevol candidatura en la qual figurin més candidats que càrrecs a proveir, i les incompletes.
+
+#### Article 20
+
+**Presentadors de les candidatures**
+
+1. Per tal que una candidatura sigui vàlida ha d’ésser presentada pel 0,5% d’electors inscrits a la llista electoral parroquial o de la suma dels electors inscrits a totes les parròquies, segons es tracti de circumscripció parroquial o nacional i, en qualsevol cas, per no menys de deu presentadors.
+
+2. Cada presentador només podrà firmar una sola candidatura de circumscripció parroquial i una sola candidatura de circumscripció nacional. Per a la verificació i recompte de les signatures, s’eliminaran totes aquelles que estiguin repetides dins la mateixa circumscripció electoral.
+
+3. Un candidat no podrà ésser presentador de la seva pròpia candidatura.
+
+#### Article 21
+
+**Comunicació del nombre d’electors**
+
+A l’efecte del càlcul previst en l’article 20.1, convocades eleccions al Consell General o convocat referèndum, els comuns notificaran al Govern el nombre d’electors inscrits en les respectives llistes electorals definitives, el següent dia hàbil després de la seva publicació.
+
+#### Article 22
+
+**Presentació de les candidatures**
+
+1. L’imprès de presentació de candidatures serà un document oficial facilitat pel Govern en el que constarà el nom de la candidatura, el nom dels candidats i el seu número de passaport. La presentació es farà personalment per dos, com a mínim, dels signants de la candidatura, que assumiran la representació legal d’aquesta a tots els efectes, i que certificaran, per declaració jurada o per promesa, que totes les firmes dels presentadors són verídiques, sota la seva responsabilitat. Les firmes il·legibles hauran de reproduir-se, a sota de cada una, amb caràcters de lletra llegibles.
+
+2. La presentació s’efectua davant del comú per a les candidatures en circumscripció parroquial i davant del Govern per aquelles de circumscripció nacional, fins a les 12 hores del cinquè dia hàbil a comptar de la data de publicació de la convocatòria de les eleccions. Els respectius secretaris n’acusaran la recepció amb el vist-i-plau del cap de Govern o del cònsol, segons el cas. I acte seguit, segons escaigui, els comuns o el Govern verificaran el seu contingut.
+
+#### Article 23
+
+**Verificació, proclamació i publicació de les candidatures**
+
+1. Si en l’acte de verificació s’observés l’existència d’errors esmenables en la composició o la presentació d’alguna o d’algunes de les candidatures, s’ha de comunicar de forma immediata aquesta circumstància als seus representants legals, per a la seva rectificació fins a les 17 hores del mateix dia.
+
+2. Un cop verificades les candidatures el comú n’efectua la proclamació per a les d’àmbit parroquial i el Govern per a les d’àmbit nacional, i es procedeix a la seva publicació per tot el dia hàbil següent al de l’acabament del termini de presentació.
+
+#### Article 24
+
+**Recurs davant la Junta Electoral**
+
+1. Contra la denegació motivada o proclamació d’alguna de les candidatures, els candidats i els representants legals de les mateixes poden presentar, en el termini d’un dia hàbil a comptar de la data de publicació de la denegació o proclamació, recurs davant la Junta Electoral.
+
+2. La Junta Electoral reclamarà immediatament els antecedents al comú que correspongui o al Govern, que els remetrà en el termini d’un dia hàbil, prèvia citació dels representants de les altres candidatures, els quals disposaran d’un altre dia hàbil per efectuar al·legacions davant la Junta Electoral.
+
+3. Contra l’acord de la Junta Electoral, que haurà de dictar-se en el termini d’un dia hàbil següent al termini de la presentació de les al·legacions, hi cap el recurs davant la Sala administrativa del Tribunal Superior de Justícia regulat en la present Llei.
+
+#### Article 25
+
+**Substitució d’un candidat per sentència, defunció o incapacitat**
+
+Donat el cas que algun candidat perdés el dret a presentar-se per sentència ferma comunicada al cap de Govern o als cònsols, segons correspongui, per defunció o per incapacitat, per tot el dia anterior al fixat per a les eleccions, serà reemplaçat en les votacions pel següent candidat en les llistes, sense necessitat de modificació de les paperetes.
+
+### Capítol quart. La Junta Electoral i la campanya electoral
+
+#### Article 26
+
+**Durada de la campanya electoral**
+
+En la convocatòria d’eleccions o un cop convocat un referèndum, el Govern fixa la durada del període de campanya electoral, que no podrà ser inferior a deu dies naturals ni superior a quinze dies naturals.
+
+#### Article 27
+
+**Funcions i composició de la Junta Electoral**
+
+1. La Junta Electoral vetlla pel bon funcionament del procés electoral en general, en tots els referèndums i eleccions del país, ja siguin generals o comunals, garantint la seva objectivitat i la igualtat d’oportunitats de totes les candidatures o alternatives. El Consell General haurà de facilitar-li els mitjans necessaris per al desenvolupament de les seves funcions, inclosos els locals en què hagi de reunir-se, l’assistència d’experts o tècnics i les dietes i gratificacions dels seus vocals.
+
+2. La Junta Electoral es compon de sis vocals. Tres d’ells han de ser batlles de la Batllia d’Andorra, designats per sorteig pel Consell Superior de la Justícia.
+
+Els tres vocals restants han de ser juristes o experts, designats per la Sindicatura a proposta conjunta dels grups parlamentaris i consellers generals no adscrits. També s’han de designar, en cada cas i de la mateixa forma, els respectius vocals suplents, que han de ser uns altres tres batlles i uns altres tres juristes o experts.
+
+3. Els vocals titulars i suplents de la Junta Electoral seran escollits:
+
+a) els designats pels consellers generals, dins els noranta dies següents a la primera sessió de cada legislatura, havent de ser comunicada acte seguit per la Sindicatura la designació al Consell Superior de la Justícia.
+
+b) els designats pel Consell Superior de la Justícia, en la primera sessió que es desenvolupi després de rebre la comunicació de la Sindicatura a què es refereix la lletra anterior.
+
+4. La Sindicatura haurà de nomenar els vocals dels consellers generals quan no hagin estat designats en el termini de l’apartat anterior, i ho farà, després d’oïts els grups parlamentaris i consellers generals no adscrits, en atenció a llur respectiva representació.
+
+5. Totes les designacions seran comunicades al secretari general del Consell General, que convocarà els vocals per a la presa de possessió i constitució de la Junta Electoral dins del mes següent.
+
+6. Les designacions mantindran tots els seus efectes al llarg de la legislatura i fins que no n’hi hagi de noves. El mateix dia de cada convocatòria d’eleccions generals o comunals o consulta en referèndum, el secretari general del Consell General convocarà els vocals designats perquè entri en funcionament la Junta Electoral, en relació amb el respectiu procés electoral, dintre dels cinc dies següents.
+
+7. El Consell Superior de la Justícia designa el president i vicepresident de la Junta Electoral d’entre els batlles nomenats per aquella institució com a vocals de la Junta. Qui presideixi té vot de qualitat en cas d’empat. La Junta quedarà vàlidament constituïda amb l’assistència almenys de quatre vocals, havent de ser dos d’ells batlles. És convocada per qui la presideixi, per pròpia iniciativa o a petició de dos vocals, en la forma que exigeixi la urgència de la convocatòria.
+
+8. El secretari de la Junta Electoral és el secretari general del Consell General, que participa amb veu i sense vot en les deliberacions. Li correspon, en particular, vetllar per la immediata entrada en funcions de la Junta un cop convocat cadascun dels processos electorals.
+
+#### Article 28
+
+**Competències de la Junta Electoral**
+
+1. Correspon a la Junta Electoral:
+
+a) Formular als poders públics o als mitjans de comunicació, ja sia a instància d’una part interessada o d’ofici, totes les observacions que cregui necessàries sobre el desenvolupament del procés electoral.
+
+b) Resoldre qualsevol queixa o consulta interposada per persona interessada sobre el desenvolupament del procés electoral i que estigui relacionada amb les competències concretes de la Junta Electoral.
+
+c) Dictar, quan ho cregui necessari, disposicions de caràcter general.
+
+d) Traslladar al Ministeri Fiscal les conductes que puguin ser constitutives de delicte.
+
+e) Qualsevol altra competència que se li atribueixi per llei.
+
+2. Estan legitimats per formular les consultes, queixes o recursos a la Junta Electoral que es regulen en la present Llei els poders públics, candidatures o els seus candidats o apoderats, administradors electorals, titulars o directors dels mitjans de comunicació i electors que en cada cas posseeixin un interès legitimador suficient, que serà apreciat amb caràcter prioritari per la pròpia Junta.
+
+3. La Junta Electoral adoptarà els seus acords, en forma de recomanació, resolució o disposició de caràcter general, els quals es publicaran al Butlletí Oficial del Principat d’Andorra. Els acords seran motivats en la mesura necessària.
+
+Les resolucions i disposicions seran de compliment obligatori per tots els poders públics i ciutadans i esdevindran immediatament executives, podent adoptar la Junta totes les mesures provisionals que siguin necessàries en cas d’urgència.
+
+4. Tots els dies i hores són hàbils per a les actuacions de la Junta Electoral, que comunicarà i notificarà els seus acords pel mitjà que cregui més convenient, inclòs el telefònic. Les consultes, queixes o recursos dels interessats s’han de formular per escrit en paper comú, sense ser necessària l’actuació d’un advocat. La Junta pot refusar motivadament l’admissió de les que siguin extemporànies, notòriament infundades o poc raonades o vinguin formulades per qui no posseeixi manifestament interès.
+
+5. Pel que fa a altres aspectes de funcionament de la Junta Electoral, aquesta es regirà per les disposicions de caràcter general que ella mateixa acordi, que seran publicades en el Butlletí Oficial del Principat d’Andorra i regiran mentre no siguin modificades per la mateixa o per juntes posteriors.
+
+6. Contra les disposicions i resolucions de la Junta Electoral es pot interposar recurs davant de la Sala administrativa del Tribunal Superior de Justícia, en el termini de les vint-i-quatre hores següents a la notificació de la resolució de la Junta Electoral. El mateix dia de la interposició del recurs, la Sala donarà trasllat a les parts intervinents en el procediment i al Ministeri Fiscal, perquè en el termini de vint-i-quatre hores formulin les al·legacions que estimin pertinents. El Tribunal Superior resoldrà en el termini de quaranta-vuit hores, entenent-se complerts a tots els efectes els requisits de la Constitució.
+
+#### Article 29
+
+**Propaganda i reunions electorals**
+
+1. Els cartells de propaganda electoral seran col·locats en els espais públics que amb aquest ús exclusiu siguin reservats pels comuns. Fora d’aquests espais, la via pública no podrà ser utilitzada per fixar cartells, banderoles, adhesius o objectes similars.
+
+2. Els comuns fixen la relació dels espais reservats per a cartells de propaganda en general i han de destinar un espai igual a cada candidatura vàlidament proclamada. L’assignació dels espais es fa per sorteig.
+
+3. Els comuns posaran a disposició de les candidatures, amb criteris d’igualtat, els centres públics per poder realitzar reunions electorals.
+
+4. Els interessats que discrepin de les decisions dels comuns sobre les matèries regulades en aquest article podran interposar recurs, dintre dels dos dies hàbils següents a la notificació o publicació de la decisió, davant la Junta Electoral, que el resoldrà en el termini de dos dies hàbils, previ informe del comú, si el realitzés.
+
+#### Article 30
+
+**Habilitació de mitjans per a la campanya electoral i professions de fe**
+
+1. El Govern habilitarà els mitjans personals, materials i econòmics necessaris per al correcte desenvolupament de la campanya electoral i de les eleccions, sense perjudici de les competències legals dels comuns.
+
+2. El Govern, amb antelació suficient, farà arribar a tots els electors al domicili que consti a les llistes electorals, fins i tot els residents a l’estranger i aquells que hagin sol·licitat el vot per dipòsit judicial per correu, un sobre que contindrà les professions de fe de les diverses candidatures. Totes tindran un mateix tractament en la documentació inclosa i en la seva presentació. La documentació que s’enviï als electors residents a l’estranger contindrà, a més, informació en relació al vot judicial per correu.
+
+3. La Junta Electoral resoldrà en el termini de dos dies els recursos que els interessats puguin interposar en el termini de quaranta-vuit hores contra les decisions del Govern i dels comuns en les matèries regulades en aquest article, previ informe d’aquells, si el realitzessin.
+
+#### Article 31
+
+**Propaganda electoral als mitjans de comunicació**
+
+1. En els mitjans de comunicació públics, les diverses candidatures disposaran d’un espai gratuït de la mateixa durada per exposar els seus programes i demanar el vot. En qualsevol cas, el temps atorgat en les eleccions generals a les candidatures parroquials no serà superior a un terç del temps atorgat a les candidatures nacionals. En les eleccions comunals, cada candidatura disposarà d’un temps d’igual durada.
+
+2. Els directors dels mitjans de comunicació públics fixaran la durada dels espais de ràdio i televisió públiques que corresponen a les diverses candidatures. També podran oferir l’emissió de debats o entrevistes amb les diverses candidatures. En tot cas, les decisions que adoptin els directors dels mitjans de comunicació públics en les matèries a què es refereix el present apartat hauran de ser íntegrament comunicades als representants de les candidatures.
+
+3. La Junta Electoral podrà dictar, si ho creu necessari, les disposicions de caràcter general precises perquè els espais gratuïts i el desenvolupament de debats o entrevistes electorals en els mitjans de comunicació de titularitat pública, així com la publicació en ells d’enquestes electorals pagades amb fons públics, respectin el pluralisme electoral i la neutralitat informativa.
+
+4. Des de la convocatòria electoral fins la finalització de les votacions, la Junta Electoral resoldrà els recursos o queixes que qualsevol candidat o candidatura puguin interposar contra les decisions i actuacions dels mitjans de comunicació de titularitat pública que puguin tenir incidència en el procés electoral, basats en la violació de les normes del present article, del respecte al pluralisme polític i social o de la neutralitat informativa dels mitjans. El recurs haurà d’interposar-se dins de les quaranta-vuit hores següents a la notificació de la decisió o al coneixement de l’actuació i serà resolt dins dels dos dies següents, previ informe del mitjà afectat, si el realitzés. En casos d’urgència, la Junta adoptarà provisionalment les mesures que siguin necessàries.
+
+5. Si ho creu necessari i quan apreciï notòria temeritat en els recursos, la Junta Electoral procedirà a advertir el recurrent i, en cas de reincidència, podrà imposar-li una multa d’entre 300,00 euros i 3.000,00 euros.
+
+6. Queda prohibida la inserció o la difusió en qualsevol mitjà de comunicació d’anuncis i publicitat pagats amb fons públics per a finalitats institucionals, des de la convocatòria electoral fins la finalització de les votacions.
+
+7. Qualsevol enquesta electoral que sigui finançada pels poders públics i que s’efectuï en el mateix període electoral serà comunicada, immediatament després de la seva finalització, a la Junta Electoral, que, dins de les vint-i-quatre hores següents, la facilitarà als representants de les candidatures i, en el seu cas, dels grups parlamentaris i consellers generals no adscrits, representats al Consell General, si es tracta d’eleccions generals, o dels partits o llistes representades als comuns, en el supòsit d’eleccions comunals.
+
+8. Els mitjans de comunicació privats podran contractar publicitat electoral amb les candidatures a condició de no discriminar-ne cap ni rebutjar-ne, llevat que la publicitat atempti contra les disposicions d’aquesta Llei o els principis constitucionals. La publicitat electoral contractada amb els mitjans de comunicació privats s’emetrà amb indicació expressa del seu caràcter com a tal. La Junta Electoral haurà de resoldre els recursos que li puguin ser formulats pels interessats que considerin vulnerades les disposicions del present apartat.
+
+### Capítol cinquè. De les condicions del vot
+
+#### Article 32
+
+**Modalitat de vot**
+
+El vot s’efectua personalment al Col·legi Electoral assignat a l’elector o per dipòsit judicial a la Batllia. El vot per dipòsit judicial a la Batllia es pot emetre presencialment o per correu.
+
+#### Article 33
+
+**Vot per dipòsit judicial**
+
+1. La votació per dipòsit judicial només és vàlida si s’ha lliurat amb el sobre i les paperetes oficials davant el batlle entre el primer dia de la campanya electoral i les 13 hores del dia anterior a la celebració de les votacions.
+
+2. El dipòsit davant del batlle l’ha de fer el propi elector que faci ús d’aquest dret, sense poder-ho delegar en cap altra persona.
+
+3. L’elector ha de recollir les paperetes a la corresponent casa comuna. Els sobres, de les característiques expressades en l’article 37.2, són custodiats pels batlles a qui el Govern els n’haurà fet arribar en nombre suficient.
+
+4. Els batlles han de fer arribar els vots que els hagin estat lliurats a les corresponents meses electorals, constituïdes a aquest efecte. Aquests vots són introduïts a l’urna a l’iniciar-se la jornada electoral, verificant-se el nom i els cognoms de l’elector als efectes de l’article 40.
+
+#### Article 33 bis.
+
+**Vot per dipòsit judicial per correu**
+
+1. Els electors residents a l’estranger que constin com a tals en el registre electoral i en les llistes electorals definitives poden fer ús del vot per dipòsit judicial per correu.
+
+2. Excepcionalment, també poden fer ús d’aquesta modalitat de vot els electors que, tot i no constar inscrits al registre electoral com a residents a l’estranger, acreditin que estan cursant estudis a l’estranger o realitzant temporalment una activitat laboral o professional a l’estranger.
+
+3. Per poder fer ús d’aquesta modalitat de vot, els interessats ho han de demanar expressament i, en el cas dels electors a què fa referència l’apartat 2, hauran d’adjuntar a la seva sol·licitud un certificat lliurat pel centre d’estudis o per l’empresa per la qual es presti serveis a l’estranger. La sol·licitud ha d’ésser formulada per escrit o per mitjà del web del comú on consti la inscripció, abans de les 12 hores del cinquè dia hàbil a comptar de la data de publicació de la convocatòria de les eleccions, en els termes que estableixi el reglament.
+
+4. Una vegada proclamades les candidatures, el Govern, per compte dels comuns, adreça als electors residents a l’estranger i a aquells altres que, en mèrits del previst en el precedent apartat 2, hagin optat pel vot per dipòsit judicial per correu, tota la documentació necessària per exercir el vot. El Govern regularà, per mitjà del corresponent reglament, la forma, els terminis i els mitjans que s’hauran d’utilitzar tant per lliurar la referida documentació a l’elector que faci ús del seu dret com per fer arribar el sobre que conté el vot a la Batllia.
+
+Aquesta documentació, que s’enviarà amb suficient antelació, ha de consistir en els sobres oficials, paperetes oficials de totes les candidatures, un certificat d’inscripció de l’interessat a la llista electoral definitiva lliurat pel propi comú i un sobre per a la tramesa del vot en el qual constarà impresa l’adreça de la Batllia. Amb aquests documents s’adjuntarà un full explicatiu dels tràmits.
+
+5. Per procedir al vot, l’elector introduirà en cada un dels sobres oficials la papereta que hagi elegit i procedirà al seu tancament. Aquests sobres s’introdueixen en el sobre destinat a l’enviament de la documentació a la Batllia, juntament amb el certificat d’inscripció a la llista electoral definitiva i una fotocòpia del passaport vigent. En aquest sobre -que ha de ser tancat- hi constarà a la part posterior el nom i l’adreça de l’elector remitent i la seva signatura.
+
+Seguint les instruccions que, amb subjecció al que es disposi reglamentàriament, constin en la documentació rebuda, l’elector realitzarà els tràmits necessaris per tal que el sobre sigui tramès a la Batllia.
+
+6. Quedarà constància i registre de la tramesa efectuada pel Govern i de la recepció del destinatari i de la Batllia. Aquesta documentació estarà a disposició de la Junta Electoral.
+
+7. Rebuts per la Batllia, els vots seran lliurats en els termes previstos a l’article 33.4.
+
+#### Article 34
+
+**Col·legis electorals**
+
+1. Les eleccions s’efectuen a cada parròquia en els col·legis electorals especialment habilitats i designats pels comuns.
+
+2. En cada col·legi electoral els comuns poden organitzar una o més meses electorals, en les quals es distribuiran els electors per ordre alfabètic per facilitar la votació.
+
+#### Article 35
+
+**Jornada electoral**
+
+1. Totes les votacions es faran en diumenge.
+
+2. El col·legi electoral s’obrirà per a la votació a les nou del matí i es tancarà a les set de la tarda, podent votar totes les persones que en aquesta hora estiguessin dins la sala.
+
+3. Totes les persones amb dret a votar podran absentar-se del seu lloc de treball durant dues hores per tal de poder fer efectiu el seu vot. Aquesta absència serà remunerada i obligatòria per a qui ho sol·liciti, i no podrà comportar cap conseqüència laboral.
+
+#### Article 36
+
+**Meses electorals**
+
+1. A cada col·legi electoral es constituiran les meses corresponents, formades com a mínim per dos membres del comú i pels interventors. Les meses seran presidides pels membres del comú per ordre protocol·lari. Les persones que figurin inscrites en les candidatures no poden formar part de les meses electorals. Tanmateix, en el supòsit que la totalitat dels membres del comú siguin candidats, la Junta Electoral procedirà per sorteig a la designació dels dos membres del comú que han de formar part de la mesa, exclosos els cònsols major i menor i els dos caps de llista de cada candidatura.
+
+2. Cadascun dels grups d’electors que hagin presentat una candidatura pot designar un interventor titular i un interventor suplent per mesa electoral. La designació ha de ser comunicada als comuns pels representants legals de la candidatura com a màxim el dia hàbil anterior a la jornada electoral.
+
+#### Article 37
+
+**Sobres i paperetes**
+
+1. Totes les paperetes electorals hauran d’ésser de la mateixa forma, mida, color i gramatge de paper en tots els col·legis electorals. Aquestes característiques seran fixades pel Govern.
+
+2. El Govern també prepararà uns sobres, iguals per a tot el Principat, opacs, marcats amb segells o altres senyals que facin impossible o molt difícil la seva substitució, dels quals en repartirà a cada comú la quantitat suficient en relació amb el nombre d’electors inscrits en les llistes electorals. Els sobres restants seran destruïts pel comú.
+
+3. A l’efecte del paràgraf anterior, els comuns comunicaran al Govern el nombre d’inscrits en les llistes electorals definitives.
+
+Als efectes del vot per dipòsit judicial per correu, els comuns especificaran els electors inscrits al seu registre que siguin residents a l’estranger. També comunicaran, en les 48 hores següents a la finalització del termini previst a l’article 33bis.3, els electors que, trobant-se excepcionalment a l’estranger, hagin sol·licitat el vot per dipòsit judicial per correu.
+
+#### Article 38
+
+**Paperetes electorals a disposició dels electors**
+
+A partir del segon dia hàbil anterior a l’inici del vot per dipòsit judicial, les paperetes electorals estaran a disposició dels electors, a cada casa comuna, en les hores habituals de despatx al públic, fins al dia de les eleccions.
+
+#### Article 39
+
+**Cabines aïlladores**
+
+Al local on tindran lloc les votacions hi haurà una o més cabines aïlladores, degudament il·luminades, amb una taula o escriptori damunt de la qual hi haurà un nombre suficient de paperetes de cada candidatura proclamada, i d’altres en blanc.
+
+#### Article 40
+
+**Procediment per votar al col·legi electoral**
+
+1. En cada col·legi electoral, prèvia verificació per la mesa que la persona interessada figura inscrita en el cens electoral definitiu, s’han de respectar les condicions essencials següents, en l’ordre que millor s’ajusti a la seva organització:
+
+- La identificació de la persona que exerceix el dret de vot.
+
+- Que rebi un o més sobres, segons la convocatòria electoral de què es tracti.
+
+- Que es retiri, completament sol, a una de les cabines aïlladores per tal de poder introduir dins del sobre o sobres, sense ser vist per ningú, la papereta o paperetes que esculli.
+
+- Que introdueixi el sobre o sobres dins l’urna o urnes segons correspongui, amb l’autorització prèvia del president de la mesa.
+
+2. Un membre de la mesa ha d’efectuar el recompte del nombre d’electors que exercitin el seu dret de vot.
+
+#### Article 41
+
+**Escrutini**
+
+1. Quan hagin votat tots els electors que ho desitgin, d’acord amb l’article 35.2, la mesa procedirà a practicar l’escrutini corresponent.
+
+2. Acabada la votació i obertes les urnes, es comptarà el nombre de sobres. Si no hi hagués coincidència amb el nombre de votants, el president de la mesa ho farà constar en la documentació de l’escrutini.
+
+#### Article 42
+
+**Vots vàlids, vots nuls i vots blancs**
+
+1. Es consideren vots vàlids els que resulten dels vots emesos, després d’haver-ne deduït els vots blancs i els vots nuls.
+
+2. Es consideren vots nuls i sense cap efecte els expressats mitjançant:
+
+a) Paperetes esmenades, incompletes o amb més o menys noms que els dels càrrecs a proveir, paperetes que d’alguna forma, indiquin alteracions o preferències en l’ordre de les llistes i, en general, totes les que contravinguin el sentit de la votació.
+
+b) Dos o més paperetes incloses dins un mateix sobre que no siguin idèntiques.
+
+c) Paperetes amb algun escrit afegit.
+
+d) Paperetes tacades si a criteri de la mesa electoral la taca s’ha fet amb voluntat d’identificar la papereta.
+
+e) Paperetes diferents de les facilitades pel Govern.
+
+f) Paperetes incloses dins un sobre juntament amb qualsevol altre element.
+
+g) Paperetes que no es corresponguin amb el sobre de cada circumscripció.
+
+h) Paperetes introduïdes a l’urna sense sobre.
+
+i) Sobres introduïts a l’urna sense cap papereta.
+
+3. Es consideren vots vàlids els emesos mitjançant:
+
+a) Dos o més paperetes idèntiques incloses dins un mateix sobre. En aquest cas es considera un sol vot vàlid.
+
+b) Paperetes tacades si a criteri de la mesa electoral la taca no ha estat feta amb voluntat d’identificar la papereta.
+
+c) Una papereta que es trenca en el moment d’obrir el sobre per realitzar l’escrutini. En aquest cas es considera que la papereta és íntegra.
+
+4. No es poden declarar nuls els vots per altres motius que no siguin els prescrits per aquesta Llei.
+
+5. Els vots blancs s’han de fer constar en les actes de forma diferenciada dels vots nuls.
+
+6. Els vots vàlids i els vots nuls que siguin impugnats per algun membre de la mesa o algun interventor s’han d’adjuntar a la documentació, i se n’ha de fer constar el nombre.
+
+#### Article 43
+
+**Conservació de les paperetes**
+
+Serà obligatori conservar les paperetes electorals no impugnades a la casa comuna fins que hagin transcorregut quinze dies des que l’elecció hagi quedat ferma.
+
+#### Article 44
+
+**Acta de l’escrutini**
+
+1. Els resultats de l’escrutini es fan constar en una acta que han de signar tots els membres de la mesa electoral. Una còpia certificada d’aquesta ha de ser tramesa al Govern de forma immediata.
+
+2. En l’acta s’ha de fer constar el nombre d’electors amb dret a votar, el nombre de votants i el nombre de vots nuls, blancs i els obtinguts per cada candidatura o per cada resposta en cas de referèndum.
+
+3. També s’ha de fer constar a l’acta si el nombre de vots emesos no coincideix amb el de votants o qualsevol altra incidència digna de menció, a judici de la majoria dels membres de la mesa. Si hi haguessin vots impugnats aquests han de ser adjuntats a l’acta.
+
+#### Article 45
+
+**Acta nacional**
+
+En les eleccions al Consell General o en els referèndums el Govern, a la vista de les actes dels col·legis electorals, farà el recompte general i establirà l’acta nacional, i el cap de Govern en proclamarà els resultats.
+
+#### Article 46
+
+**Recurs contra la proclamació dels resultats electorals**
+
+Contra la proclamació dels resultats electorals, cap un recurs davant els tribunals, que es substanciarà pel procediment urgent i preferent a què es refereix la Constitució si es fonamentés en la lesió d’un dret fonamental.
+
+## Títol II. De les eleccions generals
+
+### Capítol primer. Convocatòria d’eleccions
+
+#### Article 47
+
+**Decret de dissolució del Consell General i convocatòria d’eleccions**
+
+1. El mandat dels consellers acaba quatre anys després de la seva elecció o el dia de la dissolució del Consell General, prevista per la Constitució.
+
+2. El decret de dissolució ha de fixar la data de les eleccions, a realitzar entre els trenta i els quaranta dies hàbils següents, així com la durada de la campanya electoral, en els termes de l’article 26.
+
+3. Si la convocatòria d’eleccions té lloc per simple exhauriment del termini legal de la legislatura, el decret de convocatòria, que ha de ser signat i publicat en el termini màxim de cinc dies hàbils des de l’exhauriment de la legislatura, ha de fixar la data de les eleccions i la durada de la campanya electoral.
+
+#### Article 48
+
+**Nombre de consellers generals**
+
+El Consell General es compon de vint-i-vuit consellers generals, la meitat dels quals són elegits a raó d’un nombre igual per cadascuna de les set parròquies i l’altra meitat s’elegeix en circumscripció nacional.
+
+#### Article 49
+
+**Composició de les candidatures per circumscripció parroquial**
+
+En les candidatures de les circumscripcions parroquials han de figurar necessàriament dos candidats, acompanyats de tres suplents.
+
+#### Article 50
+
+**Composició de les candidatures per circumscripció nacional**
+
+Les candidatures de la circumscripció nacional estaran compostes per una llista ordenada de 14 candidats i 3 suplents que determina els consellers generals elegits en funció dels resultats electorals i l’ordre correlatiu de substitució en cas de vacant.
+
+#### Article 51
+
+**Prohibició de figurar en les dues circumscripcions**
+
+Una mateixa persona, sigui candidat o suplent, no pot figurar simultàniament en una llista de la circumscripció parroquial i en una de la circumscripció nacional.
+
+#### Article 52
+
+**Procediment per votar segons la circumscripció**
+
+1. Les eleccions de consellers generals en les circumscripcions parroquials i en la circumscripció nacional, hauran de realitzar-se en el mateix dia i en el mateix col·legi electoral.
+
+2. A aquest efecte, s’habilitaran dues urnes en cada mesa electoral. La primera urna, de color blanc, estarà reservada a l’elecció de les candidatures parroquials i els sobres i paperetes seran de color blanc. La segona urna, de color blau, es destinarà a l’elecció de les candidatures nacionals i els sobres i paperetes seran de color blau.
+
+#### Article 53
+
+**Certificació dels resultats i aixecament d’una acta nacional**
+
+1. El mateix dia de la votació, les meses electorals faran una certificació dels resultats de les candidatures en llur respectiu col·legi electoral. Aquestes certificacions seran trameses immediatament al Govern, que efectuarà el recompte final de la circumscripció nacional i determinarà tots els candidats elegits.
+
+2. El Govern aixecarà una acta nacional i el cap de Govern proclamarà el nom de tots els candidats elegits, sigui quin sigui l’origen de la seva elecció.
+
+#### Article 54
+
+**Incompatibilitat amb el càrrec de conseller general**
+
+A més de les causes d’incompatibilitat previstes en els articles 16 i 17, el càrrec de conseller general és incompatible:
+
+a) amb el de cap de Govern, ministre o alt càrrec de Govern.
+
+b) amb el de cònsol o conseller de comú.
+
+c) amb qualsevol càrrec comunal de lliure designació.
+
+d) amb qualsevol activitat de caràcter laboral que comporti una contraprestació salarial del Consell General, del Govern o d’entitats parapúbliques o de dret públic, no havent-ne obtingut l’excedència.
+
+e) amb l’exercici de qualsevol delegació per part del Govern que superi el període de sis mesos.
+
+### Capítol segon. Sistema electoral
+
+#### Article 55
+
+**Votació de candidatures per circumscripció parroquial**
+
+Els electors hauran de votar les candidatures de les circumscripcions parroquials completes sense alterar-les, altrament la seva papereta o vot serà nul·la.
+
+#### Article 56
+
+**Votació de candidatures per circumscripció nacional**
+
+Les candidatures de la circumscripció nacional seran votades en la seva totalitat, essent vots nuls aquells que, d’alguna forma, indiquin alteracions o preferències en l’ordre de les llistes.
+
+#### Article 57
+
+**Consellers generals elegits en circumscripció parroquial**
+
+1. Seran proclamats consellers generals, elegits en les circumscripcions parroquials, els candidats de la candidatura més votada.
+
+2. Si en la votació es produís un empat entre dos o més candidatures, el diumenge següent se celebrarà una nova votació entre aquestes candidatures.
+
+3. Si en la nova votació es produís un altre empat, tan bon punt hagi acabat l’escrutini s’efectuarà un sorteig que consistirà en posar una papereta amb el nom de cada candidatura dintre l’urna, i quedarà elegida la candidatura el nom de la qual surti primer de l’urna.
+
+L’extracció de la papereta l’efectuarà el president de la mesa electoral amb total imparcialitat.
+
+#### Article 58
+
+**Consellers generals elegits en circumscripció nacional**
+
+1. Per a la determinació dels consellers generals en la circumscripció nacional, s’utilitzarà el sistema proporcional denominat de “resta més elevada”.
+
+2. A aquest efecte, a cada candidatura li correspondran tants escons com resulti de dividir el seu nombre de vots pel quocient electoral. Si efectuada aquesta operació no s’haguessin cobert els catorze càrrecs de conseller general, els escons restants s’adjudicarien a aquella o aquelles candidatures que ja tinguessin representació i que tinguessin la resta o restes més elevades, en funció del nombre de vacants existents. Si es produís empat en l’adjudicació de restes, es resoldria en favor de la candidatura amb més nombre de vots absoluts. Si també en nombre de vots absoluts es produís un empat, es resoldria per sorteig.
+
+3. El quocient electoral es determina dividint el nombre total de vots vàlids per catorze. Si el quocient electoral així obtingut fos un nombre amb decimals, s’ha d’arrodonir al nombre enter superior.
+
+4. La resta és aquella que resulta matemàticament de dividir el nombre total de vots de cadascuna de les candidatures pel quocient electoral. Són els vots sobrers de cada candidatura que no han arribat a la xifra expressada pel quocient electoral. Exemple:
+
+quocient electoral = 8.350: 14 = 596,42 (597 per arrodoniment)
+
+candidatura A = 3.000 vots: 597 = 5 escons + 15 resta = 5 escons.
+
+candidatura B = 2.550 vots: 597 = 4 escons + 162 resta = 4 escons.
+
+candidatura C = 1.975 vots: 597 = 3 escons + 184 resta = 3 escons.
+
+candidatura D = 825 vots: 597 = 1 escó + 228 resta = 2 escons.
+
+## Títol III. De les eleccions comunals
+
+#### Article 59
+
+**Durada del mandat i convocatòria d’eleccions comunals**
+
+1. El mandat dels consellers de comú té una durada de quatre anys.
+
+2. El cap de Govern fixa, per mitjà de decret, la data de les eleccions, a celebrar durant els vint primers dies del mes de desembre de l’any electoral. El mateix decret, que ha de ser publicat entre els trenta i els quaranta dies hàbils anteriors a la data de celebració de les eleccions, ha de fixar la durada de la campanya electoral, en els termes de l’article 26.
+
+#### Article 60
+
+**Composició del Consell de Comú**
+
+1. Els consells de comú estaran compostos per entre deu i setze consellers de comú, sempre en nombre parell.
+
+2. Els consells de comú, elegits conforme a aquesta Llei, podran modificar el nombre de consellers de comú dins els marges expressats en el paràgraf primer, sempre que aquesta modificació sigui aprovada per 2/3 parts dels seus membres. Perquè aquest acord tingui efecte per a les eleccions següents, s’haurà d’adoptar amb un any d’antelació a la celebració d’aquestes.
+
+#### Article 61
+
+**Candidatures comunals**
+
+Les candidatures, que seran presentades per un 0,5% del cens parroquial i, en qualsevol cas, per no menys de deu presentadors, estaran compostes per una llista ordenada de tants candidats com consellers de comú s’elegeixin en la parròquia i dos suplents. Els electors votaran les llistes en la seva totalitat, sense poder-ne alterar l’ordre ni indicar les seves preferències per un o altre candidat.
+
+#### Article 62
+
+**Atribució dels escons**
+
+1. Efectuada l’elecció, correspondrà directament a la candidatura més votada en cada parròquia la meitat del nombre total de consellers que integrin el consell de comú, sigui quina sigui la diferència en vots amb la resta de candidatures. L’altra meitat del nombre total de consellers s’ha de distribuir proporcionalment entre totes les candidatures, inclosa la més votada, per aplicació del sistema descrit en l’article 58, adequant-lo al nombre de consellers a repartir proporcionalment.
+
+2. En cas d’empat com a llista més votada entre dues o més candidatures, correspondrà a cadascuna d’aquestes una part igual de la meitat del nombre total de consellers. Si no fos possible una distribució exacta, l’escó o els escons sobrants han de ser acumulats al nombre de consellers a repartir proporcionalment.
+
+#### Article 63
+
+**Comunicació dels resultats**
+
+El mateix dia de la votació les meses electorals han d’establir una certificació dels resultats en llur respectiu col·legi electoral i trametre-la, de forma immediata, al Govern. Aquest ha de verificar les certificacions i aixecar l’acta de resultats, i el cap de Govern proclamarà el nom de tots els candidats que han resultat elegits.
+
+#### Article 64
+
+**Elecció de cònsol major i menor, moció de censura i dimissió**
+
+1. Els cònsols major i menor seran elegits d’entre i pels consellers de comú. No podran exercir més de dos mandats consecutius complets.
+
+2. Els cònsols major o menor cessaran en el seu càrrec si els és presentada una moció de censura, amb un conseller de comú com a candidat alternatiu i aquesta obtingués el vot favorable de la majoria absoluta dels membres de dret del Consell de Comú.
+
+3. Si la moció de censura no reeixís, el conseller de comú presentat com a candidat alternatiu no podria ésser presentat de nou en tot el que restés de mandat.
+
+4. El cònsol major o el cònsol menor podran presentar de forma irrevocable la dimissió del seu càrrec, passant a ésser membres del Consell de Comú. La seva substitució s’efectuarà per mitjà del mateix sistema amb què van ser elegits, i haurà de tenir lloc durant els quinze dies naturals següents a la presentació de la seva dimissió.
+
+5. Qualsevol conseller de comú podrà presentar davant el cònsol major o el cònsol menor la seva renúncia irrevocable al càrrec, la qual tindrà efecte a partir dels quinze dies naturals d’haver-la presentada. El substituirà en el càrrec el candidat següent al darrer escollit de la seva llista electoral.
+
+#### Article 65
+
+**Incompatibilitats dels membres del Consell de Comú**
+
+A més de les causes d’incompatibilitat previstes en els articles 16 i 17, el càrrec de membre del Consell de Comú és incompatible amb el càrrec de cap de Govern, ministre o alt càrrec de Govern.
+
+#### Article 66
+
+**Incompatibilitats dels cònsols major i menor**
+
+Endemés de les incompatibilitats previstes en l’article anterior, els càrrecs de cònsol major i menor són incompatibles amb qualsevol activitat que suposi estar en nòmina del Consell General, del Govern, d’un altre comú, d’entitats parapúbliques o de dret públic, de societats públiques o d’organismes o administracions que depenguin d’algun estat estranger, no havent-ne obtingut l’excedència.
+
+## Títol IV. Dels referèndums
+
+### Capítol primer. El referèndum de reforma constitucional
+
+#### Article 67
+
+**Convocatòria de referèndum**
+
+1. Aprovat un projecte de modificació de la Constitució pel Consell General, segons el que es preveu en ella, el síndic general el lliurarà als coprínceps perquè, de manera simultània i conjunta, convoquin referèndum.
+
+2. La data de realització del referèndum serà fixada pel Consell General i, en cap cas, serà abans que hagin transcorregut trenta dies des de la comunicació als coprínceps.
+
+#### Article 68
+
+**Paperetes i sobres**
+
+El Govern prepararà i lliurarà als comuns i als batlles les paperetes de vot i els sobres oficials.
+
+En les paperetes hi figurarà impresa la pregunta, tal com hagi estat plantejada pel Consell General i també les dues alternatives de resposta, en unes paperetes “SI” i en altres “NO”. Hi haurà també paperetes blanques.
+
+#### Article 69
+
+**Participació de grups d’electors**
+
+Els grups d’electors que donin suport a alguna opció en el referèndum tenen la mateixa consideració legal que les candidatures i estan sotmesos als mateixos requisits de presentació de signatures que aquelles, tal com es preveu en el capítol tercer del títol primer.
+
+#### Article 70
+
+**Proclamació de resultats**
+
+Fet el recompte, segons el que es preveu en l’article 45, el Govern estableix l’acta nacional del resultat del referèndum. La modificació de la Constitució quedarà aprovada si el nombre de vots afirmatius emesos pel poble andorrà supera el nombre de vots negatius. El cap de Govern proclamarà el resultat del referèndum immediatament.
+
+#### Article 71
+
+**Ratificació de la reforma constitucional**
+
+Una vegada aprovat el projecte de reforma de la Constitució pel poble andorrà en referèndum, el síndic general el lliurarà als coprínceps per a la seva ratificació. Acompanyarà el text de la reforma una còpia certificada de l’acta nacional acreditativa del resultat.
+
+### Capítol segon. El referèndum consultiu
+
+#### Article 72
+
+**Convocatòria de referèndum consultiu**
+
+Aprovada la realització d’un referèndum sobre una qüestió d’ordre polític, segons el que es preveu en la Constitució, el cap de Govern es dirigirà als coprínceps perquè el convoquin.
+
+#### Article 73
+
+**Fixació de data i pregunta**
+
+La data i la pregunta del referèndum seran fixades pel Govern amb l’acord del Consell General.
+
+#### Article 74
+
+**Proclamació de resultats locals i nacionals**
+
+La proclamació dels resultats es farà de manera que quedi simultàniament clara i manifesta la voluntat expressada pels votants de totes i cadascuna de les parròquies i la del conjunt del poble andorrà.
+
+## Disposició addicional
+
+Per al còmput dels dies hàbils, s’aplicarà el calendari de dies festius fixat pel Govern.
+
+## Disposició final
+
+Aquesta Llei entrarà en vigor l’endemà de la seva publicació en el Butlletí Oficial del Principat d’Andorra.

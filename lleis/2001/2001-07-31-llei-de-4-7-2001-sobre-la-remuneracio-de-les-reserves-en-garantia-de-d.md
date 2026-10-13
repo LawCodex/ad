@@ -3,7 +3,7 @@ title: "Llei de 4-7-2001 sobre la remuneració de les reserves en garantia de di
 type: act
 jurisdiction: ad
 language: ca
-date: 2001-07-03
+date: 2001-07-04
 published: 2001-07-31
 bopa: "BOPA núm. 71, any 2001"
 status: unknown

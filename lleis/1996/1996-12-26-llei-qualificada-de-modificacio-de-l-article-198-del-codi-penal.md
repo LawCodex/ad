@@ -3,7 +3,7 @@ title: "Llei qualificada de modificació de l'article 198 del Codi Penal, de 28-
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1996-11-27
+date: 1996-11-28
 published: 1996-12-26
 bopa: "BOPA núm. 83, any 1996"
 status: unknown

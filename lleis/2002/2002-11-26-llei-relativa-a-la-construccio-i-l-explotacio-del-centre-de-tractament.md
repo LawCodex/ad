@@ -3,7 +3,7 @@ title: "Llei relativa a la construcció i l'explotació del Centre de Tractament
 type: act
 jurisdiction: ad
 language: ca
-date: 2002-10-30
+date: 2002-10-31
 published: 2002-11-26
 bopa: "BOPA núm. 90, any 2002"
 status: unknown

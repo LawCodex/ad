@@ -3,7 +3,7 @@ title: "Llei d'aprovació d'un crèdit extraordinari per a la ratificació d'un 
 type: act
 jurisdiction: ad
 language: ca
-date: 1990-05-31
+date: 1990-06-01
 published: 1990-06-20
 bopa: "BOPA núm. 17, any 1990"
 status: unknown

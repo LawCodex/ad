@@ -3,7 +3,7 @@ title: "Llei de modificació de l'Estatut Orgànic del Servei de Telecomunicacio
 type: act
 jurisdiction: ad
 language: ca
-date: 1994-07-29
+date: 1994-06-30
 published: 1994-07-26
 bopa: "BOPA núm. 50, any 1994"
 status: unknown

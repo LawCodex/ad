@@ -3,7 +3,7 @@ title: "Llei d'ordenació del sistema financer, de 27-11-93."
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-11-26
+date: 1993-11-27
 published: 1993-12-21
 bopa: "BOPA núm. 70, any 1993"
 status: unknown

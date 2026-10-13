@@ -3,7 +3,7 @@ title: "Llei de crèdit extraordinari pressupostari per fer front a les despeses
 type: act
 jurisdiction: ad
 language: ca
-date: 1998-10-07
+date: 1998-10-08
 published: 1998-11-03
 bopa: "BOPA núm. 55, any 1998"
 status: unknown

@@ -3,7 +3,7 @@ title: "Correcció d'errors al Codi de l'Administració, de 20-5-89."
 type: code
 jurisdiction: ad
 language: ca
-date: 1989-05-19
+date: 1989-05-20
 published: 1989-07-19
 bopa: "BOPA núm. 15, any 1989"
 status: unknown

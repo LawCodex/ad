@@ -3,7 +3,7 @@ title: "Llei de Pressupost per a 1993, de 5-3-93."
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-03-04
+date: 1993-03-05
 published: 1993-03-28
 bopa: "BOPA núm. 16, any 1993 (extra)"
 status: unknown

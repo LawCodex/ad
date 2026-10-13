@@ -3,7 +3,7 @@ title: "Correcció d'errata del 25-6-2003 per la qual s'ha constatat un error d'
 type: other
 jurisdiction: ad
 language: ca
-date: 2003-06-24
+date: 2003-06-18
 published: 2003-06-24
 bopa: "BOPA núm. 52, any 2003"
 status: unknown

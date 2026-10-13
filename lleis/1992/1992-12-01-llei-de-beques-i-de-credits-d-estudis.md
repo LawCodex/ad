@@ -3,7 +3,7 @@ title: "Llei de beques i de crèdits d'estudis, de 30-11-92."
 type: act
 jurisdiction: ad
 language: ca
-date: 1992-11-29
+date: 1992-11-30
 published: 1992-12-01
 bopa: "BOPA núm. 49, any 1992"
 status: unknown

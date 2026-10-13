@@ -3,7 +3,7 @@ title: "Llei de modificació de la Llei qualificada del règim electoral i del r
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 2000-12-14
+date: 2000-12-15
 published: 2001-01-04
 bopa: "BOPA núm. 2, any 2001 (extra)"
 status: unknown

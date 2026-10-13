@@ -3,7 +3,7 @@ title: "Correcció d'errata del 18-1-2006 per la qual s'esmena l'error de transc
 type: other
 jurisdiction: ad
 language: ca
-date: 2006-01-17
+date: 2004-11-03
 published: 2006-01-17
 bopa: "BOPA núm. 5, any 2006"
 status: unknown

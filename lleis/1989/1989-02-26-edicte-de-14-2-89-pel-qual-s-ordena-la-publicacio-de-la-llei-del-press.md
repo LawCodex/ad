@@ -3,7 +3,7 @@ title: "Edicte de 14-2-89 pel qual s'ordena la publicació de la Llei del Pressu
 type: other
 jurisdiction: ad
 language: ca
-date: 1989-02-13
+date: 1989-02-14
 published: 1989-02-26
 bopa: "BOPA núm. 3, any 1989"
 status: unknown

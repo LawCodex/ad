@@ -3,7 +3,7 @@ title: "Llei del Pressupost general per a 1996, de 29-2-96."
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-02-28
+date: 1996-02-29
 published: 1996-03-19
 bopa: "BOPA núm. 21, any 1996 (extra)"
 status: unknown

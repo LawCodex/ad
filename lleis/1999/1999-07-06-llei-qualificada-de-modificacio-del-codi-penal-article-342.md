@@ -3,7 +3,7 @@ title: "Llei qualificada de modificació del Codi penal (article 342), de 10-6-9
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1999-06-09
+date: 1999-06-10
 published: 1999-07-06
 bopa: "BOPA núm. 38, any 1999"
 status: unknown

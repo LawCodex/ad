@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 7 de la llei sobre la pensió de velle
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-01-17
+date: 1991-01-18
 published: 1991-02-19
 bopa: "BOPA núm. 8, any 1991"
 status: unknown

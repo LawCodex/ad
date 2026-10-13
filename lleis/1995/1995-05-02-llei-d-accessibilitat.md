@@ -3,7 +3,7 @@ title: "Llei d'accessibilitat, de 6-4-95."
 type: act
 jurisdiction: ad
 language: ca
-date: 1995-04-05
+date: 1995-04-06
 published: 1995-05-02
 bopa: "BOPA núm. 24, any 1995"
 status: unknown

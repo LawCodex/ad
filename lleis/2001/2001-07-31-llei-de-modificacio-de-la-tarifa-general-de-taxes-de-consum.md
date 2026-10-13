@@ -3,7 +3,7 @@ title: "Llei de modificació de la tarifa general de taxes de consum, de 4-7-200
 type: act
 jurisdiction: ad
 language: ca
-date: 2001-07-03
+date: 2001-07-04
 published: 2001-07-31
 bopa: "BOPA núm. 71, any 2001"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 41 del Reglament Tècnic de la Caixa A
 type: act
 jurisdiction: ad
 language: ca
-date: 1990-04-10
+date: 1990-04-11
 published: 1990-04-19
 bopa: "BOPA núm. 11, any 1990"
 status: unknown

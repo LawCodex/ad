@@ -3,7 +3,7 @@ title: "Llei reguladora de la gestió i l'organització administrativa de la Cai
 type: act
 jurisdiction: ad
 language: ca
-date: 1997-12-17
+date: 1997-12-18
 published: 1998-01-27
 bopa: "BOPA núm. 4, any 1998"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei transitòria de procediments judicials, de 21-12-93."
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-12-20
+date: 1993-12-21
 published: 1994-01-12
 bopa: "BOPA núm. 3, any 1994 (extra)"
 status: unknown

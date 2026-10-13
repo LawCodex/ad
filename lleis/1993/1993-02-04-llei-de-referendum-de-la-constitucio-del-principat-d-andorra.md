@@ -3,7 +3,7 @@ title: "Llei de Referèndum de la Constitució del Principat d'Andorra, de 5-2-9
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-02-04
+date: 1993-02-05
 published: 1993-02-04
 bopa: "BOPA núm. 7, any 1993 (extra)"
 status: unknown

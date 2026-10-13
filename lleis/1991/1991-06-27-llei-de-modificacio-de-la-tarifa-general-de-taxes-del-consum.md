@@ -3,7 +3,7 @@ title: "Llei de modificació de la Tarifa General de Taxes del Consum, de 26-6-9
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-06-25
+date: 1991-06-26
 published: 1991-06-27
 bopa: "BOPA núm. 107, any 1991 (extra)"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei de modificació de la llei qualificada de la nacionalitat, de 21-12
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1994-12-20
+date: 1994-12-21
 published: 1995-01-24
 bopa: "BOPA núm. 6, any 1995"
 status: unknown

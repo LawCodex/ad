@@ -3,7 +3,7 @@ title: "Llei qualificada d'immigració, de 14-5-2002."
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 2002-05-13
+date: 2002-05-14
 published: 2002-06-11
 bopa: "BOPA núm. 44, any 2002"
 status: unknown

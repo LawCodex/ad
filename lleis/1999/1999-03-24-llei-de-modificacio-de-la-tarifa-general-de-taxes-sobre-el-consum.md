@@ -3,7 +3,7 @@ title: "Llei de modificació de la tarifa general de taxes sobre el consum, de 4
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-03-03
+date: 1999-03-04
 published: 1999-03-24
 bopa: "BOPA núm. 18, any 1999 (extra)"
 status: unknown

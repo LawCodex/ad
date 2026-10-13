@@ -3,7 +3,7 @@ title: "Llei de modificació de la Llei reguladora de les mesures per garantir l
 type: act
 jurisdiction: ad
 language: ca
-date: 2001-12-12
+date: 2001-12-13
 published: 2002-01-22
 bopa: "BOPA núm. 5, any 2002"
 status: unknown

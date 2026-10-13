@@ -3,7 +3,7 @@ title: "Llei de l'Escola Andorrana, de 2-5-89."
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-05-01
+date: 1989-05-02
 published: 1989-05-19
 bopa: "BOPA núm. 9, any 1989"
 status: unknown

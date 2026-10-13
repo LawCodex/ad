@@ -3,7 +3,7 @@ title: "Llei de modificació dels articles 4, 9, 11, 12, 22, 28, 29 i 32 del Reg
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-10-11
+date: 1989-10-12
 published: 1989-10-19
 bopa: "BOPA núm. 25, any 1989"
 status: unknown

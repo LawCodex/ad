@@ -3,7 +3,7 @@ title: "Llei de crèdit extraordinari per assumir les despeses derivades de les 
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-11-25
+date: 1999-11-26
 published: 1999-12-21
 bopa: "BOPA núm. 76, any 1999"
 status: unknown

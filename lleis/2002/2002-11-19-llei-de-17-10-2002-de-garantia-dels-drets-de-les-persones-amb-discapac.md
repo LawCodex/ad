@@ -3,7 +3,7 @@ title: "Llei de 17-10-2002 de garantia dels drets de les persones amb discapacit
 type: act
 jurisdiction: ad
 language: ca
-date: 2002-10-16
+date: 2002-10-17
 published: 2002-11-19
 bopa: "BOPA núm. 88, any 2002"
 status: unknown

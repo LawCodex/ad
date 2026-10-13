@@ -3,7 +3,7 @@ title: "Llei del pressupost per a l'exercici 1997, de 3-7-97."
 type: act
 jurisdiction: ad
 language: ca
-date: 1997-07-02
+date: 1997-07-03
 published: 1997-07-29
 bopa: "BOPA núm. 49, any 1997"
 status: unknown

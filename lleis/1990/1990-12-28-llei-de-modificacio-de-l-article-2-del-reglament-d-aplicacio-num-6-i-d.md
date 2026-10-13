@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 2 del Reglament d'aplicació núm. 6 i
 type: act
 jurisdiction: ad
 language: ca
-date: 1990-12-20
+date: 1990-12-21
 published: 1990-12-28
 bopa: "BOPA núm. 203, any 1990 (extra)"
 status: unknown

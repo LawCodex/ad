@@ -3,7 +3,7 @@ title: "Llei d'ordenació de la cartografia, de 5-10-95."
 type: act
 jurisdiction: ad
 language: ca
-date: 1995-10-04
+date: 1995-10-05
 published: 1995-11-01
 bopa: "BOPA núm. 64, any 1995"
 status: unknown

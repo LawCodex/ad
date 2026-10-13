@@ -3,7 +3,7 @@ title: "Llei de modificació de la Llei de l'impost de mercaderies indirecte, de
 type: act
 jurisdiction: ad
 language: ca
-date: 1998-12-09
+date: 1998-12-10
 published: 1999-01-06
 bopa: "BOPA núm. 1, any 1999"
 status: unknown

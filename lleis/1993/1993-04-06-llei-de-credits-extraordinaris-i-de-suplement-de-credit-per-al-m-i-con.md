@@ -3,7 +3,7 @@ title: "Llei de crèdits extraordinaris i de suplement de crèdit per al M.I. Co
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-03-30
+date: 1993-03-31
 published: 1993-04-06
 bopa: "BOPA núm. 18, any 1993"
 status: unknown

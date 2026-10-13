@@ -3,7 +3,7 @@ title: "Llei qualificada d'addició de l'article 307 bis al Codi Penal, de 13-4-
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 2000-04-12
+date: 2000-04-13
 published: 2000-05-16
 bopa: "BOPA núm. 24, any 2000"
 status: unknown

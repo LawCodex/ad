@@ -4,7 +4,7 @@ identifier: "Llei qualificada 11/2003"
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 2003-06-26
+date: 2003-06-27
 published: 2003-07-29
 bopa: "BOPA núm. 59, any 2003"
 status: unknown

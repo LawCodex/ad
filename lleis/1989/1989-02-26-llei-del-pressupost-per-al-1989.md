@@ -3,7 +3,7 @@ title: "Llei del Pressupost per al 1989, de 10-2-89."
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-02-09
+date: 1989-02-10
 published: 1989-02-26
 bopa: "BOPA núm. 3, any 1989"
 status: unknown

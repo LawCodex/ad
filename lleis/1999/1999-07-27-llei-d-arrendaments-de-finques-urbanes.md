@@ -3,7 +3,7 @@ title: "Llei d'arrendaments de finques urbanes, de 30-6-99."
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-06-29
+date: 1999-06-30
 published: 1999-07-27
 bopa: "BOPA núm. 43, any 1999"
 status: unknown

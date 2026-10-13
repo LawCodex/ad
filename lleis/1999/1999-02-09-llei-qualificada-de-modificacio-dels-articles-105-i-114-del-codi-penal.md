@@ -3,7 +3,7 @@ title: "Llei qualificada de modificació dels articles 105 i 114 del Codi penal,
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1999-01-13
+date: 1999-01-14
 published: 1999-02-09
 bopa: "BOPA núm. 9, any 1999"
 status: unknown

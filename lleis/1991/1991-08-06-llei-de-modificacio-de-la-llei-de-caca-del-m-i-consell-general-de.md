@@ -3,7 +3,7 @@ title: "Llei de modificació de la Llei de caça del M.I. Consell General de, 31
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-07-30
+date: 1991-07-31
 published: 1991-08-06
 bopa: "BOPA núm. 32, any 1991"
 status: unknown

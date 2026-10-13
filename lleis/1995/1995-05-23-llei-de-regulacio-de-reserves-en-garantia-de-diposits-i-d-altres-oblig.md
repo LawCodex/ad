@@ -3,7 +3,7 @@ title: "Llei de regulació de reserves en garantia de dipòsits i d'altres oblig
 type: act
 jurisdiction: ad
 language: ca
-date: 1995-05-10
+date: 1995-05-11
 published: 1995-05-23
 bopa: "BOPA núm. 29, any 1995"
 status: unknown

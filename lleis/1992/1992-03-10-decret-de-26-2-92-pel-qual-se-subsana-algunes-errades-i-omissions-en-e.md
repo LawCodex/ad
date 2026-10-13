@@ -3,7 +3,7 @@ title: "Decret de 26-2-92 pel qual se subsana algunes errades i omissions en el 
 type: other
 jurisdiction: ad
 language: ca
-date: 1992-02-25
+date: 1990-07-12
 published: 1992-03-10
 bopa: "BOPA núm. 11, any 1992"
 status: unknown

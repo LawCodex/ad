@@ -3,7 +3,7 @@ title: "Llei de modificació de l'IMI, de 25 de maig de 1995."
 type: act
 jurisdiction: ad
 language: ca
-date: 1995-05-24
+date: 1995-05-25
 published: 1995-06-20
 bopa: "BOPA núm. 34, any 1995"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei de modificació de la Llei de regulació dels criteris de solvènci
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-12-11
+date: 1996-02-29
 published: 1997-01-07
 bopa: "BOPA núm. 3, any 1997"
 status: unknown

@@ -3,7 +3,7 @@ title: "Decret legislatiu del 8-2-2006 de publicació del text refós del Codi d
 type: legislative_decree
 jurisdiction: ad
 language: ca
-date: 2006-02-07
+date: 2006-02-08
 published: 2006-02-21
 bopa: "BOPA núm. 15, any 2006"
 status: unknown

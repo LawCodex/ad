@@ -3,7 +3,7 @@ title: "Edicte de 20-1-89 pel qual s'ordena la publicació de la Llei de modific
 type: other
 jurisdiction: ad
 language: ca
-date: 1989-01-19
+date: 1989-01-20
 published: 1989-01-29
 bopa: "BOPA núm. 1, any 1989"
 status: unknown

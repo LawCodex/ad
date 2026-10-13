@@ -3,7 +3,7 @@ title: "Llei de modificació de les tarifes elèctriques de l'Ens Forces Elèctr
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-03-04
+date: 1991-03-05
 published: 1991-03-19
 bopa: "BOPA núm. 12, any 1991"
 status: unknown

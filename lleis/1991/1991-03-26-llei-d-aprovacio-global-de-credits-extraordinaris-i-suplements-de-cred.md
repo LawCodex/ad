@@ -3,7 +3,7 @@ title: "Llei d'aprovació global de crèdits extraordinaris i suplements de crè
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-03-05
+date: 1991-03-06
 published: 1991-03-26
 bopa: "BOPA núm. 13, any 1991"
 status: unknown

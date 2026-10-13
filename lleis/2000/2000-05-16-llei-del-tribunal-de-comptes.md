@@ -3,7 +3,7 @@ title: "Llei del tribunal de comptes, de 13-4-2000."
 type: act
 jurisdiction: ad
 language: ca
-date: 2000-04-12
+date: 2000-04-13
 published: 2000-05-16
 bopa: "BOPA núm. 24, any 2000"
 status: unknown

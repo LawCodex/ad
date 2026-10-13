@@ -3,7 +3,7 @@ title: "Codi de Procediment Penal, de 16-2-89."
 type: code
 jurisdiction: ad
 language: ca
-date: 1989-02-15
+date: 1989-02-16
 published: 1989-02-26
 bopa: "BOPA núm. 3, any 1989"
 status: unknown

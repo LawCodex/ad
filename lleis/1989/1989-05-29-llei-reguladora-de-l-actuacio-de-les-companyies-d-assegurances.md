@@ -3,7 +3,7 @@ title: "Llei reguladora de l'actuació de les companyies d'assegurances, d'11-5-
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-05-10
+date: 1989-05-11
 published: 1989-05-29
 bopa: "BOPA núm. 10, any 1989"
 status: unknown

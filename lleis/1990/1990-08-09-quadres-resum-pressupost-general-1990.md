@@ -3,7 +3,7 @@ title: "Quadres resum Pressupost general 1990, de 24-7-90."
 type: other
 jurisdiction: ad
 language: ca
-date: 1990-07-23
+date: 1990-07-24
 published: 1990-08-09
 bopa: "BOPA núm. 22, any 1991"
 status: unknown

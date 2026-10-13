@@ -3,7 +3,7 @@ title: "Correcció d'errata de 25-4-2001 relativa a diversos errors de transcrip
 type: other
 jurisdiction: ad
 language: ca
-date: 2001-04-24
+date: 2001-04-25
 published: 2001-04-24
 bopa: "BOPA núm. 40, any 2001"
 status: unknown

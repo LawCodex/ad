@@ -3,7 +3,7 @@ title: "Llei de mesures provisionals per a l'ordenació i regulació del sector 
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-04-27
+date: 1993-04-28
 published: 1993-04-27
 bopa: "BOPA núm. 22, any 1993 (extra)"
 status: unknown

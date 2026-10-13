@@ -3,7 +3,7 @@ title: "Decret legislatiu de publicació del text refós de la Llei 11/2012 , de
 type: legislative_decree
 jurisdiction: ad
 language: ca
-date: 2014-07-22
+date: 2012-06-21
 published: 2014-07-29
 bopa: "BOPA núm. 45, any 2014"
 status: unknown

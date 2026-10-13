@@ -3,7 +3,7 @@ title: "Correcció d'errata relativa diversos errors d'omissió en la publicaci�
 type: other
 jurisdiction: ad
 language: ca
-date: 2000-12-14
+date: 2001-01-10
 published: 2001-01-17
 bopa: "BOPA núm. 8, any 2001 (extra)"
 status: unknown

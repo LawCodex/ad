@@ -1,0 +1,4762 @@
+---
+title: "Decret legislatiu del 29-4-2015 de publicació del text refós de la Llei 9/2005 , del 21 de febrer, qualificada del Codi penal"
+type: legislative_decree
+jurisdiction: ad
+language: ca
+date: 2015-04-28
+published: 2015-05-05
+bopa: "BOPA núm. 38, any 2015"
+status: unknown
+consolidated: false
+source: "https://www.bopa.ad/Documents/Detall?doc=la27038001"
+document_url: "https://bopadocuments.blob.core.windows.net/bopa-documents/027038/html/1_la27038001.html"
+retrieved: 2026-10-13
+---
+
+# Decret legislatiu del 29-4-2015 de publicació del text refós de la Llei 9/2005 , del 21 de febrer, qualificada del Codi penal
+
+Decret legislatiu del 29-4-2015 de publicació del text refós de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal.
+
+Vist l’article 59 de la Constitució andorrana, segons el qual, mitjançant llei, el Consell General pot delegar l’exercici de la funció legislativa en el Govern;
+
+Vista la delegació legislativa a favor del Govern establerta en la disposició final tercera de la [Llei 40/2014](https://www.bopa.ad/bopa/027002/Pagines/lo27002004.aspx), de l’11 de desembre, qualificada de modificació de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal, segons la qual s’encomana al Govern que publiqui en el Butlletí Oficial del Principat d’Andorra el text consolidat de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal;
+
+Vist que en compliment del que preveu la disposició final tercera de la [Llei 40/2014](https://www.bopa.ad/bopa/027002/Pagines/lo27002004.aspx), es refon en aquest Decret legislatiu, en primer lloc, el contingut de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), on s’inclouen les modificacions que dimanen de les Lleis 17/2007, 15/2008, 87/2010, 91/2010, 18/2012, 18/2013, 19/2014 i 40/2014;
+
+Vist que, d’altra banda, es reprenen de forma ordenada les disposicions addicionals, transitòries, derogatòries i finals de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), així com la disposició transitòria i les disposicions derogatòries i finals de la [Llei 15/2008](https://www.bopa.ad/bopa/020077/Pagines/57272.aspx), la disposició derogatòria i les disposicions finals de la [Llei 18/2013](https://www.bopa.ad/bopa/025051/Pagines/82136.aspx), i les disposicions finals de les Lleis 17/2007, 87/2010, 91/2010, 18/2012 i 40/2014; i, al mateix temps, per tal de garantir la claredat en la consulta d’aquest Decret legislatiu i preservar la seguretat jurídica, es fa constar per a cadascuna d’aquestes disposicions de quina de les lleis esmentades porta causa;
+
+Ateses les consideracions esmentades, a proposta del ministre de Justícia i Interior, el Govern, en la sessió del 29 d’abril del 2015, aprova aquest Decret legislatiu amb el contingut següent:
+
+**Decret**
+
+###### Article únic
+
+S’aprova la publicació al Butlletí Oficial del Principat d’Andorra del text refós de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal, que entrarà en vigor l’endemà de ser-hi publicat.
+
+## Disposició derogatòria
+
+Es deroga el Decret legislatiu del 26 de març del 2014, de publicació del text refós de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal.
+
+Cosa que es fa pública per a coneixement general.
+
+Andorra la Vella, 29 d’abril del 2015
+
+Antoni Martí Petit   Cap de Govern
+
+**Text refós de la Llei 9/2005 , del 21 de febrer, qualificada del Codi penal**
+
+### Títol preliminar. Les garanties penals i l’aplicació de la llei penal
+
+###### Article 1 Garantia criminal
+
+1. Només constitueixen infracció penal les accions i les omissions previstes expressament com a delicte o contravenció penal per una llei anterior a la seva comissió.
+
+2. Les mesures de seguretat només poden aplicar-se quan concorren els pressupòsits establerts prèviament per la llei.
+
+###### Article 2 Garantia penal
+
+En cap cas no es pot imposar una pena o una mesura de seguretat que no estigui prevista per una llei anterior a la comissió de la infracció.
+
+###### Article 3 Garantia jurisdiccional i d’execució
+
+1. No pot executar-se cap pena ni cap mesura de seguretat si no és en virtut d’una sentència ferma dictada d’acord amb la llei processal i per l’òrgan jurisdiccional competent.
+
+2. No pot executar-se cap pena ni cap mesura de seguretat en cap altra forma que la prescrita per la llei. L’execució s’ha de realitzar sota el control del batlle o tribunal competent.
+
+###### Article 4 Prohibició de l’analogia
+
+1. Les lleis penals no són aplicables a supòsits que no s’hi comprenen expressament.
+
+2. En el cas que un batlle o un tribunal tingui coneixement d’alguna acció o omissió que no és penada per la llei i consideri que hauria de ser-ho, s’ha d’abstenir de tot procediment sobre aquesta acció o omissió i s’ha d’adreçar per escrit al Consell Superior de la Justícia exposant raonadament els motius del seu convenciment. El Consell Superior ha de donar compte de la petició al Consell General i al Govern i ha d’emetre el seu parer raonat.
+
+3. Quan de l’aplicació de les normes d’aquest Codi resulti penat un fet que el tribunal consideri que no hauria de ser-ho, o quan la pena aplicable resulti desproporcionada al seu judici, el tribunal s’ha d’adreçar al Consell Superior de la Justícia i exposar allò que cregui convenient sobre la derogació o la modificació de la norma. Això ho ha de fer sense perjudici de l’execució immediata de la sentència, excepte en el cas que hagi adreçat una petició d’indult als coprínceps i apreciï raonadament que el compliment de la pena pot vulnerar el dret a un procés sense dilacions indegudes, o convertir en il·lusòria la finalitat de l’indult. El Consell Superior ha de donar compte de la petició al Consell General i al Govern i ha d’emetre el seu parer raonat.
+
+###### Article 5 Principi de culpabilitat
+
+No es pot imposar cap pena si no concorre dol o imprudència. La pena no pot ultrapassar la mesura de la pròpia culpabilitat pel fet.
+
+###### Article 6 Principis aplicables a les mesures de seguretat
+
+1. Les mesures de seguretat es fonamenten en la perillositat criminal del subjecte, exterioritzada per la comissió d’un fet previst com a delicte.
+
+2. Les mesures de seguretat no poden excedir del límit necessari per prevenir la perillositat del subjecte.
+
+3. Les mesures de seguretat privatives de llibertat no poden tenir més durada que la pena que seria aplicable al delicte comès, si no s’hagués apreciat la circumstància excloent completa o incompleta.
+
+###### Article 7 Aplicació de la llei penal en el temps
+
+1. La llei penal no té efectes retroactius. Això no obstant, tenen efectes retroactius les lleis penals que afavoreixen el reu. En cas de dubte sobre quina és la llei més favorable, ha de ser escoltat el reu.
+
+2. Per determinar la llei aplicable en el temps, les infraccions penals es consideren comeses en el moment en què té lloc l’acció o l’omissió punible, amb independència de quan es produeixi el seu resultat.
+
+3. La pena o la mesura de seguretat deixa de ser executada quan la infracció per la qual va ser imposada ha deixat de ser prevista per la llei com a infracció penal. En aquest cas, s’anul·len d’ofici els antecedents i totes les conseqüències que se’n deriven.
+
+Quan una llei posterior redueix la pena o la mesura de seguretat prevista per a una infracció, el condemnat en aplicació de la llei anterior també es beneficia de la disposició més favorable. El tribunal que ha dictat sentència ha de revisar d’ofici la sentència afectada per la nova llei més favorable.
+
+4. La llei que modifica les regles de prescripció és aplicable retroactivament quan sigui favorable al reu.
+
+###### Article 8 Aplicació de la llei penal en l’espai
+
+1. La llei penal andorrana s’aplica a les infraccions intentades o consumades en el territori del Principat i també a les infraccions connexes o indivisibles que han estat intentades o comeses fora del territori d’Andorra.
+
+La llei penal andorrana s’aplica a les infraccions intentades o consumades a bord de les naus, les plataformes fixes i les aeronaus andorranes i a l’espai aeri andorrà. També s’aplica quan una aeronau aterra en territori andorrà.
+
+2. La llei penal andorrana s’aplica a tota infracció penal intentada o consumada fora del territori del Principat d’Andorra per una persona de nacionalitat andorrana.
+
+3. La llei penal andorrana s’aplica a tota infracció penal intentada o consumada fora del territori del Principat d’Andorra si la víctima és de nacionalitat andorrana.
+
+4. En els supòsits dels punts 2 i 3 anteriors, la infracció penal només pot ser perseguida si es donen els següents requisits:
+
+a) Que la infracció tingui caràcter de delicte a l’Estat on ha estat comesa i no hagi prescrit.
+
+b) Que el responsable no hagi estat absolt, indultat o condemnat per la infracció o, en aquest últim cas, no hagi complert la totalitat de la condemna. En aquest darrer supòsit el compliment de la pena no pot excedir del màxim previst pel mateix delicte en aquest Codi, deduït el temps que s’hagi complert a l’estranger.
+
+c) Que hi hagi hagut denúncia o querella del Ministeri Fiscal.
+
+5. La llei penal andorrana s’aplica a tot delicte intentat o consumat fora del territori del Principat d’Andorra contra la Constitució, la seguretat del Principat, les seves institucions o autoritats i als delictes de falsificació de documents, moneda o segells oficials andorrans.
+
+6.
+
+a) La llei penal andorrana s’aplica a tota infracció penal intentada o consumada fora del territori del Principat d’Andorra quan un conveni internacional atribueixi competència a la jurisdicció andorrana.
+
+b) En mèrits dels convenis i en relació amb les infraccions que s’esmenten a la lletra d següent, la llei penal andorrana s’aplica també a les infraccions penals intentades o consumades fora del territori del Principat d’Andorra per una persona estrangera legalment resident al Principat o quan la víctima és una persona estrangera legalment resident al Principat.
+
+c) En els supòsits previstos als convenis i en relació amb les infraccions que s’esmenten al paràgraf següent, els requisits de les lletres a i c de l’apartat 4 no són aplicables quan el responsable de la infracció és un nacional andorrà, un estranger legalment resident o un no-resident que es troba a Andorra i no pot ser extradit per raó de la seva nacionalitat.
+
+d) Els convenis i les infraccions a què es refereixen els paràgrafs anteriors són els següents:
+
+- Conveni del Consell d’Europa sobre la protecció dels infants contra l’explotació i els abusos sexuals, fet a Lanzarote el 25 d’octubre del 2007, relatiu a les infraccions contra la llibertat sexual dels infants.
+
+- Conveni del Consell d’Europa sobre la prevenció i la lluita contra la violència envers les dones i la violència domèstica, fet a Istanbul l’11 de maig del 2011, relatiu a les infraccions contra la integritat, la llibertat, la llibertat sexual de les dones i les relacions familiars.
+
+7. Els caps d’Estat estrangers gaudeixen d’immunitat durant la seva presència al territori del Principat d’Andorra, per fets comesos durant l’exercici de les seves funcions, excepte pels crims de guerra i els crims contra la humanitat i altres delictes en què així ho prevegi un tractat internacional vigent al Principat.
+
+Els representants diplomàtics estrangers acreditats es beneficien de les immunitats previstes en els tractats internacionals vigents al Principat d’Andorra.
+
+8. La llei penal andorrana s’aplica als delictes intentats o consumats fora del territori del Principat d’Andorra que tenen prevista, d’acord amb la llei andorrana, una pena el límit màxim de la qual sigui superior a sis anys de presó i que poden ser qualificats com a genocidi, tortures, terrorisme, tràfic de drogues, tràfic d’armes, falsificació de moneda, blanqueig de diners i valors, pirateria, apoderament il·lícit d’aeronaus, esclavatge, tràfic d’infants, delictes sexuals contra menors i els altres delictes en què així ho prevegi un tractat internacional vigent al Principat, sempre que el responsable no hagi estat absolt, indultat o condemnat per la infracció o, en aquest últim cas, no hagi complert condemna. Si hagués complert la condemna en part, s’ha de tenir en compte per rebaixar proporcionalment la que li correspongui.
+
+###### Article 9 Prohibició de doble sanció. Concurs de lleis
+
+1. No pot sancionar-se penalment més d’una vegada el mateix fet.
+
+2. En el cas que un fet pugui ser qualificat d’acord amb dues o més normes penals, si no hi ha concurs d’infraccions, són aplicables les regles següents:
+
+Primera: la norma especial s’aplica amb preferència a la general.
+
+Segona: la norma subsidiària s’aplica solament en defecte de la principal, tant si es declara expressament la subsidiarietat com si es dedueix del text de la llei.
+
+Tercera: la norma penal més àmplia o complexa absorbeix les que castiguin les infraccions que s’hi consumin.
+
+Quarta: en defecte dels criteris anteriors, la norma penal més greu exclou les que castiguin el fet amb una pena menor.
+
+###### Article 10 Aplicació
+
+Les disposicions d’aquest títol s’apliquen a les infraccions penals recollides i penades per les lleis especials. La resta de disposicions d’aquest Codi s’apliquen com a supletòries en el que no preveuen les lleis especials.
+
+## Llibre primer. Part general
+
+### Títol I. La infracció penal
+
+#### Capítol primer. Regles generals sobre delictes i contravencions penals
+
+###### Article 11 Definició de les infraccions
+
+Són delictes o contravencions penals les accions i les omissions doloses o imprudents penades per la llei.
+
+###### Article 12 Classificació de les infraccions
+
+Les infraccions penals es classifiquen, segons llur gravetat, en delictes majors, delictes menors i contravencions penals.
+
+Són delictes majors els que tenen assenyalada almenys una pena el límit màxim de la qual supera les descrites a l’article 36.
+
+Són delictes menors els que tenen assenyalada almenys una pena el límit màxim de la qual supera les descrites a l’article 37.
+
+Són contravencions penals les tipificades en el llibre tercer d’aquest Codi.
+
+###### Article 13 Incriminació de la imprudència
+
+Les infraccions previstes a la llei són doloses, llevat de les que són definides expressament com a imprudents.
+
+Les accions o les omissions imprudents només es castiguen quan la llei ho disposi expressament.
+
+###### Article 14 Error de tipus
+
+L’error invencible sobre un element integrant de la infracció penal exclou la responsabilitat penal. Si l’error, ateses les circumstàncies del fet i les personals de l’autor, és vencible, la infracció ha de ser castigada, sempre que ho permeti aquest Codi, com a imprudent.
+
+L’error sobre un fet que qualifiqui la infracció o sobre una circumstància agreujant n’impedeix l’apreciació.
+
+###### Article 15 Error de prohibició
+
+L’error invencible sobre la il·licitud del fet constitutiu de la infracció penal exclou la responsabilitat penal. Si l’error és vencible s’aplica la reducció qualificada de pena prevista en l’article 54.
+
+###### Article 16 Grau d’execució del fet il·lícit
+
+1. Són punibles la infracció consumada i la temptativa.
+
+2. La temptativa de delicte o de contravenció penal solament és punible en els casos en què la llei així ho disposi expressament.
+
+###### Article 17 Temptativa
+
+1. Hi ha temptativa quan el subjecte inicia directament l’execució de la infracció amb fets exteriors, realitzant tots o una part dels actes que objectivament haurien de produir el resultat i, tot i això, la infracció no es produeix per causes independents de la voluntat de l’autor.
+
+2. Resta exempt de responsabilitat pel delicte intentat i pels actes preparatoris previstos als articles 18 i 19, el qui eviti voluntàriament la consumació del delicte, bé desistint de l’execució ja iniciada, bé impedint o intentant impedir la producció del resultat, sense perjudici de la responsabilitat en què podria haver incorregut pels actes executats si aquests actes eren ja constitutius d’una altra infracció penal.
+
+3. Quan en un fet intervinguin diversos subjectes, resten exempts de responsabilitat penal el subjecte o els subjectes que desisteixin de l’execució ja iniciada, sempre que no hagin pogut impedir personalment la consumació del fet, sense perjudici de la responsabilitat en què podrien haver incorregut pels actes executats si aquests actes eren constitutius d’una altra infracció penal.
+
+###### Article 18 Conspiració
+
+1. Hi ha conspiració quan dues o més persones es concerten per a la comissió d’un delicte i decideixen executar-lo.
+
+2. La conspiració per delinquir només és punible en els casos expressament previstos en la llei.
+
+###### Article 19 Provocació
+
+1. Hi ha provocació quan directament hom incita a la comissió d’un delicte mitjançant la impremta, la radiodifusió o qualsevol altre mitjà d’una eficàcia semblant, que en faciliti la publicitat, o davant d’una concurrència de persones, sempre que hagi estat seguida de la realització efectiva d’una infracció penal.
+
+2. La provocació és punible solament en els casos en què la llei ho prevegi, tret que ho hagi estat a un delicte concret i que el delicte s’hagi intentat o consumat, en què ha de ser castigada com a inducció.
+
+3. En els supòsits de conspiració i provocació previstos penalment queda exempt de responsabilitat el qui intenti impedir la consumació del delicte.
+
+#### Capítol segon. Les persones penalment responsables
+
+###### Article 20 Persones responsables
+
+Són responsables criminalment de les infraccions penals els autors i els còmplices. Dels delictes i les contravencions penals imprudents, només en responen els autors.
+
+###### Article 21 Autoria
+
+És autor qui realitza el fet personalment, conjuntament amb un altre o uns altres, o per mitjà d’algú de qui se serveix com a instrument.
+
+També ha de ser considerat autor el qui de manera directa i conscient indueix un altre o uns altres a executar-lo.
+
+###### Article 22 Comissió per omissió
+
+Els delictes que consisteixen en la producció d’un resultat poden ser comesos per omissió si el sentit de la infracció corresponent així ho permet. En aquest cas es consideren autors per omissió els qui, tenint una obligació d’evitar el resultat i podent-ho fer, n’hagin permès la producció.
+
+###### Article 23 Complicitat
+
+És còmplice qui, sense trobar-se comprès en els supòsits de l’article 21, coopera conscientment en l’execució del fet punible amb actes anteriors o simultanis a aquell fet.
+
+Les conductes omissives, anteriors o simultànies, realitzades per afavorir conscientment l’autor o els autors del delicte es castiguen com a complicitat, tret que siguin constitutives d’un delicte diferent pel qual la llei assenyali una pena més greu.
+
+###### Article 24 Principi de personalitat i actuació per un altre
+
+La responsabilitat penal és personal. Només poden ser responsables les persones físiques.
+
+El qui actua com a administrador de fet o de dret d’una persona jurídica, o en nom o representació legal o voluntària d’aquesta o d’una persona física, respon personalment, malgrat que no concorrin en ell les condicions, qualitats o relacions que la figura de delicte o contravenció penal requereixi perquè en pugui ser subjecte actiu, si aquestes circumstàncies es donen en l’entitat o en la persona en nom o representació de la qual obra, sempre que es compleixin les condicions previstes en l’article 21.
+
+###### Article 25 Responsabilitat subsidiària dels autors en els delictes de difusió i comunicació públiques
+
+1. En els delictes o contravencions penals que es cometin utilitzant mitjans tècnics de difusió o comunicació públiques, no responen criminalment ni els còmplices ni els qui els hagin afavorit personalment o realment.
+
+2. Els autors responen de manera esglaonada, excloent i subsidiària d’acord amb l’ordre següent:
+
+Primer: els qui realment hagin redactat el text o produït el signe de què es tracti, i els qui els hagin induït a realitzar-lo.
+
+Segon: els directors de la publicació o programa en què es difongui.
+
+Tercer: els directors de l’empresa editora, emissora o difusora.
+
+Quart: els directors de l’empresa enregistradora, reproductora o impressora.
+
+Cinquè: els difusors de publicacions.
+
+3. Quan per qualsevol altre motiu que l’extinció de la responsabilitat penal, fins i tot la declaració de rebel·lia o la residència fora del Principat d’Andorra, no pugui perseguir-se cap de les persones compreses en un dels apartats del punt anterior, hom dirigirà el procediment contra les persones esmentades en l’ordinal immediatament posterior.
+
+#### Capítol tercer. Exclusió i modificació de la responsabilitat criminal
+
+###### Article 26 Minoria d’edat penal
+
+Al menor que no hagi complert divuit anys i que hagi comès una infracció penal li és aplicable el que disposa la Llei qualificada de la jurisdicció de menors.
+
+A la persona que no hagi complert els vint-i-un anys i que hagi comès una infracció penal li pot ser aplicada la Llei esmentada en els casos i amb els requisits que s’hi preveuen. Si no és el cas, s’apliquen les reduccions de pena previstes a l’article 54.
+
+###### Article 27 Circumstàncies excloents
+
+Són circumstàncies que exclouen la responsabilitat criminal:
+
+1. Actuar en defensa de la persona o de drets propis o d’altri, si hi concorren els requisits següents:
+
+a) Agressió il·legítima. En cas de defensa de béns, es considera agressió il·legítima l’acció constitutiva de delicte o contravenció penal que els posi en perill de deteriorament o pèrdua imminent. En cas de defensa de la llar o del domicili, es considera agressió il·legítima l’entrada indeguda.
+
+b) Necessitat racional del mitjà emprat per impedir-la o repel·lir-la.
+
+c) Que el mal causat per l’acció de defensa no sigui desproporcionat en relació amb la gravetat de l’agressió i amb les circumstàncies de l’agressor.
+
+d) No haver-hi hagut provocació suficient per part del defensor.
+
+2. Actuar en compliment d’un deure o en exercici legítim d’un dret, ofici o càrrec.
+
+3. Actuar en estat de necessitat, per evitar un mal propi o aliè, sempre que hi concorrin els requisits següents:
+
+a) Que el mal causat sigui menor que el que es tracti d’evitar.
+
+b) Que la situació de necessitat no hagi estat provocada intencionadament pel subjecte.
+
+c) Que la persona necessitada no tingui, pel seu ofici o pel seu càrrec, l’obligació de sacrificar-se.
+
+4. Cometre la infracció penal no podent comprendre la il·licitud del fet, o actuar d’acord amb aquesta comprensió, per raó de qualsevol anomalia o alteració mental.
+
+Si es tracta d’un trastorn mental transitori, aquest trastorn no exclou la responsabilitat quan hagi estat provocat pel subjecte amb la intenció de cometre la infracció penal o n’hagi previst o hagut de preveure la comissió.
+
+5. Cometre la infracció penal en un estat d’intoxicació plena provocat pel consum de begudes alcohòliques, drogues tòxiques o d’altres que produeixin efectes anàlegs, sempre que el subjecte no l’hagi buscat amb la intenció de cometre-la o no hagi previst o hagut de preveure la comissió. També constitueix circumstància excloent de responsabilitat la comissió de la infracció sota la influència d’una síndrome d’abstinència, a causa de la dependència d’aquestes substàncies, que impedeixi al subjecte de comprendre la il·licitud del fet o d’actuar d’acord amb aquesta comprensió.
+
+6. Sofrir alteracions de la percepció des del naixement o des de la infància que impedeixin comprendre la il·licitud del fet o actuar d’acord amb aquesta comprensió.
+
+7. Obrar per evitar un mal propi o aliè per a la vida, la salut o la llibertat, sempre que no hi hagi desproporció entre el mal causat i el que es tracta d’evitar i que concorrin els requisits b) i c) de la circumstància 3 anterior.
+
+8. Obrar impulsat per una por insuperable.
+
+En els supòsits dels punts 4, 5 i 6 s’apliquen, si escau, les mesures de seguretat previstes en aquest Codi.
+
+###### Article 28 Circumstàncies excloents incompletes
+
+Les circumstàncies expressades en l’article anterior, quan no hi concorrin tots els requisits necessaris per eximir de responsabilitat, atenuen de manera qualificada la pena d’acord amb el que disposa l’article 54.
+
+###### Article 29 Circumstàncies atenuants
+
+Són circumstàncies que atenuen la responsabilitat criminal:
+
+1. Obrar per causes o estímuls que hagin produït arravatament, obcecació o un estat passional d’una importància semblant.
+
+2. Haver contribuït l’ofès en una mesura significativa a la realització del fet típic, amb una acció o omissió, dolosa o culposa.
+
+3. Obrar a causa d’una addicció a drogues tòxiques, substàncies psicotròpiques o begudes alcohòliques.
+
+4. Obrar per motius humanitaris o socialment valuosos.
+
+5. Haver procedit el culpable, abans de conèixer que el procediment penal es dirigeix contra ell, a confessar la infracció a les autoritats.
+
+6. Col·laborar amb les autoritats fins al moment de la vista oral per evitar una altra infracció que tingui caràcter de delicte major, la comissió de la qual sigui racionalment previsible.
+
+7. Haver reparat el dany ocasionat a la víctima, totalment o en una mesura rellevant d’acord amb la pròpia capacitat i la naturalesa del delicte comès, fins al moment de la vista oral, o haver-se esforçat per assolir una compensació a favor de la víctima.
+
+8. Qualsevol altra circumstància que tingui una significació anàloga a les anteriors o a la de parentiu prevista a l’article 31.
+
+###### Article 30 Circumstàncies agreujants
+
+Són circumstàncies que agreugen la responsabilitat criminal:
+
+1. Executar el fet amb acarnissament, augmentant intencionadament el sofriment de la víctima causant-li patiments que excedeixin dels necessaris per a l’execució del delicte.
+
+2. Executar el fet amb traïdoria, emprant mitjans tendents directament a assegurar l’acció sense el risc que pugui procedir de la defensa per part de l’ofès.
+
+3. Abusar de l’autoritat, la superioritat o la confiança.
+
+4. Buscar o aprofitar-se de les circumstàncies de lloc, de temps o de la concurrència d’altres persones que facilitin l’execució o augmentin el greuge sobre la víctima.
+
+5. Ser la víctima especialment vulnerable tenint en compte l’edat, la condició física o psíquica, la incapacitat o una altra circumstància semblant.
+
+6. Cometre el fet per un mòbil discriminatori. Constitueix mòbil discriminatori la presa en consideració, respecte d’una persona física, del naixement, de l’origen o de la seva pertinença nacional o ètnica, del color, del sexe, de la religió, de l’opinió filosòfica, política o sindical o qualsevol altra condició personal o social, com la seva discapacitat física o mental, el seu mode de vida, els seus costums, la seva llengua, la seva edat, o la seva identitat o orientació sexual.
+
+7. La reincidència. Hi ha reincidència quan, en el moment de cometre el delicte, el culpable hagi estat condemnat per sentència ferma per un delicte que tingui assenyalada una pena igual o superior, o per diversos delictes encara que tinguin assenyalada una pena inferior. En tot cas només generen reincidència els delictes compresos en el mateix títol i que siguin de la mateixa naturalesa. No es tenen en compte els antecedents penals quan es donen les condicions legalment establertes per a la rehabilitació del reu.
+
+En els delictes de tràfic de drogues, de segrest, de venda il·legal d’armes, els relatius a la prostitució, els de terrorisme, de falsificació de moneda, de blanqueig de diners i tots els delictes comesos en forma de criminalitat organitzada, i en els esmentats a la lletra d de l’apartat 6 de l’article 8, els antecedents per condemna a l’estranger per fets constitutius dels mateixos delictes previstos en aquest Codi s’han d’equiparar als antecedents nacionals per a l’aplicació d’aquesta circumstància.
+
+8. Cometre la infracció mitjançant preu, promesa o recompensa.
+
+9. Que el subjecte passiu sigui funcionari o autoritat i la infracció penal s’hagi comès quan aquest subjecte es trobava en l’exercici del seu càrrec o per raó del mateix càrrec.
+
+###### Article 31 Circumstància mixta de parentiu
+
+El vincle matrimonial o la situació de fet equivalent i el parentiu fins al tercer grau, per consanguinitat, adopció o afinitat, és una circumstància que pot modificar la responsabilitat criminal en sentit agreujant o atenuant segons la naturalesa i els efectes del delicte o els motius de l’autor.
+
+#### Capítol quart. Definicions generals
+
+###### Article 32 Autoritat i funcionari
+
+Als efectes penals es considera autoritat la persona que, amb independència de la seva nacionalitat, tant si és funcionària com si no ho és, tingui comandament o exerceixi jurisdicció pròpia, individualment o col·legiadament. Es consideren també autoritat els membres del Consell General, dels comuns, del Consell Superior de la Justícia, del Tribunal de Comptes, del Ministeri Fiscal, del Raonador del Ciutadà i qualsevol altra persona a qui la llei atribueixi l’exercici de funcions institucionals pròpies.
+
+Als mateixos efectes es considera funcionari la persona que, amb independència de la seva nacionalitat, participa, de manera delegada o no, en l’exercici de les funcions públiques per disposició de la llei, per elecció o per nomenament de l’autoritat competent.
+
+###### Article 33 Persona incapaç
+
+Es considera incapaç, als efectes penals, la persona que pateix una malaltia o anomalia física o psíquica persistent que li impedeix governar-se, amb independència que hagi estat o no declarada la seva incapacitació.
+
+###### Article 34 Document
+
+1. Als efectes penals es considera document tot suport material que incorpori una declaració atribuïble a una persona, apte per a la prova de fets amb rellevància jurídica.
+
+2. Als efectes d’aquest Codi es considera document públic tot aquell que, complint amb els requisits abans esmentats, hagi estat emès per un funcionari o per un òrgan de l’Administració amb una determinada finalitat probatòria, seguint el procediment corresponent i amb les formalitats essencials establertes per la normativa aplicable.
+
+### Títol II. Les penes
+
+#### Capítol primer. Classificació
+
+###### Article 35 Penes principals per als delictes majors
+
+Les penes que es poden imposar per delicte major són:
+
+1. Presó de fins a vint-i-cinc anys, tret del que disposin les normes relatives a l’acumulació de penes i les penes previstes pel delicte de genocidi i els delictes contra la humanitat.
+
+2. Multa de fins a 300.000 euros o fins al quàdruple del perjudici ocasionat o del benefici obtingut o que respectivament es pretenia ocasionar o obtenir amb la comissió del delicte, si era superior, llevat dels casos en què es prevegi expressament un import superior.
+
+3. Inhabilitació de fins a vint anys, tret del que disposin les normes relatives a l’acumulació de penes, per a l’exercici de drets públics, de càrrec públic, de drets de família, de l’ofici o el càrrec.
+
+4. Privació del permís de conduir temporal o definitiva.
+
+5. Privació del permís d’arma temporal o definitiva.
+
+6. Prohibició de fins a vint anys de contractar amb les administracions públiques.
+
+7. Les que derivin de l’aplicació de les normes de substitució de penes previstes a l’article 65.
+
+###### Article 36 Penes principals per als delictes menors
+
+Les penes que es poden imposar per delicte menor són:
+
+1. Presó fins a dos anys.
+
+2. Arrest de temps festiu fins a vint-i-quatre caps de setmana o unitats de temps equivalents.
+
+3. Arrest domiciliari fins a sis mesos.
+
+4. Arrest parcial diari fins a sis mesos.
+
+5. Multa fins a 60.000 euros o fins al triple del valor de la cosa sostreta, del dany causat, del perjudici ocasionat o del benefici obtingut o que respectivament es pretenia sostreure, ocasionar o obtenir amb la comissió del delicte, si era superior.
+
+6. Treballs en benefici de la comunitat per un termini no superior a un any, tret del que derivi de l’aplicació de l’article 65.
+
+7. Inhabilitació fins a sis anys per a l’exercici de drets públics, de càrrec públic, de drets de família, de l’ofici o el càrrec.
+
+8. Suspensió fins a sis anys per a l’exercici de drets públics, de càrrec públic, de drets de família, de l’ofici o el càrrec.
+
+9. Privació del permís de conduir fins a sis anys.
+
+10. Privació del permís d’arma fins a sis anys.
+
+11. Privació de la llicència de caça o pesca fins a sis anys.
+
+12. Prohibició d’emetre xecs o d’utilitzar targetes de crèdit fins a sis anys.
+
+13. Prohibició de contractar amb les administracions públiques fins a sis anys.
+
+14. Les que derivin de l’aplicació de les normes de substitució de penes previstes a l’article 65.
+
+###### Article 37 Penes principals per a les contravencions penals
+
+Les penes que es poden imposar per contravenció penal són:
+
+1. Arrest de temps festiu fins a vuit caps de setmana o unitats de temps equivalents.
+
+2. Arrest domiciliari fins a un mes.
+
+3. Arrest parcial diari fins a dos mesos.
+
+4. Multa fins a 6.000 euros o fins al doble del valor de la cosa sostreta, del dany causat, del perjudici ocasionat o del benefici obtingut o que respectivament es pretenia sostreure, ocasionar o obtenir amb la comissió de la infracció, si era superior.
+
+5. Treballs en benefici de la comunitat per un termini no superior a un mes.
+
+6. Privació del permís de conduir fins a un any.
+
+7. Privació del permís d’arma fins a un any.
+
+8. Privació de la llicència de caça o pesca fins a tres anys.
+
+9. Prohibició de contractar amb les administracions públiques fins a un any.
+
+10. Suspensió per a l’exercici de l’ofici o el càrrec fins a sis mesos.
+
+11. Amonestació pública o privada.
+
+###### Article 38 Penes complementàries per als delictes
+
+1. En els delictes majors el tribunal pot imposar la pena complementària d’expulsió temporal o definitiva de la persona condemnada de nacionalitat estrangera.
+
+En els delictes majors i menors el tribunal pot imposar una o diverses de les penes complementàries següents:
+
+a) Privació temporal o definitiva del permís d’arma.
+
+b) Privació temporal o definitiva de la llicència de caça.
+
+c) Privació temporal o definitiva de la llicència de pesca.
+
+d) Treballs en benefici de la comunitat, de fins a un màxim de dos anys si es tracta d’un delicte major i d’un any si es tracta d’un delicte menor.
+
+2. En els supòsits que tinguin relació amb el delicte comès el tribunal pot imposar, per un termini no superior a deu anys en cas de delicte major o a 3 anys en cas de delicte menor o per un termini no superior al de la més greu de les penes principals imposades si fossin de major durada, una o diverses de les penes següents:
+
+a) Inhabilitació per a l’exercici de drets públics, de càrrec públic, de drets de família, de l’ofici o el càrrec.
+
+b) Suspensió per a l’exercici de drets públics, de càrrec públic, de drets de família, de l’ofici o el càrrec.
+
+c) Privació del permís de conduir.
+
+d) Prohibició d’emetre xecs o d’utilitzar targetes de crèdit.
+
+e) Prohibició de contractar amb les administracions públiques.
+
+3. En els delictes contra la vida, la integritat física i moral, la llibertat sexual, i en els delictes d’amenaces, atenent les relacions entre el culpable i la víctima i la necessitat de protecció de la víctima o de tercers, el tribunal pot imposar la pena complementària de prohibició de contactar amb la víctima, fins a un màxim de dotze anys en cas de delicte major i de sis anys en cas de delicte menor.
+
+4. En els delictes majors i menors que no tinguin prevista com a principal la pena de multa, el tribunal pot imposar la pena complementària de multa, sempre que tingui relació amb el delicte comès, amb els límits següents:
+
+a) En cas de delicte major, fins a 150.000 euros o fins al doble del valor de la cosa sostreta, del dany causat, del perjudici ocasionat o benefici obtingut o que respectivament es pretenia sostreure, ocasionar o obtenir amb la comissió del delicte, si era superior.
+
+b) En cas de delicte menor, fins a 30.000 euros o fins al tant del valor de la cosa sostreta, del dany causat, del perjudici ocasionat o del benefici obtingut, o que respectivament es pretenia sostreure, ocasionar o obtenir amb la comissió del delicte, si era superior.
+
+#### Capítol segon. Contingut de les penes
+
+###### Article 39 L’arrest
+
+Quan la llei fixa la pena d’arrest, tret que prevegi expressament una altra cosa per a la infracció corresponent, el tribunal la pot imposar en qualsevol de les tres modalitats previstes en els articles següents, ateses les circumstàncies del fet, de l’autor i, si escau, de la víctima i dins els límits establerts als articles 36 o 37, segons es tracti d’un delicte menor o d’una contravenció penal.
+
+Quan la llei no prevegi expressament la durada de la pena d’arrest, el tribunal pot recórrer tota l’extensió fins al límit màxim previst.
+
+El compliment de l’arrest es fa efectiu de manera que sigui compatible amb les obligacions professionals o laborals del condemnat.
+
+###### Article 40 L’arrest de temps festiu
+
+L’arrest de temps festiu té una durada setmanal ininterrompuda de 36 a 48 hores compreses en cap de setmana o temps festiu per al condemnat, segons el criteri del tribunal, i s’executa en un establiment penitenciari especial o en unitat separada.
+
+###### Article 41 L’arrest nocturn o arrest parcial diari
+
+La pena d’arrest parcial diari s’executa dins un establiment penitenciari especial o en unitat separada, durant deu hores seguides diàries segons l’horari fixat pel tribunal.
+
+###### Article 42 L’arrest domiciliari
+
+La pena d’arrest domiciliari s’executa en el domicili del condemnat o en el domicili que fixi el tribunal amb el consentiment del seu titular, de manera ininterrompuda durant el temps assenyalat a la sentència.
+
+Si el condemnat no té domicili al Principat, l’arrest es compleix en un establiment penitenciari especial o en unitat separada.
+
+###### Article 43 Equivalències i modalitats de compliment
+
+A l’efecte d’aquest capítol, un arrest de temps festiu equival a quatre dies d’arrest nocturn o parcial diari o a quatre dies d’arrest domiciliari.
+
+El tribunal pot acordar que l’arrest parcial diari o de temps festiu es compleixi al domicili. En aquest supòsit, la durada i els límits màxims són del doble dels establerts en els articles 36 i 37 per al compliment d’aquestes dues formes d’arrest en un centre penitenciari.
+
+L’arrest domiciliari o el compliment al domicili de l’arrest parcial diari o de temps festiu es pot complir amb control monitoritzat, sempre que hi hagi el consentiment previ del condemnat i que es faci de forma respectuosa amb la seva intimitat.
+
+###### Article 44 La pena de multa
+
+El tribunal determina raonadament l’extensió de la pena de multa dins els límits establerts per a cada delicte tenint en compte la gravetat de la infracció i la situació econòmica del reu, deduïda a partir del seu patrimoni, ingressos, obligacions, càrregues familiars i altres circumstàncies personals. Pot, així mateix, acordar el pagament fraccionat de la multa.
+
+###### Article 45 Les penes d’inhabilitació
+
+La pena d’inhabilitació per a l’exercici de drets públics comporta la pèrdua de tots els càrrecs i la privació del dret de ser elegit o nomenat per a qualsevol càrrec públic.
+
+La pena d’inhabilitació per a l’exercici de càrrec públic comporta la pèrdua dels càrrecs als quals afecti, que han de ser especificats en la sentència, i la privació del dret a ser elegit o nomenat per als mateixos càrrecs.
+
+La pena d’inhabilitació per a l’exercici dels drets de família comporta la privació dels drets que determini el tribunal en relació amb la pàtria potestat, la tutela, la curatela, la guarda i custòdia i el dret de visites.
+
+La pena d’inhabilitació per a l’exercici de l’ofici o el càrrec comporta la privació dels drets inherents a l’exercici de la professió, l’ofici o el comerç, la indústria o el càrrec societari a què afecti, que han de ser especificats en la sentència.
+
+###### Article 46 Les penes de suspensió
+
+La pena de suspensió de l’exercici de drets públics, de càrrec públic, de drets de família, de l’ofici o el càrrec, priva el penat del seu exercici durant el temps de la condemna.
+
+###### Article 47 Les penes de privació del permís de conduir, d’armes i de caça o pesca
+
+La pena de privació del permís de conduir comporta la prohibició d’exercir el dret a conduir vehicles automòbils, trens, naus o aeronaus i d’obtenir el permís durant el temps de la condemna.
+
+La pena de privació del permís d’arma comporta la prohibició de posseir i portar armes i d’obtenir el permís durant el temps de la condemna.
+
+La pena de privació de la llicència de caça o del permís de pesca comporta la prohibició de practicar la caça o la pesca i d’obtenir el permís durant el temps de la condemna.
+
+###### Article 48 La prohibició d’emetre xecs o utilitzar targetes de crèdit
+
+La pena de prohibició d’emetre xecs o utilitzar targetes de crèdit comporta la privació del dret a emetre, obtenir i utilitzar xecs o targetes de crèdit o de pagament durant el temps de la condemna.
+
+###### Article 49 Treballs en benefici de la comunitat
+
+La pena de treballs en benefici de la comunitat consisteix en la prestació no retribuïda de serveis d’utilitat pública a favor de l’Estat, d’altres entitats públiques, d’associacions o de fundacions. En tot cas requereix el consentiment previ del condemnat.
+
+El tribunal ha de fixar el tipus i les condicions de treball tenint en compte que la seva finalitat és la reinserció social del condemnat i no la satisfacció d’interessos econòmics.
+
+La durada diària ha de ser de dos a vuit hores. No obstant això, si el condemnat realitza una activitat professional o laboral remunerada, el règim dels períodes de treball ha de ser fixat pel tribunal de manera que no perjudiqui la jornada laboral del condemnat ni excedeixi del màxim d’hores extraordinàries legalment permeses.
+
+Els condemnats han de ser donats d’alta a la Caixa Andorrana de Seguretat Social i els és aplicable la normativa en matèria de seguretat i salut en el treball.
+
+###### Article 50 Prohibició de contractar amb les administracions públiques
+
+La pena de prohibició de contractació amb l’Administració consisteix en la prohibició de concórrer, directament o per mitjà d’una tercera persona, a cap concurs o subhasta pública ja sigui de l’Administració general, comunal o qualsevol altra entitat pública o parapública i, en general, de contractar subministraments o la prestació de serveis amb qualsevol d’aquestes entitats.
+
+###### Article 51 Prohibició de contactar amb la víctima
+
+La pena de prohibició de contactar amb la víctima consisteix en la prohibició de residir en el domicili de la víctima, d’atansar-se-li i d’entrar-hi en contacte per qualsevol mitjà. El tribunal pot estendre la pena amb la prohibició de residir a la mateixa vila o a una distància determinada del domicili o lloc de treball de la víctima. També pot, raonant-ho en la sentència, estendre les prohibicions anteriors en relació amb terceres persones.
+
+#### Capítol tercer. Determinació de les penes
+
+###### Article 52 Pena prevista a la llei
+
+La pena fixada a la llei és la pena prevista per a l’autor de la infracció consumada.
+
+###### Article 53 Reducció de pena per als còmplices
+
+La pena imposable al còmplice es determina per la reducció a la meitat dels límits mínim i màxim previstos a la llei.
+
+###### Article 54 Reducció qualificada
+
+1. La pena imposable als autors de temptativa de delicte es determina per la reducció a la meitat dels límits mínim i màxim previstos a la llei. El tribunal pot aplicar una segona reducció en els mateixos termes tenint en compte el grau d’execució i el perill inherent a la temptativa.
+
+2. Les mateixes reduccions s’imposen en cas de provocació o conspiració punibles.
+
+3. Les mateixes reduccions s’imposen a l’autor de la infracció si concorre una causa excloent incompleta, o l’error de prohibició vencible o si el responsable és menor de vint-i-un anys.
+
+4. El tribunal pot aplicar, raonant-ho, les mateixes reduccions en el cas d’apreciar més d’una circumstància atenuant, l’atenuant de reparació de la víctima o qualsevol altra a la qual calgui concedir significació especial.
+
+5. En el cas de complicitat s’ha de tenir en compte, a més d’aquestes reduccions, la reducció prevista a l’article anterior.
+
+###### Article 55 Substitució automàtica de les penes
+
+1. Quan en aplicació de les regles sobre reducció de pena el tribunal ha d’imposar una pena de presó inferior a tres mesos, s’ha de substituir per una pena d’arrest d’acord amb el que preveuen els articles 65 i 66.
+
+2. Quan en aplicació de les regles sobre reducció de pena el tribunal ha d’imposar una pena d’inhabilitació inferior a tres anys, s’ha de substituir per la pena de suspensió que correspongui i per la mateixa durada que la pena d’inhabilitació imposada.
+
+###### Article 56 Determinació en funció de les circumstàncies modificatives de la responsabilitat
+
+El tribunal fixa la pena de manera raonada, dins els límits establerts per la llei, segons el que resulti de l’aplicació dels articles anteriors, valorant les circumstàncies atenuants i agreujants concurrents i, en general, la gravetat del fet, les circumstàncies personals i la reinserció social assolida pel condemnat o les expectatives que afavoreixin una futura reinserció.
+
+Les circumstàncies agreujants o atenuants no es tenen en compte quan formin part de la infracció o hi siguin inherents.
+
+###### Article 57 Dispensa de pena
+
+1. En els delictes imprudents el tribunal pot atorgar raonadament una dispensa de la pena imposada, quan el subjecte hagi sofert personalment les conseqüències del fet.
+
+2. Igualment pot atorgar la dispensa de manera raonada en els delictes menors quan es presumeix que la pena ha de resultar perjudicial per al condemnat atenent al fet que s’ha produït una reinserció social satisfactòria i, si escau, una reparació o compensació del responsable a la víctima, en la mesura del possible. Si la reinserció i la compensació es troben en vies de produir-se, el tribunal pot acordar ajornar fins a un any la decisió sobre l’atorgament de dispensa, sense executar durant el dit termini la pena imposada.
+
+###### Article 58 Acumulació de penes i concurs real d’infraccions
+
+1. Quan s’imposin dues o més penes l’execució de les quals sigui compatible per raó de la seva naturalesa i efectes, s’han de complir simultàniament.
+
+2. Quan diverses infraccions comeses per una mateixa persona siguin o puguin ser objecte d’un mateix procediment, les penes es compleixen successivament, seguint l’ordre de la seva gravetat, amb els límits següents:
+
+a) La suma de les penes imposades no pot excedir el triple de la pena més greu imposable.
+
+b) El màxim de la pena de presó imposable no pot excedir els vint-i-cinc anys, o els trenta quan almenys un dels delictes tingui assignada legalment una pena màxima de vint anys o superior.
+
+c) En el cas que les penes previstes per a les infraccions siguin de presó i d’arrest, el tribunal només ha d’imposar la pena de presó que correspongui i pot substituir la pena d’arrest d’acord amb el que estableix l’article 65.5.
+
+3. En el supòsit previst a l’apartat anterior, si les penes establertes per la Llei per als diversos delictes són de la mateixa naturalesa, el tribunal pot imposar una pena única que resulti de l’acumulació de la durada de les diverses penes aplicables, amb els límits assenyalats en aquest article.
+
+4. En el cas de diverses infraccions objecte de procediments separats comeses per una mateixa persona, el tribunal ha de tenir en compte les limitacions anteriors, ja sigui en la sentència ja sigui posteriorment mitjançant resolució raonada.
+
+###### Article 59 Infracció continuada
+
+La pluralitat d’accions o omissions que ofenguin un o diversos subjectes, i infringeixin preceptes penals de naturalesa igual o similar, comeses en execució d’un pla preconcebut o aprofitant una ocasió idèntica, ha de ser qualificada com una sola infracció continuada. Si es tracta d’infraccions patrimonials o de contraban, la infracció es qualifica tenint en compte el perjudici total causat o el valor total de la mercaderia.
+
+S’exceptuen de la consideració d’infracció continuada les ofenses a béns eminentment personals, llevat de les ofenses relatives a l’honor i la llibertat sexual comeses contra la mateixa víctima, en les quals s’ha de valorar la natura del fet i del precepte infringit per considerar la infracció com a continuada.
+
+El tribunal pot, mitjançant resolució raonada, imposar la pena prevista per al delicte augmentada fins a la meitat del seu límit superior, quan concorri una generalitat de perjudicats o quan així ho aconsellin el nombre i la gravetat d’accions o omissions realitzades.
+
+###### Article 60 Concurs ideal d’infraccions
+
+Els dos articles anteriors no són aplicables quan una sola acció o omissió comporta la realització de dues o més infraccions o quan una és el mitjà necessari per cometre’n una altra. En aquests casos s’ha d’aplicar la pena prevista per a la infracció més greu en la seva meitat superior, segons el que resulti de l’aplicació prèvia dels articles 52 a 54, sense que pugui excedir la que resultaria de penar les infraccions separadament.
+
+#### Capítol quart. Suspensió, substitució i execució de les penes
+
+###### Article 61 Suspensió condicional simple
+
+1. En la mateixa sentència o per resolució posterior raonada, el tribunal pot acordar la suspensió de l’execució de les penes privatives o restrictives de llibertat imposades als condemnats la suma de les quals no sigui superior a cinc anys, sempre que no hi hagi apreciat reincidència i a condició que el reu no torni a delinquir durant el temps de suspensió fixat pel tribunal i hagi fet front a la responsabilitat civil en la mesura que sigui possible.
+
+2. El termini de la suspensió no pot excedir quatre anys en els delictes majors dolosos i dos anys en els delictes imprudents i els delictes menors dolosos.
+
+###### Article 62 Suspensió condicional qualificada
+
+1. En el moment de dictar sentència o en resolució posterior raonada, el tribunal pot suspendre l’execució de les penes privatives o restrictives de llibertat imposades als condemnats la suma de les quals no sigui superior a cinc anys, sempre que la condemna no es dicti en rebel·lia i que no es tracti d’un delinqüent habitual; a més de les condicions generals a què s’ha fet esment en l’article anterior, la suspensió és condicionada pel compliment per part del condemnat d’una o diverses de les obligacions següents:
+
+a) Indemnització, reparació o compensació, segons els mitjans a l’abast, a la víctima del delicte.
+
+b) Pagament regular de pensions alimentàries.
+
+c) Seguiment d’un tractament mèdic o psicològic determinat.
+
+d) Abstenció total o parcial de conduir vehicles automòbils amb privació del permís de conduir.
+
+e) Abstenció d’assistir a llocs públics determinats.
+
+f) Abstenció de residir en un lloc determinat.
+
+g) Abstenció de contactar amb la víctima en la forma definida a l’article 51.
+
+h) Prohibició de consumir begudes alcohòliques en establiments o llocs públics.
+
+i) Obligació de romandre al domicili durant hores determinades, amb control monitoritzat o sense.
+
+j) Presentació periòdica al tribunal o a l’organisme que el tribunal determini.
+
+k) Justificació d’ocupació laboral regular.
+
+l) Obligació de romandre al Principat amb retenció de la documentació d’identitat i el passaport, si escau, amb control monitoritzat o sense.
+
+m) Realització de treballs en benefici de la comunitat, amb l’acord del condemnat.
+
+n) Abstenció d’usar armes, amb privació del permís d’armes i de la seva possessió, si escau.
+
+2. Les mesures de control monitoritzat no poden adoptar-se sense el consentiment previ de la persona interessada. Les despeses generades, telefòniques o d’una altra mena, van a càrrec de la persona interessada, llevat del cas que no disposi de recursos econòmics suficients.
+
+3. El tribunal fixa el període de la suspensió, que no pot excedir els quatre anys, ateses les circumstàncies del fet, l’extensió de la pena imposada i les circumstàncies personals del condemnat. El tribunal ha de fixar les condicions de compliment de les obligacions esmentades.
+
+###### Article 63 Modificació de les condicions
+
+El tribunal, d’ofici o a instància d’una part, pot modificar, mitjançant resolució raonada, les obligacions imposades o bé disminuir el termini durant el qual seran aplicables, tenint en compte el grau de compliment de les mesures acordades i el de reinserció social.
+
+###### Article 64 Disposicions comunes a les dues formes de suspensió
+
+1. La suspensió no s’estén a les penes complementàries, llevat que el tribunal així ho acordi de manera raonada.
+
+2. El reu que estigui subjecte a suspensió no pot traslladar la seva residència sense posar-ho en coneixement del tribunal.
+
+3. Si el reu és condemnat a una altra pena de privació de llibertat per raó d’un delicte comès dins el període de suspensió, el tribunal ha d’ordenar que s’executi totalment o parcialment la pena suspesa.
+
+4. En cas d’incompliment de les condicions de la suspensió el tribunal, d’ofici o a instància del Ministeri Fiscal, pot acordar la revocació parcial o total de la suspensió de la condemna o la modificació de les condicions.
+
+5. La pena es considera executada un cop transcorregut el termini de suspensió si s’han complert les condicions imposades.
+
+###### Article 65 Substitució de penes
+
+1. En cas d’imposar-se una pena de presó de durada inferior a tres mesos, el tribunal ha de substituir-la automàticament en la mateixa sentència per pena d’arrest fins als màxims previstos en l’article 36.
+
+2. El tribunal, en el moment de dictar sentència o posteriorment, a instància de part i mitjançant aute raonat, pot substituir les penes imposades de presó fins a un any per una pena d’arrest a complir en un centre penitenciari, de manera que dos dies de presó equivalen a un arrest de temps festiu o a quatre dies d’arrest parcial diari, sense subjectar-se als límits dels articles 36 i 37.
+
+3. El tribunal, en el moment de dictar sentència o posteriorment, a instància de part i mitjançant aute raonat, pot substituir les penes imposades d’arrest o de presó o el ròssec que resti per complir fins a cinc anys per la pena d’expulsió fins a un màxim de quinze anys. En cas que la persona expulsada entri en territori andorrà dins el termini fixat, haurà de complir la pena que havia estat substituïda per l’expulsió.
+
+4. El tribunal també pot, raonadament, substituir les penes imposades de presó fins a tres anys per una pena de treballs en benefici de la comunitat, de manera que dos dies de treballs en benefici de la comunitat equivalguin a un dia de presó. Si el total d’hores setmanals treballades és igual a 40, un dia de treball en benefici de la comunitat equival a un dia de presó. En cas d’incompliment, la persona condemnada haurà de complir la pena que havia estat substituïda per treballs en benefici de la comunitat.
+
+5. El tribunal també pot substituir, raonadament, les penes d’arrest per la de treballs en benefici de la comunitat d’acord amb les regles següents:
+
+a) Un dia d’arrest domiciliari equival a un dia de treballs en benefici de la comunitat.
+
+b) Dos dies d’arrest parcial diari equivalen a un dia de treballs en benefici de la comunitat.
+
+c) Un arrest de temps festiu equival a dos dies de treballs en benefici de la comunitat.
+
+En cas d’incompliment, la persona condemnada haurà de complir la pena que havia estat substituïda per treballs en benefici de la comunitat.
+
+6. En cas d’imposar-se una pena d’inhabilitació d’una durada inferior a tres anys, el tribunal ha de substituir-la automàticament en la mateixa sentència per la pena de suspensió que correspongui i per la mateixa durada que la pena d’inhabilitació imposada.
+
+7. El tribunal, en el moment de dictar sentència o posteriorment, a instància de part i mitjançant un aute raonat, pot substituir la pena imposada d’inhabilitació de fins a cinc anys per la pena de suspensió que correspongui i per la mateixa durada que la pena d’inhabilitació imposada.
+
+###### Article 66 Substitució de la pena d’arrest
+
+1. El tribunal, en el moment de dictar sentència o posteriorment, a instància de part i mitjançant aute raonat, pot substituir la modalitat de la pena d’arrest imposada o substituïda per qualsevol altra de les seves modalitats, tenint present:
+
+- que el compliment d’una unitat d’arrest en un centre penitenciari equival a dues unitats de compliment al domicili;
+
+- que un arrest de temps festiu equival a dos dies d’arrest domiciliari, i
+
+- que un dia d’arrest domiciliari equival a dos dies d’arrest parcial diari.
+
+2. En cas d’incompliment de les penes d’arrest establertes en aquest Codi, el tribunal pot acordar immediatament, amb audiència prèvia de les parts, la substitució per una de les altres formes d’arrest o la modificació del règim de compliment acordat, sense perjudici, si escau, de la pena aplicable a la infracció de crebantament de condemna.
+
+###### Article 67 Delinqüent habitual
+
+Als efectes de l’article 62 es considera delinqüent habitual el qui ha estat castigat mitjançant sentència ferma tres vegades per un delicte comprès en el mateix títol del Codi, durant un termini de cinc anys.
+
+###### Article 68 Impagament de la pena de multa
+
+En cas d’impagament de la pena de multa, el tribunal ha de procedir per la via d’execució sobre el patrimoni del condemnat. Excepcionalment, quan el condemnat demostri que la manca de pagament és conseqüència de l’empitjorament de la seva situació econòmica, no provocat voluntàriament per ell, el tribunal pot:
+
+1. Concedir un nou termini per al pagament.
+
+2. Acordar el pagament fraccionat, o modificar els terminis establerts amb anterioritat.
+
+3. Reduir l’import de la multa. En aquest supòsit el pagament extingeix l’obligació inicial, encara que després del compliment el reu millori de fortuna.
+
+###### Article 69 Execució de penes
+
+Les penes s’executen d’acord amb el que disposa el Codi de procediment penal.
+
+### Títol III. Conseqüències accessòries del delicte referides a les persones físiques o a les persones jurídiques
+
+###### Article 70 Comís dels instruments, efectes i guanys
+
+1. En el moment de dictar sentència condemnatòria i, en absència d’aquesta sentència, en els supòsits establerts en el Codi de procediment penal, el tribunal ha d’acordar el comís dels instruments utilitzats o que, en cas de temptativa punible, s’anaven a utilitzar per cometre la infracció, del producte obtingut i dels beneficis que se n’hagin derivat i de la seva eventual transformació posterior.
+
+2. En el moment de dictar sentència condemnatòria, el tribunal ha d’acordar el comís dels béns que pertanyen a la persona condemnada sobre els quals hi hagi indicis objectius suficients que procedeixen, directament o indirectament, d’activitats delictives i dels quals no s’acrediti l’origen lícit.
+
+El comís previst en aquest apartat únicament s’acorda en cas de sentències condemnatòries dictades per la comissió d’un o més dels delictes següents:
+
+a) Els delictes de terrorisme tipificats als articles 362 al 367.
+
+b) Els delictes de corrupció tipificats als articles 380 al 385 bis.
+
+c) Els delictes de blanqueig de diners o valors tipificats als articles 409 al 413.
+
+d) Els delictes d’associació il·lícita tipificats als articles 359 al 361, quan estiguin relacionats almenys amb un dels delictes següents: delicte de tràfic d’éssers humans amb finalitat d’extracció d’òrgans, tipificat a l’article 121 bis; delicte de tràfic d’éssers humans amb finalitat d’esclavatge o servitud, tipificat a l’article 134 bis; delictes relatius a la prostitució, la pornografia i les conductes de provocació sexual, tipificats als articles 150 al 155, 157 i 157 bis; delicte de tràfic d’immigrants clandestins, tipificat a l’article 252; delictes relatius al tràfic il·legal de drogues tòxiques, tipificats als articles 282, 283, 284.3 i 285, i delictes de falsedat de moneda i efectes timbrats, tipificats a l’article 430, 431.1, 2, 3 i 4, i 432 al 434.
+
+Als efectes d’aquest apartat, es consideren “indicis objectius”, entre d’altres, que el valor del patrimoni de la persona condemnada sigui desproporcionat en relació amb els seus ingressos d’origen lícit; l’ocultació de la titularitat dels béns de la persona condemnada o de qualsevol poder de disposició sobre aquests béns; la utilització de persones físiques o jurídiques o d’estructures o estratègies tendents a dificultar la identificació o a ocultar la veritable titularitat dels béns o els seus drets, i la transferència de béns mitjançant operacions que impedeixin o dificultin la seva localització o traçabilitat i no tinguin una justificació econòmica coherent.
+
+3. En el moment de dictar sentència condemnatòria i, en absència d’aquesta sentència, en els supòsits establerts en el Codi de procediment penal, el tribunal ha d’acordar el comís dels instruments utilitzats o que, en cas de temptativa punible, s’anaven a utilitzar per cometre la infracció, del producte obtingut i dels beneficis que se n’hagin derivat i de la seva eventual transformació posterior que, directament o indirectament, hagin estat transferits a terceres persones per la persona encausada, processada o condemnada, o que hagin estat adquirits per terceres persones a la persona encausada, processada o condemnada, quan aquestes terceres persones hagin tingut coneixement o haguessin hagut de tenir coneixement que l’objectiu de la transferència o l’adquisició era evitar-ne el comís.
+
+No poden ser objecte de comís els béns pertanyents a una tercera persona no responsable que els hagi adquirit de bona fe. No obstant això, es presumeix, llevat de prova en contrari, que la tercera persona tenia coneixement o havia de tenir coneixement que l’objectiu de la transferència o l’adquisició era evitar el comís quan hagin estat gratuïtes o per un preu significativament inferior al preu de mercat, o quan la tercera persona sigui una persona afí a la persona encausada, processada o condemnada, o sigui una persona jurídica sobre la qual la persona encausada, processada o condemnada, individualment o conjuntament amb persones que li són afins, exerceixi un control efectiu.
+
+La tercera persona els béns de la qual es puguin veure afectats per un comís eventual ha de ser informada de la substanciació del procés judicial corresponent i està legitimada per personar-s’hi a fi d’exercir el seu dret a la defensa amb els mateixos instruments processals que la persona encausada, processada o condemnada.
+
+4. En el cas que els instruments utilitzats o que, en cas de temptativa punible, s’anaven a utilitzar per cometre la infracció, del producte obtingut i dels beneficis que se n’hagin derivat i de la seva eventual transformació posterior no puguin ser localitzats, o no puguin ser repatriats de l’estranger, el tribunal pot acordar el comís del seu equivalent.
+
+El tribunal pot no acordar el comís o acordar-lo parcialment en el cas que els instruments, el producte obtingut i els beneficis derivats o la seva eventual transformació posterior es trobin confosos amb béns i drets de provinença lícita, o si els guanys o els instruments són de comerç lícit i no tenen proporció amb la naturalesa o la gravetat de la infracció, o quan altres raons així ho aconsellin.
+
+###### Article 71 Altres conseqüències
+
+1. El tribunal pot imposar raonadament, en el moment de dictar sentència condemnatòria o en els altres supòsits previstos al Codi de procediment penal, les mesures següents:
+
+a) Dissolució de la societat, l’associació o la fundació.
+
+b) Suspensió de les activitats de la societat, l’associació o la fundació per un termini màxim de sis anys.
+
+c) Tancament de l’empresa, dels seus locals o establiments, amb caràcter temporal o definitiu.
+
+d) Multa a la societat, l’associació o la fundació, en el cas de comissió de delictes contra la llibertat sexual, contra l’ordre socioeconòmic, la seguretat en el tràfic jurídic, de corrupció, tràfic d’influències, terrorisme i finançament del terrorisme i blanqueig de diners o valors, de fins a 300.000 euros, o fins al quàdruple del benefici obtingut o que es pretenia obtenir amb la comissió del delicte, si era superior. El tribunal determina l’extensió de la multa d’acord amb la gravetat de la infracció, el patrimoni de la societat, l’associació o la fundació i l’impacte sobre els proveïdors i els drets dels treballadors.
+
+e) Nomenament d’administració judicial de l’empresa o la societat.
+
+f) Publicació de la sentència. Les despeses de publicació són, en aquest cas, a càrrec del condemnat.
+
+g) Privació del dret de la persona física o jurídica de contractar amb les administracions públiques.
+
+2. L’adopció de les mesures esmentades als apartats a), b), c) i d) anteriors requereix la intervenció com a part en el procés, amb els mateixos drets reconeguts per la llei al responsable civil, del representant legal de la persona jurídica, o de la persona que designin els seus òrgans competents, a partir del moment en què s’incoa el sumari o les diligències prèvies.
+
+### Títol IV. Les mesures de seguretat
+
+#### Capítol primer. Disposicions generals
+
+###### Article 72 Àmbit d’aplicació
+
+El tribunal aplica les mesures de seguretat previstes en aquest títol, amb els informes previs que estimi convenients, a les persones que es trobin en els supòsits que es determinen en aquest capítol, sempre que concorrin les circumstàncies següents:
+
+1. Que la sentència apreciï que el subjecte ha comès un fet constitutiu de delicte.
+
+2. Que del fet i de les circumstàncies personals del subjecte se’n dedueixi un pronòstic de comportament futur que indiqui la probabilitat de comissió de nous delictes.
+
+###### Article 73 Classes
+
+1. Són mesures privatives de llibertat l’internament en un centre psiquiàtric, en un centre de deshabituació o en un establiment educatiu especial o de rehabilitació.
+
+2. Són mesures no privatives de llibertat:
+
+a) Seguiment de tractament ambulatori en centres terapèutics.
+
+b) Seguiment de programes especials de tipus formatiu i educatiu.
+
+c) Expulsió del territori del Principat de persones de nacionalitat estrangera.
+
+d) Prohibició d’assistir a llocs o actes determinats.
+
+e) Prohibició de tenir cap contacte amb persones determinades.
+
+f) Prohibició de conduir vehicles automòbils.
+
+g) Prohibició de tenir o usar armes.
+
+h) Prohibició de consumir begudes alcohòliques en establiments o llocs públics.
+
+i) Prohibició de sortir durant hores determinades del domicili que es fixi, sense control monitoritzat o amb control i amb el consentiment del titular del domicili.
+
+j) Submissió a custòdia d’un familiar que es faci càrrec voluntàriament de l’atenció i la vigilància.
+
+k) Inhabilitació per a l’exercici de l’ofici o el càrrec.
+
+###### Article 74 Aplicació de les mesures privatives de llibertat en cas d’exclusió de responsabilitat
+
+A qui sigui declarat exempt de responsabilitat criminal d’acord amb els punts 4, 5 i 6 de l’article 27, li és aplicable la mesura privativa de llibertat que escaigui entre les previstes en l’article 73.1, si és necessari, per prevenir la perillositat criminal, i sempre que per al delicte s’hagi previst una pena privativa de llibertat. El tribunal fixa en la sentència la durada màxima de la mesura tenint en compte el que es disposa a l’article 6.3.
+
+###### Article 75 Aplicació de les mesures privatives de llibertat en cas d’exclusió incompleta de responsabilitat
+
+En cas que s’apreciï una causa excloent incompleta, referida als supòsits dels punts 4, 5 i 6 de l’article 27, es poden aplicar, a més de la pena atenuada corresponent d’acord amb l’article 54, les mesures privatives de llibertat, si es donen els requisits de l’article anterior. El tribunal fixa en la sentència la durada màxima de la mesura tenint en compte el que es disposa a l’article 6.3.
+
+En cas de concurrència de pena i mesura, ambdues privatives de llibertat, el tribunal ha d’acordar el compliment de la mesura en primer lloc, que s’abona per al còmput de temps de la pena. La durada conjunta de la pena i la mesura ha de ser fixada en el seu màxim a la sentència i no pot excedir de la durada de la pena imposable en el cas de no haver existit l’atenuació qualificada.
+
+Acabat l’internament, el tribunal acorda el compliment de la part de pena que resta per complir. Excepcionalment, en el cas que amb l’execució de la pena es posin en perill els efectes aconseguits amb la mesura, el tribunal, mitjançant audiència de les parts i de manera raonada, pot substituir-la per una o més de les mesures no privatives de llibertat o, fins i tot, si el ròssec de pena pendent de complir és inferior a un terç de la pena imposada, dispensar-ne el compliment.
+
+###### Article 76 Aplicació de les mesures no privatives de llibertat
+
+En els supòsits dels punts 4, 5 i 6 de l’article 27, les mesures no privatives de llibertat poden ser acordades pel tribunal, conjuntament o no amb les mesures privatives de llibertat.
+
+Les mesures no privatives de llibertat no poden excedir de deu anys. El tribunal fixa en la sentència la durada màxima de la mesura, evitant que sigui desproporcionada en relació amb la naturalesa i durada de la pena imposable al delicte.
+
+#### Capítol segon. Execució de les mesures de seguretat
+
+###### Article 77 Suspensió, substitució i extinció de la mesura
+
+Durant l’execució de la mesura, el tribunal pot adoptar, amb audiència prèvia de les parts i valorant els informes previs que consideri oportuns, un dels acords següents:
+
+a) Donar per extingida la mesura de seguretat quan hagi desaparegut la perillositat criminal.
+
+b) Substituir la mesura per una altra o unes altres que es considerin més adequades.
+
+c) Suspendre l’execució de la mesura tenint en compte el resultat obtingut, per un termini no superior al que resta per complir.
+
+En els supòsits dels apartats b) i c) si el subjecte delinqueix o evoluciona desfavorablement durant el temps que resta per complir la mesura, el tribunal pot deixar sense efecte la substitució o la suspensió acordada.
+
+En tots els casos el tribunal pot confiar el seguiment del compliment de la mesura i l’evolució del subjecte als equips tècnics competents de l’Administració.
+
+###### Article 78 Incompliment de la mesura
+
+En cas d’incompliment d’una mesura no privativa de llibertat el tribunal pot acordar la seva substitució per una altra o unes altres de les mesures no privatives de llibertat previstes per al supòsit de què es tracta. També pot acordar l’internament, a la vista dels informes tècnics i mitjançant audiència prèvia de les parts, sempre que la pena prevista per al delicte sigui privativa de llibertat.
+
+En cas de crebantament d’una mesura de seguretat privativa de llibertat, el tribunal ordena el reingrés del subjecte en el centre que correspongui.
+
+### Títol V. Extinció de la responsabilitat criminal
+
+#### Capítol primer. Causes d’extinció de la responsabilitat criminal i de la pena
+
+###### Article 79 La mort, el compliment de la condemna i l’amnistia
+
+La mort del reu, el compliment de la condemna i l’amnistia extingeixen la responsabilitat criminal.
+
+###### Article 80 El perdó i la renúncia
+
+El perdó de la part ofesa o la renúncia a l’acció solament extingeixen la responsabilitat penal quan es tracti de delictes que, per ser perseguits, requereixin la presentació de querella per un particular.
+
+###### Article 81 La prescripció del delicte
+
+La prescripció de l’acció penal extingeix la responsabilitat penal pel transcurs dels terminis següents:
+
+a) Trenta anys pels delictes que tinguin assignada una pena el límit màxim de la qual sigui de deu anys o superior.
+
+b) Deu anys pels altres delictes majors.
+
+c) Quatre anys pels delictes menors.
+
+d) Sis mesos pels delictes de calúmnia, injúria i difamació i per les contravencions penals.
+
+L’acció penal per la persecució del delicte de tortura, el delicte de genocidi i els delictes contra la humanitat no prescriu en cap cas.
+
+###### Article 82 Còmput de la prescripció del delicte
+
+El termini de prescripció comença a computar-se a partir del dia en què cessa l’acció o l’omissió punible.
+
+No obstant això, en els delictes de resultat consumat el còmput es verifica a partir del moment en què el resultat s’hagi produït, i en els delictes dolosos contra la vida, la integritat física i moral, la llibertat, la llibertat sexual i les relacions familiars, i en els delictes d’apropiació indeguda i administració deslleial, a partir del moment en què la víctima faci divuit anys d’edat o a partir de la data de la seva mort si no els ha fet.
+
+En cas d’infracció continuada, el termini es computa des del dia en què s’ha realitzat la darrera infracció.
+
+###### Article 83 Interrupció
+
+La prescripció queda interrompuda amb el processament de l’imputat o quan el procediment es dirigeix contra el culpable i per qualsevol acte posterior del procediment sigui quin sigui l’estat en què es trobi la causa. El termini de prescripció també queda interromput per la compareixença del perjudicat.
+
+Produïda la interrupció, el termini de prescripció torna a computar-se des de l’inici.
+
+###### Article 84 Prescripció de la pena i de la mesura de seguretat
+
+La prescripció de la pena i de la mesura de seguretat en produeix l’extinció.
+
+Les penes i les mesures de seguretat imposades d’una durada igual o superior a deu anys prescriuen al cap de trenta anys; les imposades pels restants delictes majors, al cap de quinze anys; les imposades per delictes menors, al cap de sis anys, i les imposades per contravencions penals, al cap de dos anys.
+
+Les penes imposades pel delicte de tortura, el delicte de genocidi i els delictes contra la humanitat no prescriuen en cap cas.
+
+###### Article 85 Còmput de la prescripció de la pena
+
+El temps de la prescripció de la pena i de la mesura de seguretat s’ha de computar des del dia de la notificació o publicació de la sentència ferma o de la data de trencament de la condemna o mesura. El còmput queda interromput per la comissió d’un nou delicte punible a Andorra.
+
+###### Article 86 L’indult
+
+L’indult extingeix la pena en la part indultada i en el seu cas la substitueix per la fixada en el Decret corresponent. L’indult no extingeix les penes complementàries llevat que no es disposi el contrari expressament.
+
+#### Capítol segon. La rehabilitació
+
+###### Article 87 Requisits
+
+Les persones la responsabilitat penal de les quals s’hagi extingit obtenen el benefici de la rehabilitació sempre que concorrin els requisits següents:
+
+1. Que hagin satisfet en la mesura del que sigui possible la responsabilitat civil que dimana del delicte.
+
+2. Que hagi transcorregut el termini de deu anys per a les penes de presó imposades de deu o més anys, el termini de cinc anys per a la resta de penes imposades per delictes majors i el termini de dos anys per a les penes imposades per delictes menors.
+
+3. Que no hagin comès cap delicte dolós durant el període que correspongui.
+
+###### Article 88 Còmput
+
+Els terminis esmentats en l’article anterior es computen a partir de la data d’extinció de la pena. Excepcionalment, en cas de penes de privació de llibertat, si el condemnat es beneficia de la suspensió condicional, el termini es computa des de la data de la fermesa de la sentència o l’aute en què la suspensió hagi estat atorgada, sempre que durant el període que s’assenyali d’acord amb el què disposen els articles 61 i 62 no s’hagi infringit la condició o les condicions imposades per a la suspensió. En el supòsit d’imposició conjunta de diverses penes només es pren en consideració el termini més llarg.
+
+###### Article 89 Cancel·lació d’antecedents
+
+La rehabilitació comporta la cancel·lació d’ofici dels antecedents penals a què es refereixi.
+
+### Títol VI. La responsabilitat civil
+
+###### Article 90 La responsabilitat civil derivada de la infracció penal
+
+Els danys i perjudicis ocasionats per la comissió d’un fet previst com a delicte o contravenció penal, han de ser rescabalats d’acord amb les disposicions d’aquest Codi i, subsidiàriament, amb les normes civils.
+
+###### Article 91 Contingut
+
+La responsabilitat civil establerta a l’article anterior comprèn:
+
+1. La restitució o, si no és possible, la reparació o la indemnització que correspongui.
+
+2. La reparació del dany.
+
+3. La indemnització dels perjudicis morals i materials.
+
+###### Article 92 Interessos
+
+La condemna al pagament d’una quantitat líquida comporta el pagament dels interessos legals a comptar de la data que fixi el tribunal o, en el seu defecte, a partir dels trenta dies següents a la data en què esdevingui ferma la sentència o l’aute que, en període d’execució, la determini.
+
+###### Article 93 Compensació de culpes
+
+Si la víctima ha contribuït a la producció del dany o perjudici sofert, el rescabalament s’ha de determinar proporcionalment tenint en compte la seva contribució.
+
+###### Article 94 Responsables civils
+
+Tota persona responsable penalment d’una infracció penal ho és també civilment si del fet se’n deriven danys i perjudicis. Si els responsables són dos o més, els tribunals han d’assenyalar la quota amb què cadascú ha de respondre, en proporció a la participació i a la culpabilitat, sense perjudici de la seva responsabilitat solidària davant de tercers perjudicats.
+
+Els autors i els còmplices, cadascú dins la seva classe, són responsables solidàriament per les seves quotes i, subsidiàriament, per les quotes corresponents als altres responsables.
+
+La responsabilitat subsidiària es fa efectiva en primer lloc contra el patrimoni dels autors i després contra el dels còmplices.
+
+Tant en els casos en què es faci efectiva la responsabilitat solidària com en els que es faci efectiva la responsabilitat subsidiària, el qui hagi pagat té el dret de repetició contra els altres per les quotes corresponents a cada un d’ells.
+
+###### Article 95 Responsabilitat civil en cas d’exclusió de responsabilitat penal
+
+L’apreciació d’error de tipus o de prohibició no exonera en cap cas de la responsabilitat civil.
+
+Els supòsits d’exempció de responsabilitat penal dels punts 3, 4, 5, 6, 7 i 8 de l’article 27 no comprenen l’exempció de la responsabilitat civil, que es determina com segueix:
+
+1. En els supòsits dels punts 3 i 7 són responsables civils directes les persones a favor de les quals s’ha evitat el mal, en la proporció que determini el tribunal.
+
+2. Els supòsits dels punts 4 i 6 no exoneren de responsabilitat civil la persona a qui s’ha apreciat l’eximent. Endemés, són responsables civils subsidiaris les persones que tinguin sota la seva potestat o guarda, legal o de fet, els declarats exempts de responsabilitat penal, excepte quan provin que no hi ha hagut culpa o negligència per part seva.
+
+3. És també responsable civil l’exempt de responsabilitat penal en mèrits del que disposa el punt 5 de l’article 27.
+
+4. En el cas d’exempció de responsabilitat en mèrits del que disposa el punt 8 de l’article 27 respon principalment el qui ha ocasionat la por i, subsidiàriament, el qui hagi executat el fet.
+
+En tots aquests supòsits el tribunal, en dictar sentència absolutòria o aute de sobreseïment, a instància de la persona perjudicada, pot fixar les responsabilitats civils oportunes.
+
+###### Article 96 Responsabilitat solidària dels asseguradors
+
+Les companyies asseguradores que hagin assumit contractualment el risc de les responsabilitats pecuniàries derivades de la possessió, de l’ús o de l’explotació de qualsevol bé, empresa, indústria o activitat, quan es produeixi l’esdeveniment que determina el risc assegurat responen solidàriament amb el responsable penal fins al límit de la indemnització legalment establerta o convencionalment pactada, sense perjudici del dret de repetició contra qui correspongui.
+
+###### Article 97 Altres responsabilitats solidàries
+
+L’empresari respon solidàriament amb l’empleat pels fets punibles comesos per aquest en l’exercici de les seves funcions, obligacions o serveis, en cas de delicte o contravenció penal amb incompliment de les normes de seguretat o higiene en el treball, o contra el medi ambient.
+
+###### Article 98 Responsabilitat civil subsidiària
+
+Són responsables subsidiàriament:
+
+1. Les persones que tinguin sota la seva potestat, tutela o vigilància, legal o de fet, un major de 18 anys, dels danys i perjudicis causats pels delictes o contravencions penals comesos per aquest, si hi ha hagut culpa o negligència de part seva.
+
+2. Els empresaris de fet i els titulars oficials de l’establiment, dels danys i perjudicis causats pels delictes o les contravencions penals que es cometin en llurs establiments, sempre que hi concorri culpa seva o dels seus empleats.
+
+3. Els patrons i els titulars oficials de l’establiment, dels danys i perjudicis ocasionats per les infraccions penals comeses pels seus empleats o representants en l’exercici de les seves funcions, obligacions o serveis.
+
+4. Les entitats públiques o privades i els organismes oficials, dels danys i perjudicis ocasionats per les infraccions penals comeses per les autoritats o pels seus funcionaris o empleats en l’exercici de les seves funcions, obligacions o serveis.
+
+5. Els propietaris de fet i els titulars oficials de qualsevol mitjà de difusió o de comunicació pública, dels danys i perjudicis causats per les infraccions penals comeses fent ús d’aquests mitjans.
+
+6. Els propietaris de fet i els titulars oficials de vehicles automòbils, dels danys i perjudicis per les infraccions penals comeses en la utilització d’aquests automòbils per llurs empleats, representants o persones autoritzades.
+
+7. Els propietaris de fet i els titulars oficials d’animals o màquines susceptibles de crear risc per a tercers, dels danys i perjudicis per les infraccions penals comeses en la custòdia o utilització d’aquests per llurs empleats, representants o persones autoritzades, sempre que hi concorri culpa seva.
+
+8. Els prestanoms, dels danys i perjudicis causats per les infraccions penals comeses pel propietari de fet en l’exercici de l’activitat del negoci o indústria del qual són titulars oficialment.
+
+###### Article 99 Responsabilitat per enriquiment
+
+El qui, sense ser-ne responsable penalment ni civilment, s’hagi beneficiat a títol lucratiu de la comissió d’un delicte o contravenció penal, està obligat al rescabalament fins a la quantia del seu benefici.
+
+###### Article 100 Prelació de pagaments
+
+En cas de procedir per la via executiva per satisfer les responsabilitats pecuniàries derivades de la infracció penal, si els béns del responsable civil no són suficients, el tribunal acorda satisfer la quantitat obtinguda, segons l’ordre següent:
+
+1. La responsabilitat civil.
+
+2. Les despeses processals.
+
+3. La multa.
+
+###### Article 101 Extinció
+
+L’extinció de la responsabilitat civil es regula per les normes civils que siguin aplicables.
+
+## Llibre segon. Delictes
+
+### Títol I. Delictes contra la vida humana independent
+
+###### Article 102 Homicidi
+
+El qui mata una persona comet homicidi i ha de ser castigat amb pena de presó de deu a setze anys.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 103 Assassinat
+
+Comet assassinat el qui mata una persona quan concorre almenys una de les circumstàncies següents:
+
+1. Crueltat o acarnissament, que consisteix en augmentar intencionadament el sofriment de la víctima causant-li patiments que excedeixin dels necessaris per a l’execució del delicte.
+
+2. Traïdoria, que consisteix a emprar mitjans tendents directament a assegurar l’acció o a evitar el risc que pugui procedir de la defensa per part de la víctima.
+
+3. Realitzar el fet per preu o per obtenir una recompensa.
+
+4. Realitzar el fet per preparar, facilitar o executar un altre delicte o per afavorir la fugida o assegurar la impunitat dels autors o còmplices del delicte.
+
+L’autor d’assassinat ha de ser castigat amb pena de presó de catorze a vint-i-cinc anys.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 104 Homicidi per imprudència
+
+1. El qui per imprudència greu causa la mort d’una persona comet homicidi imprudent i ha de ser castigat amb pena de presó de tres mesos a tres anys o multa fins a 60.000 euros.
+
+Quan l’homicidi es cometi per imprudència professional s’ha d’imposar a més la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+Quan l’homicidi imprudent es cometi utilitzant un vehicle automòbil o una arma de foc s’ha d’imposar a més, respectivament, la pena de privació del permís de conduir i la de privació del permís d’arma, fins a sis anys.
+
+2. El qui per imprudència lleu produeix la mort d’una persona ha de ser castigat amb pena d’arrest o multa fins a 6.000 euros.
+
+Quan l’homicidi imprudent es produeixi utilitzant un vehicle automòbil o una arma de foc, s’ha d’imposar a més, respectivament, la pena de privació del permís de conduir i la de privació del permís d’arma, fins a dos anys.
+
+###### Article 105 Inducció i cooperació al suïcidi
+
+El qui indueix al suïcidi una altra persona ha de ser castigat amb pena de presó de quatre a vuit anys.
+
+Amb la mateixa pena ha de ser castigat el qui coopera activament en el suïcidi d’una persona. Quan la cooperació arriba a l’extrem d’executar la mort s’ha de castigar amb pena de presó de cinc a deu anys.
+
+La temptativa d’aquest delicte és punible si va seguida de l’inici de l’execució del suïcidi.
+
+###### Article 106 Homicidi consentit
+
+En el cas que una persona pateixi una malaltia greu que l’hagi de conduir de manera pròxima i inexorable a la mort, o que li produeixi patiments permanents de caràcter greu i insuportable, i sol·liciti a algú, de forma expressa i inequívoca, que li causi la mort o l’assisteixi executivament a morir, el fet ha de ser qualificat com a homicidi consentit. En aquest cas, qui hagi causat la mort o hagi assistit executivament ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+La temptativa és punible.
+
+### Títol II. Delictes contra la vida humana prenatal
+
+###### Article 107 Avortament no consentit
+
+El qui produeixi l’avortament d’una dona sense el seu consentiment ha de ser castigat amb pena de presó de quatre a deu anys i inhabilitació per exercir qualsevol professió sanitària de fins a deu anys.
+
+Les mateixes penes s’han d’imposar en cas que el consentiment de la dona s’hagi obtingut mitjançant violència, intimidació o abús de la vulnerabilitat de la víctima derivada de la seva edat, incapacitat o circumstància similar.
+
+La pena s’ha d’imposar en la meitat superior quan la conducta s’hagi comès per una de les persones descrites en l’article 114 o s’hagi realitzat sobre un menor d’edat o davant d’un menor d’edat.
+
+La temptativa és punible.
+
+###### Article 108 Avortament consentit
+
+1. El qui produeixi l’avortament d’una dona amb el seu consentiment ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per exercir qualsevol professió sanitària per un període fins a cinc anys.
+
+2. La dona que produeixi el seu avortament o consenti que una altra persona l’hi provoqui ha de ser castigada amb pena d’arrest.
+
+3. La temptativa de la conducta descrita en el primer apartat és punible.
+
+###### Article 109 Avortament imprudent
+
+1. El qui per imprudència greu causi un avortament ha de ser castigat amb pena d’arrest o multa fins a 30.000 euros.
+
+2. Quan l’avortament es cometi per imprudència professional s’ha d’imposar a més la pena d’inhabilitació per a l’exercici de professió o ofici fins a tres anys.
+
+3. L’embarassada no ha de ser penada per aquesta infracció.
+
+### Títol III. Delictes contra la integritat física i moral
+
+#### Capítol primer. Tortura i delictes contra la integritat moral comesos amb abús de càrrec públic
+
+###### Article 110 Tortura
+
+Comet tortura l’autoritat o el funcionari que, abusant del seu càrrec, directament o per mitjà d’una altra persona, sotmeti una persona a condicions o procediments que li produeixin sofriments físics o psíquics greus, si concorre almenys una de les finalitats o dels motius següents:
+
+a) Per obtenir d’aquesta persona o d’una tercera persona una confessió o una informació.
+
+b) Per intimidar o pressionar aquesta persona o una tercera persona.
+
+c) Per castigar a aquesta persona per un acte que ella o una tercera persona hagi comès o se sospiti que hagi comès.
+
+d) Per qualsevol mòbil discriminatori.
+
+L’autor de tortura ha de ser castigat amb pena de presó de quatre a dotze anys i inhabilitació per a l’exercici de drets públics de fins a quinze anys, sense perjudici, en el seu cas, de les penes que corresponguin per les infraccions de resultat comeses.
+
+Les mateixes penes s’han d’imposar a les autoritats o als funcionaris d’institucions penitenciàries o de centres de menors que cometin els actes esmentats sobre un detingut o un intern.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+Si els mitjans de tortura emprats són particularment greus per la intensitat del sofriment que provoquen o si comporten un perill per a la vida de l’ofès, el tribunal pot augmentar les penes fins a la meitat del seu límit superior.
+
+###### Article 111 Omissió d’impedir i denunciar la tortura
+
+L’autoritat o el funcionari que no utilitzi tots els mitjans al seu abast per impedir la realització de tortures per part d’un subordinat ha de ser castigat amb les mateixes penes previstes per a la tortura.
+
+L’autoritat o el funcionari que, fora dels casos inclosos en el paràgraf anterior, no impedeixi o no denunciï la realització de tortures de les quals tingui coneixement directe, ha de ser castigat amb les penes previstes per als autors de les tortures amb les reduccions previstes a l’article 53.
+
+###### Article 112 Tractes degradants
+
+L’autoritat o el funcionari que, abusant del seu càrrec i fora dels casos constitutius de tortura, sotmeti una persona a un tracte degradant ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació d’exercici de càrrec públic de fins a cinc anys, sense perjudici, en el seu cas, de les penes que corresponguin per les infraccions de resultat comeses.
+
+#### Capítol segon. Delictes contra la salut i la integritat de les persones
+
+###### Article 113 Tipus bàsic de maltractament i lesió
+
+1. El qui maltracti corporalment una persona de manera greu o li causi una lesió que requereixi assistència mèdica per a la seva curació, ha de ser castigat amb pena d’arrest i multa fins a 6.000 euros.
+
+2. Si hi concorre l’agreujant sisena de l’article 30 o un perjudici per a la salut física o psíquica de la víctima que per a la seva curació requereixi el seguiment d’un tractament mèdic posterior a la primera assistència, la pena ha de ser de presó de tres mesos a tres anys. La temptativa és punible si hi concorre l’agreujant sisena de l’article 30.
+
+###### Article 114 Maltractaments en l’àmbit domèstic
+
+1. El qui exerceixi violència física o psíquica sobre el qui sigui o hagi estat el seu cònjuge o la persona amb la qual mantingui o hagi mantingut una relació anàloga o sobre els ascendents, descendents, germans propis o d’aquesta persona, o qualsevol altra persona subjecta a la guarda de l’un o l’altre, o amb la qual convisqui, ha de ser castigat amb pena de presó fins a dos anys, sense perjudici de les penes que corresponguin pel resultat lesiu si se n’ha causat.
+
+La pena s’ha d’imposar en la seva meitat superior quan la conducta s’hagi realitzat sobre un menor d’edat o davant d’un menor d’edat.
+
+2. La pena ha de ser de presó de tres mesos a tres anys quan es doni una de les circumstàncies previstes al punt 2 de l’article 113, sense perjudici de les penes que corresponguin pel resultat lesiu causat.
+
+###### Article 115 Tipus agreujat
+
+Els maltractaments i les lesions han de ser castigats amb pena de presó d’un a quatre anys en cas que hi concorrin almenys una de les circumstàncies següents:
+
+1. Si hi ha hagut acarnissament o crueltat.
+
+2. Si en l’agressió s’han utilitzat armes, objectes o mitjans amb perill de causar la mort o lesions més greus a la víctima.
+
+3. Si la víctima és especialment vulnerable, tenint en compte l’edat, la incapacitat o qualsevol condició similar.
+
+4. Si s’ha buscat o aprofitat la concurrència d’altres persones que facilitin l’execució o augmentin el greuge sobre la víctima.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 116 Lesions qualificades
+
+1. El qui causi a una persona una malaltia somàtica o psíquica greu i perdurable, una deformitat greu, la impotència, l’esterilitat o la pèrdua o la inutilitat d’un òrgan, d’un membre o d’un sentit, ha de ser castigat amb pena de presó de tres a deu anys.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+2. El qui causi a una persona una mutilació genital o l’esterilització forçosa ha de ser castigat amb la mateixa pena. La pena s’ha d’imposar en la meitat superior quan la conducta l’hagi comès una de les persones descrites en l’article 114 o s’hagi realitzat sobre un menor d’edat o davant d’un menor d’edat.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 117 Lesions per imprudència
+
+1. El qui per imprudència greu causi una de les lesions previstes en l’article anterior ha de ser castigat amb pena de presó fins a un any o multa fins a 45.000 euros.
+
+2. El qui per imprudència greu causi una de les lesions previstes a l’article 113 ha de ser castigat amb pena d’arrest o multa fins a 18.000 euros.
+
+3. Quan les lesions s’hagin comès per imprudència professional, s’ha d’imposar a més la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec de fins a cinc anys en el cas de l’apartat primer i de fins a tres anys en el cas de l’apartat segon d’aquest article.
+
+4. Quan els fets s’hagin comès utilitzant un vehicle automòbil o una arma de foc, s’ha d’imposar a més, respectivament, la pena de privació del permís de conduir i la de privació del permís d’armes fins a quatre anys en el cas de l’apartat primer i fins a dos anys en el cas de l’apartat segon d’aquest article.
+
+###### Article 118 Participació en una baralla amb mitjans perillosos
+
+El qui prengui part en una baralla utilitzant mitjans perillosos per a la vida de les persones o tenint coneixement de la seva possessió per altres participants, ha de ser castigat amb pena de presó de tres mesos a tres anys o amb pena d’arrest.
+
+###### Article 118 bis Utilització temerària d’arma de foc
+
+Qui faci ús d’una arma de foc amb temeritat manifesta i posi efectivament en perill concret la vida o la salut de les persones ha de ser castigat amb pena de presó fins a dos anys i privació del permís d’arma fins a sis anys.
+
+El tribunal també pot imposar la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+
+###### Article 119 Consentiment
+
+No són constitutius d’infracció penal els fets dolosos previstos en aquest capítol en els quals hi hagi consentiment per part de la víctima d’acord amb la llei i el costum, ni els fets imprudents que siguin conseqüència de la lliure exposició per part de la víctima a una situació de perill.
+
+No es considera vàlid el consentiment obtingut viciadament o el dels menors d’edat i els incapaços, ni el prestat pels seus representants legals.
+
+#### Capítol tercer. Altres delictes contra la salut i la integritat dels éssers humans
+
+###### Article 120 Lesions al fetus
+
+1. El qui causi en un embrió implantat o en un fetus una lesió o malaltia que perjudiqui greument el seu desenvolupament o li provoqui una tara física o psíquica persistent més enllà del naixement, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per exercir qualsevol professió sanitària fins a sis anys.
+
+La temptativa és punible.
+
+2. El qui per imprudència greu realitzi el fet descrit en l’apartat anterior ha de ser castigat amb pena d’arrest o multa fins a 18.000 euros. Quan els fets s’hagin comès per imprudència professional s’ha d’imposar a més la pena d’inhabilitació per a l’exercici de la professió o l’ofici fins a tres anys.
+
+###### Article 121 Tràfic d’òrgans, teixits, cèl·lules o gàmetes humans
+
+1. Qui, sense autorització administrativa o judicial, ofereixi, accepti o trafiqui amb òrgans, teixits, cèl·lules o gàmetes humans ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per exercir tota professió sanitària o relacionada amb la investigació científica durant un període màxim de cinc anys.
+
+2. Quan el tràfic tingui per objecte un òrgan obtingut il·lícitament, la pena de presó ha de ser de dos a cinc anys.
+
+3. Si la víctima és un menor o una persona vulnerable per raó de malaltia o deficiència física o psíquica s’ha d’imposar una pena de presó de quatre a vuit anys. S’ha d’imposar la pena en la meitat superior als titulars de la pàtria potestat o tutela quan la conducta es realitza amb la seva connivència.
+
+4. Si els fets es realitzen en el marc d’una organització la pena imposable pot arribar fins al límit màxim augmentat de la meitat.
+
+5. La temptativa és punible.
+
+###### Article 121 bis Tràfic d’éssers humans amb finalitat d’extracció d’òrgans
+
+1. El qui, amb fins d’extracció d’òrgans, recluti, transporti, traslladi, allotgi o aculli una o més persones, ha de ser castigat amb pena de presó de dos a sis anys, sense perjudici, en el seu cas, de les penes que corresponguin per les altres infraccions comeses, quan s’empri almenys un dels mitjans següents:
+
+a) Que es recorri a la violència o altres formes d’intimidació o coacció, o sota l’amenaça de fer-ho.
+
+b) Que hi hagi frau, engany, abús d’autoritat o d’una situació de vulnerabilitat.
+
+c) Que es proposin o acceptin pagaments o avantatges per obtenir el consentiment d’una persona que exerceixi autoritat, de fet o de dret, sobre una altra persona.
+
+La temptativa és punible.
+
+2. Quan no s’empri cap dels mitjans esmentats a l’apartat anterior, té la consideració de tràfic d’éssers humans amb finalitat d’extracció d’òrgans la comissió de l’acció que s’hi descriu, si es realitza sobre un menor d’edat, sense perjudici, en el seu cas, de les penes que corresponguin per les altres infraccions comeses.
+
+La temptativa és punible.
+
+3. En els supòsits establerts a l’apartat 2, i a l’apartat 1 si la víctima és especialment vulnerable d’acord amb la seva condició física o psíquica o una incapacitat, la pena s’ha d’imposar en la meitat superior.
+
+4. En tots els casos, constitueix una circumstància agreujant de la responsabilitat penal el fet d’haver posat en perill la vida de la víctima.
+
+###### Article 122 Experimentacions no consentides
+
+El qui sotmeti una persona a pràctiques d’experimentació mèdica o biològica o amb finalitats cosmètiques, sense el seu consentiment o amb abús de necessitat, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de tota professió sanitària o relacionada amb la investigació científica fins a cinc anys.
+
+El consentiment dels menors d’edat o incapaços, fins i tot el prestat pels seus representants legals, és irrellevant.
+
+La temptativa és punible.
+
+### Títol IV. Delictes relatius a la genètica i a la reproducció humanes
+
+###### Article 123 Tipus bàsic
+
+El qui, fora dels supòsits previstos legalment, practiqui una manipulació genètica sobre un ésser humà i produeixi una alteració del genotip amb la finalitat de modificar la seva descendència, ha de ser castigat amb pena de presó de tres a vuit anys i inhabilitació per exercir qualsevol professió sanitària o relacionada amb la investigació científica fins a deu anys.
+
+La temptativa és punible.
+
+###### Article 124 Tipus qualificat
+
+El qui practiqui una manipulació genètica per realitzar una selecció d’éssers humans i produeixi una alteració del genotip o un clonatge, ha de ser castigat amb pena de presó de vuit a dotze anys i inhabilitació per exercir qualsevol professió sanitària o relacionada amb la investigació científica fins a setze anys.
+
+Si la manipulació es produeix en el marc d’un pla preconcebut i afecta un grup de persones s’ha d’imposar pena de presó de dotze a vint anys i inhabilitació fins a vint anys.
+
+La temptativa i la conspiració són punibles.
+
+###### Article 125 Obtenció i ús de les característiques genètiques
+
+1. El qui amb finalitat lucrativa examini o determini les característiques genètiques d’un ésser humà sense el seu consentiment o el dels seus representants legals, o sense autorització judicial, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. El qui havent obtingut lícitament les característiques genètiques d’un ésser humà les utilitzi amb finalitat lucrativa, ha de ser castigat amb la mateixa pena que la prevista a l’apartat anterior.
+
+3. La temptativa és punible en ambdós supòsits.
+
+###### Article 126 Divulgació
+
+El qui divulgui les característiques genètiques d’un ésser humà sense el seu consentiment o el dels seus representants legals, o sense autorització judicial, ha de ser castigat amb pena de presó d’un a quatre anys.
+
+###### Article 127 Armes biològiques
+
+El qui, amb l’ajut de la tècnica genètica, produeixi armes biològiques ha de ser castigat amb pena de presó de vuit a dotze anys i inhabilitació per a l’exercici de qualsevol professió sanitària o relacionada amb la investigació científica fins a vint anys.
+
+La temptativa i la conspiració són punibles.
+
+###### Article 128 Experimentació i comercialització
+
+El qui comercialitzi o experimenti amb òvuls humans fecundats amb finalitat diferent de la procreació ha de ser castigat amb pena de presó d’un a cinc anys i inhabilitació per a l’exercici de qualsevol professió sanitària o relacionada amb la investigació científica fins a vuit anys.
+
+La temptativa és punible.
+
+###### Article 129 Reproducció assistida
+
+El qui practiqui la reproducció assistida sense el consentiment previ de la persona interessada atorgat per escrit de manera lliure i no viciada, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de qualsevol professió sanitària o relacionada amb la investigació científica fins a sis anys.
+
+La temptativa és punible.
+
+###### Article 130 Consentiment
+
+Tret dels casos en què es disposi altrament, el consentiment no eximeix de responsabilitat criminal en els delictes d’aquest títol.
+
+### Títol V. Omissió del deure de socors
+
+###### Article 131 Omissió de socors
+
+1. El qui, sense risc per a ell o altri, s’abstingui de prestar socors, mitjançant un acte personal o demanant la intervenció de tercers, a una tercera persona exposada a un perill manifest i greu per a la vida o la integritat física, ha de ser castigat amb pena d’arrest.
+
+2. Si el perill prové d’un accident causat fortuïtament per l’autor de l’omissió de socors, la pena ha de ser de dos anys de presó com a màxim.
+
+3. Si l’accident és degut a la seva imprudència, la pena ha de ser de tres mesos a tres anys de presó.
+
+4. Si l’autor de la infracció és una persona obligada per la seva professió a prestar socors a tercers, se li pot imposar, a més, la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+###### Article 132 Obstaculització de socors
+
+El qui posi obstacles a l’arribada de socors destinats a assistir una persona en perill manifest i greu per a la vida o la integritat física, ha de ser castigat amb pena de presó fins a dos anys o amb pena d’arrest.
+
+La temptativa és punible.
+
+### Títol VI. Delictes contra la llibertat
+
+#### Capítol primer. Delictes contra la llibertat de moviments de les persones
+
+###### Article 133 Detenció il·legal
+
+1. El qui, sense justificació legal, privi de llibertat una persona tancant-la o detenint-la ha de ser castigat amb pena de presó de tres a sis anys.
+
+2. Si la privació de llibertat dura menys de vint-i-quatre hores, la pena ha de ser de presó de tres mesos a tres anys.
+
+3. La pena ha de ser de presó de cinc a vuit anys si la privació de llibertat dura més de set dies o si es posa en perill la vida de la víctima.
+
+4. La temptativa és punible.
+
+###### Article 134 Esclavatge i servitud
+
+1. Qui sotmeti una persona a esclavatge o servitud ha de ser castigat amb pena de presó de quatre a dotze anys.
+
+La pena s’ha d’imposar en la meitat superior quan la víctima sigui menor d’edat.
+
+La temptativa és punible.
+
+2. S’entén per “esclavatge o servitud” la situació de la persona sobre la qual un altre exerceix, fins i tot de fet, tots o alguns dels atributs del dret de propietat, com ara comprar-la, vendre-la, prestar-la o donar-la.
+
+###### Article 134 bis Tràfic d’éssers humans amb finalitat d’esclavatge o servitud
+
+1. El qui, amb fins d’esclavatge o servitud, recluti, transporti, traslladi, allotgi o aculli una o més persones, ha de ser castigat amb pena de presó de dos a sis anys, sense perjudici, en el seu cas, de les penes que corresponguin per les altres infraccions comeses, quan s’empri almenys un dels mitjans següents:
+
+a) Que es recorri a la violència o altres formes d’intimidació o coacció, o sota l’amenaça de fer-ho.
+
+b) Que hi hagi frau, engany, abús d’autoritat o d’una situació de vulnerabilitat.
+
+c) Que es proposin o acceptin pagaments o avantatges per obtenir el consentiment d’una persona que exerceixi autoritat, de fet o de dret, sobre una altra.
+
+La temptativa és punible.
+
+2. Quan no s’empri cap dels mitjans esmentats a l’apartat anterior, té la consideració de tràfic d’éssers humans amb finalitat d’esclavatge o servitud la comissió de l’acció que s’hi descriu, si es realitza sobre un menor d’edat, sense perjudici, en el seu cas, de les penes que corresponguin per les altres infraccions comeses.
+
+La temptativa és punible.
+
+3. En els supòsits establerts a l’apartat 2, i a l’apartat 1 si la víctima és especialment vulnerable d’acord amb la seva condició física o psíquica o una incapacitat, la pena s’ha d’imposar en la meitat superior.
+
+4. En tots els casos, constitueix una circumstància agreujant de la responsabilitat penal el fet d’haver posat en perill la vida de la víctima.
+
+###### Article 135 Segrest
+
+1. El qui, sense justificació legal, privi de llibertat una persona exigint alguna condició per alliberar-la ha de ser castigat amb pena de presó de cinc a deu anys.
+
+2. Si la privació de llibertat dura menys de vint-i-quatre hores la pena ha de ser de presó de tres mesos a tres anys.
+
+3. La pena ha de ser de presó de set a tretze anys si la privació de llibertat dura més de set dies o si es posa en perill la vida de la víctima.
+
+4. Si l’autor allibera la persona detinguda renunciant a obtenir el seu propòsit el tribunal pot imposar les penes previstes per al delicte de detenció il·legal.
+
+5. La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 136 Penes agreujades
+
+Les penes previstes en els articles anteriors d’aquest capítol s’han d’imposar en la seva meitat superior quan es doni alguna de les circumstàncies següents:
+
+1. Quan la víctima sigui especialment vulnerable per raó de la seva edat, incapacitat o malaltia.
+
+2. Quan l’autor s’apoderi o prengui el control d’una nau, una plataforma fixa o una aeronau o un mitjà o un vehicle automòbil de transport col·lectiu de persones.
+
+3. Quan la víctima sigui autoritat o funcionari en l’exercici de les seves funcions, sempre que l’actuació en tal condició no doni lloc a un altre delicte.
+
+###### Article 137 Desaparició de persones
+
+Si la víctima de segrest o detenció il·legal no ha pogut ser trobada, la pena ha de ser de presó de vuit a setze anys.
+
+###### Article 138 Qualificació per ser autoritat o funcionari
+
+L’autoritat o el funcionari competent per practicar una detenció que, sense que hi hagi motiu legal inicial, cometi un dels fets descrits en els articles anteriors d’aquest capítol ha de ser castigat amb les penes previstes per als supòsits respectius en la seva meitat superior i, a més, amb la inhabilitació de drets públics fins a dotze anys en els casos dels articles 133 i 135, o fins a vint anys en el cas de l’article 137.
+
+#### Capítol segon. Coaccions i amenaces
+
+###### Article 139 Coaccions
+
+1. El qui il·legítimament i amb violència o intimidació força una persona a realitzar una acció o una omissió o a suportar allò a què no està legalment obligat, ha de ser castigat amb pena de presó fins a dos anys o d’arrest.
+
+La temptativa és punible.
+
+2. Si la coacció consisteix a impedir l’exercici d’un dret o d’una llibertat previstos als capítols III o IV del títol II de la Constitució, la pena ha de ser de presó de tres mesos a tres anys, tret que el fet tingui assenyalada una pena superior en una altra norma penal.
+
+###### Article 139 bis Assetjament
+
+El qui, amb la intenció d’instil·lar a una persona un sentiment de por per la seva seguretat, adopta de manera repetida i regular, directament o indirectament, un comportament amenaçador envers ella o les persones del seu entorn ha de ser castigat amb pena de presó fins a un any o d’arrest.
+
+La pena s’ha d’imposar en la seva meitat superior quan la conducta s’hagi realitzat sobre un menor d’edat o davant d’un menor d’edat.
+
+###### Article 140 Amenaces condicionals d’un mal constitutiu de delicte
+
+1. Qui amenaci una persona de causar un mal constitutiu d’un delicte major o d’un delicte contra la integritat física exigint qualsevol condició, lícita o il·lícita, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. Si l’amenaça és de mort i està feta reiteradament, o amb arma o amb un mitjà que doni a entendre una fermesa en la intenció, la pena ha de ser d’un a cinc anys de presó.
+
+3. Les penes previstes anteriorment s’han d’imposar en la seva meitat inferior si l’autor no ha aconseguit el seu propòsit.
+
+###### Article 141 Altres amenaces condicionals
+
+El qui amenaci una persona amb un mal dels no previstos en l’article anterior, exigint qualsevol condició que no consisteixi en una conducta deguda, ha de ser castigat amb pena d’arrest.
+
+###### Article 142 Xantatge
+
+1. El qui exigeixi a una persona una quantitat o el compliment d’alguna condició, sota amenaça de revelar o difondre fets reservats que puguin afectar negativament l’honor o el patrimoni de l’amenaçat o de persones que hi estan íntimament vinculades, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. Si l’autor ha aconseguit que li sigui lliurada totalment o parcialment la quantitat exigida o que es compleixi la condició, se li ha d’imposar pena de presó d’un a quatre anys.
+
+3. Si el fet consisteix en l’amenaça de revelar o denunciar la comissió d’alguna infracció penal, el tribunal ho ha de tenir en compte als efectes de l’aplicació de l’article 56. Així mateix, en aquests casos el Ministeri Fiscal, per tal de facilitar la persecució penal del xantatge, pot abstenir-se d’acusar per la infracció motiu del xantatge, sempre que no es tracti d’un delicte major.
+
+###### Article 143 Amenaces no condicionals
+
+Qui, sense exigir condició, amenaci una persona de cometre contra ella, contra algú de la seva família o contra una persona amb qui tingui vinculació íntima, un delicte contra la vida o la integritat física o un delicte major del qual es derivi un risc contra la vida de les persones, ha de ser castigat amb pena de presó fins a dos anys o d’arrest.
+
+Si l’amenaça és de mort i està feta reiteradament, o amb arma o amb un mitjà que doni a entendre una fermesa en la intenció, la pena s’ha d’imposar en la seva meitat superior.
+
+###### Article 143 bis Circumstància agreujant
+
+En els delictes previstos en aquest capítol constitueix circumstància agreujant el fet que la víctima sigui una de les persones definides a l’article 114 o que la víctima sigui un menor d’edat o s’hagi comès el delicte en la seva presència.
+
+### Títol VII. Delictes contra la llibertat sexual
+
+#### Capítol primer. Agressions sexuals
+
+###### Article 144 Agressió sexual
+
+El qui, mitjançant violència o intimidació, determina una persona a prendre part en un comportament o relació sexual ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+La temptativa és punible.
+
+###### Article 145 Agressió sexual constitutiva de violació
+
+Quan l’agressió sexual consisteixi en accés carnal per via vaginal, anal o oral, o en introducció d’objectes o membres corporals per alguna de les dues primeres vies, l’autor ha de ser castigat amb pena de presó de tres a deu anys.
+
+La temptativa és punible.
+
+###### Article 146 Agressions qualificades
+
+1. L’agressió sexual ha de ser castigada amb pena de presó de dos a set anys en els supòsits de l’article 144 i amb pena de presó de sis a quinze anys en els de l’article 145, quan en el fet hi concorri alguna de les circumstàncies següents:
+
+a) Executar el fet en grup, concorrent-hi dues o més persones.
+
+b) Que el culpable convisqui o sigui ascendent, descendent o germà de la víctima o sigui una persona que exerceix, de fet o de dret, autoritat familiar sobre ella.
+
+c) Ser la víctima especialment vulnerable per raó de la seva edat, malaltia, incapacitat o situació. En tot cas es considera que la víctima és especialment vulnerable per raó de la seva edat quan tingui una edat inferior a catorze anys.
+
+En aquest supòsit les penes s’apliquen en la seva meitat superior.
+
+d) Quan en atenció a la naturalesa de la conducta sexual, els mitjans emprats, les circumstàncies específiques o qualsevol altre motiu, l’agressió sexual tingui un caràcter especialment degradant i vexatori per a la víctima.
+
+e) Quan, mitjançant l’agressió, es posi en perill la vida o la integritat física de la víctima.
+
+2. La temptativa és punible.
+
+#### Capítol segon. Abusos sexuals
+
+###### Article 147 Actes sexuals sense consentiment
+
+1. El qui realitza un comportament sexual amb una persona menor de catorze anys o privada de sentit, inconscient o incapaç d’oposar resistència, o amb abús de la seva incapacitat, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. Quan el fet consisteixi en accés carnal per via vaginal, anal o oral o en introducció d’objectes o membres corporals per una de les dos primeres vies, ha de ser castigat amb pena de presó de tres a deu anys.
+
+3. Si l’autor conviu o és ascendent, descendent o germà de la víctima o és una persona que exerceix de fet o de dret autoritat familiar sobre ella, o si la víctima és especialment vulnerable per raó de la seva edat, malaltia o situació, la pena ha de ser de dos a set anys de presó en el supòsit de l’apartat primer i de sis a quinze anys de presó en el de l’apartat segon.
+
+4. La temptativa és punible en tots els casos. La proposició per mitjà de les tecnologies de la informació i la comunicació d’una trobada amb un menor de 14 anys amb la finalitat de cometre la infracció descrita a l’apartat 1 del present article es considera temptativa si la proposició ha estat seguida d’actes materials que condueixin a la dita trobada.
+
+###### Article 148 Abusos sexuals amb prevalença a menors d’edat
+
+1. El qui realitza un comportament sexual amb una persona de més de catorze i menys de divuit anys d’edat amb prevalença d’autoritat, de superioritat, amb abús de confiança o de situació de necessitat o dependència ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. Si el fet consisteix en accés carnal per via vaginal, anal, oral o en introducció d’objectes o membres corporals per una de les dues primeres vies, la pena de presó ha de ser de dos a sis anys.
+
+3. Si l’autor és ascendent, descendent, o germà de la víctima, o persona que hi exerceix de fet o de dret autoritat familiar, o si la víctima és especialment vulnerable per raó de la seva edat, malaltia o situació, la pena s’ha d’imposar en la seva meitat superior.
+
+4. La temptativa és punible.
+
+###### Article 149 Abusos sexuals amb prevalença a majors d’edat
+
+1. El qui realitza un comportament sexual amb una persona major d’edat amb prevalença d’autoritat, de superioritat, amb abús de confiança o de situació de necessitat o dependència, ha de ser castigat amb pena de presó fins a un any o d’arrest.
+
+2. Si el fet consisteix en accés carnal per via vaginal, anal o oral, o introducció d’objectes o membres corporals per alguna de les dues primeres vies la pena ha de ser de presó de tres mesos a tres anys.
+
+3. La temptativa és punible.
+
+###### Article 149 bis Assetjament sexual
+
+El qui adopta un comportament de caràcter sexual, verbal, no verbal o físic, envers una persona, no desitjat per aquesta persona, que tingui per finalitat o per efecte la violació de la seva dignitat, en particular quan aquest comportament crea un entorn intimidant, hostil, degradant, humiliant o ofensiu, ha de ser castigat amb pena d’arrest.
+
+#### Capítol tercer. Delictes relatius a la prostitució
+
+###### Article 150 Establiment de prostitució
+
+El qui faci funcionar o financi un establiment de prostitució ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a la gerència d’establiments d’hoteleria, restauració o lleure fins a cinc anys.
+
+###### Article 151 Afavoriment de la prostitució
+
+1. El qui recluti per a la prostitució, promogui, faciliti o afavoreixi la prostitució d’altri ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. Si es tracta de prostitució infantil o la víctima és una persona vulnerable per raó de malaltia o deficiència física o psíquica, s’ha d’imposar pena de presó de dos a cinc anys. Si el fet és comès pels titulars de la pàtria potestat o tutela, la pena s’ha d’imposar en la meitat superior.
+
+3. Si la infracció és comesa en el marc d’un grup organitzat, el límit màxim de la pena prevista es pot augmentar en la meitat.
+
+4. La temptativa és punible en tots els casos. La proposició per mitjà de les tecnologies de la informació i la comunicació d’una trobada amb un menor de 14 anys amb la finalitat de cometre la infracció descrita a l’apartat 1 d’aquest article es considera temptativa si la proposició ha estat seguida d’actes materials que condueixin a la dita trobada.
+
+###### Article 152 Proxenetisme
+
+1. El qui, mitjançant violència o intimidació, o amb abús d’autoritat, de superioritat, de confiança, de situació de necessitat o dependència, o amb engany suficient, determini algú a prostituir-se o a continuar-ho fent ha de ser castigat amb pena de presó de dos a cinc anys.
+
+La temptativa és punible.
+
+2. Si es tracta de prostitució infantil o la víctima és una persona vulnerable per raó de malaltia o deficiència física o psíquica, s’ha d’imposar pena de presó de tres a deu anys. Si el fet és comès pels titulars de la pàtria potestat o tutela, la pena s’ha d’imposar en la meitat superior.
+
+Si la infracció és comesa en el marc d’un grup organitzat, el límit màxim de la pena prevista pot ser augmentat en la meitat.
+
+La temptativa és punible. La proposició per mitjà de les tecnologies de la informació i la comunicació d’una trobada amb un menor de 14 anys amb la finalitat de cometre la infracció descrita a l’apartat 1 d’aquest article es considera temptativa si la proposició ha estat seguida d’actes materials que condueixin a la dita trobada.
+
+###### Article 153 Tipus qualificat per lucre
+
+Quan el culpable de les infraccions previstes en aquest capítol obtingui un profit econòmic, a més de les penes previstes s’ha d’imposar multa fins a 30.000 euros.
+
+###### Article 154 Actes sexuals amb menors o incapaços prostituïts
+
+Qui s’aprofiti sexualment de la prostitució d’un menor o d’un incapaç ha de ser castigat amb pena de presó d’un a cinc anys.
+
+La temptativa és punible.
+
+###### Article 154 bis Concepte de prostitució infantil
+
+Als efectes d’aquest capítol s’entén per prostitució infantil el fet d’utilitzar una persona menor d’edat amb la finalitat de realitzar activitats sexuals, oferint o prometent diners o qualsevol altra forma de remuneració, de pagament o d’avantatge, tant si la remuneració, el pagament o la promesa es fa al mateix menor com a un tercer.
+
+#### Capítol quart. Delictes relatius a la pornografia i les conductes de provocació sexual
+
+###### Article 155 Utilització de menors i incapaços per a la pornografia
+
+1. Qui capti imatges d’un menor d’edat o d’un incapaç amb la intenció de produir material pornogràfic ha de ser castigat amb pena de presó d’una durada màxima de dos anys.
+
+La temptativa és punible.
+
+2. Qui recluti, utilitzi un menor o un incapaç amb finalitats pornogràfiques o exhibicionistes o n’afavoreixi la participació, i qui produeixi, adquireixi, vengui, importi, exporti, distribueixi, difongui, cedeixi o exhibeixi per qualsevol mitjà material pornogràfic en el qual apareguin imatges de menors dedicats a activitats sexuals explícites, reals o amb aparença de realitat, o qualsevol altra representació de les parts sexuals d’un menor amb finalitats primordialment sexuals, ha de ser castigat amb pena de presó d’un a quatre anys.
+
+La temptativa és punible. La proposició per mitjà de les tecnologies de la informació i la comunicació d’una trobada amb un menor de catorze anys, amb la finalitat de cometre la infracció descrita al paràgraf anterior, es considera temptativa si la proposició ha estat seguida d’actes materials que condueixin a la dita trobada.
+
+3. Qui ofereixi, posseeixi, procuri per a ell o per a un altre, o accedeixi a través de qualsevol tecnologia de la comunicació o la informació a material pornogràfic en el qual apareguin imatges de menors dedicats a activitats sexuals explícites, reals o amb aparença de realitat, o qualsevol altra representació de les parts sexuals d’un menor amb finalitats primordialment sexuals, ha de ser castigat amb pena de presó d’una durada màxima de dos anys.
+
+La temptativa és punible.
+
+4. Qui assisteixi a espectacles pornogràfics on actuï un menor o un incapaç ha de ser condemnat amb pena de presó d’una durada màxima de dos anys.
+
+5. Quan el culpable de qualsevol de les infraccions previstes en aquest article obtingui un profit econòmic, a més de les penes previstes s’ha d’imposar multa d’un import màxim de 30.000 euros.
+
+###### Article 156 Exhibicionisme
+
+El qui executi o faci executar a una altra persona actes d’exhibició sexual davant de menors d’edat o incapaços amb abús de la seva incapacitat ha de ser castigat amb pena de presó de tres mesos a tres anys i multa fins a 6.000 euros.
+
+La temptativa és punible.
+
+###### Article 157 Difusió de pornografia entre menors d’edat
+
+1. El qui directament vengui, difongui o exhibeixi material pornogràfic a menors d’edat o incapaços amb abús de la seva incapacitat ha de ser castigat amb pena de presó d’una durada màxima de dos anys i multa de fins a 6.000 euros o del tant al doble del benefici obtingut o que es pretenia obtenir.
+
+La temptativa és punible.
+
+2. Si es tracta de material pornogràfic en el qual apareguin imatges de menors d’edat, reals o amb aparença de realitat, s’ha d’imposar pena de presó d’un a quatre anys.
+
+###### Article 157 bis Tràfic d’éssers humans amb finalitat d’explotació sexual
+
+1. El qui, amb fins de prostitució d’altri o d’altres delictes contra la llibertat sexual, recluti, transporti, traslladi, allotgi o aculli una o més persones, ha de ser castigat amb pena de presó de dos a sis anys, sense perjudici, en el seu cas, de les penes que corresponguin per les altres infraccions comeses, quan s’empri almenys a un dels mitjans següents:
+
+a) Que es recorri a la violència o altres formes d’intimidació o coacció, o sota l’amenaça de fer-ho.
+
+b) Que hi hagi frau, engany, abús d’autoritat o d’una situació de vulnerabilitat.
+
+c) Que es proposin o acceptin pagaments o avantatges per obtenir el consentiment d’una persona que exerceixi autoritat, de fet o de dret, sobre una altra.
+
+La temptativa és punible.
+
+2. Quan no s’empri cap dels mitjans esmentats a l’apartat anterior, té la consideració de tràfic d’éssers humans amb finalitat d’explotació sexual la comissió de l’acció que s’hi descriu, si es realitzi sobre un menor d’edat, sense perjudici, en el seu cas, de les penes que corresponguin per les altres infraccions comeses.
+
+La temptativa és punible.
+
+3. En els supòsits establerts a l’apartat 2, i a l’apartat 1 si la víctima és especialment vulnerable d’acord amb la seva condició física o psíquica o una incapacitat, la pena s’ha d’imposar en la meitat superior.
+
+4. En tots els casos, constitueix una circumstància agreujant de la responsabilitat penal el fet d’haver posat en perill la vida de la víctima.
+
+#### Capítol cinquè. Disposicions comunes
+
+###### Article 158 Circumstàncies especials modificatives de la responsabilitat
+
+1. Sense perjudici d’allò que disposa el segon paràgraf de l’article 56, són circumstàncies agreujants especials en relació amb les conductes descrites en aquest títol:
+
+a) Que la infracció hagi comportat un greu atemptat a la salut física o mental de la víctima.
+
+b) Que la infracció hagi estat precedida o acompanyada de maltractaments o violència física o psíquica greu.
+
+c) Ser la víctima especialment vulnerable per raó de la seva edat, malaltia, incapacitat o situació. En tot cas es considera que la víctima és especialment vulnerable per raó de la seva edat quan tingui una edat inferior a catorze anys.
+
+d) Que el culpable sigui o hagi estat cònjuge o persona amb la qual mantingui o hagi mantingut una relació anàloga, convisqui o sigui ascendent, descendent o germà de la víctima o que sigui una persona que exerceix de fet o de dret autoritat familiar sobre ella.
+
+e) Que la conducta s’hagi realitzat amb abús o prevalença d’autoritat, de superioritat, de confiança o de situació de necessitat o dependència.
+
+f) Executar el fet en grup, concorrent-hi dos o més persones.
+
+g) Si la infracció és comesa en el marc d’un grup organitzat.
+
+h) La reincidència.
+
+i) Que el fet es cometi davant d’un menor.
+
+2. En els delictes d’agressió i d’abús sexual el perdó de l’ofès no extingeix l’acció ni la responsabilitat penal.
+
+###### Article 159 Penes privatives de drets
+
+El tribunal pot imposar, raonant-ho en la sentència, a més de les penes previstes per a cada delicte, la pena d’inhabilitació per a l’exercici dels drets de família o la pena d’inhabilitació per a l’exercici de càrrec públic o per a l’exercici de l’ofici o el càrrec, quan el culpable sigui ascendent, tutor, mestre o qualsevol persona encarregada de fet o de dret del menor o incapaç, per un període fins a sis anys.
+
+També pot imposar pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys quan el culpable sigui autoritat o funcionari i hagi obrat amb abús del seu càrrec.
+
+###### Article 160 Clàusula de concurs
+
+Les penes previstes als capítols III i IV d’aquest títol s’han d’imposar sense perjudici de castigar, a més, les agressions o els abusos sexuals que s’hagin comès.
+
+###### Article 161 Conseqüències accessòries
+
+En els supòsits tipificats en els capítols III i IV d’aquest títol, si en la realització del fet delictiu s’han utilitzat establiments o locals oberts al públic, el tribunal pot acordar-ne, raonant-ho en la sentència, el tancament temporal o definitiu. També en pot acordar el tancament temporal com a mesura cautelar.
+
+### Títol VIII. Delictes contra les relacions familiars
+
+#### Capítol primer. Delictes contra les institucions protectores dels menors i incapaços
+
+###### Article 162 Sostracció de menors
+
+1. La persona que sostreu un menor de catorze anys o un incapaç, impedint de manera prolongada l’exercici de les funcions de guarda per part dels seus titulars, ha de ser castigada amb pena de presó de dos a sis anys, llevat que el fet sigui constitutiu d’un delicte de segrest, esclavatge o detenció il·legal.
+
+2. En cas que la sostracció sigui realitzada per un ascendent, el tribunal pot aplicar la reducció de pena prevista a l’article 53.
+
+3. La temptativa és punible.
+
+###### Article 163 Inducció a abandonar la llar familiar
+
+1. El qui indueixi un menor d’edat o un incapaç a abandonar la llar familiar o el lloc on resideixi impedint l’exercici de les funcions de guarda per part dels seus titulars, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. El qui cooperi a l’abandó ha de ser castigat amb pena de presó fins a un any o d’arrest.
+
+###### Article 164 Tràfic d’infants per alterar-ne la filiació
+
+1. El qui lliuri un menor per alterar-ne la filiació ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. Amb la mateixa pena ha de ser castigat el qui, amb la mateixa finalitat, rebi el menor i el qui actuï com a intermediari.
+
+3. Si en les conductes anteriors hi concorre ànim lucratiu la pena a imposar ha de ser de presó de dos a cinc anys. Amb la mateixa pena ha de ser castigat el qui rep el menor si ofereix o dóna compensació econòmica.
+
+4. La temptativa és punible.
+
+###### Article 165 Grup organitzat
+
+Les penes previstes en els articles anteriors d’aquest capítol poden ser augmentades fins a la meitat del seu màxim si els fets es realitzen en el marc d’un grup organitzat.
+
+###### Article 166 Penes d’inhabilitació i conseqüències accessòries
+
+1. L’autoritat, el funcionari o l’educador que en l’exercici del seu càrrec o professió cometi un dels delictes previstos en aquest capítol ha de ser castigat, a més de les penes previstes, amb inhabilitació per a l’exercici de càrrec públic, ofici o càrrec fins a deu anys.
+
+2. El tribunal pot imposar a l’ascendent o al tutor que cometi algun dels delictes prevists en els articles anteriors d’aquest capítol la pena d’inhabilitació per a l’exercici dels drets de família fins a deu anys.
+
+3. Si els fets s’han comès utilitzant un centre docent o establiment dedicat a la guarda o cura d’infants o d’incapaços, el tribunal pot acordar el tancament temporal o definitiu de l’establiment.
+
+#### Capítol segon. Delictes comesos en l’exercici de les funcions de protecció
+
+###### Article 167 Abandó de menors i incapaços
+
+1. L’abandó d’un menor d’edat o d’un incapaç per part de la persona encarregada de guardar-lo ha de ser castigat amb pena de presó fins a dos anys.
+
+2. Si el fet és comès pels titulars de les funcions de guarda, la pena ha de ser de presó de tres mesos a tres anys.
+
+3. Si per les circumstàncies de l’abandó es posa en perill la vida o la salut del menor o de l’incapaç la pena ha de ser de dos a cinc anys de presó.
+
+###### Article 168 Omissió del deure d’assistència en cas de necessitat
+
+El qui deixi de prestar l’assistència legalment establerta per al manteniment dels seus descendents, ascendents o cònjuge que es trobin en situació de necessitat ha de ser castigat amb pena de presó fins a un any o d’arrest. La mateixa pena s’ha d’imposar al tutor o curador respecte al menor o incapaç subjecte a tutela o curatela.
+
+Aquest delicte només és perseguible amb denúncia prèvia de la persona ofesa o de qui en tingui la representació legal. Si es tracta d’un menor d’edat, incapaç o persona desvalguda, pot denunciar el fet el Ministeri Fiscal.
+
+###### Article 169 Utilització de menors o incapaços per a la mendicitat
+
+1. El qui utilitzi un menor d’edat o incapaç per practicar la mendicitat o n’obtingui un profit ha de ser castigat amb pena de presó fins a un any o d’arrest.
+
+La temptativa és punible.
+
+2. Si el fet es comet en el marc d’un grup organitzat, el culpable que hi pertanyi ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+###### Article 170 Penes d’inhabilitació
+
+El tribunal pot imposar als responsables dels delictes compresos en aquest capítol la pena d’inhabilitació dels drets de família i/o d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a deu anys.
+
+#### Capítol tercer. Bigàmia i matrimoni no consentit
+
+###### Article 171 Bigàmia
+
+El qui contregui ulterior matrimoni sense que es trobi dissolt legítimament l’anterior ha de ser castigat amb pena d’arrest o de presó fins a un any.
+
+###### Article 171 bis Matrimoni no consentit
+
+El qui forci una persona a contraure matrimoni contra o sense la seva voluntat ha de ser castigat amb pena de presó fins a dos anys.
+
+La temptativa és punible. A aquests efectes, s’entén per temptativa el fet de provocar engany en una persona amb la finalitat de treure-la de l’Estat on resideix i amb la intenció de forçar-la a contraure matrimoni.
+
+És circumstància agreujant el fet que el culpable sigui o hagi estat cònjuge o persona amb la qual mantingui o hagi mantingut una relació anàloga, convisqui o sigui ascendent, descendent o germà de la víctima o que sigui una persona que exerceix de fet o de dret autoritat familiar sobre ella.
+
+### Títol IX. Delictes contra l’honor
+
+###### Article 172 Calúmnia
+
+La imputació d’un delicte amb coneixement de la seva falsedat o amb menyspreu temerari a la veritat ha de ser castigada com a calúmnia amb pena d’arrest. Si es propaga amb publicitat, la pena ha de ser de presó de tres mesos a tres anys.
+
+L’acusat per delicte de calúmnia queda exempt de tota responsabilitat si prova el fet criminal que hagi imputat, tret que aquest fet hagi prescrit, que hagi estat amnistiat o que s’hagin cancel·lat els antecedents.
+
+###### Article 173 Difamació
+
+1. La imputació d’un fet precís que atempti greument contra l’autoestima o la reputació d’una persona, feta amb publicitat i amb coneixement de la seva falsedat o amb menyspreu temerari de la veritat, ha de ser castigada amb pena de presó fins a un any o d’arrest.
+
+2. Si la difamació es dirigeix contra autoritats o funcionaris públics sobre fets referents a l’exercici dels seus càrrecs, ha de ser castigada amb pena de presó fins a dos anys o amb pena d’arrest si la difamació no és greu.
+
+3. L’acusat de difamació queda exempt de tota responsabilitat provant la veritat de les imputacions.
+
+###### Article 174 Injúria
+
+Qui injuriï una persona greument o amb publicitat o qui injuriï lleument o greument una autoritat o un funcionari per raó o en ocasió de l’exercici del seu càrrec ha de ser castigat amb pena d’arrest.
+
+És injúria l’acció executada o l’expressió proferida amb menyspreu d’una persona.
+
+###### Article 175 Concepte de publicitat
+
+La calúmnia, la difamació i la injúria es consideren comeses amb publicitat quan es propaguen per mitjà de la impremta, la radiodifusió o de qualsevol altre mitjà d’eficàcia similar.
+
+###### Article 176 Responsabilitat civil solidària
+
+En els casos a què fa referència l’article anterior, és responsable civil solidària la persona física o jurídica propietària del mitjà a través del qual s’hagi propagat la calúmnia, la difamació o la injúria.
+
+###### Article 177 Retractació
+
+Si l’acusat de calúmnia o difamació reconeix davant l’autoritat judicial la falsedat o la incertesa de les imputacions i se’n retracta, el tribunal ha de reduir la pena o, si ho creu convenient, dispensar-la.
+
+El tribunal davant del qual es produeixi el reconeixement ha d’ordenar que es lliuri testimoniatge de retractació a l’ofès i, si aquest ho sol·licita, ha d’ordenar la publicació en el mateix mitjà en el qual es va proferir la calúmnia o la difamació, en espai idèntic o similar a aquell en què es produí la difusió i en el termini que assenyali.
+
+###### Article 178 Publicació de la sentència
+
+El tribunal en tot cas ha d’ordenar la publicació o divulgació de la sentència condemnatòria en el mateix mitjà en el qual es va proferir la calúmnia, la difamació o la injúria, en espai idèntic o similar a aquell en què es va produir la seva difusió, en el temps que el tribunal consideri més adequat. La publicació o la divulgació de la sentència condemnatòria s’ha de fer a costa del condemnat.
+
+###### Article 179 Perseguibilitat
+
+1. Ningú no pot ser penat per calúmnia, difamació o injúria més que en virtut de querella de la persona ofesa o del seu representant legal o, en cas de mort de l’ofès, del seu cònjuge, dels seus ascendents, descendents o hereus.
+
+2. És suficient la denúncia quan l’ofensa es dirigeixi contra funcionari o autoritat sobre fets referents a l’exercici dels seus càrrecs.
+
+###### Article 180 Calúmnia i difamació en judici
+
+Ningú no pot deduir acció de calúmnia o difamació proferides en judici sense llicència prèvia del tribunal que en conegui o n’hagi conegut.
+
+###### Article 181 Perdó
+
+El responsable de calúmnia, difamació o injúria queda exempt de responsabilitat criminal pel perdó de la persona ofesa o del seu representant legal.
+
+El perdó ha d’atorgar-se de forma expressa abans de dictar-se sentència.
+
+En les difamacions, les injúries o les calúmnies contra menors o incapacitats, el batlle o el tribunal, un cop escoltat el Ministeri Fiscal, pot refusar l’eficàcia del perdó atorgat pel representant legal d’aquells i ordenar la continuació del procediment.
+
+Per refusar el perdó al qual es refereix el paràgraf anterior, el batlle o el tribunal han d’escoltar novament el representant del menor o l’incapaç amb caràcter previ.
+
+### Títol X. Delictes contra la intimitat i la inviolabilitat de domicili
+
+#### Capítol primer. Descobriment i revelació de secrets
+
+###### Article 182 Descobriment de secrets
+
+1. El qui per descobrir la intimitat d’un altre sense el seu consentiment s’apoderi de papers, cartes o altres documents qualssevol o efectes personals ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+La temptativa és punible.
+
+2. El qui amb la mateixa finalitat, per qualsevol mitjà o procediment i infringint les mesures de seguretat destinades a impedir-ho, accedeixi sense autorització a tot o part d’un sistema informàtic ha de ser castigat amb la mateixa pena.
+
+La temptativa és punible.
+
+###### Article 183 Escoltes il·legals i conductes afins
+
+El qui per vulnerar la intimitat d’un altre sense el seu consentiment intercepti les seves telecomunicacions o utilitzi artificis tècnics d’escolta, consulta electrònica, transmissió, gravació o reproducció del so o de la imatge, o de qualsevol altre senyal de comunicació, ha de ser castigat amb pena de presó d’un a quatre anys.
+
+La temptativa és punible.
+
+###### Article 184 Obtenció o ús il·lícit de dades personals automatitzades
+
+Ha de ser castigat amb pena de dos a cinc anys de presó el qui, sense autorització i en perjudici de tercer, realitzi una de les actuacions següents:
+
+a) Crear o utilitzar fitxers clandestins de dades personals automatitzats electrònicament en infracció d’allò que es disposa en les normes legals de protecció de dades personals.
+
+b) Recollir dades personals amb fins d’automatització electrònica o automatitzar-les contravenint les normes legals de protecció de dades personals.
+
+c) Modificar, alterar o creuar dades personals automatitzades contravenint les normes legals de protecció de dades personals.
+
+La temptativa és punible.
+
+###### Article 185 Qualificació per la revelació
+
+1. S’ha d’imposar pena d’un a quatre anys de presó si es revelen a tercers les dades o els fets descoberts a què fa referència l’article 182.
+
+2. S’ha d’imposar pena de dos a cinc anys de presó si es revelen o se cedeixen a tercers les dades o els fets descoberts o les imatges captades a què fa referència l’article 183.
+
+3. S’ha d’imposar pena de tres a sis anys de presó si es revelen, se cedeixen o es transmeten a tercers les dades personals automatitzades a què fa referència l’article 184.
+
+4. La temptativa és punible.
+
+###### Article 186 Dades especialment protegides
+
+Quan els fets descrits en els articles 184 i 185.3 afectin dades de caràcter personal, referents a la ideologia, la religió, la salut, l’origen social, l’orientació o el comportament sexual, s’han d’imposar les penes previstes en la seva meitat superior.
+
+###### Article 187 Qualificació per organització
+
+Si els fets previstos en aquest capítol es realitzen amb fins lucratius per mitjà d’un grup organitzat, les penes s’han d’imposar en la seva meitat superior.
+
+###### Article 188 Delicte de revelació
+
+Ha de ser castigat amb pena de presó de tres mesos a tres anys el qui, amb coneixement d’un origen il·lícit, i sense haver pres part en les conductes descrites en els articles 182, 183 i 184, reveli a tercers les dades o fets descoberts, les imatges captades, o les dades personals.
+
+###### Article 189 Qualificació per a funcionari o autoritat
+
+L’autoritat o el funcionari que, fora dels casos permesos per la llei, sense haver-hi motiu legal inicial referit a la persecució d’un delicte i prevalent-se del seu càrrec, realitzi qualsevol de les conductes descrites en els articles anteriors d’aquest capítol, ha de ser castigat amb les penes respectivament previstes en els mateixos articles en la seva meitat superior i, a més, amb la pena d’inhabilitació de drets públics fins a sis anys si el límit màxim de la pena no supera els tres anys de presó i fins a nou anys si és superior.
+
+###### Article 190 Violació de secrets en l’àmbit laboral
+
+Qui reveli secrets aliens de caràcter personal, dels quals tingui coneixement per raó d’ofici o de les seves relacions laborals, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+No queda compresa en aquest article la comunicació d’informació d’acord amb les obligacions legalment previstes, ni la informació privada facilitada amb finalitat de garantia entre els administradors d’establiments bancaris o financers del Principat, relativa estrictament als crèdits acordats o als riscos assumits a un dels seus clients.
+
+###### Article 191 Violació del secret professional
+
+El professional que, amb incompliment de l’obligació de secret o reserva, reveli secrets d’una altra persona, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+###### Article 192 Continuació de l’obligació de secret
+
+La violació de secrets tipificada als articles 190 i 191 continua essent punible malgrat que la persona hagi deixat d’exercir la professió o l’ofici, o hagi cessat la seva relació contractual.
+
+###### Article 193 Règim de perseguibilitat
+
+1. Per procedir pels delictes previstos en aquest capítol és necessària la denúncia de la persona ofesa, d’un representant legal o de l’encarregat o responsable dels fitxers de dades personals.
+
+Quan la persona ofesa sigui menor d’edat, incapaç o persona desvalguda, també pot denunciar el Ministeri Fiscal, que ha de ponderar els interessos en presència.
+
+2. No es requereix la denúncia exigida en l’apartat anterior per procedir pels fets descrits en els articles 185 i 189, ni quan el delicte afecti una pluralitat de persones.
+
+#### Capítol segon. Violació de domicili o establiment
+
+###### Article 194 Violació de domicili
+
+1. El qui, sense habitar-hi, entri en el domicili d’un altre o s’hi mantingui contra la voluntat de qui hi habita, ha de ser castigat amb pena de presó fins a dos anys.
+
+La temptativa és punible.
+
+2. Si el fet s’executa amb violència o intimidació la pena ha de ser de presó d’un a quatre anys.
+
+###### Article 195 Violació de determinats domicilis o establiments
+
+1. Ha de ser castigat amb pena d’arrest el qui entri o romangui contra la voluntat del seu titular en el domicili d’una persona jurídica pública o privada, despatx professional o oficina, o en un establiment mercantil o local obert al públic fora de les hores d’obertura.
+
+2. Ha de ser castigat amb pena de presó de tres mesos a tres anys el qui amb violència o intimidació entri o romangui contra la voluntat del seu titular en el domicili d’una persona jurídica pública o privada, despatx professional o oficina, o en un establiment mercantil o local obert al públic.
+
+3. La temptativa és punible.
+
+###### Article 196 Qualificació per al funcionari o autoritat
+
+L’autoritat o el funcionari que, fora dels casos permesos per la llei i sense haver-hi motiu legal inicial referit a la persecució d’un delicte, cometi qualsevol dels fets descrits en els dos articles anteriors, ha de ser castigat amb la pena prevista respectivament en els mateixos en la seva meitat superior, i inhabilitació de drets públics fins a sis anys.
+
+### Títol XI. Delictes contra el patrimoni
+
+#### Capítol primer. Delictes patrimonials d’apoderament
+
+###### Article 197 Furt
+
+Comet furt el qui, amb ànim de lucre i sense violència o intimidació, pren una cosa moble aliena sense el consentiment del seu propietari.
+
+El culpable de furt per valor superior a 600 euros ha de ser castigat amb pena de presó fins a dos anys o d’arrest.
+
+La temptativa és punible.
+
+###### Article 198 Furt qualificat
+
+1. El delicte de furt ha de ser castigat amb pena de presó de tres mesos a tres anys si hi concorre alguna de les circumstàncies següents:
+
+a) Que la cosa sostreta tingui valor històric, artístic o cultural o especial significació per al desenvolupament científic o tecnològic.
+
+b) Que el valor de la cosa sigui superior a 6.000 euros.
+
+c) Que es cometi aprofitant-se del desemparament de la víctima.
+
+d) Que posi la víctima en una situació econòmica difícil per atendre les seves necessitats o les de la seva família.
+
+e) Que es cometi amb abús de confiança.
+
+2. La temptativa és punible.
+
+###### Article 199 Furt amb força en les coses o en casa habitada
+
+1. Amb independència del valor de la cosa furtada, el furt ha de ser castigat amb pena de presó d’un a quatre anys si hi concorre alguna de les circumstàncies següents:
+
+a) Forçament de porta, finestra, objecte que contingui la cosa o dels mitjans instal·lats pel propietari per evitar o dificultar l’accés a la cosa, inutilització de sistemes d’alarma o guarda o ús de claus falses o de possessió il·legítima o de codis de coneixement il·lícit.
+
+b) Escalament per accedir al lloc on es troba la cosa.
+
+2. Si el furt es comet amb accés il·lícit a casa habitada, amb independència del valor de la cosa furtada, s’ha d’imposar pena de presó de dos a sis anys.
+
+3. La temptativa és punible.
+
+###### Article 200 Concepte de claus falses
+
+A l’efecte del que disposa l’article anterior es consideren claus les targetes magnètiques, perforades o d’un altre tipus, i els comandaments o mitjans d’obertura a distància. Al mateix efecte es consideren claus falses els instruments no destinats pel propietari o persona autoritzada a obrir el pany.
+
+###### Article 201 Concepte de casa habitada
+
+Es considera casa habitada tot lloc que constitueixi l’habitatge temporal o permanent d’una o més persones, encara que es trobin absents quan el furt es produeixi.
+
+###### Article 202 Robatori
+
+Comet robatori el qui, amb ànim de lucre, s’apodera d’una cosa moble aliena amb violència o intimidació en les persones.
+
+El culpable de robatori ha de ser castigat amb pena de presó de dos a sis anys.
+
+El tribunal ha d’imposar pena de presó d’un a quatre anys quan la violència o intimidació exercida tingui escassa significació.
+
+La temptativa és punible.
+
+###### Article 203 Robatori qualificat
+
+1. El robatori ha de ser castigat amb pena de presó de tres a nou anys:
+
+a) Quan el culpable faci ús d’una arma o de mitjans perillosos de manera que pugui posar en perill la vida o la integritat física de les persones.
+
+b) Quan s’executi en grup organitzat de tres o més persones de les quals almenys una porti una arma.
+
+2. La temptativa és punible.
+
+###### Article 204 Furt d’ús de vehicles
+
+Qui, sense autorització del propietari, sostreu o utilitza un vehicle automòbil de valor superior a 2.000 euros, sense ànim d’apropiar-se’l, ha de ser castigat amb pena d’arrest o multa fins a 6.000 euros.
+
+El tribunal pot dispensar la pena anterior si el culpable ha restituït el vehicle en el termini de 24 hores després de la sostracció o la utilització, tenint en compte els mòbils i les altres circumstàncies del fet.
+
+###### Article 205 Furt impropi
+
+Qui, amb ànim de lucre i sent-ne el propietari o amb el seu consentiment, sostreu una cosa moble de valor superior a 600 euros de qui la té legítimament en penyora o com a dipositari per raó d’embargament o administració judicial, ha de ser castigat amb pena de multa fins al triple del valor de la cosa.
+
+###### Article 206 Tipus qualificats
+
+En el cas que els fets previstos en els dos articles anteriors es cometin amb violència o intimidació en les persones, s’han de castigar amb la pena prevista per al robatori.
+
+La temptativa és punible.
+
+#### Capítol segon. Extorsió
+
+###### Article 207 Extorsió
+
+El qui amb ànim de lucre obliga una persona, amb violència o intimidació, a realitzar o ometre un negoci o un acte jurídic en perjudici del seu patrimoni o del d’un tercer, ha de ser castigat, segons les circumstàncies que hi concorrin, amb les penes previstes per al robatori o per al robatori qualificat.
+
+La temptativa és punible.
+
+#### Capítol tercer. Defraudacions
+
+###### Article 208 Estafa
+
+Comet estafa el qui, amb ànim de lucre, utilitza engany suficient per produir error en una persona i d’aquesta manera la indueix a realitzar un acte de disposició patrimonial en perjudici propi o aliè.
+
+El culpable d’estafa ha de ser castigat amb pena de presó de tres mesos a tres anys, si el perjudici patrimonial és superior a 600 euros.
+
+La temptativa és punible.
+
+###### Article 209 Estafa qualificada
+
+1. El delicte d’estafa ha de ser castigat amb pena de presó d’un a cinc anys en els casos següents:
+
+a) Que tingui com a objecte l’habitatge o altres béns de primera necessitat o d’utilitat social reconeguda.
+
+b) Que es faci amb simulació de plet o ús d’un altre frau processal.
+
+c) Que es faci mitjançant xec, targeta de crèdit o de dèbit, pagaré, lletra de canvi en blanc o negoci canviari fictici.
+
+d) Que es realitzi demanant fons amb finalitats humanitàries o caritatives.
+
+e) Que el perjudici tingui un valor superior a 6.000 euros.
+
+f) Que la defraudació posi la víctima en una situació econòmica difícil per atendre les seves necessitats i les de la seva família.
+
+2. El tribunal pot imposar a més en aquests supòsits, tenint en compte les circumstàncies del fet i del culpable, una pena de multa fins al quàdruple del perjudici patrimonial causat.
+
+3. La temptativa és punible.
+
+###### Article 210 Estafa informàtica
+
+El qui, amb ànim de lucre i valent-se d’alguna manipulació informàtica o artifici semblant, realitzi una transferència o disposició no autoritzada que provoqui a una persona un perjudici patrimonial superior a 600 euros, ha de ser castigat amb les penes previstes per a l’estafa o per a l’estafa qualificada si es dóna algun dels supòsits dels apartats e) o f) del punt 1 de l’article anterior.
+
+La temptativa és punible.
+
+###### Article 211 Estafes privilegiades
+
+El qui, tenint intenció de no satisfer el seu import, disposi dels serveis d’hoteleria o restauració, mitjans de transport o estacions de servei, causant un perjudici superior a 600 euros, ha de ser castigat amb pena d’arrest.
+
+###### Article 212 Defraudacions en l’ús de fluids o sistemes de telecomunicació
+
+El qui, alterant les indicacions, els aparells comptadors o emprant mecanismes clandestins o codis secrets, cometi defraudació per un valor superior a 600 euros en la utilització d’energia elèctrica, gas, aigua o altres formes d’energia o fluids aliens, o de sistemes de telecomunicació, ha de ser castigat amb pena d’arrest o multa fins al triple del perjudici causat.
+
+###### Article 213 Apropiació indeguda
+
+El qui, amb ànim de lucre i en perjudici d’altri, s’apropiï o distregui diners, efectes, valors o qualsevol altra cosa moble de valor superior a 600 euros, que hagi rebut en dipòsit o per un altre títol que produeixi l’obligació de lliurar-los o retornar-los, ha de ser castigat amb la pena prevista per a l’estafa o amb la pena prevista per a l’estafa qualificada si hi concorre algun dels supòsits prevists als apartats e) o f) del punt 1 de l’article 209.
+
+La temptativa és punible.
+
+###### Article 214 Apropiació privilegiada
+
+El qui, amb ànim de lucre, s’apropia d’una cosa moble aliena perduda, o de propietari desconegut, o que posseeix per error propi o del trametent, ha de ser castigat amb pena de multa fins al triple del valor de la cosa apropiada, si aquest valor és superior a 3.000 euros.
+
+Si es tracta de coses de valor històric, artístic o cultural, o de significació especial per al desenvolupament científic o tecnològic, la pena ha de ser de presó fins a dos anys o d’arrest.
+
+###### Article 215 Administració deslleial
+
+El qui, havent-li estat confiada l’administració o la cura d’interessos patrimonials aliens, exerceixi els seus poders de manera abusiva en benefici propi o d’un tercer i causi un perjudici superior a 600 euros, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+#### Capítol quart. Receptació
+
+###### Article 216 Receptació de delictes
+
+El qui, amb ànim de lucre i amb coneixement de la comissió d’un delicte contra el patrimoni en el qual no hagi intervingut ni com a autor ni com a còmplice, adquireix o transmet a un tercer els seus efectes, ha de ser castigat amb pena de presó fins a dos anys. En cap cas la pena imposable al receptador no pot excedir de la que la llei preveu per als autors del delicte aprofitat.
+
+El qui de manera habitual es dedica a la receptació de delictes ha de ser castigat amb pena de presó d’un a quatre anys. El tribunal pot imposar-li a més pena de multa fins al quàdruple del benefici obtingut amb aquesta activitat.
+
+###### Article 217 Receptació habitual de contravencions penals
+
+Qui amb ànim de lucre i amb coneixement de la comissió de fets constitutius de contravenció penal contra el patrimoni, habitualment adquireixi o transmeti a un tercer els seus efectes, ha de ser castigat amb pena d’arrest.
+
+###### Article 218 Comissió del fet en un establiment comercial o industrial
+
+Si la receptació es realitza utilitzant un establiment comercial o industrial, el tribunal pot imposar, a més de les penes previstes en els dos articles anteriors, i tenint en compte les circumstàncies del fet i del culpable, la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a cinc anys i acordar el tancament temporal o definitiu de l’establiment.
+
+###### Article 219 Disposició comuna
+
+Les penes previstes en aquest capítol han d’aplicar-se encara que l’autor o el còmplice de la infracció de la qual provinguin els efectes aprofitats sigui una persona desconeguda, sigui irresponsable o estigui personalment exempt de pena.
+
+#### Capítol cinquè. Insolvències punibles
+
+###### Article 220 Frustració de procediments executius de cobrament
+
+S’ha de castigar amb pena de presó de tres mesos a tres anys:
+
+a) El deutor que, conscient de les obligacions de pagament que tingui, qualsevol que en sigui l’origen, amagui els seus béns o realitzi actes de disposició patrimonial o generadors de crèdits preferents, a fi de frustrar en tot o en part l’eficàcia de qualsevol embargament o procediment d’execució judicial, extrajudicial o administratiu, iniciat o de previsible iniciació.
+
+b) Si, endemés de la conducta anterior, es produís voluntàriament la fallida, aquesta darrera s’ha de considerar delictiva.
+
+c) En relació amb allò disposat a la lletra a) té la consideració de deutor el responsable penal o civil de qualsevol fet delictiu que, amb posterioritat a la seva comissió i amb la finalitat d’eludir el compliment de les responsabilitats civils derivades del mateix fet, realitzi actes de disposició o contragui obligacions que disminueixin el seu patrimoni, per fer-se totalment o parcialment insolvent.
+
+###### Article 221 Fallida delictiva
+
+1. Ha de ser castigat amb pena de presó de dos a cinc anys el qui, personalment o com a administrador d’una persona jurídica, conscient d’un increment invencible dels seus deutes, o que per qualsevol altra causa es trobi en la impossibilitat de pagar els seus deutes, davant la inevitable iniciació d’un procediment concursal:
+
+a) Realitzi alguna de les conductes descrites a l’article anterior.
+
+b) Falsegi el balanç a fi de dificultar la comprovació de la situació patrimonial.
+
+c) Distregui, en benefici propi, béns destinats a la massa de creditors.
+
+d) Doni, destrueixi o deteriori béns que haurien pogut incorporar-se a la massa.
+
+e) Contragui obligacions infringint les regles del comportament comercial normal.
+
+f) Alieni béns o valors propis o de l’empresa a preu inferior a l’establert en el seu moment al mercat.
+
+g) Destrueixi, danyi, oculti o falsegi els llibres de comerç a fi d’impossibilitar o dificultar la comprovació dels crèdits pendents de satisfacció.
+
+2. Queda exempt de pena el deutor que restauri el seu patrimoni abans de la conclusió del procés concursal, sense perjudici de les responsabilitats civils en què hagi pogut incórrer.
+
+3. Si la fallida, en qualsevol d’aquelles circumstàncies, ha suposat la pèrdua dels estalvis de grans grups de persones o de persones que hagin confiat en el fallit des d’una situació de penúria econòmica, la pena s’ha d’imposar en la seva meitat superior.
+
+4. No pot ser tingut en consideració per integrar aquest delicte cap dels supòsits indicats si ja han estat objecte d’un procés penal propi i separat.
+
+#### Capítol sisè. Danys
+
+###### Article 222 Concepte de dany
+
+Als efectes del present capítol es considera dany la deterioració, la destrucció o la desaparició d’una cosa d’altri.
+
+###### Article 223 Tipus bàsic
+
+1. El qui causa un dany d’un import superior a 3.000 euros ha de ser castigat amb pena d’arrest o de treballs en benefici de la comunitat per un període no superior a vuit mesos.
+
+2. La pena ha de ser de presó fins a dos anys quan la infracció es cometi:
+
+a) Contra béns d’una autoritat, funcionari, perit o advocat per influenciar el seu comportament en l’exercici de les seves funcions o de la seva comesa.
+
+b) Contra béns d’un tercer, sigui per impedir-li declarar o denunciar una infracció, o a causa de la seva denúncia o declaració.
+
+c) Posant la víctima en una situació econòmica difícil per atendre les seves necessitats o les de la seva família.
+
+d) Contra béns de domini o utilitat pública.
+
+e) Mitjançant incendi, explosió o mitjà que comporti un risc d’extensió dels efectes del delicte, llevat que el fet constitueixi un delicte d’estralls. Si del fet en pot derivar un risc per a la vida o la salut de les persones, la pena ha de ser de tres mesos a tres anys de presó.
+
+###### Article 224 Tipus privilegiat
+
+Qui causa un dany d’un import superior a 600 euros i que no excedeixi de 3.000 euros ha de ser castigat amb pena d’arrest o multa fins al triple del dany causat i/o amb pena de treballs en benefici de la comunitat per un període no superior a quatre mesos.
+
+En cas de concórrer alguna de les circumstàncies previstes al punt 2 de l’article anterior, s’ha d’imposar pena d’arrest o treballs en benefici de la comunitat per un període no superior a vuit mesos.
+
+###### Article 225 Danys informàtics
+
+El qui per qualsevol mitjà altera o destrueix dades o programes d’un sistema informàtic aliè ha de ser castigat amb pena de presó fins a dos anys.
+
+En els casos menys greus, la pena ha de ser d’arrest o treballs en benefici de la comunitat fins a un màxim d’un any.
+
+###### Article 226 Temptativa
+
+1. La temptativa dels delictes compresos en aquest capítol és punible.
+
+2. Es considera temptativa la venda, la distribució, la difusió o qualsevol altra forma de posada a disposició de contrasenyes, codis d’accés o dades informàtiques similars que permetin accedir en tot o en part a un sistema informàtic amb intenció de ser utilitzats per a la comissió d’un delicte de danys informàtics o un delicte de descobriment i revelació de secrets.
+
+#### Capítol setè. Disposicions comunes
+
+###### Article 227 Excusa absolutòria en cas de parentiu
+
+Estan exempts de responsabilitat criminal i subjectes únicament a la civil pels delictes previstos en aquest títol que cometin entre ells, fora dels casos en què concorri violència o intimidació i del delicte d’administració deslleial:
+
+- Els cònjuges que no estiguin separats legalment o de fet o en procés judicial de separació, divorci o nul·litat del matrimoni i les persones unides per situació de fet equivalent.
+
+- Els ascendents, descendents i germans per naturalesa o per adopció.
+
+- El cònjuge vidu en relació amb els béns mobles del consort difunt mentre en tingui la possessió.
+
+### Títol XII. Delictes contra l’ordre socioeconòmic
+
+#### Capítol primer. Delictes relatius als concursos i subhastes públics
+
+###### Article 228 Concursos i subhastes públics
+
+1. Han de ser castigats amb pena de presó d’un a quatre anys i inhabilitació especial fins a sis anys per licitar en una subhasta o concurs públic, ja sigui judicial ja sigui d’entitats públiques:
+
+a) Qui demani premi o promeses per no prendre part en un concurs o subhasta públic.
+
+b) Qui mitjançant amenaces, premis, promeses o qualsevol altre mitjà intenti que un tercer no prengui part en una subhasta o concurs públic.
+
+c) Els que es posin d’acord per alterar el preu d’adjudicació o perquè la subhasta o concurs quedi desert.
+
+2. Si es tracta d’una subhasta o concurs de qualsevol entitat pública, es pot imposar, a més, la privació del dret de contractar amb les administracions públiques fins a sis anys a l’autor o a la persona física o jurídica que representa.
+
+#### Capítol segon. Delictes contra la propietat intel·lectual i industrial
+
+###### Article 229 Delictes contra la propietat intel·lectual
+
+Ha de ser castigat amb pena de presó de tres mesos a tres anys i multa fins al triple del benefici obtingut qui, amb ànim de lucre i en perjudici de tercer, reprodueixi, copiï, distribueixi o comuniqui públicament, totalment o parcialment, una obra literària, artística, científica o qualsevol altra protegida per la llei, o la seva transformació, interpretació o execució artística fixada en qualsevol suport o comunicada a través de qualsevol mitjà, sense l’autorització del titular o el cessionari de qualsevol dret de propietat intel·lectual.
+
+En els supòsits de gravetat especial el tribunal pot imposar la pena d’un a quatre anys de presó i, endemés, el tancament temporal o definitiu de l’establiment del condemnat i/o la publicació de la sentència.
+
+###### Article 230 Delictes contra els drets de patent o models d’utilitat
+
+Ha de ser castigat amb les mateixes penes previstes a l’article anterior el qui amb ànim de lucre i amb finalitats industrials o comercials, sense el consentiment del titular d’una patent o model d’utilitat i amb coneixement del seu registre:
+
+a) Fabriqui, importi, posseeixi, faci ús, ofereixi o introdueixi en el comerç objectes emparats per aquests drets.
+
+b) Faci ús o ofereixi la utilització d’un procediment objecte d’una patent, o posseeixi, ofereixi, introdueixi en el comerç, o faci ús del producte directament obtingut del procediment patentat.
+
+###### Article 231 Delictes contra els drets de marca
+
+Ha de ser castigat amb les mateixes penes previstes a l’article 229 el qui, amb ànim de lucre i amb finalitats industrials o comercials, sense el consentiment del titular d’un dret de propietat industrial o comercial registrat d’acord amb la legislació de marques i amb coneixement del seu registre:
+
+a) Reprodueixi, imiti, modifiqui o de qualsevol altra manera faci ús d’un signe distintiu idèntic o similar, per als mateixos o similars productes o serveis per als que el dret es troba registrat.
+
+b) Posseeixi per a la seva comercialització, importi o introdueixi en el comerç productes o serveis amb signes distintius que suposin una infracció als drets exclusius del titular.
+
+###### Article 232 Disposició comuna
+
+Per a la persecució dels delictes contra la propietat intel·lectual i industrial és necessària la presentació prèvia de querella del perjudicat. No obstant això els fets poden ser perseguibles a instància del Ministeri Fiscal si considera que poden atemptar contra el prestigi del Principat.
+
+#### Capítol tercer. Delictes relatius al mercat i als consumidors
+
+###### Article 233 Descobriment de secret d’empresa
+
+El qui, sense estar-hi autoritzat, obtingui dades o s’apoderi de documents o objectes que constitueixin o continguin un secret rellevant per a la competitivitat d’una empresa ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+Si en el supòsit anterior es revela el secret o se cedeix a un tercer, la pena ha de ser d’un a quatre anys de presó.
+
+La temptativa és punible.
+
+###### Article 234 Infracció del deure de reserva
+
+El qui, tenint l’obligació legal o contractual de guardar secret, difongui, reveli o cedeixi a un tercer un secret dels previstos a l’article anterior ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+###### Article 235 Revelació de secret d’empresa
+
+El qui, amb coneixement del seu origen il·lícit i sense haver pres part en el seu descobriment, difongui, reveli o cedeixi a un tercer un secret dels previstos a l’article 233 ha de ser castigat amb pena d’arrest.
+
+###### Article 236 Indicacions enganyoses
+
+El fabricant, distribuïdor o comerciant que ofereixi en el mercat productes o serveis amb indicacions o representacions falses, enganyoses o que puguin produir error sobre la naturalesa, la composició o la qualitat substancial dels productes o serveis oferts ha de ser castigat amb pena d’arrest. El tribunal pot imposar així mateix la pena de multa fins a 12.000 euros.
+
+###### Article 237 Engany al consumidor
+
+Qui cobri al consumidor quantitats superiors a les que corresponen pels productes o pels serveis oferts, mitjançant l’alteració o la manipulació d’aparells automàtics de mesura, ha de ser castigat amb pena de presó fins a dos anys o d’arrest. El tribunal pot imposar així mateix la pena de multa fins a 12.000 euros.
+
+#### Capítol quart. Delictes contra l’activitat mercantil de les empreses
+
+###### Article 238 Falsejament de comptes socials
+
+Els administradors de fet o de dret que falsegin els comptes anuals o altres documents que reflecteixin la situació jurídica o econòmica d’una societat o empresa, de manera idònia per causar un perjudici a la mateixa societat o empresa, a un dels socis o a un tercer, han de ser castigats amb pena de presó d’un a quatre anys.
+
+###### Article 239 Abús de posició dominant
+
+El qui, prevalent-se de la seva situació majoritària en l’assemblea o junta general d’accionistes o de qualsevol altre òrgan d’administració d’una societat o empresa, imposi acords abusius amb ànim de lucre propi o aliè, en perjudici dels altres socis i sense que reporti beneficis a la societat, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+###### Article 240 Administració deslleial d’una empresa
+
+Els administradors de fet o de dret de qualsevol societat o empresa que en benefici propi o d’un tercer, aprofitant-se de les funcions pròpies del seu càrrec, realitzin operacions abusives que comprometin la competitivitat de la societat o empresa, han de ser castigats amb pena de presó de tres mesos a tres anys.
+
+Quan els fets anteriors hagin estat comesos com a conseqüència d’haver demanat o rebut, personalment o per persona interposada, avantatges avaluables econòmicament, o de l’acceptació, oferiment o promesa per part de l’administrador de fet o de dret, en benefici propi o d’un tercer, en el marc de l’activitat ordinària de la societat o empresa, la pena prevista s’ha d’imposar en la seva meitat superior.
+
+###### Article 241 Empresa fictícia
+
+El qui constitueixi amb qualsevol finalitat il·lícita o en perjudici de tercers una societat o empresa fictícia, sense objecte o amb objecte simulat, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+###### Article 242 (derogat i sense contingut)
+
+###### Article 243 Ús fraudulent de targeta de crèdit
+
+1. El qui faci ús, sense autorització, d’una targeta de crèdit o de dèbit per un valor superior a 3.000 euros ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. El qui faci ús, sense autorització, d’una targeta de crèdit o de dèbit per un valor no superior a 3.000 euros ha de ser castigat amb pena de presó fins a un any o arrest.
+
+3. Als supòsits anteriors hi és aplicable l’excusa absolutòria en cas de parentiu de l’article 227.
+
+4. El tribunal pot condemnar, quan sigui el cas, a la indemnització del perjudici causat amb l’ús indegut de la targeta, tret que opti perquè aquesta qüestió sigui resolta pels tribunals civils.
+
+#### Capítol cinquè. Delictes contra la seguretat social
+
+###### Article 244 Defraudació a la Caixa Andorrana de Seguretat Social
+
+L’administrador de fet o de dret d’una empresa o societat o l’empresari que ometi declarar totalment o parcial el salari dels treballadors, respecte dels que hi hagi obligació legal de cotitzar a la Caixa Andorrana de Seguretat Social, amb la finalitat d’eludir el pagament de les cotitzacions ha de ser castigat amb pena de presó de tres mesos a tres anys si l’import defraudat en els dotze mesos anteriors supera els 30.000 euros.
+
+El consentiment del treballador és irrellevant.
+
+Queda exempt de responsabilitat el qui regularitzi la seva situació abans de conèixer que el procediment judicial es dirigeix contra ell, mitjançant el corresponent aute de processament.
+
+#### Capítol sisè. Delictes de contraban
+
+###### Article 245 Mercaderies sensibles
+
+1. El qui importi o exporti il·lícitament tabac en les formes definides com a mercaderia sensible en la Llei de control de les mercaderies sensibles, del 4 de març de 1999, per un valor igual o superior a 18.000 euros, ha de ser castigat amb pena de presó fins a dos anys i multa fins al doble del valor de la mercaderia.
+
+2. De la mateixa manera ha de ser castigat el qui sigui controlat dins de la franja duanera, definida a la Llei contra el frau en matèria duanera, del 4 de març de 1999, sense l’autorització corresponent, detenint o circulant amb la mercaderia sensible esmentada al punt 1 per un valor igual o superior a 18.000 euros.
+
+3. El qui realitzi qualsevol dels delictes esmentats als punts 1 i 2 per un valor superior a 60.000 euros, ha de ser castigat amb una pena de presó de tres mesos a tres anys i multa fins al doble del valor de la mercaderia.
+
+4. La modificació o l’alteració de parts o de l’estructura d’un vehicle per crear cavitats amagades o dobles fons especialment arranjats i destinats a ocultar mercaderia ha de ser castigada amb pena de presó fins a un any.
+
+5. En els supòsits previstos en el present article el tribunal pot imposar, endemés de les penes complementàries i les conseqüències accessòries que cregui oportunes, la pena d’inhabilitació per operar amb mercaderies sensibles fins a quatre anys.
+
+#### Capítol setè. Delictes contra el sistema bancari i financer
+
+###### Article 246 Activitat bancària o financera il·legals
+
+El qui desenvolupi activitats pròpies del sistema financer sense tenir-ne la facultat legal, d’acord amb les disposicions vigents, ha de ser castigat amb pena d’un a quatre anys de presó i multa fins a 150.000 euros. El tribunal pot imposar raonadament qualsevol de les mesures previstes a l’article 71.
+
+###### Article 247 Préstec usurari
+
+El qui realitzi habitualment préstecs usuraris ha de ser castigat amb pena de presó fins a un any.
+
+A efectes penals, es considera préstec usurari el que tingui un tipus d’interès que superi en més del doble el tipus d’interès que correspondria, segons la pràctica bancària al Principat, per la mateixa classe d’operació.
+
+###### Article 247 bis Ús d’informació privilegiada
+
+Qui intencionadament, de forma directa o mitjançant persona interposada, utilitzi o reveli a tercers no autoritzats a conèixer la informació privilegiada relativa a instruments financers a la qual hagi tingut accés en l’exercici o per raó de la seva professió o el seu càrrec, tot obtenint un benefici igual o superior a 600.000 euros o causant un perjudici per idèntica quantitat, ha de ser castigat amb pena de presó de tres mesos a tres anys, multa fins al doble del benefici obtingut o del perjudici ocasionat i inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+La temptativa, la provocació i la conspiració són punibles.
+
+###### Article 247 ter Manipulació de mercat
+
+Qui intencionadament, de forma directa o mitjançant persona interposada i de manera il·lícita, realitzi operacions o difongui rumors o informacions falses o enganyoses, que puguin proporcionar indicis falsos o enganyosos sobre l’oferta, la demanda o el preu d’instruments financers, o realitzi operacions que assegurin el preu d’aquests instruments en nivells anormals o artificials, tot obtenint un benefici igual o superior a 300.000 euros o causant un perjudici per idèntica quantitat, ha de ser castigat amb pena de presó de tres mesos a tres anys, multa fins al doble del benefici obtingut o del perjudici ocasionat i inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+La temptativa, la provocació i la conspiració són punibles.
+
+#### Capítol vuitè. Delictes fiscals
+
+###### Article 248 Frau fiscal en l’impost sobre les rendes de l’estalvi
+
+El qui, amb engany i ànim de lucre, defrauda l’Administració en matèria de l’impost sobre les rendes de l’estalvi, falsejant documents o servint-se de títols falsos o inexactes quant al seu contingut, ha de ser castigat amb pena de tres mesos a tres anys de presó.
+
+No obstant el que es disposa en el paràgraf anterior, queda exempt de responsabilitat penal el qui doni compliment espontani a les obligacions i deures tributaris fora dels terminis preceptius, sense que s’hagi produït un requeriment previ de l’Administració i, en tot cas, abans de tenir coneixement que el procediment penal es dirigeix contra ell. L’exempció de responsabilitat s’estén a les falsedats documentals instrumentals emprades en la defraudació.
+
+### Títol XIII. Delictes contra els drets dels treballadors
+
+###### Article 249 Condicions degradants o perilloses de treball
+
+El qui imposi, amb abús de vulnerabilitat o necessitat, condicions de treball incompatibles amb la dignitat humana o perilloses per a la salut, ha de ser castigat amb pena de presó fins a dos anys i inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+Si les condicions degradants o perilloses s’imposen a menors, les penes s’han d’imposar en la seva meitat superior.
+
+###### Article 250 Condicions abusives de treball
+
+El qui, mitjançant engany o abús de necessitat, imposi als treballadors que tingui al seu servei condicions de treball o de seguretat que perjudiquin, suprimeixin o restringeixin els drets que tinguin reconeguts per disposicions legals especials o normativa de caràcter general, o els mantingui en aquestes condicions, ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de l’ofici o el càrrec fins a tres anys.
+
+El qui realitzi les conductes anteriorment descrites amb violència o intimidació ha de ser castigat amb pena de presó de tres mesos a tres anys i amb pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+###### Article 251 Omissió de mesures de seguretat en el treball
+
+El qui, estant normativament obligat i amb infracció de les normes de seguretat en el treball, no proveeixi dels mitjans necessaris perquè els treballadors desenvolupin la seva activitat amb les mesures de seguretat i higiene adequades, de manera que es pugui posar en perill greu la vida, la salut o la integritat física d’aquests, ha de ser castigat amb pena de presó fins a dos anys o multa fins a 30.000 euros, així com inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+###### Article 252 Tràfic d’immigrants clandestins
+
+1. El qui, amb ànim de lucre, promogui o intervingui en el reclutament o en el transport d’immigrants clandestins en trànsit pel Principat d’Andorra o que hi tingui el seu origen o destinació, ha de ser castigat amb pena de presó de tres mesos a tres anys i multa fins a 60.000 euros, sense perjudici de les responsabilitats penals en les quals pugui incórrer per la comissió d’altres delictes.
+
+2. Ha de ser castigat amb pena de presó de dos a cinc anys i multa fins a 180.000 euros el qui realitzi aquestes conductes concorrent-hi alguna d’aquestes circumstàncies:
+
+- Que pertanyi a una organització dedicada, entre altres, eventualment o permanentment, a aquesta activitat, o actuï en relació amb ella.
+
+- Que empri engany.
+
+- Que empri violència o intimidació.
+
+- Que posi en perill la vida, o que generi un risc greu per a la salut o la integritat física de les víctimes.
+
+- Que les víctimes siguin menors de divuit anys o incapaces.
+
+3. La pena privativa de llibertat corresponent als punts 1 i 2 d’aquest article s’ha d’imposar en la seva meitat superior, respectivament, al qui realitzi les conductes previstes en algun d’aquests punts concorrent-hi alguna de les circumstàncies següents:
+
+- Que l’autor sigui funcionari i actuï en exercici de les seves funcions. En aquest cas, a més de les penes previstes anteriorment, s’ha d’imposar la pena d’inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+- Que l’autor sigui el cap, l’administrador o l’encarregat de l’organització delictiva.
+
+### Títol XIV. Delictes contra la seguretat col·lectiva
+
+#### Capítol primer. L’energia nuclear i els grans estralls
+
+###### Article 253 Possessió il·lícita
+
+El qui per qualsevol mitjà posseeix il·lícitament material nuclear o productes radioactius que puguin posar en perill la vida o la salut de les persones ha de ser castigat amb pena de presó d’un a cinc anys.
+
+Si el material nuclear o els productes radioactius han estat sostrets amb violència o intimidació, o mitjançant grup organitzat, s’ha d’imposar pena de presó de tres a vuit anys.
+
+###### Article 254 Transport i dipòsit il·lícits
+
+El qui, sense estar-hi autoritzat, importi, exporti, transporti o estableixi un dipòsit de material nuclear o productes radioactius que puguin posar en perill la vida o la salut de les persones ha de ser castigat amb pena de presó de tres a vuit anys.
+
+La temptativa és punible.
+
+###### Article 255 Exposició a radiacions
+
+El qui il·lícitament exposi algú a radiacions ionitzants de manera que pugui posar en perill la seva vida o la seva salut ha de ser castigat amb pena de cinc a deu anys de presó i inhabilitació per a l’exercici de l’ofici o el càrrec fins a dotze anys.
+
+La temptativa és punible.
+
+###### Article 256 Pertorbació d’establiments, instal·lacions o serveis
+
+El qui pertorbi el funcionament d’un establiment, d’una instal·lació o d’un servei en el qual s’utilitzin material nuclear o productes radioactius, de manera que es pugui posar en perill la vida o la salut de les persones, ha de ser castigat amb pena de presó d’un a cinc anys.
+
+La temptativa és punible.
+
+###### Article 257 Pèrdua per imprudència
+
+El qui, per imprudència, hagi permès la sostracció o la pèrdua de material nuclear o productes radioactius que puguin posar en perill la vida o la salut de les persones ha de ser castigat amb pena d’arrest o multa fins a 60.000 euros.
+
+###### Article 258 Propagació de radiacions per imprudència
+
+El qui, per imprudència, hagi permès la propagació de radiacions ionitzants que puguin posar en perill la vida o la salut de les persones ha de ser castigat amb pena d’arrest o multa fins a 60.000 euros.
+
+#### Capítol segon. Estralls i delictes de risc catastròfic
+
+###### Article 259 Estralls
+
+El qui, per explosió, incendi o utilitzant qualsevol altre mitjà de potència destructiva similar, provoqui la destrucció o un deteriorament greu d’un edifici, d’un local públic o d’una obra pública, instal·lació industrial, pont, presa, mitjà de transport col·lectiu o sistema de comunicacions o de subministrament o infraestructures assimilables, ha de ser castigat amb pena de presó de dos a cinc anys.
+
+Si del fet se’n pot derivar un perill per a la vida o la salut de les persones la pena ha de ser de presó de tres a vuit anys.
+
+La temptativa és punible.
+
+###### Article 260 Estralls per imprudència
+
+El qui per imprudència greu provoqui estralls ha de ser castigat amb pena d’arrest o multa fins a 30.000 euros. Si del fet se’n pot derivar un perill per a la vida o la salut de les persones ha d’imposar-se pena d’arrest.
+
+###### Article 261 Col·locació o enviament d’explosius
+
+El qui col·loqui o enviï un artefacte explosiu de manera que pugui posar en perill la vida o la salut de les persones ha de ser castigat amb pena de presó d’un a quatre anys.
+
+###### Article 262 Infracció de normes de seguretat amb perill concret per a les persones
+
+El qui en la fabricació, la manipulació, el transport, la tinença o la comercialització de matèries, residus, artificis, organismes o substàncies perilloses infringeixi les normes de seguretat establertes de manera que pugui posar en perill la vida o la salut de les persones ha de ser castigat amb pena de presó fins a dos anys o d’arrest.
+
+En tot cas s’ha d’imposar, a més, la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec o la de privació del permís de conduir fins a sis anys.
+
+Les mateixes penes s’han d’imposar al qui en la construcció o la demolició d’un dels béns o en l’execució d’una de les obres descrites a l’article 259 infringeixi les normes de seguretat establertes i pugui posar en perill la vida o la salut de les persones.
+
+#### Capítol tercer. Tinença, tràfic i dipòsit d’armes, municions o explosius
+
+###### Article 263 Tinença i port il·legal d’armes
+
+1. El qui il·legítimament posseeixi o porti una o més armes, ha de ser castigat amb pena de presó fins a un any.
+
+2. S’ha d’imposar pena de presó de tres mesos a tres anys quan hi concorri alguna de les circumstàncies següents:
+
+a) Que es tracti d’arma curta de foc.
+
+b) Que hi manquin les marques de fàbrica o de nombre, o les tinguin alterades o esborrades.
+
+c) Que hagin estat introduïdes il·legalment en territori andorrà.
+
+3. Quan es tracti de tinença d’armes de foc prohibides o que siguin el resultat de la modificació substancial de les característiques originals de fabricació d’armes de foc reglamentades, la pena ha de ser d’un a quatre anys de presó. El port ha de ser castigat en la seva meitat superior.
+
+4. El tribunal pot aplicar la pena d’arrest sempre que per les circumstàncies del fet i del culpable es dedueixi la manca d’intenció d’usar les armes amb finalitats il·lícites.
+
+###### Article 264 Tràfic i dipòsit d’armes de foc
+
+1. La fabricació, la comercialització, la cessió o el dipòsit sense autorització d’armes de foc reglamentades o prohibides, o llurs municions, ha de ser castigat amb pena de presó d’un a quatre anys.
+
+2. Es considera dipòsit d’armes de foc la reunió de cinc o més d’aquestes armes, fins i tot si es troben en peces desmuntades. La comercialització comprèn tant l’adquisició com la venda, la importació o l’exportació.
+
+3. Respecte de les municions, el tribunal, tenint-ne en compte la quantitat i la classe, declararà si constitueixen o no dipòsit a efectes d’aquest delicte.
+
+4. Malgrat el que disposen els apartats anteriors d’aquest article, quan tenint en compte la classe, la qualitat, l’estat, el valor històric o de col·lecció de les armes i la finalitat de la seva conservació, se’n dedueixi escassa perillositat, el tribunal pot considerar els fets com a merament constitutius de tinença il·legal i, endemés, aplicar la reducció de pena de l’article 53.
+
+5. La temptativa és punible.
+
+###### Article 265 Tràfic i dipòsit d’armes de guerra
+
+1. La fabricació, el desenvolupament, la comercialització, la cessió o el dipòsit d’armes de guerra o llurs municions ha de ser castigat amb pena de presó de quatre a deu anys.
+
+2. Es considera dipòsit d’armes de guerra la tinença de més d’una qualsevol d’aquestes armes o llurs municions, amb independència del seu model o classe, fins i tot si es troben en peces desmuntades. La possessió d’una sola arma de guerra es castiga com a tinença d’arma de foc prohibida. La comercialització comprèn tant l’adquisició com la venda, la importació o l’exportació.
+
+3. Es considera arma de guerra la que així vingui qualificada en les disposicions reguladores de la matèria.
+
+4. La temptativa és punible.
+
+###### Article 266 Tràfic i dipòsit d’armes químiques o biològiques
+
+1. La fabricació, el desenvolupament, la comercialització, la possessió, la cessió o el dipòsit d’armes químiques o biològiques o llurs municions ha de ser castigada amb pena de presó de sis a dotze anys.
+
+2. Es considera dipòsit d’armes químiques o biològiques la tinença de més d’una qualsevol d’aquestes armes o llurs municions, fins i tot si es troben en peces desmuntades, i es considera possessió la tinença d’una sola arma o llur munició, fins i tot si es troba en peces desmuntades. La comercialització comprèn tant l’adquisició com la venda, la importació o l’exportació.
+
+3. Es considera desenvolupament d’armes químiques o biològiques qualsevol activitat consistent en la investigació o l’estudi de caràcter científic o tècnic dirigits a la creació d’una nova arma química o a la modificació d’una de preexistent.
+
+4. Es considera arma química o biològica la determinada com a tal en els tractats o convenis internacionals dels quals Andorra sigui part.
+
+5. El qui empri armes químiques o biològiques, o iniciï preparatius militars a aquest efecte, ha de ser castigat amb pena de presó de quinze a vint anys, sense perjudici de les penes que es puguin imposar d’acord amb altres preceptes d’aquest Codi.
+
+6. La temptativa és punible.
+
+###### Article 267 Tràfic i dipòsit d’aparells explosius i incendiaris
+
+1. La tinença o el dipòsit no autoritzat de substàncies o aparells explosius, inflamables, incendiaris o asfixiants, o llurs components, així com la seva fabricació, transport, importació, exportació, venda o cessió, han de ser castigats amb pena de presó de tres a vuit anys. La pena s’ha d’imposar en la seva meitat superior si es tracta de substàncies no reglamentades.
+
+2. El tribunal pot aplicar la reducció de pena prevista a l’article 53 sempre que de les circumstàncies del fet i del culpable se’n dedueixi escassa perillositat.
+
+3. La temptativa és punible.
+
+#### Capítol quart. Delictes contra la seguretat del trànsit
+
+###### Article 268 Conducció sota l’efecte de drogues
+
+1. El qui condueixi un vehicle automòbil en un estat del qual es derivi un perill concret per a la vida o la salut de les persones a causa del consum de drogues o substàncies d’efectes anàlegs, o amb un grau d’alcoholèmia superior a 0’8 g/l de sang, ha de ser castigat amb pena de presó fins a un any o d’arrest, i privació del permís de conduir fins a tres anys.
+
+2. El qui condueixi un vehicle automòbil de transport col·lectiu amb passatgers, un vehicle automòbil d’un pes total màxim superior a 3.500 quilograms, un tren o una aeronau, en un estat del qual es derivi un perill concret per a la vida o la salut de les persones a causa del consum de drogues o substàncies d’efectes anàlegs, o amb un grau d’alcoholèmia superior a 0’5 g/l de sang, ha de ser castigat amb pena de presó fins a dos anys i privació del permís de conduir fins a quatre anys. El tribunal pot imposar, a més, la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+
+###### Article 269 Refús de sotmetre’s a la prova
+
+Qui refusi sotmetre’s a la prova de control de tòxics o d’alcoholèmia quan sigui legítimament requerit per un agent de l’autoritat i no accepti sotmetre’s a una prova d’anàlisi de sang, ha de ser castigat amb pena de privació del permís de conduir fins a tres anys i fins a quatre anys en el supòsit del punt segon de l’article anterior.
+
+###### Article 270 Conducció temerària amb perill concret per a les persones
+
+El qui condueixi un vehicle automòbil amb temeritat manifesta i posi efectivament en perill concret la vida o la salut de les persones ha de ser castigat amb pena de presó fins a dos anys i privació del permís de conduir fins a sis anys.
+
+El qui condueixi un vehicle automòbil de transport col·lectiu amb passatgers, un vehicle automòbil d’un pes total màxim superior a 3.500 quilograms, un tren o una aeronau en les condicions anteriorment expressades, ha de ser castigat amb pena de presó de tres mesos a tres anys i privació del permís de conduir fins a sis anys. El tribunal també pot imposar la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+
+###### Article 271 Alteració de la seguretat en el trànsit
+
+1. El qui llanci o col·loqui objectes en una via destinada al trànsit de vehicles automòbils, la deteriori greument o hi aboqui substàncies lliscants o inflamables o inutilitzi o alteri la senyalització, de manera que se’n pugui derivar un perill per a la vida i la integritat de les persones, ha de ser castigat amb pena de presó fins a dos anys o d’arrest.
+
+Si com a conseqüència d’alguna de les conductes anteriors es posa en perill greu la vida o la integritat de les persones la pena ha de ser de presó de tres mesos a tres anys.
+
+2. El qui realitzi alguna de les conductes previstes en el punt anterior en una altra via destinada al transport de passatgers, o en remogui els cables, les vies o les instal·lacions, o produeixi una alteració en els senyals emprats per a la comunicació o per garantir la seguretat en el trànsit d’aquestes o en el trànsit aeri, o manipuli sense estar-hi autoritzat els aparells o mecanismes de seguretat de manera que se’n pugui derivar un perill per a la vida o la integritat de les persones, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+Si com a conseqüència d’alguna de les conductes anteriors es posa en perill greu la vida o la integritat de les persones la pena ha de ser de presó de dos a cinc anys.
+
+###### Article 272 Comís del vehicle
+
+En els delictes contra la seguretat en el trànsit de vehicles automòbils, el vehicle utilitzat s’ha de considerar l’instrument del delicte als efectes del que disposa l’article 70. El tribunal en pot decretar el comís sempre que aquesta mesura no sigui desproporcionada tenint en compte la gravetat del delicte i el valor actual del vehicle.
+
+### Títol XV. Delictes contra la salut pública
+
+#### Capítol primer. Delictes contra la salut dels consumidors
+
+###### Article 273 Elaboració i tràfic de substàncies nocives
+
+1. El qui, sense estar-hi autoritzat, elabori, distribueixi o vengui substàncies químiques, tòxiques o greument perilloses per a la salut, ha de ser castigat amb pena de presó d’un a quatre anys i multa fins a 60.000 euros, així com inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+2. El qui, trobant-se autoritzat per a la comercialització de les substàncies a què es refereix l’apartat anterior, les elabori, expedeixi o subministri sense complir les formalitats previstes en les lleis i en els reglaments respectius, ha de ser castigat amb pena de multa fins a 30.000 euros i inhabilitació per a l’exercici de l’ofici o el càrrec fins a dos anys.
+
+3. La temptativa és punible.
+
+###### Article 274 Responsabilitat penal pel producte
+
+El qui introdueixi en el mercat productes l’ús dels quals sigui greument perillós per a la salut en condicions normals d’utilització o consum, sense complir les formalitats previstes en les lleis i en els reglaments, ha de ser castigat amb pena de presó fins a dos anys, llevat que el fet constitueixi un delicte més greu d’acord amb les disposicions d’aquest títol i sense perjudici de la responsabilitat que pugui correspondre per la mort o les lesions causades com a conseqüència de la conducta.
+
+La temptativa és punible.
+
+###### Article 275 Delictes alimentaris
+
+1. El productor, el distribuïdor o el comerciant que introdueixi en el mercat productes alimentaris que puguin causar un dany greu a la salut ha de ser castigat amb pena de presó d’un a quatre anys, sense perjudici de les penes que puguin correspondre per les lesions o les morts ocasionades. La mateixa pena s’ha d’imposar al qui, per ell o mitjançant un tercer, hagi provocat la nocivitat del producte en fase de producció, distribució o venda. L’acompliment dels requisits legalment establerts sobre elaboració, composició, conservació o caducitat no eximeix de responsabilitat criminal quan el subjecte tingui coneixement, per mitjans propis o aliens, de la greu nocivitat del producte, sempre que aquesta nocivitat sigui desconeguda del públic.
+
+2. El qui introdueixi en el mercat productes alimentaris que puguin causar dany a la salut, infringint les normes relatives a l’elaboració, la composició, la conservació o la caducitat, ha de ser castigat amb pena de presó de tres mesos a tres anys, llevat que el fet constitueixi el delicte previst a l’article anterior. La mateixa pena s’ha d’imposar a qui hagi provocat la nocivitat del producte en fase de producció, distribució o venda.
+
+3. Quan la nocivitat del producte alimentari procedeixi d’una adulteració amb additius o altres agents no autoritzats, es poden imposar les penes respectivament assenyalades als punts anteriors en la seva meitat superior.
+
+4. S’entén per producte alimentari el que estigui destinat al consum humà, incloses les begudes, així com els seus envasos, embolcalls o qualsevol instrument necessari per manipular-lo o consumir-lo.
+
+5. La temptativa és punible.
+
+###### Article 276 Delictes farmacològics
+
+1. El qui expedeixi, lliuri o subministri medicaments que, per estar deteriorats o caducats, o per incomplir les exigències tècniques relatives a la seva composició, estabilitat, eficàcia o informació, puguin posar en perill la salut de les persones atesa la seva nocivitat o manca d’eficàcia, han de ser castigats amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys. Amb la mateixa pena ha de ser castigat el qui fabriqui, elabori, expedeixi, lliuri o subministri qualsevol medicament incomplint les exigències tècniques, o sense respectar les quantitats, les dosis o la seva composició genuïna, segons el que estigui autoritzat o declarat, sempre que pugui causar un dany a la salut, ja sigui per la seva nocivitat ja sigui per pèrdua d’eficàcia.
+
+2. El qui provoqui, en fase de fabricació, distribució, emmagatzematge o venda, la nocivitat o la pèrdua d’eficàcia del medicament en els termes descrits a l’apartat anterior, ha de ser castigat amb les mateixes penes.
+
+3. El qui introdueixi en el mercat productes que imitin o simulin ser medicaments o substàncies productores d’efectes beneficiosos per a la salut, donant-los aparença d’autenticitat, i amb això es posi en perill la salut de les persones, ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de l’ofici o el càrrec fins a tres anys.
+
+4. Quan la realització de les conductes descrites als apartats anteriors del present article tingui per objecte productes cosmètics o d’higiene personal, s’han d’imposar les penes respectivament assenyalades en la seva meitat inferior.
+
+5. Les penes d’inhabilitació previstes en aquest article han de ser d’una durada màxima de sis anys quan els fets siguin comesos per farmacèutics, o pels directors tècnics de laboratoris legalment autoritzats en nom o representació dels quals actuïn.
+
+6. La temptativa és punible.
+
+###### Article 277 Delictes relacionats amb l’engreixament de bestiar
+
+1. Ha de ser castigat amb pena de presó de tres mesos a tres anys el qui realitzi qualsevol de les conductes següents:
+
+a) Donar al bestiar les carns o productes del qual es destinin al consum humà substàncies no permeses que generin risc per a la salut de les persones o en dosis superiors o per a finalitats diferents de les autoritzades.
+
+b) Sacrificar animals d’avituallament o destinar els seus productes al consum humà, sabent que els han estat donades les substàncies esmentades a la lletra anterior.
+
+c) Sacrificar animals d’avituallament als quals s’hagin aplicat tractaments terapèutics mitjançant les substàncies referides a la lletra a).
+
+d) Vendre al públic les carns o els productes dels animals d’avituallament sense respectar els períodes d’espera reglamentàriament previstos per a cada cas.
+
+2. La temptativa és punible.
+
+###### Article 278 Enverinament d’aigües o substàncies alimentàries
+
+El qui enverini o adulteri les aigües potables o les substàncies alimentàries destinades a ús o consum públic amb substàncies infeccioses, radioactives, altament tòxiques o altres que puguin ser extremadament nocives per a la salut, ha de ser castigat amb pena de presó de tres a vuit anys i inhabilitació per a l’exercici de l’ofici o el càrrec fins a deu anys, sense perjudici de la responsabilitat criminal en què pugui incórrer d’acord amb altres preceptes d’aquest Codi.
+
+La temptativa és punible.
+
+###### Article 279 Mesures cautelars
+
+En els delictes previstos en aquest capítol el tribunal pot imposar el tancament de l’establiment, la fàbrica, el laboratori o el local fins a sis anys, i en els supòsits de molta gravetat es pot decretar el seu tancament per un temps superior o amb caràcter definitiu.
+
+###### Article 280 Imprudència punible
+
+Si els fets descrits en aquest capítol s’han realitzat per imprudència greu, s’ha d’aplicar la reducció qualificada de pena prevista a l’article 54.
+
+La realització dels fets descrits als articles 273.1, 275, 276.1 i 2 per imprudència greu ha de ser castigada amb pena d’arrest i, si escau, d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a dos anys.
+
+La comissió per imprudència greu dels fets descrits a l’article 278 ha de ser castigada amb pena de presó fins a dos anys o d’arrest i, si escau, inhabilitació per a l’exercici de l’ofici o el càrrec fins a tres anys.
+
+#### Capítol segon. Delictes relatius al tràfic il·legal de drogues tòxiques
+
+###### Article 281 Concepte de droga tòxica
+
+Es considera droga tòxica, als efectes d’aquest Codi, tota substància el consum de la qual produeix una alteració de l’estat de consciència i resulta perjudicial per a la salut de les persones, si es troba inclosa als convenis internacionals sobre la matèria i no és considerada lícita per la legislació andorrana o si, en el cas de no trobar-s’hi compresa, té naturalesa i efectes similars a les incloses i no n’està autoritzat el tràfic.
+
+###### Article 282 Tipus bàsic
+
+1. El qui produeixi, elabori, transporti, importi, exporti, vengui, proporcioni il·lícitament o posseeixi drogues tòxiques amb alguna d’aquestes finalitats, ha de ser castigat amb pena de presó d’un a cinc anys i multa fins al triple del valor de la droga.
+
+2. Si es tracta de cannabis o droga de toxicitat similar, la pena ha de ser de presó fins a dos anys i multa fins al doble del valor de la droga.
+
+3. La temptativa és punible.
+
+###### Article 283 Tipus qualificat
+
+1. Les conductes previstes en l’article anterior han de ser castigades amb pena de presó de quatre a deu anys i multa fins al quàdruple en el primer cas i de presó de tres a sis anys i multa fins al triple en el segon, si hi concorre alguna de les circumstàncies següents:
+
+a) Que es tracti de gran quantitat de droga.
+
+b) Que la droga es faciliti a menors d’edat o incapaços.
+
+c) Que la droga es difongui en centres docents, d’esbarjo, assistencials o penitenciaris.
+
+d) Que la substància estigui manipulada o adulterada de tal manera que augmenti el perill per a la salut.
+
+e) Que la substància es faciliti a persones sotmeses a un tractament de deshabituació o rehabilitació.
+
+f) Que el culpable pertanyi a una organització que tingui com a finalitat difondre aquestes substàncies.
+
+2. Si concorren dues o més de les circumstàncies anteriors o si el culpable exerceix una posició de poder de dret o de fet en l’organització, el tribunal pot imposar, sempre que es tracti d’actes de tràfic a gran escala, pena de presó de vuit a setze anys en el primer cas de l’article anterior i de presó de sis a dotze anys en el segon, a més de les penes pecuniàries previstes. El tribunal pot acordar en aquest supòsit, a més, alguna de les mesures previstes en l’article 71.
+
+3. La temptativa és punible.
+
+###### Article 284 Tipus privilegiats
+
+1. El consum, la introducció o la possessió de droga tòxica per al consum propi s’ha de castigar amb pena de presó fins a un any o d’arrest. El tribunal pot imposar, a més, pena de multa fins a 1.200 euros.
+
+2. Quan el consum es faci en local públic la pena ha de ser de presó fins a dos anys i multa fins a 1.800 euros.
+
+3. El qui ven o proporciona il·lícitament a una persona major d’edat una petita quantitat de droga tòxica ha de ser castigat amb pena de presó de tres mesos a tres anys. Si es tracta de cànnabis o una altra droga de toxicitat similar la pena imposable és de presó fins a un any o d’arrest.
+
+S’exceptua la cessió a una sola persona per al consum conjunt amb aquesta, que ha de ser castigada amb la pena prevista a l’apartat anterior. Si es tracta de cànnabis o una altra droga de toxicitat similar la pena imposable és la prevista a l’apartat segon de l’article 500.
+
+4. La temptativa és punible.
+
+###### Article 285 Precursors
+
+El qui fabriqui, transporti, distribueixi, comerciï o posseeixi equips, materials o substàncies de les enumerades en els quadres I i II de la Convenció de les Nacions Unides, feta a Viena el 20 de desembre de 1988, sobre el tràfic il·lícit d’estupefaents i substàncies psicotròpiques, o d’altres que tinguin naturalesa i efectes similars a les incloses i no estiguin autoritzades, amb la finalitat d’utilitzar-les per a la producció il·legal de drogues tòxiques o amb el coneixement que una altra persona té la intenció de destinar-les a aquesta finalitat, ha de ser castigat amb pena de presó de tres mesos a tres anys i multa fins al triple del valor dels gèneres o efectes.
+
+###### Article 286 Comís
+
+Han de ser objecte de comís, tret que pertanyin a un tercer no responsable que els hagi adquirit legalment, les drogues tòxiques, els equips, els materials i les substàncies a què fa referència l’article anterior, els vehicles i tots els béns i els efectes que hagin servit d’instrument per a la comissió de qualsevol dels delictes d’aquest capítol o que en provinguin, així com els guanys que se n’hagin obtingut, amb independència de les transformacions que hagin pogut experimentar.
+
+###### Article 287 Reduccions de pena de política criminal
+
+1. En tots els delictes d’aquest capítol el tribunal pot acordar raonadament la reducció de pena prevista en l’article 53 si el culpable ha abandonat voluntàriament la seva activitat delictiva i ha col·laborat amb les autoritats per disminuir el perill causat, per impedir la producció d’altres delictes o l’actuació o el desenvolupament d’organitzacions amb les quals hagi estat involucrat o bé per obtenir proves rellevants per a la identificació o la posada a disposició de la justícia d’altres responsables.
+
+2. Constitueix circumstància atenuant que pot arribar a ser de significació especial el fet que durant la instrucció de la causa i fins al moment de la vista oral el processat s’hagi sotmès voluntàriament a un tractament de desintoxicació i s’hagi rehabilitat o hagi dedicat el seu esforç a aconseguir-ho.
+
+###### Article 288 Determinació de la quantia de la pena de multa
+
+Per a la determinació de la quantia de les multes que s’imposin d’acord amb aquest capítol, es té en compte el preu final de la droga, dels gèneres i dels efectes intervinguts o, si escau, el guany obtingut pel culpable o que hauria pogut obtenir.
+
+### Títol XVI. Delictes contra el medi ambient
+
+#### Capítol primer. Delictes contra el medi ambient i els recursos naturals
+
+###### Article 289 Contaminació ambiental
+
+El qui, amb infracció a les lleis o altres disposicions administratives protectores del medi ambient, provoqui o realitzi directament o indirectament emissions, vessaments, radiacions, extraccions o excavacions, sorolls o vibracions, soterraments, injeccions o dipòsits, a l’atmosfera, al sòl, al subsòl, o a les aigües terrestres o subterrànies, amb incidència fins i tot en territoris transfronterers, que puguin posar en perill l’equilibri o les condicions de la flora, els espais naturals o la fauna, ha de ser castigat amb pena de presó de tres mesos a tres anys, multa fins a 60.000 euros i inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+
+La temptativa és punible.
+
+###### Article 290 Tipus qualificat
+
+1. S’ha d’imposar pena de presó de dos a cinc anys, multa fins a 120.000 euros i inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys, sense perjudici de les penes que puguin correspondre d’acord amb altres preceptes d’aquest Codi, quan en la comissió de qualsevol dels fets descrits a l’article anterior hi concorri alguna de les circumstàncies següents:
+
+a) Que derivi d’una activitat comercial o industrial clandestina i mancada de les autoritzacions corresponents.
+
+b) Que s’hagi falsejat o amagat a l’administració competent informació de l’activitat sobre aspectes ambientals rellevants i directament relacionats amb els fets descrits a l’article anterior.
+
+c) Que s’hagi produït un perill efectiu, greu i de caràcter col·lectiu per a l’equilibri o les condicions de la flora, els espais naturals, la fauna o la salut de les persones.
+
+2. La temptativa és punible.
+
+###### Article 291 Dany a un espai natural protegit
+
+El qui ocasioni un dany irreparable o un dany greu a un qualsevol dels elements que hagin servit per qualificar un espai natural protegit, ha de ser castigat amb pena de presó de tres mesos a tres anys, multa fins a 60.000 euros i inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+
+La temptativa és punible.
+
+###### Article 292 Imprudència
+
+Els fets previstos als tres articles anteriors han de ser castigats amb la pena que resulti de l’aplicació prevista a l’article 53, en els seus supòsits respectius, quan s’hagin comès per imprudència greu.
+
+###### Article 293 Responsabilitat penal de l’autoritat o el funcionari
+
+L’autoritat o el funcionari que informi favorablement sobre la seva concessió o concedeixi autorització o llicència il·legal per a les activitats contaminants a què es refereix l’article 289 o que, amb motiu de les seves inspeccions, hagi silenciat la infracció de lleis, de disposicions de caràcter general o de les autoritzacions administratives que les regulin ha de ser castigat amb les mateixes penes, sense perjudici de les altres penes que puguin correspondre d’acord amb altres preceptes d’aquest Codi.
+
+#### Capítol Segon. Delictes relatius a la flora i la fauna
+
+###### Article 294 Tràfic de flora protegida
+
+El qui reculli amb ànim de lucre o trafiqui il·legalment amb alguna espècie o subespècie de flora amenaçada o protegida ha de ser castigat amb pena d’arrest o multa fins a 12.000 euros.
+
+###### Article 295 Destrucció o alteració d’hàbitat
+
+El qui destrueixi o alteri greument l’hàbitat d’alguna espècie o subespècie de flora amenaçada o protegida ha de ser castigat amb pena d’arrest i multa fins a 30.000 euros.
+
+###### Article 296 Caça, pesca i tràfic d’espècies amenaçades o protegides
+
+1. El qui caci o pesqui espècies amenaçades o protegides, realitzi activitats que impedeixin la seva reproducció o migració contravenint les lleis o disposicions administratives protectores de les espècies de fauna silvestre ha de ser castigat amb les mateixes penes previstes a l’article anterior.
+
+2. Les mateixes penes s’han d’imposar a qui comerciï o trafiqui amb espècies amenaçades o protegides o amb les seves restes.
+
+3. Quan les conductes descrites en aquest article afectin espècies o subespècies en perill d’extinció s’ha d’imposar la pena de presó fins a dos anys i multa fins a 24.000 euros. La temptativa és punible en aquest supòsit.
+
+###### Article 297 Caça il·legal
+
+1. Ha de ser castigat amb pena d’arrest i amb multa fins a 12.000 euros qui:
+
+a) Utilitzi per caçar aparells de reproducció de sons, aparells elèctrics capaços de matar o atordir, fonts lluminoses artificials, miralls o altres objectes enlluernadors, aparells d’il·luminació de blancs, dispositius de mira amb convertidor d’imatge electrònica, aparells d’infrarojos, aparells d’intensificació de llum residual, silenciadors i ginys similars.
+
+b) Utilitzi explosius, verins, soporífers, esquers emmetzinats o amb tranquil·litzants, gasos o fums, o animals vius com a reclam.
+
+c) Mati isards fora del període previst per a la seva caça.
+
+d) Mati cabrits d’isard en qualsevol època de l’any.
+
+e) Caci mitjançant vehicles de motor, telefèrics, telecadires, teleesquís, aeronaus, qualsevol mitjà de transport mecànic, i qualsevol altra utilització de ginys o mètodes contraris a l’art de la caça en general.
+
+2. La temptativa és punible.
+
+###### Article 298 Pena d’inhabilitació
+
+En els supòsits previstos als dos articles anteriors s’ha d’imposar, endemés, la pena de privació de la llicència de caça o de pesca fins a tres anys.
+
+#### Capítol tercer. Incendis forestals
+
+###### Article 299 Incendi forestal
+
+El qui incendiï boscos o masses forestals ha de ser castigat amb pena de presó d’un a quatre anys i multa fins a 30.000 euros, sense perjudici de les penes que puguin correspondre d’acord amb altres articles d’aquest Codi.
+
+Si del fet se’n pot derivar un perill per a la vida o la salut de les persones la pena ha de ser de presó de dos a cinc anys i multa fins al doble de l’import anterior.
+
+###### Article 300 Tipus qualificat
+
+1. Les penes previstes a l’article anterior s’han d’imposar en la seva meitat superior quan l’incendi assoleixi especial gravetat, atesa la concurrència d’alguna de les circumstàncies següents:
+
+- Que afecti una superfície d’importància considerable.
+
+- Que se’n derivin grans o greus efectes erosius en el sòl.
+
+- Que s’alterin significativament les condicions de vida animal o vegetal.
+
+- En tot cas, quan s’ocasioni un deteriorament o destrucció greu dels recursos afectats.
+
+2. Les mateixes penes de presó previstes a l’article anterior s’han d’imposar en la seva meitat superior quan s’hagi actuat per obtenir un benefici amb els efectes derivats de l’incendi. Les multes poden imposar-se fins al doble de les previstes a l’article anterior.
+
+###### Article 301 Imprudència
+
+El qui per imprudència greu realitzi alguna de les conductes previstes als dos articles anteriors ha de ser castigat amb pena d’arrest i multa fins a 12.000 euros.
+
+###### Article 302 Temptativa i desistiment
+
+1. El qui posi foc a boscos o masses forestals sense que arribi a propagar-se l’incendi ha de ser castigat amb pena de presó fins a un any i multa fins a 3.000 euros, sense perjudici de les penes que puguin correspondre d’acord amb altres articles d’aquest Codi.
+
+2. Sense perjudici de les penes que puguin correspondre d’acord amb altres articles d’aquest Codi el responsable de la conducta prevista a l’apartat anterior queda exempt de pena si l’incendi no es propaga per la seva acció voluntària i positiva.
+
+###### Article 303 Conseqüències accessòries
+
+En tots els casos previstos en els articles anteriors d’aquest capítol el tribunal pot acordar que la qualificació del sòl a les zones afectades per l’incendi no pugui modificar-se en un termini fins a quinze anys. Igualment pot acordar que es limitin o se suprimeixin els usos que es vagin portant a terme a les zones afectades per l’incendi, així com el comís de la fusta cremada procedent de l’incendi.
+
+###### Article 304 Risc d’incendi forestal
+
+El qui posi foc en béns propis o aliens amb perill concret de propagació als boscos o masses forestals ha de ser castigat amb pena d’arrest i multa fins a 12.000 euros, sense perjudici de les penes que puguin correspondre d’acord amb altres articles d’aquest Codi.
+
+#### Capítol quart. Disposicions comunes
+
+###### Article 305 Espai natural protegit
+
+Quan els delictes previstos en els articles 289, 293 o en els capítols segon i tercer d’aquest títol afectin un espai natural protegit, s’han d’imposar les penes previstes en la seva meitat superior.
+
+###### Article 306 Reparació i mesures cautelars
+
+El tribunal pot ordenar raonadament, a càrrec del responsable del fet, l’adopció de mesures encaminades a restaurar l’equilibri ecològic malmès, així com adoptar qualsevol altra mesura necessària per a la protecció dels béns tutelats en aquest títol.
+
+###### Article 307 Atenuant de reparació
+
+Si el culpable de qualsevol dels fets tipificats en aquest títol ha procedit voluntàriament a reparar el mal causat o a extingir els focus de perill generats, el tribunal ha d’aplicar la reducció de pena prevista a l’article 53 quan no sigui aplicable l’apartat 2 de l’article 302.
+
+### Títol XVII. Delictes contra l’ordenació del territori i contra el patrimoni històric
+
+###### Article 308 Delicte urbanístic
+
+1. El qui edifiqui o construeixi en un lloc expressament prohibit per la llei ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de l’ofici o el càrrec fins a tres anys. Si hi concorre ànim de lucre s’ha d’imposar, endemés, multa fins al doble del benefici obtingut o que es pretenia obtenir.
+
+2. El qui edifiqui o construeixi infringint les normes de seguretat de manera que pugui posar en perill la vida o la salut de les persones, ha de ser castigat amb les mateixes penes.
+
+3. L’autoritat o el funcionari que concedeixi llicència il·legal per realitzar una construcció o edificació de les previstes als apartats anteriors ha de ser castigat amb les mateixes penes i endemés amb la pena d’inhabilitació per a l’exercici de càrrec públic fins a quatre anys, sense perjudici de les penes que puguin correspondre d’acord amb altres articles d’aquest Codi.
+
+4. El tribunal pot ordenar la demolició de la construcció a càrrec del condemnat sense perjudici d’acordar les indemnitzacions que corresponguin a terceres persones.
+
+5. La temptativa és punible.
+
+###### Article 309 Danys a béns d’interès especial
+
+El qui causa un dany a un bé d’interès històric, artístic o cultural o de significació especial per al desenvolupament científic o tecnològic, ha de ser castigat amb pena de presó de tres mesos a tres anys i de dos a cinc anys si el dany és irreparable.
+
+Si el dany és d’escassa significació el tribunal ha d’imposar pena d’arrest o de treballs en benefici de la comunitat fins a un any.
+
+La temptativa és punible.
+
+###### Article 310 Responsabilitat del funcionari
+
+El funcionari que, amb infracció de la llei, permeti la destrucció o el deteriorament d’un bé immoble o moble d’interès històric, artístic o cultural o d’especial significació per al desenvolupament científic o tecnològic ha de ser castigat amb la mateixa pena prevista a l’article anterior i inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+La temptativa és punible.
+
+###### Article 311 Omissió imprudent de deures de conservació
+
+El conservador o el guardià d’un bé immoble o moble històric, artístic o cultural o de significació especial per al desenvolupament científic o tecnològic que, per imprudència greu, no impedeixi la seva destrucció o deteriorament ha de ser castigat amb pena d’arrest o multa fins a 30.000 euros i suspensió per a l’exercici de l’ofici o el càrrec fins a un any.
+
+###### Article 312 Impediments a la recerca
+
+El qui alteri vestigis arqueològics dificultant la recerca històrica o científica ha de ser castigat amb pena d’arrest o treballs en benefici de la comunitat.
+
+La temptativa és punible.
+
+### Títol XVIII. Delictes contra la Constitució
+
+#### Capítol primer. Atemptat violent contra l’Estat de dret
+
+###### Article 313 Concepte d’atemptat violent contra l’Estat de dret
+
+Cometen delicte d’atemptat violent contra l’Estat de dret els qui, emprant armes, duguin a terme actes de violència col·lectiva que tendeixin a:
+
+- Derogar, modificar o suspendre la Constitució.
+
+- Dissoldre el Consell General, impedir que es reuneixi o forçar-lo a adoptar una decisió.
+
+- Impedir la celebració d’eleccions per a càrrecs públics.
+
+- Substituir el Govern, impedir que es reuneixi o forçar-lo a adoptar alguna resolució.
+
+- Sostreure qualsevol força armada de l’obediència al Govern.
+
+- Impedir que un comú es reuneixi o forçar-lo a adoptar una resolució.
+
+###### Article 314 Persones responsables
+
+Als inductors o dirigents del delicte descrit a l’article anterior els ha de ser imposada una pena de presó de dotze a vint anys i inhabilitació per a drets públics fins a vint anys.
+
+Fora dels casos anteriors, el culpable que hi hagi pres part ha de ser castigat amb una pena de presó de sis a dotze anys i inhabilitació per a drets públics fins a vint anys.
+
+La responsabilitat establerta en aquest article ho és sense perjudici de la que escaigui pels delictes o contravencions penals comesos amb motiu o en ocasió de l’atemptat violent contra l’Estat de dret.
+
+###### Article 315 Temptativa i actes preparatoris
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 316 Omissió d’impedir l’atemptat contra l’Estat de dret
+
+L’autoritat que permeti la comissió del delicte previst en aquest capítol per part de les forces sobre les quals exerceixi comandament ha de ser castigada amb les mateixes penes previstes per als responsables del delicte.
+
+El funcionari que conegui la preparació del delicte i no n’informi a qui pertoqui impedir-lo o perseguir-lo ha de ser castigat amb pena de presó d’un a quatre anys i inhabilitació per a drets públics fins a vuit anys.
+
+###### Article 317 Dispensa o atenuació de pena
+
+El qui, havent pres part en la preparació o execució d’un atemptat violent contra l’Estat de dret, reveli el pla a temps de poder-ne impedir les conseqüències, queda exempt de pena.
+
+El tribunal pot aplicar la reducció de pena prevista a l’article 53 als qui deposin les armes abans d’haver-ne fet ús o s’esforcin per reduir la violència emprada en la rebel·lió.
+
+#### Capítol segon. Delictes contra les institucions
+
+###### Article 318 Delicte contra la vida dels coprínceps
+
+El qui cometi homicidi en la persona d’un copríncep ha de ser castigat amb pena de presó de divuit a vint-i-cinc anys.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 319 Atemptats a la integritat o a la llibertat dels coprínceps
+
+El qui lesioni, segresti, detingui, coaccioni o amenaci un copríncep ha de ser castigat amb les penes previstes per al delicte respectiu en la seva meitat superior. Si com a conseqüència de la coacció o l’amenaça hom força un copríncep a executar un acte o a adoptar una decisió perjudicial per als interessos del Principat la pena ha de ser de presó de cinc a deu anys.
+
+La temptativa és punible. La conspiració i la provocació són punibles en cas de segrest o detenció.
+
+###### Article 320 Calúmnies, difamacions i injúries contra els coprínceps
+
+El qui ofengui un copríncep amb actes o expressions constitutius de difamació o injúria ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+Si el fet és constitutiu de calúmnia ha de ser castigat amb pena de presó d’un a quatre anys.
+
+###### Article 321 Atemptat a la residència
+
+Qualsevol delicte comès contra la residència o les dependències oficials d’un copríncep ha de ser castigat amb les penes previstes en aquest Codi per a cada delicte, en la seva meitat superior.
+
+###### Article 322 Coacció d’òrgans constitucionals
+
+El qui mitjançant violència o intimidació i sense incórrer en un atemptat violent contra l’Estat de dret, influeixi o tracti d’influir en el Consell General, el Govern, els comuns, el Consell Superior de la Justícia o el Tribunal Constitucional a adoptar una decisió, o li impedeixi o tracti d’impedir d’acordar-la o d’executar-la, ha de ser castigat amb pena de presó de tres a deu anys.
+
+El qui realitzi la conducta anteriorment esmentada contra un membre dels òrgans referits o li impedeixi d’acudir a una sessió ha de ser castigat amb pena de presó de dos a cinc anys.
+
+###### Article 323 Pertorbació del Consell General
+
+El qui pertorbi el funcionament del Consell General, impedint o bé alterant greument el desenvolupament d’una sessió del Ple o d’una Comissió, ha de ser castigat amb pena de presó fins a dos anys o d’arrest.
+
+###### Article 324 Atemptats contra la immunitat dels consellers generals i els membres del Govern
+
+El funcionari que detingui un conseller general, el cap de Govern o un ministre fora dels supòsits o sense els requisits establerts per la legislació vigent incorre en les penes previstes en aquest Codi en la seva meitat superior i a més en la d’inhabilitació per a l’exercici de càrrec públic fins a dotze anys.
+
+###### Article 325 Delictes contra el prestigi de les institucions
+
+El qui, amb coneixement de la seva falsedat o menyspreu temerari cap a la veritat, realitzi públicament imputacions relatives a l’actuació del Consell General, el Govern, el Consell Superior de la Justícia, els òrgans judicials, el Ministeri Fiscal o els comuns que puguin perjudicar el seu prestigi, ha de ser castigat amb pena de multa fins a 30.000 euros i inhabilitació per a l’exercici de càrrec públic fins a quatre anys, sense perjudici de les penes que, si escau, corresponguin pels atemptats contra l’honor de les persones.
+
+#### Capítol tercer. Delictes electorals
+
+###### Article 326 Coacció a l’elector
+
+1. El qui, mitjançant violència o intimidació, impedeixi a una persona d’emetre el seu vot en qualsevol elecció per a càrrecs públics o en el marc d’un òrgan col·legiat de caràcter polític, ha de ser castigat amb pena de presó d’un a quatre anys.
+
+La temptativa és punible.
+
+2. El qui influeixi o tracti d’influir en el sentit del vot d’un elector mitjançant abús d’una posició de poder, retribució o qualsevol forma de pressió, ha de ser castigat amb pena de presó fins a dos anys.
+
+###### Article 327 Atemptat al secret de vot
+
+El qui, mitjançant violència o intimidació, o amb ús indegut d’aparells audiovisuals o altres mitjans tècnics, descobreixi o intenti descobrir el vot d’un elector, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+###### Article 328 Engany a l’elector
+
+El qui mitjançant engany determina una persona a votar en un sentit diferent al pretès ha de ser castigat amb pena d’arrest.
+
+###### Article 329 Pertorbació d’eleccions
+
+El qui, mitjançant violència o intimidació, impedeixi o tracti d’impedir la realització d’eleccions en un col·legi electoral o n’alteri greument el funcionament, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+###### Article 330 Frau electoral
+
+El qui falsifiqui una acta electoral, alteri o oculti paperetes electorals o alteri o falsegi l’escrutini dels vots ha de ser castigat amb pena de presó d’un a quatre anys.
+
+La temptativa és punible.
+
+###### Article 331 Disposició comuna
+
+En els delictes compresos en els articles anteriors d’aquest capítol el tribunal ha d’imposar al culpable, a més de les penes previstes respectivament, la d’inhabilitació per a drets públics durant el temps de la condemna.
+
+###### Article 332 Obstaculització de la campanya electoral
+
+L’autoritat o el funcionari que suspengui injustificadament un acte electoral ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+###### Article 333 Inscripció fraudulenta en el cens
+
+El funcionari que inscrigui una persona en les llistes electorals amb coneixement que no compleix els requisits legals per ser elector ha de ser castigat amb pena de multa fins a 6.000 euros i suspensió de càrrec públic fins a dos anys. El particular que l’indueixi ha de ser castigat amb la mateixa pena de multa.
+
+#### Capítol quart. Delictes contra la divisió de poders i els deures de cooperació
+
+###### Article 334 Atemptats contra la divisió de poders
+
+L’autoritat o el funcionari que, arrogant-se atribucions pròpies d’un altre poder de l’Estat, emeti un acte o resolució, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació de càrrec públic fins a deu anys.
+
+Si l’autoritat o el funcionari s’arroga il·lícitament competències legislatives i, en l’exercici de les mateixes competències, dicta una disposició general o en suspèn l’execució, s’apliquen les penes anteriors en la seva meitat superior.
+
+###### Article 335 Altres atemptats
+
+L’autoritat o el funcionari que atempti contra la independència dels batlles o magistrats dirigint-los instruccions o ordres amb la intenció d’influir en una decisió que depèn d’ells, ha de ser castigat amb una pena de presó de tres mesos a tres anys i inhabilitació per al càrrec fins a sis anys.
+
+###### Article 336 Incompliment de resolucions judicials
+
+1. L’autoritat o el funcionari que es negui obertament a donar el compliment degut a una resolució d’un batlle o tribunal dictada en l’àmbit de la seva competència i amb les formalitats legals, ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+2. Malgrat el que es disposa a l’apartat anterior, no incorren en responsabilitat penal les autoritats i funcionaris que no donin compliment a un manament o resolució que constitueixi una infracció manifesta i clara d’una norma legal.
+
+###### Article 337 Delicte de denegació de cooperació
+
+El funcionari que, requerit per l’autoritat competent en exercici legítim de les seves funcions, no presti l’auxili degut a l’Administració de justícia o a qualsevol servei públic, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+#### Capítol cinquè. Delictes de discriminació
+
+###### Article 338 Discriminació
+
+1. Ha de ser castigat amb pena de presó de tres mesos a tres anys qui, per raó d’un mòbil discriminatori:
+
+a) Inciti públicament a la violència, l’odi o la discriminació contra una persona o un grup de persones.
+
+b) Injuriï públicament, calumniï, difami o amenaci una persona o un grup de persones.
+
+c) Expressi públicament, per qualsevol mitjà, una ideologia o una doctrina que afirma la superioritat d’un grup de persones, o que el menysprea o denigra.
+
+d) Difongui o distribueixi públicament qualsevol material que contingui imatges o expressions compreses en les conductes anteriors.
+
+La temptativa és punible.
+
+2. L’autoritat o el funcionari que en l’exercici de les seves funcions cometi qualsevol dels fets descrits en l’apartat anterior ha de ser castigat amb la mateixa pena de presó que s’hi estableix i inhabilitació per a l’exercici del càrrec públic de fins a quatre anys.
+
+3. Ha de ser castigat amb pena de pena d’arrest i inhabilitació per a l’exercici de l’ofici o el càrrec de fins a tres anys qui, per raó d’un mòbil discriminatori:
+
+a) Refusa la venda o l’arrendament d’un bé o un servei o en subordina l’atorgament a condicions especials. La discriminació es pot cometre respecte d’una persona jurídica quan el mòbil discriminatori es refereix a un dels seus dirigents o a un dels seus membres.
+
+b) Refusa contractar laboralment algú, procedeix a un acomiadament o a una sanció disciplinària o introdueix diferències en els salaris, les condicions de treball o el desenvolupament de les carreres professionals.
+
+Malgrat el que es diu a les lletres a) i b) anteriors, no constitueix discriminació la presa en consideració de l’estat de salut en matèria d’assegurances de vida, de riscos que afectin la integritat física de les persones o incapacitats de treball o invalidesa, o en matèria laboral quan es constata mèdicament la inidoneïtat física per al treball.
+
+4. L’autoritat o el funcionari que en l’exercici de les seves funcions i amb mòbil discriminatori refusa la prestació d’un servei públic o l’atorgament d’un dret o d’un avantatge acordat per la llei o en dificulta l’atorgament o en provoca la revocació ha de ser castigat amb pena de presó de fins a un any i inhabilitació per a l’exercici del càrrec públic de fins a tres anys.
+
+###### Article 338 bis Actes preparatoris punibles
+
+El qui, amb mòbil discriminatori, produeixi o posseeixi qualsevol material que contingui imatges o expressions compreses en les lletres a), b) i c) de l’apartat 1 de l’article 338, ha de ser castigat amb pena de presó de fins a un any, sempre que aquest material estigui destinat a la difusió pública.
+
+###### Article 339 Delicte d’ofensa a un grup
+
+El qui, amb ànim injuriós i amb publicitat, realitzi actes o profereixi expressions greument ofensives per als membres d’un grup religiós, nacional, ètnic, sindical, polític, o de persones que professin una determinada creença o ideologia, ha de ser castigat amb pena d’arrest.
+
+###### Article 340 Delicte contra els sentiments envers els difunts
+
+El qui profani o ultratgi una sepultura, un cadàver o les seves restes, les cendres o l’urna funerària o l’espai que serveixi per a la mateixa finalitat, ha de ser castigat amb pena de presó fins a un any.
+
+#### Capítol sisè. Delictes contra l’exercici dels drets fonamentals
+
+###### Article 341 Delicte contra l’exercici del dret de reunió i manifestació
+
+1. El qui, mitjançant violència o intimidació, impedeixi o pertorbi greument la celebració d’una reunió o una manifestació, o impedeixi a una persona d’assistir-hi o la forci a prendre-hi part contra la seva voluntat, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+Si l’impediment o la pertorbació és realitzat mitjançant aldarull o vies de fet s’ha d’imposar pena d’arrest.
+
+Si el culpable és funcionari i actua en l’exercici del seu càrrec ha de ser castigat a més amb la pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+2. L’autoritat o el funcionari que, fora dels casos previstos legalment, prohibeixi o dissolgui una reunió o manifestació, ha de ser castigat amb la pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys i multa fins a 30.000 euros.
+
+3. La temptativa és punible.
+
+###### Article 342 Delicte contra la llibertat d’expressió i informació
+
+L’autoritat o el funcionari que, fora dels casos previstos legalment, prohibeixi o suspengui l’edició o la distribució de qualsevol publicació impresa o la difusió de qualsevol emissió per via televisiva, radiofònica o xarxa de comunicació, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys i multa fins a 30.000 euros.
+
+###### Article 343 Impediment de l’exercici dels drets fonamentals
+
+L’autoritat o el funcionari que, fora dels casos previstos en aquest o altres capítols d’aquest Codi, impedeixi a una persona l’exercici de qualsevol dels drets i llibertats proclamats en els capítols III i IV del títol II de la Constitució, ha de ser castigat amb pena de suspensió de càrrec públic fins a tres anys.
+
+La temptativa és punible.
+
+#### Capítol setè. Delictes contra les garanties dels drets fonamentals
+
+##### Secció primera. Delictes contra les garanties del dret a la llibertat individual
+
+###### Article 344 Detenció o retenció il·legal
+
+L’autoritat o el funcionari que, havent-hi motiu legal inicial, acordi, practiqui o perllongui la privació de llibertat d’una persona detinguda, presa o condemnada, amb violació dels terminis o d’alguna de les garanties constitucionals o legals, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+###### Article 345 Incomunicació il·legal
+
+El funcionari que acordi, practiqui o perllongui la incomunicació d’una persona detinguda, presa o condemnada amb violació dels terminis o altres garanties constitucionals o legals, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+###### Article 346 Violació del dret a l’assistència lletrada
+
+El funcionari que impedeixi o obstaculitzi el dret a l’assistència d’advocat al detingut o el pres, procuri o afavoreixi la seva renúncia a l’assistència esmentada o no l’informi de forma immediata i que li sigui comprensible dels seus drets i de les raons de la seva detenció, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+La temptativa és punible.
+
+###### Article 347 Abusos comesos per funcionaris en l’àmbit penitenciari
+
+El funcionari penitenciari o de centre de menors que imposi sancions o restriccions de llibertat il·legals als interns o que cometi qualsevol vexació il·legal ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+##### Secció segona. Delictes comesos per funcionaris públics contra la inviolabilitat domiciliària i les altres garanties del dret a la intimitat
+
+###### Article 348 Delicte contra la inviolabilitat domiciliària
+
+1. El funcionari que, en ocasió d’una entrada lícita en un domicili, hi romangui sense el consentiment de qui hi habita i sense respectar les garanties constitucionals o legals, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+2. El funcionari que, en ocasió d’una entrada lícita en un domicili, registri els papers o documents o els efectes que s’hi trobin sense el consentiment del seu titular i sense respectar les garanties constitucionals o legals, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+###### Article 349 Delicte contra la inviolabilitat de la correspondència
+
+El funcionari que, amb motiu legal inicial, continuï interceptant qualsevol classe de correspondència privada, postal o electrònica, amb violació de les garanties constitucionals o legals, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+Si el funcionari divulga o revela la informació obtinguda, la pena s’ha d’imposar en la seva meitat superior.
+
+###### Article 350 Escoltes il·legals
+
+El funcionari que, amb motiu legal inicial, continuï interceptant les comunicacions o utilitzi artificis tècnics d’escolta, transmissió, gravació o reproducció del so, de la imatge o de qualsevol altre senyal de comunicacions, amb violació de les garanties constitucionals o legals, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+Si el funcionari divulga o revela la informació obtinguda, la pena s’ha d’imposar en la seva meitat superior.
+
+### Títol XIX. Delictes contra l’ordre públic
+
+#### Capítol primer. Sedició
+
+###### Article 351 Concepte de sedició
+
+Cometen delicte de sedició els qui, emprant armes, duguin a terme actes de violència col·lectiva que tendeixin a:
+
+- Impedir l’execució de resolucions administratives o judicials.
+
+- Impedir l’exercici legítim de llurs funcions o el compliment dels seus acords a qualsevol autoritat, administració pública, organisme oficial o funcionari.
+
+###### Article 352 Persones responsables
+
+1. El culpable d’un delicte de sedició ha de ser castigat amb pena de dos a quatre anys de presó i inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+2. Els inductors o dirigents de la sedició han de ser castigats amb pena de presó de quatre a vuit anys, que s’ha d’imposar en la seva meitat superior si es tracta d’autoritat o funcionari. En ambdós casos s’ha d’imposar, a més a més, la pena d’inhabilitació per a drets públics fins a dotze anys.
+
+3. La responsabilitat establerta en aquest article ho és sense perjudici de la que s’escaigui pels delictes o contravencions penals comesos amb motiu o en ocasió de la sedició.
+
+###### Article 353 Atenuació facultativa
+
+En el cas que la sedició no arribi a destorbar greument l’exercici de les funcions públiques, el tribunal pot aplicar la reducció de pena prevista a l’article 53.
+
+###### Article 354 Temptativa i actes preparatoris
+
+La temptativa, la provocació i la conspiració són punibles.
+
+#### Capítol segon. Els delictes de desordres públics
+
+###### Article 355 Desordres públics
+
+Els qui, actuant en grup i amb la finalitat d’alterar la pau pública, obstaculitzin les vies públiques o llurs accessos de forma perillosa per als qui hi circulin, han de ser castigats amb pena de presó fins a dos anys. S’ha d’imposar la mateixa pena als qui envaeixin de forma violenta instal·lacions o edificis.
+
+La responsabilitat establerta en aquest article ho és sense perjudici de la que s’escaigui per altres infraccions penals previstes en aquest Codi.
+
+La temptativa és punible.
+
+###### Article 356 Manifestacions il·lícites
+
+1. Són manifestacions il·lícites:
+
+a) Les manifestacions que se celebrin amb la finalitat de cometre algun delicte.
+
+b) Les manifestacions a les quals concorrin persones amb armes o artefactes explosius.
+
+2. Els promotors o els dirigents d’una manifestació il·lícita definida a la lletra a) del punt anterior o que, en el supòsit previst a la lletra b), coneguin que hi concorren persones armades i no posin els mitjans al seu abast per impedir-ho, han de ser castigats amb pena de presó de tres mesos a tres anys.
+
+Les persones que portin armes o artefactes explosius en el supòsit previst en la lletra b) del punt primer han de ser castigades amb pena de presó de tres mesos a tres anys. El tribunal pot imposar a més la pena de privació temporal o definitiva del permís d’arma.
+
+###### Article 357 Desordres especials
+
+Ha de ser castigat amb pena d’arrest el qui pertorbi greument l’ordre en l’audiència d’un tribunal o batllia, en els actes de qualsevol corporació, oficina o establiment públic, centre docent o amb motiu de la celebració d’actes oficials, religiosos o espectacles esportius o culturals. Quan es tracti d’alteració de l’ordre en un tribunal o batllia, la pena s’ha d’imposar en la seva meitat superior.
+
+###### Article 358 Alteracions de serveis i subministraments
+
+Els qui interrompin, obstaculitzin o danyin les línies o instal·lacions de telecomunicacions, o el servei postal, així com les conduccions d’aigua, gas o electricitat per a les poblacions, tot alterant greument el subministrament o el servei, han de ser castigats amb pena de presó de tres mesos a tres anys.
+
+La temptativa és punible.
+
+#### Capítol tercer. Associacions il·lícites
+
+###### Article 359 Concepte d’associació il·lícita
+
+És associació il·lícita el grup de persones organitzat en el qual concorre un dels requisits següents:
+
+a) Que tingui com a finalitat cometre algun delicte o en promogui la comissió.
+
+b) Que, tot i tenir com a objecte un fi lícit, recorri per aconseguir-ho a mitjans violents de caràcter delictiu.
+
+c) Que actuï per un mòbil discriminatori.
+
+Als grups armats o terroristes els és aplicable el que es disposa al capítol següent.
+
+###### Article 360 Penes per als membres d’associacions il·lícites
+
+Als promotors, dirigents o persones que exerceixin un poder de fet en una associació il·lícita els ha de ser imposada una pena de presó d’un a quatre anys. Als qui en siguin membres i hi exerceixin una activitat rellevant i als que hi donin suport financer o de qualsevol altre tipus els ha de ser imposada una pena de presó de tres mesos a tres anys.
+
+El tribunal pot reduir la pena d’acord amb el que preveu l’article 53 en cas que el culpable s’hagi esforçat a disminuir els efectes negatius de l’actuació de l’associació o que col·labori en el descobriment i l’evitació d’alguns dels plans de l’organització.
+
+###### Article 361 Altres conseqüències del delicte
+
+El tribunal pot acordar qualsevol de les mesures previstes en els articles 70 i 71 amb relació a l’associació il·lícita.
+
+Als culpables que siguin autoritat o funcionari i hagin obrat amb abús del seu càrrec els ha de ser imposada, a més a més, una pena d’inhabilitació per a l’exercici de càrrec públic fins a deu anys.
+
+#### Capítol quart. Delictes de terrorisme
+
+###### Article 362.
+
+Definició de terrorisme
+
+1. Constitueixen actes de terrorisme:
+
+a) Un acte que constitueix una infracció en el marc i segons la definició que figura en un dels tractats següents:
+
+- Conveni per a la repressió de l’apoderament il·lícit d’aeronaus (l’Haia, 16 de desembre de 1970).
+
+- Conveni per a la repressió d’actes il·lícits contra la seguretat de l’aviació civil (Montreal, 23 de setembre de 1971).
+
+- Conveni sobre la prevenció i el càstig de delictes contra persones objecte de protecció internacional, inclosos els agents diplomàtics, adoptat per l’Assemblea General de les Nacions Unides el 14 de desembre de 1973.
+
+- Conveni internacional contra la presa d’ostatges, adoptat per l’Assemblea General de les Nacions Unides el 17 de desembre de 1979.
+
+- Conveni sobre la protecció física de les matèries nuclears (Viena, 26 d’octubre de 1979).
+
+- Protocol per a la repressió d’actes il·lícits de violència en els aeroports que presten servei a l’aviació civil internacional, complementari del Conveni per a la repressió d’actes il·lícits contra la seguretat de l’aviació civil (Montreal, 24 de febrer de 1988).
+
+- Conveni per a la repressió d’actes il·lícits contra la seguretat de la navegació marítima (Roma, 10 de març de 1988).
+
+- Protocol per a la repressió d’actes il·lícits contra la seguretat de les plataformes fixes situades a la plataforma continental (Roma, 10 de març de 1988).
+
+- Conveni internacional per a la repressió dels atemptats terroristes amb explosius, adoptat per l’Assemblea General de les Nacions Unides el 15 de desembre de 1997.
+
+b) Qualsevol acte destinat a provocar la mort o ferides corporals greus a un civil o tota altra persona que no prengui part activament en les hostilitats en una situació de conflicte armat quan la finalitat del dit acte, per la seva naturalesa o les circumstàncies que l’envolten, és intimidar una població o obligar un govern o una organització internacional a acomplir o a abstenir-se d’acomplir un acte qualsevol.
+
+c) En la mesura que estiguin relacionades amb un projecte individual o col·lectiu que tingui per objectiu la subversió de l’ordre constitucional o l’atemptat greu de l’ordre i la pau públics mitjançant la intimidació i el terror, les infraccions següents:
+
+- Els atemptats voluntaris contra la vida i la integritat de les persones.
+
+- La detenció il·legal, el segrest, les amenaces o les coaccions.
+
+- Els robatoris, les extorsions, els danys, els estralls, els incendis, així com les infraccions en matèria informàtica definides en aquest Codi.
+
+- El dipòsit d’armes o municions, la tinença o el dipòsit de substàncies o aparells explosius, inflamables, incendiaris o asfixiants, o llurs components, així com la fabricació, el tràfic, el transport o el subministrament en qualsevol forma.
+
+2. Es considera terrorista:
+
+- La persona que comet o intenta cometre, com a autor o com a còmplice qualsevol acte terrorista.
+
+- La persona que pertany, actua al servei o col·labora amb un grup terrorista.
+
+3. Constitueix grup terrorista l’agrupació de persones organitzades per a la realització d’actes de terrorisme.
+
+###### Article 363 Penalitat
+
+1. El qui pertanyent, actuant al servei o col·laborant amb un grup terrorista, cometi qualsevol acte de terrorisme ha de ser castigat:
+
+a) Amb pena de vint a trenta anys de presó quan la infracció estigui castigada amb pena de presó fins a vint anys.
+
+b) Amb pena de quinze a vint anys de presó quan la infracció estigui castigada amb pena de presó fins a quinze anys.
+
+c) Amb pena de deu a quinze anys de presó quan la infracció estigui castigada amb pena de presó fins a deu anys.
+
+d) Amb pena de cinc a vuit anys de presó quan la infracció estigui castigada amb pena de presó fins a cinc anys.
+
+e) Amb pena de tres a cinc anys de presó quan la infracció estigui castigada amb pena de presó fins a tres anys.
+
+2. La comissió d’un acte de terrorisme sense pertànyer o sense actuar al servei de banda armada, organització o grup terrorista, ha de ser castigada amb la pena que correspongui al fet comès en la seva meitat superior.
+
+###### Article 364 Altres infraccions amb finalitat terrorista
+
+1. El qui pertanyent, actuant al servei o col·laborant amb grup terrorista i amb la finalitat establerta a l’apartat primer de l’article 362, cometi qualsevol altra infracció prevista en aquest Codi, ha de ser castigat amb la pena que correspongui al fet comès en la seva meitat superior.
+
+2. El qui difongui per qualsevol mitjà una ideologia o doctrina dirigida a justificar el recurs al terrorisme o a fer apologia de grups o organitzacions que l’hagin practicat o li hagin donat suport ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+###### Article 365 Pertinença activa a grup terrorista
+
+El qui participi com a membre actiu en un grup terrorista ha de ser castigat amb pena de presó de tres a vuit anys, sense perjudici de la responsabilitat pels delictes de terrorisme comesos.
+
+###### Article 366 Col·laboració amb terrorista
+
+1. Qui, sense realitzar les conductes previstes a l’article anterior i sense incórrer en autoria o complicitat amb els actes terroristes, consumats o intentats, realitzi actes de col·laboració amb les activitats o les finalitats d’un terrorista o d’un grup terrorista, ha de ser castigat amb pena de presó de dos a cinc anys.
+
+2. Són actes de col·laboració:
+
+La informació o la vigilància de persones, béns o instal·lacions.
+
+La construcció, la preparació, la cessió o la utilització d’allotjaments o dipòsits.
+
+L’ocultació o el trasllat de persones vinculades amb bandes armades, organitzacions o grups terroristes.
+
+L’organització de pràctiques d’ensinistrament o assistència a aquestes pràctiques.
+
+En general, qualsevol altra forma de gravetat equivalent de cooperació, ajuda o mediació amb les activitats d’un grup terrorista.
+
+###### Article 366 bis Finançament del terrorisme
+
+1. La persona que realitza actes de finançament del terrorisme ha de ser castigada amb pena de presó de dos a vuit anys.
+
+La temptativa i la conspiració són punibles.
+
+2. A l’efecte d’aquest article s’entén per finançament qualsevol actuació que, pel mitjà que sigui, directament o indirectament, il·lícitament i deliberadament, consisteixi en la provisió o reunió de fons amb la intenció que s’utilitzin o sabent que seran utilitzats, en tot o en part, al Principat o a l’estranger:
+
+- Per un grup terrorista o per un terrorista.
+
+- Per cometre un o diversos actes terroristes.
+
+3. A l’efecte d’aquest article s’entén per fons: els actius financers, els béns de tota natura, materials o immaterials, mobles o immobles, adquirits per qualsevol mitjà, lícit o il·lícit, i els documents, títols o instruments jurídics de qualsevol forma, fins i tot l’electrònica o digital, que certifiquen un dret de propietat o un interès sobre els mateixos actius o béns, especialment però no exclusivament, els havers i crèdits bancaris, els xecs de viatge, els xecs bancaris, les ordres de pagament, les accions, els títols valors, les obligacions, i les lletres de canvi i de crèdit.
+
+4. S’ha d’imposar pena de presó de tres a deu anys quan es doni alguna de les circumstàncies següents:
+
+a) Quan el finançament es cometi mitjançant un grup organitzat.
+
+b) Quan el subjecte actuï amb habitualitat.
+
+La temptativa i la conspiració són punibles.
+
+###### Article 366 ter Conseqüències accessòries
+
+Amb relació a les infraccions previstes en aquest capítol el tribunal ha d’imposar, endemés de les penes previstes, una o diverses de les mesures següents:
+
+a) Comís del producte del delicte. Els fons objecte del finançament, a l’efecte de l’aplicació del comís i del comís per equivalent previstos a l’article 70, es consideren producte del delicte.
+
+b) Dissolució de l’organització o clausura definitiva dels seus locals o establiments oberts al públic.
+
+c) Suspensió de les activitats de l’organització, o clausura dels seus locals o establiments oberts al públic per un període no superior a cinc anys.
+
+d) Prohibició de realitzar les activitats, operacions mercantils o negocis, mitjançant l’exercici dels quals s’hagi facilitat o encobert el delicte, per temps no superior a cinc anys.
+
+e) Les altres mesures, referides a les persones físiques o a les persones jurídiques, esmentades a l’article 71, que puguin correspondre.
+
+###### Article 367 Rellevància del penediment
+
+En els delictes previstos en aquest capítol, el tribunal pot aplicar la reducció de pena prevista a l’article 53 raonadament en la sentència, per al delicte de què es tracti, quan el subjecte hagi abandonat voluntàriament l’activitat terrorista i es presenti a les autoritats per confessar els fets en els quals hagi participat i, a més a més, col·labori activament per evitar la producció del delicte o per facilitar proves decisives per identificar o detenir els autors, o per impedir l’actuació del grup.
+
+### Títol XX. Delictes contra la pau i la independència del Principat
+
+###### Article 368 Atemptat contra la independència del Principat
+
+El qui, mitjançant violència, intimidació, usurpació o abús de funcions, sotmeti tot o una part del territori del Principat a la sobirania d’un altre Estat ha de ser castigat amb pena de presó de deu a vint anys.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 369 Provocació de la guerra
+
+El qui amb actes il·lícits provoqui una declaració de guerra, una invasió o una agressió militar contra el Principat d’Andorra o la participació del Principat en un conflicte armat, ha de ser castigat amb pena de quinze a vint anys de presó si és autoritat o funcionari i de deu a quinze anys si no ho és.
+
+Si del fet no se’n deriven conseqüències transcendents per a la vida, la salut o la dignitat de les persones, les penes han de ser atenuades d’acord amb el que disposa l’article 53.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 370 Atemptat contra la neutralitat
+
+El qui, en ocasió d’un conflicte armat entre tercers països, atempti o comprometi greument la neutralitat o la seguretat internacional del Principat ha de ser castigat amb pena de presó de sis a dotze anys.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 371 Traïció
+
+El ciutadà andorrà que prengui armes al servei d’un altre Estat contra el Principat d’Andorra ha de ser castigat amb pena de presó de cinc a quinze anys. També ha de ser castigat amb la mateixa pena el qui en cas de conflicte armat amb participació del Principat o d’agressió exterior subministri armes, financi o comuniqui informació sensible a un Estat o poder exterior.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+### Títol XXI. Delictes contra la funció pública
+
+#### Capítol primer. Prevaricació en la funció pública
+
+###### Article 372 Prevaricació d’autoritat o funcionari
+
+L’autoritat o el funcionari que, amb coneixement de la seva injustícia, adopti una decisió arbitrària en un afer administratiu ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a deu anys.
+
+###### Article 373 Nomenament il·legal
+
+L’autoritat o el funcionari que, en l’exercici de la seva competència i amb coneixement de la seva arbitrarietat, proposi o nomeni per a l’exercici d’un determinat càrrec públic qualsevol persona sense que concorrin els requisits legalment establerts, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a cinc anys.
+
+El qui accepti la proposta o el nomenament sabent que li manquen els requisits legalment exigits ha de ser castigat amb pena de multa fins a 6.000 euros.
+
+#### Capítol segon. Infidelitat en la custòdia de documents i violació de secret
+
+###### Article 374 Sostracció de documents
+
+1. L’autoritat o el funcionari que sostregui, destrueixi, inutilitzi o amagui, totalment o parcialment, documents dels quals tingui la custòdia per raó del seu càrrec, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+2. El particular que sostregui, destrueixi, inutilitzi o amagui, totalment o parcialment, documents públics ha de ser castigat amb pena d’arrest.
+
+###### Article 375 Destrucció o inutilització de segells o altres mesures adoptades per restringir l’accés a un document
+
+1. L’autoritat o el funcionari que, per raó del seu càrrec, tingui encomanada la custòdia de documents dels que l’autoritat competent n’ha restringit el seu accés i que destrueixi o inutilitzi els mitjans posats per impedir aquest accés o consenti la seva destrucció o inutilització, ha de ser castigat amb pena de presó fins un any i inhabilitació per a l’exercici de càrrec públic fins a tres anys.
+
+2. El particular que destrueixi o inutilitzi els mitjans referits a l’apartat anterior ha de ser castigat amb pena d’arrest.
+
+###### Article 376 Accés il·lícit a documents
+
+1. L’autoritat o el funcionari que, sense l’autorització deguda, accedeixi a documents secrets la custòdia dels quals li ha estat confiada per raó del seu càrrec, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a tres anys.
+
+2. El particular que accedeixi il·lícitament a documents públics secrets ha de ser castigat amb pena d’arrest.
+
+###### Article 377 Revelació de secrets
+
+1. L’autoritat o el funcionari que reveli secrets o informacions que no afectin la intimitat d’una persona, dels quals tingui coneixement per raó del seu càrrec i que no hagin de ser divulgats, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a tres anys.
+
+2. El particular que reveli secrets o informacions de les descrites a l’apartat anterior ha de ser castigat amb pena de multa fins a 6.000 euros.
+
+3. Si la revelació a la qual es refereixen els apartats anteriors afecta la intimitat d’una persona la pena ha de ser de presó de tres mesos a tres anys i inhabilitació per a l’exercici de càrrec públic fins a cinc anys.
+
+#### Capítol tercer. La concussió i les exaccions il·legals
+
+###### Article 378 Concussió
+
+1. L’autoritat o el funcionari que, en l’exercici del seu càrrec, personalment o mitjançant persona interposada, en benefici propi o d’un tercer, indueixi a error o s’aprofiti de l’error d’altri per rebre diners o altres avantatges no deguts o superiors als deguts ha de ser castigat amb pena de presó de tres mesos a tres anys, multa fins al triple del benefici obtingut i inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+2. Si l’avantatge s’obté emprant violència, intimidació o amenaça, s’ha d’imposar la pena de presó en la seva meitat superior, multa fins al triple del benefici obtingut i inhabilitació per a drets públics fins a deu anys. La temptativa, en aquest supòsit, és punible.
+
+3. L’autoritat o el funcionari que, en l’exercici del seu càrrec, acordi una exoneració injustificada de tributs legalment deguts, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a tres anys i multa fins al triple del perjudici causat a l’Administració.
+
+###### Article 379 Exaccions il·legals
+
+L’autoritat o el funcionari que, en exercici del seu càrrec, exigeixi tributs o pagaments no deguts o per un import superior al legalment degut, ha de ser castigat amb pena de multa fins a 30.000 euros i suspensió per a l’exercici de càrrec públic fins a tres anys.
+
+#### Capítol quart. Corrupció i tràfic d’influències
+
+###### Article 380 Corrupció
+
+1. L’autoritat o el funcionari que, en profit propi o d’un tercer, demani o rebi, personalment o per una persona interposada, avantatges indeguts o accepti un oferiment o una promesa amb la finalitat de realitzar o d’ometre un acte propi del seu càrrec, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de càrrec públic de fins a sis anys.
+
+2. El particular que ofereixi, lliuri o prometi a l’autoritat o al funcionari, per al seu profit o el d’un tercer, avantatges indeguts amb la finalitat que realitzi un dels actes descrits a l’apartat anterior ha de ser castigat amb pena de presó de fins a dos anys.
+
+3. Constitueix una circumstància atenuant de la responsabilitat criminal, que pot arribar a ser de significació especial, el fet que el particular denunciï davant l’autoritat l’acte de corrupció abans de conèixer l’inici d’una investigació.
+
+###### Article 381 Tipus agreujat
+
+1. L’autoritat o el funcionari que, en profit propi o d’un tercer, demani o rebi, personalment o per una persona interposada, avantatges indeguts o accepti un oferiment o una promesa per realitzar o per haver realitzat, en l’exercici del seu càrrec, una acció o una omissió injusta, per retardar tràmits o per adoptar un acte de natura política, ha de ser castigat amb pena de presó d’un a quatre anys i inhabilitació per a l’exercici de càrrec públic de fins a sis anys.
+
+2. El particular que ofereixi, lliuri o prometi a l’autoritat o al funcionari, per al seu profit o el d’un tercer, avantatges indeguts perquè realitzi un dels actes descrits a l’apartat anterior ha de ser castigat amb pena de presó de tres mesos a tres anys i prohibició de contractar amb les administracions públiques per un període màxim de sis anys.
+
+###### Article 382 Altres subjectes de la corrupció
+
+Les previsions dels articles 380 i 381 amb relació a l’autoritat o al funcionari també és aplicable als supòsits en què les conductes descrites les dugui a terme o tinguin relació amb un funcionari estranger o internacional, un membre d’una assemblea parlamentària internacional o supranacional o un membre d’una assemblea pública que exerceixi poders legislatius o administratius de qualsevol altre estat.
+
+Igualment, és aplicable als jurats, àrbitres, perits, intèrprets o qualsevol persona que participi en l’exercici de la funció pública, tant nacionals com estrangers, substituint la pena d’inhabilitació per a l’exercici de càrrec públic per la d’inhabilitació per a l’exercici de l’ofici o el càrrec quan escaigui.
+
+###### Article 383 Corrupció judicial
+
+1. El batlle o el magistrat que, amb profit propi o d’un tercer, demani o rebi, personalment o per una persona interposada, avantatges indeguts o accepti un oferiment o una promesa per realitzar o ometre un acte propi del seu càrrec ha de ser castigat amb pena de presó d’un a quatre anys i inhabilitació per a l’exercici de càrrec públic de fins a sis anys.
+
+2. El particular que ofereixi, lliuri o prometi al batlle o al magistrat, per al seu profit o el d’un tercer, avantatges indeguts perquè realitzi un dels actes descrits a l’apartat anterior ha de ser castigat amb pena de presó de tres mesos a tres anys i prohibició de contractar amb les administracions públiques per un període màxim de sis anys.
+
+###### Article 384 Tipus agreujat
+
+1. En el supòsit de l’apartat 1 de l’article anterior, si l’acte a canvi de l’avantatge consisteix en emetre o haver emès una resolució injusta o a retardar-la, s’ha d’imposar la pena de presó de dos a sis anys i inhabilitació per a l’exercici de càrrec públic de fins a sis anys.
+
+2. El particular que ofereixi, lliuri o prometi al batlle o al magistrat, per al seu profit o el d’un tercer, avantatges indeguts perquè realitzi un dels actes descrits a l’apartat anterior ha de ser castigat amb pena de presó d’un a quatre anys.
+
+###### Article 385 Tipus privilegiat
+
+Quan el suborn es produeixi en causa criminal per afavorir el processat, de part del seu cònjuge o una persona que hi estigui relacionada per una situació de fet equivalent, o d’algun ascendent, descendent o germà, per natura o per adopció, s’ha d’imposar al subornador la pena de presó de fins a un any, en el supòsit de l’article 383, i de presó de fins a dos anys, en el supòsit de l’article 384.
+
+###### Article 385 bis Altres subjectes de la corrupció
+
+El que preveuen els tres articles anteriors amb relació al batlle o al magistrat, és també aplicable als supòsits en què les conductes descrites es verifiquin sobre o per funcionari o agent de tribunals internacionals.
+
+###### Article 386 Tràfic d’influències
+
+1. La persona que influeixi en una autoritat o en un funcionari amb prevalença de qualsevol situació derivada de la seva relació personal amb l’autoritat o el funcionari o un altre funcionari o autoritat per aconseguir una resolució que pugui generar, directament o indirectament, un avantatge indegut per a ella o per a una tercera persona, ha de ser castigada amb pena de presó màxima de dos anys. El tribunal pot, a més, imposar la pena de prohibició de contractar amb les administracions públiques per un període màxim de tres anys.
+
+2. L’autoritat o el funcionari influenciat ha de ser castigat amb les mateixes penes i inhabilitació per a l’exercici de càrrec públic de fins a tres anys.
+
+3. Quan l’autor sigui una autoritat o un funcionari i la influència derivi de la prevalença de les facultats inherents al càrrec o de qualsevol relació personal o jeràrquica, se li ha d’imposar pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de càrrec públic de fins a sis anys.
+
+###### Article 386 bis Altres subjectes del tràfic d’influències
+
+A l’efecte del que disposa l’article 386, es considera també funcionari o autoritat:
+
+1. Un funcionari estranger o internacional, un membre d’una assemblea parlamentària internacional o supranacional o un membre d’una assemblea pública que exerceixi poders legislatius o administratius de qualsevol altre estat.
+
+2. Els jurats, àrbitres, pèrits, intèrprets o qualsevol persona que participi en l’exercici de la funció pública, tant nacionals com estrangers.
+
+3. Els funcionaris o agents de tribunals internacionals.
+
+###### Article 386 ter Conseqüències accessòries
+
+En relació amb les infraccions previstes en aquest capítol el tribunal ha d’imposar, així mateix, les mesures següents:
+
+a) El comís del producte obtingut, en els termes previstos a l’article 70.
+
+b) Les altres mesures, referides a les persones físiques o a les persones jurídiques, esmentades a l’article 71.
+
+#### Capítol cinquè. Finançament il·legal de partits polítics
+
+###### Article 387 Finançament il·legal de partits polítics
+
+1. Qui rebi finançament per a un partit polític o per a una candidatura electoral contravenint greument els deures i les condicions imposades a la Llei qualificada de partits polítics i finançament electoral ha de ser castigat amb pena de presó de tres mesos a tres anys i multa fins el triple de l’import rebut.
+
+2. Qui realitzi donacions a un partit polític o a una candidatura electoral contravenint greument els límits i les condicions imposades a la Llei qualificada de partits polítics i finançament electoral ha de ser castigat amb pena de presó de tres mesos a tres anys i multa fins el triple de l’import donat.
+
+3. L’administrador general d’un partit polític que tingués a la seva disposició béns, fons o qualsevol element patrimonial no declarat, tant al Principat com fora d’ell, l’adquisició del qual no s’hagi justificat degudament en virtut del règim legal de finançament vigent, ni amb la comptabilitat formulada i presentada al control del Tribunal de Comptes, serà castigat amb la pena de presó de tres mesos a tres anys, i multa fins el triple del valor.
+
+4. Aquest delicte es castigarà fins i tot quan els béns, fons o el patrimoni no declarat tinguessin un titular formal aliè al partit polític, sempre que es pogués acreditar que aquests béns, fons o patrimoni estaven a la disposició del partit o de persones del mateix que estiguessin en posicions directives o executives.
+
+5. Els béns, fons, o el patrimoni no declarat s’ha de considerar l’instrument del delicte als efectes del que disposa l’article 70.
+
+#### Capítol sisè. Malbaratament de cabals públics
+
+###### Article 388 Sostracció de béns públics
+
+1. L’autoritat o el funcionari que, amb ànim de lucre, sostregui cabals o efectes públics posats al seu càrrec per raó de les seves funcions, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a drets públics fins a sis anys.
+
+2. Si el fet revesteix especial gravetat atesos l’import d’allò sostret, el sector públic afectat o la naturalesa i la destinació dels cabals o efectes sostrets, s’ha d’imposar pena de presó de dos a cinc anys i inhabilitació per a drets públics fins a dotze anys.
+
+3. La temptativa és punible.
+
+###### Article 389 Administració deslleial del patrimoni públic
+
+L’autoritat o el funcionari que tingui atribuïda, per raó de les seves funcions, competència per disposar, celebrar negocis jurídics o obligar en nom de qualsevol entitat pública o parapública i abusi en benefici propi o d’un tercer d’aquesta competència causant un perjudici a l’entitat, ha de ser castigat amb pena de presó d’un a quatre anys i inhabilitació per a drets públics fins a vuit anys.
+
+###### Article 390 Utilització temporal de béns públics
+
+L’autoritat o el funcionari que per raó de les seves funcions tingui a la seva disposició cabals o efectes públics i els utilitzi o en disposi sense ànim d’apoderament definitiu, en benefici propi o d’un tercer, ha de ser castigat amb pena d’arrest i suspensió de càrrec públic fins a dos anys sempre que el culpable ho reintegri en el termini de 10 dies des de la distracció o, altrament, amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+#### Capítol setè. Altres abusos en l’exercici de la funció pública
+
+###### Article 391 Intromissió d’interessos privats en la funció pública
+
+1. L’autoritat o el funcionari que, havent d’informar o resoldre, per raó del seu càrrec, en qualsevol classe de contracte, afer, operació o activitat, s’aprofiti d’aquesta circumstància per forçar o facilitar-se qualsevol forma de participació, directa o per persona interposada, en aquests negocis o activitats, ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+2. El que es disposa a l’apartat anterior és també aplicable als perits, àrbitres, tutors, curadors o marmessors, substituint-se la pena d’inhabilitació per a l’exercici de càrrec públic per la d’inhabilitació per a l’exercici de l’ofici o el càrrec.
+
+###### Article 392 Negociacions prohibides
+
+1. L’autoritat o el funcionari que, intervenint per raó del seu càrrec en qualsevol dels actes de les modalitats de contractació pública o en liquidacions d’efectes o havers públics, es concerti amb els interessats o faci ús de qualsevol altre artifici per defraudar qualsevol entitat pública o parapública, ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+2. El particular que es concerti amb l’autoritat o el funcionari per portar a terme els fets descrits a l’apartat anterior ha de ser castigat amb la mateixa pena d’arrest, a més de la prohibició de contractar amb les administracions públiques fins a sis anys.
+
+###### Article 393 Abús d’informació privilegiada per part d’una autoritat o un funcionari
+
+1. L’autoritat o el funcionari que faci ús d’un secret del qual tingui coneixement per raó del seu ofici o càrrec, o d’una informació privilegiada, amb ànim d’obtenir un benefici econòmic per a ell o un tercer, ha de ser castigat amb pena de multa fins al triple del benefici perseguit, obtingut o facilitat i inhabilitació per a l’exercici de càrrec públic fins a quatre anys. Si s’obté el benefici s’han d’imposar les penes en la seva meitat superior.
+
+2. Si en resulta un perjudici greu per a la causa pública o per a tercers, la pena ha de ser de presó d’un a quatre anys i inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+3. A l’efecte d’aquest Codi, s’entén per informació privilegiada tota informació de caràcter concret que es tingui exclusivament per raó del càrrec i que encara no hagi estat notificada, publicada o divulgada.
+
+###### Article 394 Ús d’informació privilegiada per part d’un particular
+
+1. El particular que s’aprofiti per a ell o un tercer del secret o la informació privilegiada que obtingui d’una autoritat o un funcionari, o a la qual accedeixi de manera il·lícita, ha de ser castigat amb pena de multa fins al triple del benefici obtingut.
+
+2. Si en resulta un perjudici greu per a la causa pública o per a tercers, s’ha d’imposar a més de la pena de multa referida a l’apartat anterior, la pena d’arrest.
+
+3. El tribunal pot imposar, a més, la pena de prohibició de contractar amb les administracions públiques fins a tres anys.
+
+#### Capítol vuitè. Matrimoni il·legal
+
+###### Article 395 Celebració de matrimoni il·legal
+
+L’autoritat o el funcionari que autoritzi un matrimoni il·legal ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de càrrec públic fins a tres anys.
+
+Amb la mateixa pena d’arrest ha de ser castigat el particular que indueix a la conducta anterior.
+
+#### Capítol novè. Atemptats contra els funcionaris i usurpació de funcions públiques
+
+###### Article 396 Obstaculització de funcions públiques
+
+El qui mitjançant violència o intimidació influeixi o tracti d’influir en una autoritat o un funcionari en l’exercici de les seves funcions o d’impedir-ne l’exercici ha de ser castigat amb pena de presó d’un a quatre anys, sense perjudici de la pena que correspongui per les conseqüències derivades del fet.
+
+###### Article 397 Resistència i desobediència
+
+El qui, sense incórrer en el delicte de l’article anterior, resisteixi o desobeeixi greument l’autoritat administrativa o judicial o els funcionaris públics quan estiguin exercint legítimament funcions pròpies del seu càrrec, ha de ser castigat amb pena d’arrest o multa fins a 6.000 euros.
+
+###### Article 398 Obstaculització de l’execució de resolucions administratives
+
+El qui mitjançant força en les coses impedeixi l’execució de resolucions administratives ha de ser castigat amb pena d’arrest o multa fins a 6.000 euros.
+
+###### Article 399 Usurpació de funcions públiques
+
+El qui il·legítimament exerceixi actes propis d’autoritat o funcionari atribuint-se caràcter oficial, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+### Títol XXII. Delictes contra l’Administració de Justícia
+
+#### Capítol primer. Prevaricació judicial
+
+###### Article 400 Prevaricació de batlle, magistrat o àrbitre
+
+1. El batlle o el magistrat que, sabent-ho, dicti una resolució injusta ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de càrrec públic fins a dotze anys, sense perjudici que els fets siguin castigats, endemés, d’acord amb altres preceptes d’aquest Codi si, com a conseqüència de la resolució injusta, s’origina o es perllonga la privació de llibertat d’una persona o s’atempta contra altres drets fonamentals.
+
+2. L’àrbitre que cometi la conducta anterior ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+###### Article 401 Imprudència o ignorància
+
+El Batlle o el magistrat que per imprudència greu o ignorància inexcusable dicti sentència o resolució manifestament injusta ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+###### Article 402 Denegació de justícia
+
+El Batlle o el magistrat que, sense al·legar causa legal, es negui expressament a dictar resolució ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+###### Article 403 Dilacions indegudes
+
+1. El batlle, el magistrat o el secretari judicial que retardi la instrucció o el desenvolupament de qualsevol procediment que tingui al seu càrrec, amb la finalitat d’afavorir o perjudicar una part o de fer estèril l’objecte de l’acció processal ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+2. Quan el responsable dels fets descrits a l’apartat anterior sigui un altre funcionari judicial s’ha d’aplicar la reducció de pena prevista a l’article 53.
+
+#### Capítol segon. L’omissió del deure d’impedir delictes o de perseguir-los
+
+###### Article 404 Omissió del deure d’impedir delictes
+
+1. El qui, sense risc per a ell o per a tercers, pugui impedir la comissió de qualsevol delicte major o d’un delicte menor contra la integritat física de les persones, mitjançant la seva acció personal o demanant la intervenció de tercers, i s’abstingui de fer-ho, ha de ser castigat amb pena d’arrest.
+
+2. Amb les mateixes penes ha de ser castigat el qui, podent-ho fer, no comuniqui a l’autoritat o als seus agents la comissió imminent o actual d’un delicte dels descrits a l’apartat anterior, si s’és a temps de poder-lo impedir o de disminuir-ne els efectes.
+
+3. L’autoritat o el funcionari que, mancant a l’obligació del seu càrrec, cometi la conducta descrita a l’apartat primer d’aquest article, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+###### Article 405 Omissió del deure de persecució de delictes
+
+L’autoritat o el funcionari que, mancant a l’obligació del seu càrrec, deixi de promoure la persecució de delictes dels quals tingui coneixement, o dels seus responsables, ha de ser castigat amb pena d’inhabilitació per a l’exercici de càrrec públic fins a dos anys.
+
+#### Capítol tercer. Encobriment
+
+###### Article 406 Encobriment
+
+És encobridor el qui, amb coneixement de la comissió d’un delicte i sense haver-hi participat com a autor o com a còmplice, intervingui amb posterioritat a la seva execució:
+
+- Amagant, alterant o inutilitzant el cos del delicte, els seus efectes o els instruments.
+
+- Ajudant, sense ànim de lucre, els autors o els còmplices a aprofitar-se dels béns procedents del delicte.
+
+- Ajudant els partícips del delicte a eludir la investigació de l’autoritat o dels seus agents, o a sostreure’s a la seva recerca i captura, sempre que el delicte encobert sigui constitutiu de delicte contra la vida de les persones, de genocidi o de terrorisme.
+
+###### Article 407 Penalitat i excusa absolutòria
+
+1. L’encobridor d’un delicte major ha de ser castigat amb pena de presó d’un a quatre anys. Si ho és d’un delicte menor ha de ser castigat amb pena de presó fins a un any. Quan l’autor del delicte d’encobriment sigui autoritat o funcionari i hagi obrat amb abús de les seves funcions s’ha d’imposar, endemés de la pena de presó prevista, la pena d’inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+2. En cap cas es pot imposar una pena privativa de llibertat superior a la que s’hauria imposat al còmplice del delicte o delictes encoberts.
+
+3. Queda exempt de pena l’encobridor que ho sigui del cònjuge o d’una persona unida a ell per situació de fet equivalent, d’ascendent, de descendent o de germà per naturalesa o adopció.
+
+###### Article 408 Disposició comuna
+
+Les disposicions d’aquest capítol s’apliquen fins i tot quan concorri en l’autor o còmplice del delicte encobert qualsevol de les circumstàncies previstes als articles 26 i 27 o 227.
+
+#### Capítol quart. Delictes de blanqueig de diners o valors
+
+###### Article 409 Blanqueig de diners o valors
+
+1. Qui converteixi o transmeti diners, béns o valors que provinguin de qualsevol activitat delictiva que tingui assenyalada una pena de presó el límit mínim de la qual sigui superior a sis mesos, o de qualsevol delicte relatiu a la prostitució, a la propietat intel·lectual i industrial, a l’ús d’informació privilegiada, a la manipulació de mercat, al tràfic de persones per a la seva explotació laboral, al tràfic il·legal de drogues tòxiques, al medi ambient i els recursos naturals, a les associacions il·lícites, a la concussió i a les exaccions il·legals, a la corrupció i el tràfic d’influències o a la falsedat de document, coneixent-ne la procedència, amb el propòsit d’ocultar o dissimular el seu origen il·lícit o d’ajudar qualsevol persona que hagi participat en la comissió del delicte a eludir les conseqüències jurídiques dels seus actes, ha de ser castigat amb pena de presó d’un a cinc anys i multa fins al triple del seu valor.
+
+2. Qui per imprudència greu realitzi les conductes descrites al paràgraf anterior ha de ser castigat amb pena de fins a un any de presó.
+
+3. Amb les mateixes penes que estableix l’apartat 1 ha de ser castigat qui intencionadament:
+
+a) adquireixi, posseeixi o utilitzi diners, béns o valors sabent, en el moment de rebre’ls, que són producte d’algun dels delictes expressats en l’apartat anterior, sense haver participat en la comissió d’aquell delicte previ;
+
+b) oculti o encobreixi la veritable naturalesa, origen, ubicació, moviment o propietat de diners, béns o valors, o dels drets legítims sobre aquests, sabent que són producte d’algun dels delictes expressats en l’apartat anterior, sense haver participat en la comissió d’aquell delicte previ.
+
+4. La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 410 Tipus qualificat
+
+1. S’ha d’imposar pena de presó de tres a vuit anys quan es doni alguna de les circumstàncies següents:
+
+a) Quan el delicte es cometi mitjançant grup organitzat.
+
+b) Quan el subjecte obri amb habitualitat.
+
+c) Quan l’autor del blanqueig actuï dins el marc d’un establiment bancari o financer, d’una agència immobiliària o d’una companyia d’assegurances. En aquest cas el tribunal pot imposar, a més, la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a deu anys.
+
+2. La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 411 Conseqüències accessòries
+
+El tribunal ha d’imposar, així mateix, una o diverses de les mesures següents:
+
+1. El comís del producte del delicte. Els diners, béns o valors objecte del blanqueig, consumat o intentat, es consideren, a l’efecte de l’aplicació del comís i del comís per equivalent previstos a l’article 70, producte del delicte.
+
+2. Dissolució de l’organització o clausura definitiva dels seus locals o establiments oberts al públic.
+
+3. Suspensió de les activitats de l’organització, o clausura dels seus locals o establiments oberts al públic per un període no superior a cinc anys.
+
+4. Prohibició de realitzar les activitats, operacions mercantils o negocis, mitjançant l’exercici dels quals s’hagi facilitat o encobert el delicte, per temps no superior a cinc anys.
+
+5. Multa en els termes previstos a l’article 71.
+
+###### Article 412 Aplicació de la llei penal
+
+Els tres articles anteriors són aplicables encara que el delicte principal hagi estat realitzat a l’estranger, sempre que aquest delicte estigui penalment castigat per la llei andorrana.
+
+###### Article 413 Reduccions punitives de política criminal
+
+Al qui en el curs d’una investigació oberta o d’una instrucció afavoreixi amb les seves revelacions el desmantellament d’una xarxa de traficants de drogues tòxiques o de blanqueig de diners se li aplica la reducció de pena prevista a l’article 53.
+
+El tribunal pot deixar d’imposar les penes privatives de llibertat a qui espontàniament posi en coneixement, abans de l’obertura d’una investigació o una instrucció d’ofici, fets constitutius dels delictes més amunt esmentats amb suficient precisió per fer detenir llurs responsables.
+
+#### Capítol cinquè. Realització arbitrària del propi dret
+
+###### Article 414 Realització arbitrària del propi dret
+
+El qui, per realitzar un dret propi, amb menyspreu de la jurisdicció o de l’Administració, faci ús de força en les coses o d’altres mitjans il·lícits, ha de ser castigat amb pena d’arrest, sempre que els fets no siguin constitutius d’un altre delicte o contravenció penal.
+
+#### Capítol sisè. Acusació i denúncia falses i simulació de delicte
+
+###### Article 415 Falsa denúncia o acusació
+
+1. La imputació d’una infracció penal, amb coneixement de la seva falsedat o amb menyspreu temerari a la veritat, davant una autoritat o un funcionari judicial o administratiu que tingui el deure de procedir a la seva investigació perquè així ho faci, ha de ser castigada amb pena de presó de tres mesos a tres anys si es tracta d’un delicte i d’arrest si es tracta d’una contravenció penal.
+
+2. Quan, endemés, el denunciant o l’acusador hagi propagat la falsa denúncia o acusació amb publicitat, en la forma que ha estat definida a l’article 175, les penes previstes s’han d’imposar en la seva meitat superior i s’ha d’aplicar, si escau, la pena de publicació de la sentència. En aquest supòsit, és responsable civil subsidiària la persona física o jurídica propietària del mitjà informatiu a través del qual s’hagi propagat la falsa denúncia o acusació.
+
+3. No es pot procedir contra el denunciant o l’acusador més que després d’haver-se dictat sentència ferma absolutòria o aute, també ferm, de sobreseïment definitiu o provisional o d’arxiu, del batlle o tribunal que hagi conegut de la infracció imputada. Aquests han d’ordenar la corresponent instrucció de sumari contra el denunciant o l’acusador quan hi hagi indicis racionals de la falsedat de la imputació.
+
+###### Article 416 Simulació de delicte
+
+El qui, davant un dels funcionaris assenyalats a l’article anterior, simuli ser el responsable o haver estat víctima d’una infracció penal inexistent, ha de ser castigat amb pena d’arrest.
+
+###### Article 417 Disposició comuna
+
+El responsable dels delictes previstos en el present capítol queda exempt de pena si es retracta abans d’haver provocat actuacions processals. Si ho fa posteriorment, i abans de la celebració de la vista de la causa, li ha de ser aplicada la reducció prevista a l’article 53.
+
+#### Capítol setè. Testimoniatge, dictamen i traducció falsos
+
+###### Article 418 Testimoniatge fals
+
+1. El qui testifiqui sabent que manca substancialment a la veritat, o amb menyspreu temerari a la mateixa, en un procediment judicial ha de ser castigat amb pena de presó de tres mesos a tres anys i en la seva meitat superior quan es tracti d’un procediment penal.
+
+2. Quan el testimoniatge fals es produeixi en un procediment penal en perjudici del reu s’ha de castigar amb pena de presó d’un a quatre anys.
+
+3. Les mateixes penes s’han d’imposar quan el testimoniatge fals es produeixi davant tribunals internacionals competents en mèrits de tractats internacionals o en compliment d’una comissió rogatòria d’un tribunal estranger.
+
+###### Article 419 Perits i intèrprets
+
+L’intèrpret o el perit que, mancant substancialment a la veritat o amb menyspreu temerari a la mateixa veritat, emeti traducció, dictamen o assessorament, o el ratifiqui en procediment judicial, ha de ser castigat amb les mateixes penes previstes a l’article anterior endemés de la d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a cinc anys.
+
+###### Article 420 Reducció de pena per parentiu
+
+Quan la conducta prevista a l’article 418 es realitzi per afavorir una de les persones descrites a l’article 31 s’ha d’aplicar la reducció de pena prevista a l’article 53.
+
+###### Article 421 Exempcions i reduccions punitives de política criminal
+
+Queda exempt de pena el qui havent prestat testimoniatge, dictamen o traducció falsos es retracta expressament, manifestant la veritat perquè faci efecte abans que es dicti sentència. Si a conseqüència del testimoniatge fals s’ha produït privació de llibertat s’ha d’aplicar la reducció prevista a l’article 53.
+
+#### Capítol vuitè. Obstrucció a la justícia i deslleialtat professional i processal
+
+###### Article 422 Absència a la vista en procés penal
+
+1. El qui havent estat citat en forma legal i sense justa causa, deixi de comparèixer davant un tribunal en un procés penal amb el reu en presó provisional, i provoqui la suspensió de la vista oral, ha de ser castigat amb pena d’arrest o multa fins a 6.000 euros.
+
+2. Quan el responsable sigui advocat o procurador en actuació professional, s’ha d’imposar, endemés, la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+
+###### Article 423 Protecció dels intervinents en el procés
+
+El qui mitjançant violència o intimidació influeixi o tracti d’influir en una persona que sigui denunciant, part o imputada, advocat, procurador, perit, intèrpret o testimoni en un procediment, perquè modifiqui la seva actuació processal, ha de ser castigat amb pena de presó d’un a quatre anys, sense perjudici de la pena que correspongui per les conseqüències derivades del fet.
+
+Si la conducta anterior es realitza oferint un avantatge o una promesa d’avantatge la pena ha de ser de presó fins a dos anys.
+
+###### Article 424 Retenció de mitjans de prova
+
+1. El qui, tenint en la seva possessió mitjans de prova que puguin evitar la declaració de culpabilitat d’un processat, sense que resultin inculpatoris per a ell o una de les persones descrites a l’article 31, els destrueixi, inutilitzi o s’abstingui d’aportar-los davant l’autoritat, ha de ser castigat amb pena de presó de tres mesos a tres anys si el processat es troba en situació de presó provisional i amb pena d’arrest en els altres casos.
+
+2. Quan el responsable sigui agent de l’autoritat que intervingui o hagi intervingut en el procés s’ha d’imposar, endemés, la pena d’inhabilitació per a l’exercici de càrrec públic fins a quatre anys.
+
+3. Quan el responsable sigui advocat o procurador del processat, s’ha d’imposar, endemés, la pena d’inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+###### Article 425 Revelació de secret
+
+1. L’advocat o el procurador que reveli actuacions processals declarades secretes per l’autoritat judicial ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+
+Amb la mateixa pena serà castigat l’advocat que reveli, durant el termini de detenció policial del seu defensat, les actuacions policials que hagi conegut per raó de la seva assistència.
+
+2. Si es tracta de batlle, magistrat, representant del Ministeri Fiscal, secretari judicial o qualsevol funcionari al servei de l’Administració de justícia se li ha d’imposar pena d’arrest i inhabilitació per a l’exercici de càrrec públic fins a sis anys.
+
+3. Si es tracta d’un particular, se li ha d’imposar pena d’arrest. El tribunal pot imposar, endemés, la pena de suspensió per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+
+###### Article 426 Deslleialtat professional
+
+1. L’advocat o el procurador que, havent assessorat o prenent la defensa o la representació d’una persona, defensi o representi de manera simultània o successiva en el mateix afer a qui tingui interessos contraris, sense el consentiment d’aquests, ha de ser castigat amb pena d’arrest i inhabilitació per a l’exercici de l’ofici o el càrrec fins a sis anys.
+
+2. L’advocat o el procurador que, per acció o omissió, perjudiqui de forma manifesta els interessos que li han estat encomanats ha de ser castigat amb pena de multa fins a 30.000 euros i inhabilitació per a l’exercici de l’ofici o el càrrec fins a quatre anys.
+
+###### Article 427 Obstaculització d’execució de resolucions judicials
+
+1. Qui mitjançant força en les coses o vies de fet obstaculitza l’execució d’una resolució judicial, ha de ser castigat amb pena d’arrest.
+
+La temptativa és punible.
+
+2. L’incompliment reiterat de resolucions judicials referents a la guarda i custòdia de menors, la privació injustificada i reiterada del dret de visites establert a favor del familiar que no en té la custòdia, o l’impagament reiterat de pensions alimentàries a familiars ha de ser castigat amb la mateixa pena. En supòsits d’especial gravetat el tribunal, valorant les circumstàncies atenuants i agreujants concurrents i, en general, la gravetat del fet i les circumstàncies personals, pot imposar, excepcionalment, pena de presó fins a un any.
+
+#### Capítol novè. Crebantament i ajut a l’evasió
+
+###### Article 428 Crebantament de condemna, presó provisional o detenció
+
+1. El pres o el detingut que, mitjançant força en les coses, crebanti la seva condemna de presó, la presó provisional o la detenció, ha de ser castigat amb pena de presó fins a un any.
+
+2. Quan, en el supòsit de l’apartat anterior, es faci ús de violència o intimidació sobre les persones o prenent part en un motí, s’ha d’imposar pena de presó d’un a quatre anys.
+
+3. El pres que no retorni al centre penitenciari després d’un permís, ha de ser castigat amb pena d’arrest.
+
+4. El qui crebanti la pena d’expulsió del Principat ha de ser castigat amb pena de presó fins a vuit mesos llevat que no li sigui d’aplicació l’article 65 punt 3.
+
+5. El condemnat a pena d’arrest que crebanti la pena imposada ha de ser castigat amb pena de presó fins a vuit mesos.
+
+6. El condemnat a penes de les no compreses en els apartats anteriors que crebanti la pena que li ha estat imposada ha de ser castigat amb pena d’arrest.
+
+###### Article 429 Ajut a l’evasió
+
+1. El qui faciliti l’evasió a una persona condemnada, presa o detinguda, ha de ser castigat amb pena de presó fins a un any.
+
+2. Si es fa ús de violència o intimidació en les persones, de força en les coses o de suborn, s’ha d’imposar pena de presó de tres mesos a tres anys.
+
+3. Quan el responsable sigui el cònjuge del condemnat, pres o detingut, o persona unida a ell per situació de fet equivalent, o el seu ascendent, descendent o germà per naturalesa o adopció, s’ha d’aplicar la reducció de pena prevista a l’article 53.
+
+4. Quan el responsable sigui funcionari encarregat de la conducció o custòdia del condemnat, pres o detingut, s’ha d’aplicar la pena en la seva meitat superior i, endemés, la pena d’inhabilitació per a l’exercici de càrrec públic fins a deu anys.
+
+### Títol XXIII. Delictes contra la seguretat en el tràfic jurídic
+
+#### Capítol primer. Falsedat de moneda i efectes timbrats
+
+##### Secció primera. Falsedat de moneda
+
+###### Article 430 Concepte de moneda
+
+Als efectes d’aquesta secció es considera moneda:
+
+1. La moneda metàl·lica i el paper moneda de curs legal al Principat d’Andorra o a qualsevol altre país estranger.
+
+2. També han de ser considerats moneda la moneda metàl·lica i el paper moneda que encara no han estat emesos però estan destinats a la circulació i són moneda de curs legal.
+
+3. També ha de ser considerat moneda l’instrument de pagament, entès com tot instrument material, exceptuada la moneda de curs legal, que per la seva natura específica permeti, per ell mateix o junt amb un altre instrument, al titular o l’usuari trametre diners o un valor monetari i que es trobi protegit contra les imitacions o la utilització fraudulenta, per mitjà del tipus de paper o d’impressió, el disseny, un codi, una signatura o qualsevol altre element adreçat a impedir o dificultar la seva falsificació, imitació o ús fraudulent.
+
+###### Article 431 Creació i posada en circulació de moneda inautèntica
+
+1. Ha de ser castigat amb pena de presó d’un a vuit anys i amb multa fins al triple del valor aparent de la moneda:
+
+a) Qui confeccioni moneda inautèntica. A l’efecte d’aquesta secció es considera també moneda inautèntica la fabricada en instal·lacions o amb materials lícits, però sense les degudes autoritzacions.
+
+b) Qui alteri moneda ja emesa variant el seu valor aparent o fent desaparèixer els signes d’inutilització.
+
+La temptativa és punible.
+
+2. Qui, amb coneixement de la seva inautenticitat, posi la moneda en circulació ha de ser castigat amb pena de presó d’un a quatre anys i amb multa fins al triple del valor aparent de la moneda.
+
+La temptativa és punible.
+
+3. Ha de ser castigat amb pena de tres mesos a tres anys de presó i amb multa fins al doble del valor aparent de la moneda el qui, sense haver participat en les conductes descrites als apartats primer i segon, rebi, es procuri, importi, exporti, transporti, trameti o posseeixi moneda coneixent-ne la inautenticitat, amb la finalitat de posar-la o que sigui posada en circulació.
+
+4. Qui realitzi alguna de les conductes previstes als apartats anteriors ha de ser castigat, en el cas de l’apartat primer, amb pena de presó de tres a dotze anys i multa fins al sèxtuple del valor aparent de la moneda; en el cas de l’apartat segon, amb pena de presó de tres a vuit anys i multa fins al sèxtuple del valor aparent de la moneda, i en el cas de l’apartat tercer, amb pena de presó de dos a cinc anys i multa fins al quíntuple del valor aparent de la moneda, quan hi concorri alguna de les circumstàncies següents:
+
+a) Quan l’autor pertanyi a una organització dedicada a la creació o a la posada en circulació de moneda alterada.
+
+b) Quan es dediqui habitualment a aquestes activitats.
+
+c) Quan la quantitat de moneda inautèntica sigui suficient per desestabilitzar el sistema econòmic del país.
+
+5. Qui, havent rebut moneda falsa sense tenir-ne coneixement, la posi en circulació després de conèixer la seva inautenticitat, ha de ser castigat amb arrest i multa fins al doble del valor aparent de la moneda, quan hi concorri alguna de les circumstàncies següents:
+
+a) Que es tracti d’una quantitat superior a 600 euros.
+
+b) Que s’actuï en grup.
+
+###### Article 432 Actes preparatoris punibles
+
+La fabricació, la cessió, la venda o la possessió d’instruments, materials, substàncies, màquines, programes d’ordinador, aparells o altres estris, específicament adreçats a la confecció de moneda inautèntica o a l’alteració de moneda ja emesa, ha de ser castigada amb pena de presó fins a dos anys sempre que se’n pugui derivar un perill per al tràfic monetari.
+
+##### Secció segona. Falsedat d’efectes timbrats
+
+###### Article 433 Concepte d’efecte timbrat
+
+1. Als efectes d’aquesta secció, es consideren efectes timbrats els impresos on figura el segell del Principat d’Andorra i que són venuts directament per l’Estat o per mitjà d’una entitat concessionària, adreçats a acreditar el pagament d’obligacions fiscals o el pagament de serveis públics, per rebre exaccions que tinguin prescrita aquesta forma de pagament i per fer efectives responsabilitats pecuniàries.
+
+2. Són efectes timbrats els segells de correus.
+
+###### Article 434 Creació i posada en circulació d’efectes timbrats inautèntics
+
+1. Ha de ser castigat amb pena de presó de tres mesos a tres anys i amb multa fins al triple del valor aparent de l’efecte:
+
+a) El qui confeccioni efectes timbrats inautèntics amb intenció de posar-los o que siguin posats en circulació.
+
+b) El qui alteri efectes timbrats ja emesos amb intenció de posar-los o que siguin posats en circulació.
+
+c) El qui, havent rebut efectes timbrats amb coneixement de la seva inautenticitat, els posi en circulació.
+
+La temptativa és punible.
+
+2. Ha de ser castigat amb pena de presó fins a un any i multa fins al doble del valor aparent de l’efecte:
+
+a) El qui, havent rebut efectes timbrats coneixent la seva inautenticitat, els posseeixi amb la finalitat de posar-los en circulació o de possibilitar la seva posada en circulació.
+
+b) El qui, havent rebut efectes timbrats coneixent la seva inautenticitat, els introdueixi en territori andorrà amb la finalitat de posar-los en circulació o de possibilitar la seva posada en circulació.
+
+#### Capítol segon. Falsedat de documents, d’enregistraments tècnics i de dades informàtiques
+
+##### Secció primera. Falsedat de document
+
+###### Article 435 Creació, ús i comercialització de document inautèntic
+
+1. Qui, amb la finalitat que sigui introduït al tràfic jurídic, crea un document atribuint-lo a qui no l’ha emès, o altera un document emès per una altra persona en algun element essencial, ha de ser castigat amb pena de presó fins a dos anys. Si es tracta de document públic o un títol valor ha de ser castigat amb pena de presó de tres mesos a tres anys, sempre que no constitueixi delicte de falsedat de moneda.
+
+2. La utilització o la comercialització d’aquesta classe de documents ha de ser castigada amb les mateixes penes previstes a l’apartat anterior.
+
+3. La possessió de document públic o un títol valor inautèntic, amb la finalitat que sigui introduït al tràfic jurídic, ha de ser castigada amb pena de presó fins a un any, sempre que no constitueixi delicte de falsedat de moneda.
+
+###### Article 436 Creació, ús i comercialització de document inautèntic per un funcionari
+
+El funcionari que, en exercici de les seves funcions, realitzi les conductes previstes en l’article anterior en relació amb un document públic que pugui emetre o utilitzar, ha de ser castigat amb pena de presó de tres mesos a tres anys i amb pena d’inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+###### Article 437 Creació, ús i comercialització de document inveraç per un funcionari
+
+1. El funcionari que, en emetre un document públic en exercici de les seves funcions, o en consignar dades en un registre, llibre o fitxer públic, ho faci consignant falsament declaracions, fets o actes sobre els quals el document té un valor probatori enfront de tercers, ha de ser castigat amb pena de presó de tres mesos a tres anys i amb pena d’inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+2. La utilització o la comercialització d’aquesta classe de documents ha de ser castigada amb pena de presó de tres mesos a tres anys. Si el culpable és un funcionari que actua en exercici de les seves funcions, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+###### Article 438 Creació mediata, ús i comercialització de document inveraç per particular
+
+1. El qui provoqui que un funcionari en exercici de les seves funcions consigni o enregistri en documents, fitxers llibres o registres públics, declaracions, actes o fets que no s’han produït o que no s’han emès, o en forma diferent de la que ha estat consignada, i sobre les quals l’instrument públic en faci prova enfront de tercers, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+2. La utilització o la comercialització d’aquesta classe de documents ha de ser castigada amb la mateixa pena. Si el culpable és un funcionari que actua en exercici de les seves funcions, ha de ser castigat amb pena de presó de tres mesos a tres anys i inhabilitació per a l’exercici de càrrec públic fins a vuit anys.
+
+###### Article 439 Temptativa
+
+La temptativa només és punible respecte de les conductes d’ús i comercialització previstes als articles anteriors d’aquesta secció.
+
+###### Article 440 Creació, ús i comercialització de certificats inveraços
+
+1. Fora dels casos previstos en els articles precedents, el professional que, en exercici de la seva activitat, emeti certificació consignant falsament fets sobre els quals aquesta en faci prova, ha de ser castigat amb pena d’arrest i de suspensió per a l’exercici de l’ofici o el càrrec fins a tres anys.
+
+2. La utilització o la comercialització d’un certificat així emès ha de ser castigada amb pena d’arrest.
+
+###### Article 441 Supressió de document
+
+El qui destrueixi, danyi o oculti un document que no li pertanyi, o no li pertanyi exclusivament, amb la finalitat d’obtenir un avantatge per a ell o per a un tercer o de causar un perjudici a un tercer, ha de ser castigat amb pena de presó de tres mesos a tres anys si es tracta de document públic o títol valor. En un altre cas, ha de ser castigat amb pena de presó fins a un any.
+
+##### Secció segona. Falsedat d’enregistraments tècnics
+
+###### Article 442 Concepte d’enregistrament tècnic
+
+S’entén per enregistrament tècnic una relació de dades, valors de mesura o de càlcul, situacions o transcurs d’esdeveniments, no atribuïda a una persona, creada per un aparell tècnic que funcioni completament o parcialment de manera automàtica, que permet reconèixer a la generalitat o a iniciats l’objecte de l’enregistrament i que és apte per a la comprovació de fets jurídicament rellevants.
+
+###### Article 443 Creació o alteració d’enregistrament tècnic
+
+El qui, amb la finalitat que sigui introduït al tràfic jurídic, confeccioni un enregistrament tècnic inautèntic, directament o manipulant el procés d’anotació de manera que s’alteri el resultat, o alteri un enregistrament tècnic autèntic, ha de ser castigat amb pena de presó fins a dos anys.
+
+###### Article 444 Ús d’enregistrament tècnic inautèntic o alterat
+
+El qui utilitzi un enregistrament tècnic inautèntic o alterat ha de ser castigat amb pena de presó fins a dos anys.
+
+###### Article 445 Supressió d’enregistrament tècnic
+
+El qui destrueixi, danyi o oculti un enregistrament tècnic que no li pertanyi, o no li pertanyi exclusivament, amb la finalitat d’obtenir un avantatge per a ell o per a un tercer o de causar un perjudici a un tercer, ha de ser castigat amb pena de presó fins a dos anys.
+
+##### Secció tercera. Falsedat de dades informàtiques
+
+###### Article 446 Creació o alteració de dades informàtiques
+
+El qui, amb la finalitat que siguin introduïdes al tràfic jurídic, enregistri, directament o manipulant el funcionament del procés de dades, o alteri dades informàtiques rellevants per a la prova que no compleixin els requisits per ser document, de manera que, si es compleixen aquests requisits, el resultat de l’activitat sigui un document inautèntic, ha de ser castigat amb pena de presó fins a dos anys.
+
+###### Article 447 Ús de dades informàtiques falses o alterades
+
+El qui utilitzi dades informàtiques creades en la forma descrita en l’article anterior ha de ser castigat amb pena de presó fins a dos anys.
+
+#### Capítol tercer. Falsedats personals
+
+###### Article 448 Usurpació de la identitat
+
+El qui usurpi la identitat d’altri ha de ser castigat amb pena de presó fins a dos anys, sense perjudici de la que correspongui als altres delictes que hagi comès.
+
+###### Article 449 Intrusisme
+
+1. El qui exerciti actes propis d’una professió sense posseir el corresponent títol acadèmic que acrediti la capacitació necessària que l’habiliti per al seu exercici, expedit o reconegut al Principat d’Andorra segons la legislació vigent, ha de ser castigat amb pena d’arrest.
+
+2. Quan l’autor de la conducta descrita a l’apartat anterior s’atribueixi públicament la qualitat professional esmentada ha de ser castigat amb pena d’arrest i multa fins a 30.000 euros.
+
+### Títol XXIV. Delictes contra la comunitat internacional
+
+#### Capítol primer. Delictes contra el dret de gents
+
+###### Article 450 Homicidi de cap d’Estat
+
+El qui mati un cap d’Estat estranger o una persona internacionalment protegida per un tractat internacional, ha de ser castigat amb pena de presó de divuit a vint-i-cinc anys.
+
+La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 451 Atemptats contra la integritat o contra la llibertat dels representants estrangers
+
+El qui segresti, detingui, agredeixi físicament, coaccioni o amenaci una persona de les definides a l’article anterior ha de ser castigat amb les penes previstes per al delicte respectiu en la seva meitat superior. Si com a conseqüència de la coacció o amenaça hom força una d’aquestes persones a executar un acte o a adoptar una decisió perjudicial per als interessos del Principat la pena ha de ser de presó de cinc a deu anys.
+
+La temptativa és punible.
+
+La conspiració i la provocació són punibles en cas de segrest o detenció.
+
+###### Article 452 Calúmnies, difamacions i injúries contra caps d’Estat estrangers
+
+El qui ofengui un cap d’Estat estranger amb actes o expressions constitutives de difamació o injúria ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+Si el fet és constitutiu de calúmnia ha de ser castigat amb pena de presó d’un a quatre anys.
+
+###### Article 453 Atemptat a la residència de cap d’Estat
+
+Qualsevol delicte comès contra la residència o les dependències oficials d’un cap d’Estat estranger ha de ser castigat amb les penes previstes en aquest Codi per a cada delicte, en la seva meitat superior.
+
+###### Article 454 Violació de la immunitat
+
+El qui, contravenint les disposicions de dret públic internacional, violi la immunitat d’un cap d’Estat estranger o d’una persona internacionalment protegida per un tractat internacional, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+###### Article 455 Segrest de nau, plataforma fixa o aeronau
+
+Qui, amb violència o intimidació, s’apoderi o prengui el control d’una nau, plataforma fixa o aeronau en la qual hi hagi persones, ha de ser castigat amb pena d’un a cinc anys de presó o de set a tretze anys de presó si es donen les circumstàncies del punt 3 de l’article 135.
+
+La temptativa és punible.
+
+#### Capítol segon. Genocidi
+
+###### Article 456 Genocidi
+
+1. El qui, en execució d’un pla preconcebut tendint a la destrucció total o parcial d’un grup nacional, ètnic o religiós, o d’un grup determinat a partir de qualsevol altre criteri arbitrari, cometi un dels delictes següents, ha de ser castigat:
+
+a) Amb pena de presó de vint a trenta anys en cas d’homicidi o assassinat.
+
+b) Amb pena de presó de quinze a vint anys en cas de segrest de membres del grup en qüestió, seguida de la seva desaparició.
+
+c) Amb pena de presó de deu a quinze anys en cas de deportació forçada de tots o de part dels membres del grup en qüestió.
+
+d) Amb pena de presó de deu a vint anys en cas de submissió a condicions d’existència de naturalesa a produir la destrucció total o parcial del grup en qüestió.
+
+e) Amb pena de presó de vuit a dotze anys en cas de mesures preses respecte de la totalitat o de part del grup en qüestió tendents a impedir o dificultar els naixements.
+
+f) Amb pena de presó de vuit a dotze anys en cas de tractes inhumans o degradants, o de reducció de la totalitat o de part del grup a l’esclavatge.
+
+g) Amb pena de presó de vuit a setze anys en cas d’agressió sexual.
+
+2. La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 457 Apologia del genocidi
+
+1. El qui, per qualsevol mitjà, s’expressi públicament a favor d’una ideologia o doctrina dirigida a justificar o aprovar el recurs al genocidi o a fer apologia de règims, partits o organitzacions que l’hagin practicat o hi hagin donat suport, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+La temptativa és punible.
+
+2. El qui difongui o distribueixi públicament material que contingui imatges i expressions compreses a l’apartat anterior ha de ser castigat amb la mateixa pena.
+
+La temptativa és punible.
+
+3. El qui produeixi o emmagatzemi material com el referit anteriorment ha de ser castigat amb pena de presó de fins a un any, sempre que aquest material estigui destinat a la difusió pública.
+
+###### Article 458 Negació del genocidi
+
+1. El qui, per qualsevol mitjà, s’expressi públicament negant l’existència de fets descrits com a genocidi en aquest capítol i declarats provats per una jurisdicció, o s’hi refereixi de forma trivial, ha de ser castigat amb pena de presó de fins a dos anys.
+
+La temptativa és punible.
+
+2. El qui difongui o distribueixi públicament material que contingui imatges i expressions compreses a l’apartat anterior ha de ser castigat amb la mateixa pena.
+
+La temptativa és punible.
+
+3. El qui produeixi o emmagatzemi material com el referit anteriorment ha de ser castigat amb pena d’arrest, sempre que aquest material estigui destinat a la difusió pública.
+
+#### Capítol tercer. Delictes contra la humanitat
+
+###### Article 459 Tipus bàsic
+
+Són reus dels delictes contra la humanitat els qui cometin els fets previstos en l’article següent com a part d’un atac generalitzat o sistemàtic contra la població civil o un sector d’aquesta població.
+
+En tot cas, es considera delicte contra la humanitat la comissió d’un tal atac:
+
+- Pel fet de pertànyer la víctima a un grup o col·lectiu perseguit per motius polítics, racials, nacionals, ètnics, culturals o religiosos.
+
+- En el context d’un règim institucionalitzat d’opressió i dominació sistemàtiques d’un grup racial sobre un o més grups racials i amb la intenció de mantenir aquell règim.
+
+###### Article 460 Penes
+
+1. Els reus dels delictes contra la humanitat han de ser castigats:
+
+- Amb pena de presó de quinze a vint anys si causen la mort d’una persona. El tribunal pot imposar la pena prevista augmentada en la meitat del seu límit superior si hi concorre alguna de les circumstàncies constitutives del delicte d’assassinat.
+
+- Amb pena de presó de dotze a quinze anys si cometen una violació i de quatre a sis anys si el fet consisteix en una altra classe d’agressió sexual.
+
+- Amb pena de presó de dotze a quinze anys si produeixen alguna de les lesions de l’article 116, amb la de vuit a dotze anys de presó si sotmeten les persones a condicions d’existència que posin en perill la seva vida o pertorbin greument la seva salut, i amb la de quatre a vuit anys de presó si cometen alguna de les lesions de l’article 115.
+
+- Amb pena de presó de vuit a dotze anys si deporten o traslladen per la força, sense motius autoritzats pel dret internacional, una o més persones a un altre Estat o lloc mitjançant l’expulsió o altres actes de coacció.
+
+- Amb pena de presó de sis a vuit anys si forcen l’embaràs d’alguna dona amb la intenció de modificar la composició ètnica de la població, sense perjudici de la pena que escaigui per altres delictes.
+
+- Amb pena de presó de dotze a quinze anys si detenen alguna persona i es neguen a reconèixer aquesta privació de llibertat o a donar raó del lloc on es troba la persona detinguda.
+
+- Amb pena de presó de vuit a dotze anys si detenen una persona, privant-la de la seva llibertat, amb infracció de les normes internacionals sobre la detenció. S’ha d’imposar la pena en la seva meitat inferior quan la detenció duri menys de 15 dies.
+
+- Amb pena de quatre a vuit anys de presó si cometen tortura greu sobre persones que tinguin sota la seva custòdia o control i amb la de dos a sis anys de presó si és menys greu. Als efectes d’aquest article s’entén per tortura la submissió de la persona a sofriments físics o psíquics. La pena per la tortura s’ha d’imposar sense perjudici de les que corresponguin pels atemptats contra altres drets de la víctima.
+
+- Amb pena de presó de quatre a vuit anys si cometen alguna de les conductes relatives a l’afavoriment de la prostitució i amb presó de sis a vuit anys en els supòsits de proxenetisme. S’ha d’imposar la pena de sis a vuit anys de presó als qui traslladin persones d’un lloc a un altre, amb el propòsit de la seva explotació sexual, emprant violència, intimidació o engany, o abusant d’una situació de superioritat o de necessitat o de la vulnerabilitat de la víctima. Quan els fets es cometen sobre menors d’edat o incapaços el tribunal pot imposar la pena prevista augmentada en la meitat del seu límit superior.
+
+- Amb pena de presó de quatre a vuit anys si sotmeten alguna persona a esclavatge o l’hi mantenen. La pena s’ha d’aplicar sense perjudici de les que corresponguin pels atemptats concrets comesos contra els drets de les persones.
+
+2. La temptativa, la conspiració i la provocació són punibles.
+
+###### Article 461 Tipus qualificat
+
+Si qualsevol de les conductes de l’article anterior forma part d’un pla o una política, o es cometen a gran escala, s’han d’aplicar les penes respectives en la seva meitat superior.
+
+###### Article 462 Delicte comès per autoritat
+
+L’autoritat, o el qui actuï efectivament com a tal, que no adopti les mesures al seu abast per evitar la comissió, per persones sotmeses al seu comandament o control efectiu, d’algun dels delictes compresos en aquest capítol, ha de ser castigat amb la mateixa pena que els autors.
+
+Si la conducta anterior es realitza per imprudència greu s’han d’aplicar les reduccions de pena previstes a l’article 53.
+
+L’autoritat, o qui actuï efectivament com a tal, que no adopti les mesures al seu abast perquè siguin perseguits els delictes compresos en aquest capítol, comesos per persones sotmeses al seu comandament o control efectiu, ha de ser castigat amb les mateixes penes que els autors amb les reduccions previstes a l’article 53.
+
+###### Article 463 Delicte comès per un superior
+
+El superior no comprès en l’article anterior que, en l’àmbit de la seva competència, no adopti les mesures al seu abast per evitar la comissió pels seus subordinats d’algun dels delictes compresos en aquest capítol, ha de ser castigat amb la mateixa pena que els autors.
+
+El superior no comprès en l’article anterior que no adopti les mesures al seu abast perquè siguin perseguits els delictes compresos en aquest capítol comesos pels seus subordinats, ha de ser castigat amb la pena dels autors, amb la reducció prevista a l’article 53.
+
+###### Article 464 Altres mancaments
+
+El funcionari o l’autoritat que, sense incórrer en les conductes previstes en els articles anteriors i mancant a l’obligació del seu càrrec, deixi de promoure la persecució d’algun dels delictes d’aquest capítol del qual tingui notícia, ha de ser castigat amb la pena d’inhabilitació per a càrrec públic de dos a sis anys.
+
+###### Article 465 Estat de necessitat
+
+El que disposen els punts 3 i 7 de l’article 27 d’aquest Codi en cap cas no resulta aplicable als qui compleixin ordres de cometre o participar en els fets inclosos en el present capítol.
+
+###### Article 465 bis Apologia dels delictes contra la humanitat
+
+1. El qui, per qualsevol mitjà, s’expressi públicament a favor d’una ideologia o doctrina dirigida a justificar o aprovar delictes contra la humanitat o a fer apologia de règims, partits o organitzacions que els hagin practicat o hi hagin donat suport, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+La temptativa és punible.
+
+2. El qui difongui o distribueixi públicament material que contingui imatges o expressions compreses a l’apartat anterior ha de ser castigat amb la mateixa pena.
+
+La temptativa és punible.
+
+3. El qui produeixi o emmagatzemi material com el referit anteriorment ha de ser castigat amb pena de presó de fins a un any, sempre que aquest material estigui destinat a la difusió pública.
+
+###### Article 465 ter Negació dels delictes contra la humanitat
+
+1. El qui, per qualsevol mitjà, s’expressi públicament negant l’existència de delictes contra la humanitat i declarats provats per una jurisdicció, o s’hi refereixi de forma trivial, ha de ser castigat amb pena de presó de fins a dos anys.
+
+La temptativa és punible.
+
+2. El qui difongui o distribueixi públicament material que contingui imatges i expressions compreses a l’apartat anterior ha de ser castigat amb la mateixa pena.
+
+La temptativa és punible.
+
+3. El qui produeixi o emmagatzemi material com el referit anteriorment ha de ser castigat amb pena d’arrest, sempre que aquest material estigui destinat a la difusió pública.
+
+#### Capítol quart. Crims de guerra i d’agressió
+
+###### Article 466 Mitjans prohibits
+
+Ha de ser castigat amb pena de presó de vuit a dotze anys, sense perjudici de la pena que correspongui pels resultats produïts, el qui, en ocasió de conflicte armat:
+
+a) Utilitzi mitjans de combat:
+
+- prohibits
+
+- destinats a causar sofriments innecessaris o mals superflus
+
+- que puguin causar danys perdurables i greus en el medi ambient, de manera que es posi en perill la vida o la salut de les persones.
+
+b) Realitzi atacs indiscriminats o excessius o sotmeti la població civil a atacs, represàlies o actes o amenaces de violència, amb la finalitat principal d’aterrir-la.
+
+c) Ordeni no donar quarter.
+
+###### Article 467 Pràctiques prohibides
+
+1. El qui, en ocasió d’un conflicte armat, posi en perill greu la vida, la salut o la integritat de qualsevol persona protegida, la sotmeti a tortura o a tractes degradants, inclosos els experiments biològics, li causi grans sofriments o la faci objecte d’un acte mèdic no indicat per al seu estat de salut, ni adequat a les normes mèdiques reconegudes generalment que el responsable de l’actuació aplicaria en circumstàncies anàlogues als seus propis nacionals no privats de llibertat, ha de ser castigat amb pena de presó de cinc a deu anys, sense perjudici de la pena que correspongui pels resultats lesius produïts.
+
+2. Amb la mateixa pena ha de ser castigat el qui deporti, traslladi de manera forçosa, prengui com a ostatge, detingui o confini il·legalment qualsevol persona protegida o la utilitzi per posar certs punts, zones o forces militars a recer dels atacs de la part adversa i el qui realitzi o mantingui, respecte de qualsevol persona protegida, pràctiques de segregació racial i altres pràctiques inhumanes o degradants basades en altres distincions de caràcter desfavorable, que comportin una ofensa contra la dignitat personal.
+
+###### Article 468 Altres delictes
+
+Ha de ser castigat amb pena de presó de cinc a deu anys, sense perjudici de la pena que correspongui pels resultats produïts, el qui, en ocasió de conflicte armat:
+
+- Destrueixi o danyi de manera innecessària, amb violació de les normes de dret internacional aplicables als conflictes armats, un vaixell o una aeronau no militars d’una part adversa o neutral, sense donar temps o sense adoptar les mesures necessàries per garantir la seguretat de les persones i la conservació de la documentació.
+
+- Obligui un presoner de guerra o un civil a servir a les forces armades de la part adversa o el privi del dret a ser jutjat de manera regular i imparcial.
+
+- Traslladi i assenti, directament o indirectament, en territori ocupat contingents de població de la part ocupant a fi que hi resideixin de manera permanent.
+
+- Impedeixi o demori de manera injustificada l’alliberament o la repatriació de presoners de guerra o de persones civils.
+
+###### Article 469 Delictes relatius a institucions socials, sociosanitàries o sanitàries i a signes distintius
+
+Ha de ser castigat amb pena de presó de tres a set anys, sense perjudici de la pena que correspongui pels resultats produïts, el qui, en ocasió de conflicte armat:
+
+- Violi la protecció deguda a instal·lacions, hospitals, material, unitats i mitjans de transport sanitari, camps de presoners, zones i localitats sanitàries i de seguretat, zones neutralitzades, llocs d’internament de població civil, localitats no defensades i zones desmilitaritzades, donades a conèixer pels signes distintius apropiats.
+
+- Exerceixi violència sobre personal sanitari o religiós o que integri la missió mèdica, o de les societats de socors o contra personal habilitat per usar els signes distintius dels convenis de Ginebra, d’acord amb el dret internacional.
+
+- Maltracti, injuriï greument, privi de l’aliment indispensable o de l’assistència mèdica necessària qualsevol persona protegida, ometi o demori informar-la injustificadament de la seva situació, imposi càstigs col·lectius per actes individuals o violi les prescripcions sobre allotjament de dones i famílies o sobre protecció especial de dones i infants establertes en els tractats internacionals dels quals Andorra sigui part.
+
+- Usi indegudament o de manera que pugui induir a error els signes distintius de la Creu Roja i de la Mitja Lluna Roja o altres signes protectors o distintius, emblemes o senyals establerts i reconeguts en els tractats internacionals dels quals Andorra és part.
+
+- Utilitzi indegudament o de manera que pugui induir a error bandera, uniforme, insígnia o emblema distintiu d’estats neutrals, de les Nacions Unides o d’altres estats que no siguin part en el conflicte o de parts adverses, durant els atacs o per cobrir, afavorir, protegir o obstaculitzar operacions militars, llevat dels casos exceptuats expressament segons els tractats internacionals dels quals Andorra sigui part.
+
+- Utilitzi indegudament o de manera que pugui induir a error bandera de parlament o de rendició, atempti contra la inviolabilitat o retingui indegudament un parlamentari o qualsevol de les persones que l’acompanyin, personal de la potència protectora o qui el substitueixi o un membre d’una comissió internacional d’enquesta.
+
+- Sostregui els efectes d’un cadàver, ferit, malalt, nàufrag, presoner de guerra o persona civil internada.
+
+###### Article 470 Atacs a béns especials
+
+Ha de ser castigat amb pena de presó de tres a sis anys el qui, en ocasió d’un conflicte armat, realitzi alguna de les accions següents:
+
+- Ataqui o efectuï represàlies o actes d’hostilitat contra béns culturals o llocs de culte, clarament reconeguts, que constitueixen el patrimoni cultural o espiritual dels pobles, i als quals hom hagi conferit protecció en virtut d’acords especials, o béns culturals sota protecció reforçada, causant extenses destruccions, sempre que els béns no estiguin situats en la proximitat immediata d’objectius militars o no siguin utilitzats per donar suport a l’esforç militar de l’adversari.
+
+- Ataqui o efectuï represàlies o actes d’hostilitat contra béns de caràcter civil de la part adversa, causant-ne la destrucció, sempre que això no ofereixi, en les circumstàncies del cas, un avantatge militar definit o que els béns no contribueixin de manera eficaç a l’acció militar de l’adversari.
+
+- Ataqui, destrueixi, sostregui o inutilitzi els béns indispensables per a la supervivència de la població civil, tret que la part adversa utilitzi els béns per donar suport directament a una acció militar o exclusivament com a mitjà de subsistència per als membres de les seves forces armades.
+
+- Ataqui o efectuï represàlies contra les obres o les instal·lacions que continguin forces perilloses, quan els atacs puguin produir l’alliberament de les forces i causar pèrdues importants en la població civil, llevat que les obres o instal·lacions s’utilitzin per donar suport a les operacions militars de manera regular, important i directa i que els atacs siguin l’únic mitjà factible de posar fi al suport.
+
+- Destrueixi, danyi o sostregui, sense necessitat militar, coses alienes, obligui algú altre a lliurar-les o realitzi altres actes de pillatge.
+
+###### Article 471 Tipus qualificat
+
+Si qualsevol de les conductes dels articles anteriors formen part d’un pla o una política o es cometen a gran escala, s’han d’aplicar les penes respectives en la seva meitat superior.
+
+###### Article 472 Delicte comès per una autoritat
+
+L’autoritat, o qui actuï efectivament com a tal, que no adopti les mesures al seu abast per evitar la comissió, per les forces sotmeses al seu comandament o control efectiu, d’algun dels delictes compresos en aquest capítol, ha de ser castigat amb la mateixa pena que els autors.
+
+Si la conducta anterior es realitza per imprudència greu s’ha d’aplicar la reducció de pena prevista a l’article 53.
+
+L’autoritat, o qui actuï efectivament com a tal, que no adopti les mesures al seu abast perquè siguin perseguits els delictes compresos en aquest capítol, comesos per persones sotmeses al seu comandament o control efectiu, ha de ser castigat amb la pena de l’autor amb la reducció prevista a l’article 53.
+
+###### Article 473 Delicte comès per un superior
+
+El superior no comprès en l’article anterior que, en l’àmbit de la seva competència, no adopti les mesures al seu abast per evitar la comissió pels seus subordinats d’algun dels delictes compresos en aquest capítol, ha de ser castigat amb la mateixa pena que els autors.
+
+El superior no comprès en l’article anterior que no adopti les mesures al seu abast perquè siguin perseguits els delictes compresos en aquest capítol comesos pels seus subordinats, ha de ser castigat amb la pena prevista per a l’autor reduïda d’acord amb el que disposa l’article 53.
+
+###### Article 474 Altres mancaments
+
+El funcionari o l’autoritat que, sense incórrer en les conductes previstes en els articles anteriors d’aquest capítol i mancant a l’obligació del seu càrrec, deixi de promoure la persecució d’algun dels delictes d’aquest capítol del qual tingui notícia, ha de ser castigat amb la pena d’inhabilitació per a càrrec públic de dos a sis anys.
+
+###### Article 475 Persones protegides
+
+Als efectes d’aquest capítol, hom entén per persones protegides els ferits, malalts o nàufrags, el personal sanitari o religiós, els presoners de guerra, els parlamentaris i personal acompanyant, la població civil i qualsevol altra persona que tingui reconeguda aquesta condició pel dret internacional i pels tractats internacionals dels quals Andorra sigui part.
+
+###### Article 475 bis Apologia dels crims de guerra i agressió
+
+1. El qui, per qualsevol mitjà, s’expressi públicament a favor d’una ideologia o doctrina dirigida a justificar o aprovar crims de guerra o agressió o a fer apologia de règims, partits o organitzacions que els hagin practicat o hi hagin donat suport, ha de ser castigat amb pena de presó de tres mesos a tres anys.
+
+La temptativa és punible.
+
+2. El qui difongui o distribueixi públicament material que contingui imatges i expressions compreses a l’apartat anterior ha de ser castigat amb la mateixa pena.
+
+La temptativa és punible.
+
+3. El qui produeixi o emmagatzemi material com el referit anteriorment ha de ser castigat amb pena de presó de fins a un any, sempre que aquest material estigui destinat a la difusió pública.
+
+###### Article 475 ter Negació dels crims de guerra i agressió
+
+1. El qui, per qualsevol mitjà, s’expressi públicament negant l’existència de crims de guerra o agressió declarats provats per una jurisdicció, o s’hi refereixi de forma trivial, ha de ser castigat amb pena de presó de fins a dos anys.
+
+La temptativa és punible.
+
+2. El qui difongui o distribueixi públicament material que contingui imatges i expressions compreses a l’apartat anterior ha de ser castigat amb la mateixa pena.
+
+La temptativa és punible.
+
+3. El qui produeixi o emmagatzemi material com el referit anteriorment ha de ser castigat amb pena de presó d’arrest, sempre que aquest material estigui destinat a la difusió pública.
+
+## Llibre tercer. Contravencions penals
+
+### Títol I. Contravencions penals contra les persones
+
+###### Article 476 Maltractament i lesions doloses
+
+1. Qui maltracti corporalment de manera lleu o agredeixi físicament una persona ha de ser castigat amb pena d’arrest o multa de fins a 6.000 euros. Si el maltractament consisteix en un càstig corporal, s’ha d’imposar la pena d’arrest.
+
+2. Amb la mateixa pena ha de ser castigat qui produeixi a una persona una lesió no definida com a delicte per aquest Codi.
+
+3. La temptativa és punible.
+
+###### Article 477 Lesions per imprudència
+
+1. Qui per imprudència greu produeixi a una persona una lesió no definida com a delicte per aquest Codi ha de ser castigat amb pena de multa fins a 6.000 euros.
+
+2. Qui per imprudència lleu produeixi una de les lesions previstes com a delicte, ha de ser castigat amb pena de multa fins a 3.000 euros.
+
+3. Quan la lesió es produeixi utilitzant un vehicle automòbil o una arma de foc, s’ha d’imposar a més, respectivament, la pena de privació del permís de conduir o la de privació del permís d’arma fins a tres mesos.
+
+###### Article 478 Coaccions i amenaces lleus
+
+1. El qui causi a una persona una coacció de caràcter lleu ha de ser castigat amb pena d’arrest o multa fins a 3.000 euros.
+
+2. El qui, fora dels supòsits previstos com a delicte en aquest Codi, amenaci una persona de causar un mal constitutiu de delicte menor o contravenció penal, o esgrimeixi armes o instruments perillosos en una baralla, ha de ser castigat amb pena d’arrest o multa fins a 3.000 euros.
+
+3. El qui faci trucades telefòniques, enviï correus electrònics o de missatgeria electrònica, de manera reiterada amb la finalitat de causar neguit, ansietat o temor a una persona ha de ser castigat amb pena d’arrest o multa fins a 3.000 euros.
+
+###### Article 479 Difamació lleu
+
+Qui cometi difamació contra una persona sense atemptar greument contra la seva autoestima o la seva reputació ha de ser castigat amb pena d’arrest o multa fins a 3.000 euros.
+
+Per a la persecució de la difamació cal, en tot cas, querella de la persona ofesa pel delicte o del representant legal. Són, a més, aplicables a aquestes contravencions penals les disposicions previstes en els articles 174 a 181 d’aquest Codi.
+
+###### Article 480 Condicions d’allotjament abusives
+
+El qui, abusant de la necessitat d’altri, li imposa condicions d’habitatge o allotjament degradants, ha de ser castigat amb pena d’arrest o multa fins a 3.000 euros.
+
+### Títol II. Contravencions penals contra el patrimoni
+
+###### Article 481 Furt
+
+1. Qui comet furt d’un valor no superior a 600 euros ha de ser castigat amb pena d’arrest o multa fins al doble del valor de la cosa furtada. La temptativa és punible.
+
+2. Qui, sense ànim d’apropiar-se’l, sostreu o utilitza un vehicle automòbil aliè d’un valor no superior a 2.000 euros ha de ser castigat amb pena d’arrest o multa fins a 600 euros.
+
+3. Qui comet furt impropi d’una cosa de valor no superior a 600 euros ha de ser castigat amb pena de multa fins al doble del valor de la cosa.
+
+###### Article 482 Defraudacions
+
+1. El qui comet estafa o l’estafa privilegiada de l’article 211 per valor no superior a 600 euros ha de ser castigat amb pena d’arrest o multa fins al doble del perjudici patrimonial ocasionat.
+
+2. De la mateixa manera ha de ser castigat el qui comet estafa informàtica per valor no superior a 600 euros.
+
+3. El qui comet defraudació en l’ús de fluids o de sistemes de telecomunicació per valor no superior a 600 euros ha de ser castigat amb pena de multa fins al doble del perjudici causat.
+
+4. El qui cometi apropiació indeguda o administració deslleial per valor no superior a 600 euros ha de ser castigat amb pena d’arrest o multa de fins al doble del valor de la cosa o del perjudici ocasionat.
+
+5. La temptativa és punible.
+
+###### Article 483 Receptació no habitual de contravencions penals
+
+Qui amb ànim de lucre i amb coneixement de la comissió de fets constitutius de contravenció penal contra el patrimoni, adquireixi o transmeti a un tercer els seus efectes, ha de ser castigat amb pena de multa fins al doble del valor de l’efecte.
+
+La pena prevista en aquest article ha d’aplicar-se encara que l’autor o el còmplice de la infracció de la qual provinguin els efectes aprofitats sigui una persona desconeguda, sigui irresponsable o estigui personalment exempt de pena.
+
+###### Article 484 Danys
+
+1. El qui causa un dany d’un import no superior a 600 euros ha de ser castigat amb pena de treball en benefici de la comunitat fins a un mes o multa fins al doble del dany causat.
+
+Si es tracta de danys a béns d’interès especial dels previstos en l’article 309 els fets s’han de considerar en tot cas com a delicte.
+
+2. El qui sense autorització faci inscripcions, pintades o fixi cartells o altres objectes a edificis o al mobiliari urbà, ha de ser castigat amb pena de multa equivalent a l’import de la reparació o de treballs en benefici de la comunitat.
+
+3. La temptativa és punible.
+
+###### Article 485 (derogat i sense contingut)
+
+###### Article 486 Violació de propietat privada
+
+1. Les conductes previstes als articles 194 i 195 realitzades amb violència o intimidació o força en les coses en altres béns immobles que els descrits en els dits articles, han de ser castigades amb pena d’arrest o multa fins a 600 euros.
+
+2. L’alteració o la destrucció de fites o marques de delimitació de la propietat ha de ser castigada amb pena d’arrest o multa fins a 600 euros.
+
+3. La temptativa és punible.
+
+###### Article 487 (derogat i sense contingut)
+
+###### Article 488 (derogat i sense contingut)
+
+###### Article 489 Excusa absolutòria de parentiu
+
+És aplicable a les contravencions penals d’aquest títol l’excusa absolutòria per raó de parentiu prevista en l’article 227.
+
+### Títol III. Contravencions penals contra els interessos generals
+
+###### Article 490 Dany a un espai natural protegit
+
+El qui fora dels supòsits de l’article 291 ocasioni dany a un qualsevol dels elements que hagin servit per qualificar un espai natural protegit, ha de ser castigat amb pena d’arrest o multa fins a 1.500 euros.
+
+La temptativa és punible.
+
+###### Article 491 Atemptats contra flora protegida
+
+El qui talli, tali, cremi o arrenqui il·legalment alguna espècie o subespècie de flora amenaçada o protegida ha de ser castigat amb pena d’arrest o multa fins a 1.500 euros.
+
+La temptativa és punible.
+
+###### Article 492 Caça il·legal
+
+1. Ha de ser castigat amb pena d’arrest o multa fins a 1.500 euros el qui:
+
+a) Utilitzi per caçar llaços de tota mena, xarxes, branques amb lliga, hams, fures o altres mitjans o mètodes similars.
+
+b) Caci tenint la llicència de caça retirada per resolució administrativa ferma.
+
+c) Caci fora de temporada.
+
+d) Caci de nit sense autorització.
+
+e) Caci en vedat de caça sense autorització.
+
+f) Porti qualsevol arma en vedat de caça sense autorització, exceptuant els llocs habitats, les carreteres generals i les carreteres secundàries incloses en el vedat de caça.
+
+2. El tribunal pot imposar així mateix la pena de privació del permís d’arma o de la llicència de caça.
+
+###### Article 493 Pesca il·legal
+
+1. Ha de ser castigat amb pena de multa fins a 1.500 euros qui:
+
+a) Utilitzi filat, esparver, forquilla, arpó, arma de foc, explosius, aparells elèctrics o amb piles o bateries, verins, soporífers o qualsevol altre mitjà o mètode d’eficàcia destructiva similar per pescar.
+
+b) Pesqui a mà o embrutant o eixugant les aigües.
+
+2. El tribunal pot imposar així mateix la pena de privació de la llicència de pesca.
+
+###### Article 494 Incendi per imprudència
+
+El qui per imprudència lleu realitzi alguna de les conductes previstes als articles 299 o 300 ha de ser castigat amb pena de multa fins a 6.000 euros.
+
+###### Article 495 Danys per imprudència a béns d’interès especial
+
+El qui per imprudència causa un dany a un bé d’interès històric, artístic o cultural o de significació especial per al desenvolupament científic o tecnològic, ha de ser castigat amb pena de multa fins a 6.000 euros.
+
+###### Article 496 Impediments per imprudència a la recerca
+
+El qui per imprudència greu alteri vestigis arqueològics dificultant la seva recerca històrica o científica ha de ser castigat amb pena de multa fins a 6.000 euros.
+
+###### Article 497 Defraudació a la Caixa Andorrana de Seguretat Social
+
+L’administrador de fet o de dret d’una empresa o societat o l’empresari que ometi declarar totalment o parcial el salari dels treballadors respecte dels quals hi hagi obligació legal de cotitzar a la Caixa Andorrana de Seguretat Social, amb la finalitat d’eludir el pagament de les cotitzacions, ha de ser castigat amb pena d’arrest o multa fins al doble de l’import defraudat si l’import defraudat en els dotze mesos anteriors supera els 10.000 euros.
+
+El consentiment del treballador és irrellevant.
+
+Queda exempt de responsabilitat el qui regularitzi la seva situació abans de conèixer que el procediment judicial es dirigeix contra ell.
+
+###### Article 498 Mercaderies sensibles
+
+1. El qui importi o exporti il·lícitament tabac en les formes definides com a mercaderia sensible en la Llei de control de les mercaderies sensibles, del 4 de març de 1999, per un valor igual o superior a 6.000 euros, ha de ser castigat amb pena d’arrest i multa fins al doble del valor de la mercaderia.
+
+2. De la mateixa manera ha de ser castigat el qui sigui controlat dins de la franja duanera, definida a la Llei contra el frau en matèria duanera, del 4 de març de 1999, sense l’autorització corresponent detenint o circulant amb la mercaderia sensible esmentada al punt 1 per un valor igual o superior a 6.000 euros.
+
+###### Article 499 Consum individual, possessió, cultiu o introducció de droga tòxica per al consum propi
+
+El consum individual o el cultiu, la introducció o la possessió de cànnabis o una droga de toxicitat similar per al consum propi han de ser castigats amb pena d’arrest o multa fins a 600 euros.
+
+###### Article 500 Consum en local públic i consum en grup
+
+1. El consum individual de cannabis o una droga de toxicitat similar en un local públic ha de ser castigat amb pena d’arrest o multa fins a 600 euros. Als efectes del present apartat, s’assimilen a local públic els llocs públics amb concurrència de persones.
+
+2. El consum conjunt per dos o més persones de cannabis o droga de toxicitat similar ha de ser castigat amb pena d’arrest o multa fins a 600 euros.
+
+###### Article 501 Abandó de xeringues o objectes perillosos
+
+El qui abandoni en llocs públics xeringues o altres objectes perillosos, de manera que puguin provocar contagi de malalties o altres danys a les persones, ha de ser castigat amb pena de treballs en benefici de la comunitat o multa fins a 600 euros.
+
+###### Article 502 Maltractament d’animals
+
+El qui maltracti amb crueltat un animal ha de ser castigat amb pena de multa fins a 600 euros. Si el fet es realitza en un espectacle públic, la pena a imposar ha de ser de multa fins a 3.000 euros.
+
+###### Article 503 Omissió de control d’animals perillosos
+
+L’amo o l’encarregat d’un animal perillós que el deixi sense control en un lloc públic o en condicions de poder causar algun mal a les persones, ha de ser castigat amb pena de multa fins a 1.200 euros.
+
+###### Article 504 Exhibicionisme
+
+El qui executi actes d’exhibició sexual davant d’una o més persones sense el consentiment d’aquestes, ha de ser castigat amb pena d’arrest o multa fins a 1.500 euros.
+
+La temptativa és punible.
+
+###### Article 505 Alteració de l’ordre públic
+
+El qui, actuant en grup i amb la finalitat d’atemptar contra la pau pública, alteri l’ordre públic, fora dels supòsits previstos com a delicte, ha de ser castigat amb la pena de treballs en benefici de la comunitat, arrest o multa fins a 1.500 euros.
+
+La temptativa és punible.
+
+###### Article 506 Omissió de denúncia
+
+Qui no denunciï a l’autoritat un delicte dels compresos als títols I, III i IV i al capítol I del títol VII, del llibre segon d’aquest Codi, ha de ser castigat amb pena de multa fins a 3.000 euros.
+
+No és punible l’omissió de denúncia quan aquesta denúncia perjudiqui l’omitent, el seu cònjuge o persona unida a ell per situació de fet equivalent, o els seus ascendents, descendents o germans per naturalesa o adopció.
+
+###### Article 507 Falsa alarma
+
+El qui, amb la finalitat d’atemptar contra la pau i la tranquil·litat públiques, afirmi falsament l’existència d’artefactes explosius, o d’altres situacions que puguin comportar un perill greu, ha de ser castigat amb pena d’arrest o multa fins a 3.000 euros, atesa l’alarma o l’alteració de l’ordre efectivament produïda.
+
+###### Article 508 Resistència i desobediència lleu
+
+El qui resisteixi o desobeeixi de manera lleu l’autoritat administrativa o judicial o els funcionaris públics quan estiguin exercint legítimament funcions pròpies del seu càrrec, ha de ser castigat amb pena de multa fins a 1.500 euros.
+
+###### Article 509 (sense contingut)
+
+###### Article 510 Incompliment del deure de col·laboració
+
+1. El professional o el tècnic que, en cas de necessitat, sigui legítimament requerit per autoritat o funcionari per prestar la seva col·laboració i, sense justa causa, s’hi refusi, ha de ser castigat amb pena de multa fins a 3.000 euros, sempre que el fet no sigui constitutiu de delicte.
+
+2. El qui havent estat citat en forma legal deixi de comparèixer sense causa justa davant un tribunal en un procés, ocasionant perjudici a una de les parts o al desenvolupament de la causa, ha de ser castigat amb la mateixa pena.
+
+###### Article 511 Abús de part
+
+1. El qui, sense incórrer en el delicte previst a la lletra b del punt 1 de l’article 209, demandi civilment una persona física o jurídica fingint desconèixer-ne el domicili amb el propòsit de col·locar-la en estat d’indefensió ha de ser castigat amb pena d’arrest o multa fins a 3.000 euros.
+
+2. Si el responsable és advocat o procurador, s’ha d’imposar, endemés, la pena de suspensió per a l’exercici de l’ofici o el càrrec fins a sis mesos.
+
+###### Article 512 Expedició de moneda falsa
+
+El qui, sense incórrer en la conducta prevista com a delicte, havent adquirit moneda falsa sense tenir-ne coneixement, l’expedeix després de conèixer-ne la inautenticitat en quantitat no superior a 600 euros, ha de ser castigat amb pena de multa fins al doble del valor aparent de la moneda.
+
+La temptativa és punible.
+
+###### Article 513 Falsedats personals
+
+Ha de ser castigat amb pena d’arrest o multa fins a 3.000 euros el qui, fora dels casos previstos com a delicte:
+
+1. S’atribueixi públicament la qualitat de professional emparada per un títol acadèmic que no posseeixi.
+
+2. S’atribueixi públicament, sense posseir-la, la condició de funcionari.
+
+3. Utilitzi públicament i indegudament uniforme, vestit, insígnia o condecoració oficial.
+
+###### Article 514 Jocs il·legals
+
+El qui organitzi o participi en jocs il·legals ha de ser castigat amb pena d’arrest o multa fins a 3.000 euros.
+
+La temptativa és punible.
+
+###### Article 515 Perseguibilitat
+
+Les contravencions penals previstes en l’article 477 i totes les del títol II són solament perseguibles amb denúncia prèvia de la part ofesa o del representant legal.
+
+## Disposició addicional primera ( Llei 9/2005 )
+
+L’article 387 no és aplicable fins que no es promulgui la llei que reguli el finançament de partits polítics.
+
+## Disposició addicional segona ( Llei 9/2005 )
+
+L’article 248 no és aplicable fins que no es promulgui la llei que reguli l’impost sobre les rendes de l’estalvi.
+
+## Disposició transitòria primera ( Llei 9/2005 )
+
+El present Codi és aplicable sense perjudici d’aplicar les normes especials o del Codi penal fins ara vigent, si globalment considerades són més favorables a l’imputat, al detingut, al processat o al reu pres o condemnat en procediment incoat amb anterioritat a l’entrada en vigor del present Codi penal.
+
+Això no obstant, en matèria de suspensió condicional de l’execució de la pena, la comparació s’ha de fer entre els articles corresponents del nou Codi penal i els corresponents del Codi de procediment penal vigents fins a la data.
+
+## Disposició transitòria segona ( Llei 9/2005 )
+
+Les persones condemnades per sentència ferma a una pena privativa o restrictiva de llibertat l’execució de la qual no s’hagi suspès i que encara no s’hagi complert en la seva totalitat a l’entrada en vigor d’aquest Codi, poden instar el corresponent judici de revisió en la forma establerta als articles 253 i següents del Codi de procediment penal.
+
+També poden fer-ho, dins el termini d’un any a partir de l’entrada en vigor d’aquest Codi, aquelles persones condemnades a una pena privativa o restrictiva de llibertat l’execució de la qual s’hagi suspès totalment o parcialment i el termini de suspensió de la qual no hagi transcorregut a la data d’entrada en vigor d’aquest Codi.
+
+## Disposició derogatòria primera ( Llei 9/2005 )
+
+Queda derogat el Codi penal de l’11 de juliol de 1990.
+
+## Disposició derogatòria segona ( Llei 9/2005 )
+
+Queden derogats el capítol sisè de la Llei qualificada del règim electoral i del referèndum, del 3 de setembre de 1993, i totes les normes penals de lleis especials que s’oposin o contradiguin el present Codi.
+
+## Disposició derogatòria tercera ( Llei 9/2005 )
+
+Queden derogats el número 3 de l’article 4 així com els articles 8 i 9 del títol I, “Contenciós penal” del Reglament contenciós dels Reglaments del règim andorrà de seguretat social, aprovat per Decret dels MM.II. Delegats Permanents de 29 de desembre de 1967.
+
+## Disposició final primera ( Llei 9/2005 )
+
+Es modifiquen els articles 47, 54 i 55 de la Llei transitòria de procediments judicials, del 21 de desembre de 1993, que queden redactats com segueix:
+
+**“Article 47**
+
+En absència de tractat internacional les sentències estrangeres dictades per tribunals penals, administratius, fiscals, militars, de guerra, de seguretat i d’excepció no són en cap cas executòries a Andorra i no s’admet la petició d’execució a Andorra.
+
+Només les sentències civils, inclosos els efectes civils d’una sentència penal, poden ser objecte d’aprovació prèvia del Tribunal Superior de Justícia d’Andorra quan la demani una de les parts en la sentència de referència.
+
+També poden ser objecte de comís, sempre que es compleixin les condicions i formalitats previstes en el present article i els següents, els diners i valors i els béns adquirits amb aquests, o llur contrapartida, que provinguin de delicte major o menor que ho sigui també al Principat, si, com a resultat d’una sentència ferma d’un tribunal estranger dictada amb garantia dels drets de la defensa, l’Estat demandant ha formulat una sol·licitud en aquest sentit, sempre que tercers de bona fe hagin pogut fer valer llurs drets, que la resolució no sigui incompatible amb una resolució dels tribunals andorrans o que no hagi estat dictada en violació de les regles de competència exclusiva previstes pel dret andorrà.”
+
+**“Article 54**
+
+La menció que fa l’article 45 de la Llei qualificada de la justícia a la contravenció penal és sense perjudici que els fets puguin ser constitutius de delicte.”
+
+**“Article 55**
+
+El Batlle de guàrdia assegura la permanència en el càrrec durant els dies inhàbils fixats en l’article 42.2 de la Llei qualificada de la justícia, durant les hores no hàbils segons l’article 42.3 de la mateixa Llei i durant les hores no ordinàries de despatx i les hores i dies hàbils per a les matèries la competència de les quals sigui atribuïda al batlle de guàrdia per llei o les que estableixi el president de la Batllia a l’inici de l’any judicial.”
+
+## Disposició final segona ( Llei 9/2005 )
+
+Es modifiquen els articles 35, 38 i 54 de la Llei de cooperació internacional i de lluita contra el blanqueig de diners o valors producte de la delinqüència internacional, del 29 de desembre del 2000, que queden redactats com segueix:
+
+**“Article 35**
+
+Si un document escrit comporta, a més de les informacions que poden ser comunicades a l’estranger, elements que entren en l’àmbit dels secrets previstos al capítol I del títol X del llibre segon o al capítol III del títol XII del mateix llibre del Codi penal, el batlle pot establir o fer establir per un agent de policia judicial delegat a aquest efecte una còpia o fotocòpia autenticada en què s’ometin les indicacions que poden afectar persones alienes al procediment o que poden afectar el mateix interessat però que no tenen relació amb la demanda, sempre que no revelin actuacions delictives castigades en el dret penal andorrà.”
+
+**“Article 38**
+
+En cas de sol·licitud de comís per una autoritat judicial estrangera d’instruments del delicte o de llurs productes, diners, valors o béns adquirits amb aquests, o llur contrapartida, procedents d’un delicte de blanqueig de diners o valors o de qualsevol altre delicte major, la demanda és presentada pel Ministeri Fiscal al Tribunal de Corts, el qual, després d’audiència prèvia de les parts interessades, decideix per aute que pot ser objecte de recurs davant el Tribunal Superior de Justícia.
+
+El Tribunal no pot revisar ni modificar la decisió de comís estrangera si bé ha de resoldre sobre les reivindicacions de tercers de bona fe que no hagin estat resoltes en la decisió esmentada.
+
+El mateix procediment és aplicable de manera general, d’ofici o a petició de l’Estat demandant, als béns, diners o valors procedents de qualsevol infracció penal que no tenen propietaris legítims identificats.”
+
+**“Article 54**
+
+La composició de la Unitat de Prevenció del Blanqueig és la següent: un màxim de dues persones de competència reconeguda en l’àmbit financer nomenades pel ministre titular de finances; un batlle nomenat pel Consell Superior de la Justícia; un màxim de dos membres del Servei de Policia nomenats pel ministre titular d’interior a proposta del director de la Policia.
+
+Els ministres responsables d’interior i de finances designen conjuntament el màxim responsable entre els membres de la UPB nomenats per ells.
+
+Els membres nomenats pel ministre titular d’interior i pel ministre titular de finances han de dedicar-se a ple temps a les funcions encomanades i no poden dedicar-se a cap altra activitat pública o privada. El batlle, ultra les seves funcions jurisdiccionals pròpies, exerceix en el marc de la UPB les funcions de vetllar per la integritat jurídica dels dossiers presentats, facilitar els contactes amb altres magistrats i altres membres de l’Administració de justícia, i trametre els dossiers sobre operacions sospitoses a les autoritats competents.
+
+El Govern reglamenta les modalitats relatives a l’organització i al funcionament de la Unitat de Prevenció del Blanqueig.
+
+Els membres de la Unitat de Prevenció del Blanqueig i el seu personal administratiu adscrit estan sotmesos al secret professional sota les penes previstes al Codi penal.”
+
+## Disposició final tercera ( Llei 9/2005 )
+
+Es modifiquen l’article 12 i l’apartat 7 de l’article 14 de la Llei qualificada d’extradició, de 28 de novembre de 1996, que queden redactats com segueix:
+
+**“Article 12**
+
+El Ministeri Fiscal, així com la persona interessada, poden presentar recurs d’apel·lació davant de la Sala Penal del Tribunal Superior en el termini de quinze dies a comptar de la notificació de l’aute.
+
+La Sala Penal resol d’acord amb el procediment previst per al recurs d’apel·lació.”
+
+“7. Quan la infracció motiu de la demanda s’ha comès en els supòsits d’aplicació de la llei penal en l’espai a què fa referència el Codi penal i si les autoritats judicials andorranes decideixen d’iniciar accions judicials.”
+
+## Disposició final quarta ( Llei 9/2005 )
+
+Es modifica l’apartat 2 de l’article 33 de la Llei d’ajuts a l’estudi, del 28 de juny del 2002, que queda redactat com segueix:
+
+“2. La resolució de l’expedient comporta la revocació de l’ajut atorgat i la devolució total dels imports rebuts, si s’aprecia ocultament o falsejament de les dades. Aquesta resolució s’insta per via judicial perquè es pugui determinar si els fets són constitutius de delicte. La devolució s’ha de fer efectiva en el termini de tres mesos des del moment en què la resolució esdevingui ferma.”
+
+## Disposició final cinquena ( Llei 9/2005 )
+
+Es modifiquen els articles 2, 4, 6, 8, 16, 20, 28.1 i 50 de la Llei qualificada de la jurisdicció de menors, de modificació parcial del Codi penal i de la Llei qualificada de la justícia, del 22 d’abril de 1999, que queden redactats com segueix:
+
+**“Article 2**
+
+1. El batlle de menors, que forma Tribunal Unipersonal, és competent per jutjar en primera instància els fets comesos per majors de 12 anys i menors de 18, tipificats com a contravencions i delictes menors en el Codi penal, i també per executar els acords adoptats.
+
+2. El batlle de menors presideix, assistit per dos batlles més, el Tribunal Col·legiat que és competent per jutjar en primera instància els fets comesos per majors de 12 anys i menors de 18, tipificats com a delictes majors en el Codi penal, i també per executar els acords adoptats.
+
+3. Correspon als òrgans enumerats anteriorment resoldre sobre les responsabilitats civils derivades dels fets comesos pels menors a qui és aplicable aquesta Llei.
+
+4. El batlle de menors també és competent per exercir totes aquelles funcions que la Llei qualificada de l’adopció i de les altres formes de protecció del menor desemparat atribueix al batlle. Igualment li corresponen les competències en matèria de protecció de menors que en un futur pugui establir la llei.”
+
+**“Article 4**
+
+Els tribunals poden aplicar als joves majors d’edat penal entre 18 i 21 anys totes les mesures contingudes en la present Llei, sigui com a mesures substitutives de les previstes en matèria de substitució de penes, sigui com a obligacions de la suspensió condicional qualificada de penes prevista al Codi penal.”
+
+**“Article 6**
+
+La jurisdicció del batlle de menors i del Tribunal Col·legiat que presideix, s’estén a tots els supòsits aplicables de la llei penal en l’espai d’acord amb el que disposa el Codi penal.”
+
+**“Article 8**
+
+Quan un mateix fet punible hagi estat comès per majors i menors d’edat, la instrucció i l’enjudiciament penal dels autors es fa separadament, i correspon únicament al batlle de menors o a l’òrgan col·legiat que presideix l’enjudiciament dels menors de 18 anys.”
+
+**“Article 16**
+
+Totes les resolucions que suposin restriccions dels drets fonamentals del menor han de ser acordades pel batlle de guàrdia mitjançant aute raonat, oït el Ministeri Fiscal.
+
+La detenció governativa no pot, en cas de menors d’edat, superar les vint-i-quatre hores abans de ser posats a disposició judicial.”
+
+**“Article 20**
+
+1. El batlle instructor pot no incoar el procediment quan, tractant-se de menors d’edat i oït el Ministeri Fiscal, els fets comesos puguin trobar la seva correcció en l’àmbit educatiu i familiar, i n’ha d’informar el batlle de menors als efectes oportuns, i els serveis tècnics del Ministeri d’Interior per tal que n’efectuïn el seguiment.
+
+2. Només són susceptibles de la correcció en l’àmbit educatiu i familiar establert en l’apartat anterior els menors que hagin comès infraccions tipificades com a delictes menors o contravencions en el Codi penal. No obstant això, si el menor ha comès amb anterioritat fets a què es refereix aquest article, s’ha d’incoar el procediment corresponent.”
+
+**“Article 28**
+
+1. Si en el transcurs de la instrucció queda suficientment acreditat que el menor que ha comès el fet delictiu es troba en una situació d’alienació mental o qualsevol altra circumstància que constitueixi eximent total de la responsabilitat criminal d’acord amb el que disposa el Codi penal, el batlle instructor tramet les actuacions al batlle de menors, el qual, oït el Ministeri Fiscal, constata l’exempció.”
+
+**“Article 50**
+
+Els fets delictius comesos pels menors de 18 anys prescriuen:
+
+1. Al cap de cinc anys quan es tracta de delictes majors dolosos.
+
+2. Al cap de dos anys quan es tracta de delictes majors culposos o de delictes menors dolosos o culposos.
+
+3. Al cap de sis mesos quan es tracta dels delictes d’injúria o calúmnia.
+
+4. Al cap de tres mesos quan es tracta de contravencions penals.”
+
+## Disposició final sisena ( Llei 9/2005 )
+
+El present Codi penal entrarà en vigor al cap de sis mesos de ser publicat íntegrament al Butlletí Oficial del Principat d’Andorra.
+
+## Disposició final ( Llei 17/2007 )
+
+Aquesta Llei entrarà en vigor l’endemà del dia de la seva publicació en el Butlletí Oficial del Principat d’Andorra.
+
+## Disposició transitòria ( Llei 15/2008 )
+
+Les persones condemnades per sentència ferma a una pena privativa o restrictiva de llibertat l’execució de la qual no s’hagi suspès i que encara no s’hagi complert en la seva totalitat a l’entrada en vigor d’aquesta Llei, poden instar el corresponent judici de revisió en la forma establerta als articles 253 i següents del Codi de procediment penal.
+
+## Disposició derogatòria primera ( Llei 15/2008 )
+
+Queda sense contingut l’article 509 de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal.
+
+## Disposició derogatòria segona ( Llei 15/2008 )
+
+Queden derogades la [Llei 17/2007](https://www.bopa.ad/bopa/019098/Pagines/501D6.aspx), del 18 d’octubre, qualificada de modificació de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal, i la [Llei 29/2007](https://www.bopa.ad/bopa/020008/Pagines/5195A.aspx), del 20 de desembre, qualificada de modificació de l’article 409 de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal.
+
+## Disposició final primera ( Llei 15/2008 )
+
+Es delega al Govern perquè, en el termini màxim de tres mesos des de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra, mitjançant el decret legislatiu corresponent, el text refós de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal, incloent-hi totes les modificacions aportades mitjançant aquesta Llei.
+
+## Disposició final segona ( Llei 15/2008 )
+
+Aquesta Llei entrarà en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+
+## Disposició final primera ( Llei 87/2010 )
+
+S’encomana al Govern la modificació del Reglament d’Assistència lletrada amb Torn d’Ofici davant de l’Autoritat Judicial i el Servei de Policia de l’1 de març del 2000 per adaptar-lo a les noves disposicions legals.
+
+## Disposició final segona ( Llei 87/2010 )
+
+Aquesta Llei entrarà en vigor l’endemà de la seva publicació al Butlletí Oficial del Principat d’Andorra.
+
+## Disposició final ( Llei 91/2010 )
+
+Aquesta Llei entrarà en vigor al cap de quinze dies de la seva publicació al Butlletí Oficial del Principat d’Andorra.
+
+## Disposició final primera ( Llei 18/2012 )
+
+Es delega el Govern perquè, en el termini màxim de tres mesos des de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra el text corresponent que reculli la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal incloent-hi totes les modificacions aportades fins avui.
+
+## Disposició final segona ( Llei 18/2012 )
+
+Aquesta Llei entrarà en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+
+## Disposició derogatòria ( Llei 18/2013 )
+
+Queda derogada la [Llei 14/2010](https://www.bopa.ad/bopa/022032/Pagines/65A56.aspx), del 13 de maig, de règim jurídic de les entitats bancàries i de règim administratiu bàsic de les entitats operatives del sistema financer.
+
+## Disposició final primera ( Llei 18/2013 )
+
+S’introdueixen les modificacions següents a la [Llei 8/2013](https://www.bopa.ad/bopa/025026/Pagines/7F0F6.aspx), del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera, que queden redactades com segueix:
+
+1. L’article 51 queda redactat com segueix:
+
+**“Article 51 Procediment sancionador**
+
+1. El procediment sancionador es tramita d’acord amb el que disposa la Llei de regulació del règim disciplinari del sistema financer, del 27 de novembre del 1997.
+
+2. L’exercici de la potestat sancionadora a què es refereix aquest capítol és independent de l’eventual concurrència de delictes o contravencions penals.
+
+No obstant això, quan s’estigui tramitant un procés penal on s’apreciï identitat de subjectes i fets, el procediment sancionador queda suspès respecte dels mateixos subjectes i fets fins que recaigui pronunciament ferm de l’autoritat judicial.
+
+3. Un cop reprès el procediment sancionador, no es poden sancionar pecuniàriament conformement a aquest capítol les conductes que ho hagin estat penalment quan s’apreciï identitat de subjectes i fets.”
+
+2. La disposició transitòria queda redactada com segueix:
+
+**“Disposició transitòria**
+
+Les obligacions establertes en els articles 46 i 47 del capítol quart són aplicables al cap de tres mesos de l’entrada en vigor d’aquesta Llei.”
+
+## Disposició final segona ( Llei 18/2013 )
+
+Es delega el Govern perquè, en el termini màxim de tres mesos des de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra el text corresponent que reculli la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal incloent-hi totes les modificacions aportades fins avui.
+
+Així mateix, es delega el Govern perquè, en el termini màxim d’un mes des de la data d’entrada en vigor d’aquesta Llei, publiqui al Butlletí Oficial del Principat d’Andorra el text corresponent que reculli la [Llei 8/2013](https://www.bopa.ad/bopa/025026/Pagines/7F0F6.aspx), del 9 de maig, sobre els requisits organitzatius i les condicions de funcionament de les entitats operatives del sistema financer, la protecció de l’inversor, l’abús de mercat i els acords de garantia financera incloent-hi totes les modificacions aportades fins avui.
+
+## Disposició final tercera ( Llei 18/2013 )
+
+Aquesta Llei entra en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.
+
+## Disposició final primera ( Llei 40/2014 )
+
+1. Es modifica l’article 129 de la Llei qualificada de modificació del Codi de procediment penal, del 10 de desembre de 1998, que queda redactat en els termes següents:
+
+**“Article 129**
+
+El sobreseïment definitiu és irrevocable i deixa fermament tancat el judici.
+
+El sobreseïment provisional deixa el sumari obert fins a l’aparició de noves dades o comprovants, llevat del cas de prescripció.
+
+En cas de sobreseïment definitiu o provisional, sempre que en aquests casos quedi comprovat el fet delictiu, han de ser objecte de comís els instruments utilitzats o que, en cas de temptativa punible, s’anaven a utilitzar per cometre la infracció, el producte obtingut i els beneficis que se n’hagin derivat i la seva eventual transformació posterior, d’acord amb el que disposen els apartats 1, 3 i 4 de l’article 70 del Codi penal. A aquest efecte, el procediment ha de continuar amb l’encausat o el processat, el seu representant legal o la representació dels hereus, que són considerats responsables civils directes pel que fa als béns objecte del comís, llevat que en renunciïn a la propietat, s’ha de celebrar la vista de la causa i s’ha de dictar sentència declarant o no l’existència del delicte i acordant o no el comís.
+
+Contra aquesta sentència es pot interposar recurs d’apel·lació d’acord amb el que estableix l’article 195.”
+
+2. Es modifica l’article 174 de la Llei qualificada de modificació del Codi de procediment penal, del 10 de desembre de 1998, que queda redactat en els termes següents:
+
+**“Article 174**
+
+En tots els autes o les sentències cal resoldre sobre el pagament de les despeses processals i sobre el destí dels objectes intervinguts d’acord amb l’article 70 del Codi penal.
+
+En cas de sentència absolutòria per extinció de l’acció penal o per exclusió de la responsabilitat criminal, sempre que en aquests casos quedi comprovat el fet delictiu, han de ser objecte de comís els instruments utilitzats o que, en cas de temptativa punible, s’anaven a utilitzar per cometre la infracció, el producte obtingut i els beneficis que se n’hagin derivat i la seva eventual transformació posterior, d’acord amb el que disposen els apartats 1, 3 i 4 de l’article 70 del Codi penal.
+
+Contra aquesta sentència es pot interposar recurs d’apel·lació d’acord amb el que estableix l’article 195.”
+
+## Disposició final segona ( Llei 40/2014 )
+
+Es modifica l’apartat 3 de l’article 25 de la Llei qualificada de la jurisdicció de menors, de modificació parcial del Codi penal i de la Llei qualificada de la Justícia, del 22 d’abril de 1999, que queda redactat en els termes següents:
+
+**“Article 25**
+
+[…]
+
+3. Entre els actes d’investigació que s’han de practicar hi ha l’interrogatori del menor, que s’efectua en presència de l’advocat i sempre que sigui possible del representant legal, i l’elaboració d’un informe pericial per part dels serveis tècnics de l’àrea competent del ministeri encarregat de la justícia, sobre la situació del menor, el seu entorn social i les altres circumstàncies que poden haver influït en el fet delictiu que se l’imputa.”
+
+## Disposició final tercera ( Llei 40/2014 )
+
+S’encomana al Govern que en el termini màxim de tres mesos des de l’entrada en vigor d’aquesta Llei publiqui al Butlletí Oficial del Principat d’Andorra el text consolidat de la [Llei 9/2005](https://www.bopa.ad/bopa/017025/Pagines/3BE2E.aspx), del 21 de febrer, qualificada del Codi penal; el text consolidat de la Llei qualificada de modificació del Codi de procediment penal, del 10 de febrer de 1998, i el text consolidat de la Llei qualificada de la jurisdicció de menors, de modificació parcial del Codi penal i de la Llei qualificada de la Justícia, del 22 d’abril de 1999, que incloguin les modificacions introduïdes fins ara en aquestes tres lleis.
+
+## Disposició final quarta ( Llei 40/2014 )
+
+Aquesta Llei qualificada entra en vigor l’endemà de ser publicada al Butlletí Oficial del Principat d’Andorra.

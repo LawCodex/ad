@@ -3,7 +3,7 @@ title: "Llei qualificada de quota d'immigració per al període comprès entre l
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1995-06-29
+date: 1995-06-01
 published: 1995-08-01
 bopa: "BOPA núm. 42, any 1995"
 status: unknown

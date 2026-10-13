@@ -3,7 +3,7 @@ title: "Llei d'universitats, de 30-7-97."
 type: act
 jurisdiction: ad
 language: ca
-date: 1997-07-29
+date: 1997-07-30
 published: 1997-08-19
 bopa: "BOPA núm. 53, any 1997"
 status: unknown

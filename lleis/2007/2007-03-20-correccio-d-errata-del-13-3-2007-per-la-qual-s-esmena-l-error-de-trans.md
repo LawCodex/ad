@@ -3,7 +3,7 @@ title: "Correcció d'errata del 13-3-2007 per la qual s'esmena l'error de transc
 type: other
 jurisdiction: ad
 language: ca
-date: 2007-03-12
+date: 2006-10-27
 published: 2007-03-20
 bopa: "BOPA núm. 25, any 2007"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei de declaració del Dia de la Constitució, de 8-10-98."
 type: act
 jurisdiction: ad
 language: ca
-date: 1998-10-07
+date: 1998-10-08
 published: 1998-11-03
 bopa: "BOPA núm. 55, any 1998"
 status: unknown

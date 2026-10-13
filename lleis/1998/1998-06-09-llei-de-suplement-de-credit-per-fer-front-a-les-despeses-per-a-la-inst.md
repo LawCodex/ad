@@ -3,7 +3,7 @@ title: "Llei de suplement de crèdit per fer front a les despeses per a la insta
 type: act
 jurisdiction: ad
 language: ca
-date: 1998-05-13
+date: 1998-05-14
 published: 1998-06-09
 bopa: "BOPA núm. 26, any 1998"
 status: unknown

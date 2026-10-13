@@ -3,7 +3,7 @@ title: "Llei de regulació del coeficient d'inversions obligatòries, de 30-6-94
 type: act
 jurisdiction: ad
 language: ca
-date: 1994-07-29
+date: 1994-06-30
 published: 1994-07-26
 bopa: "BOPA núm. 50, any 1994"
 status: unknown

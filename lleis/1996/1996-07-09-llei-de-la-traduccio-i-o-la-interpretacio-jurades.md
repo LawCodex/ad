@@ -3,7 +3,7 @@ title: "Llei de la traducció i/o la interpretació jurades, de 20-6-96."
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-06-19
+date: 1996-06-20
 published: 1996-07-09
 bopa: "BOPA núm. 48, any 1996"
 status: unknown

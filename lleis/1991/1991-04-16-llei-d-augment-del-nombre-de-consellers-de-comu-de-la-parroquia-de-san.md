@@ -3,7 +3,7 @@ title: "Llei d'augment del nombre de Consellers de Comú de la Parròquia de San
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-03-31
+date: 1991-04-01
 published: 1991-04-16
 bopa: "BOPA núm. 16, any 1991"
 status: unknown

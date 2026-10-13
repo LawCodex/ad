@@ -3,7 +3,7 @@ title: "Llei de noms comercials, denominacions socials i rètols d'establiment, 
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-06-19
+date: 1996-06-20
 published: 1996-07-09
 bopa: "BOPA núm. 48, any 1996"
 status: unknown

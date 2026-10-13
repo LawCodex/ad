@@ -3,7 +3,7 @@ title: "Llei de desenvolupament dels principis bàsics de l'estructura i l'organ
 type: act
 jurisdiction: ad
 language: ca
-date: 2002-06-27
+date: 2002-06-28
 published: 2002-07-23
 bopa: "BOPA núm. 56, any 2002"
 status: unknown

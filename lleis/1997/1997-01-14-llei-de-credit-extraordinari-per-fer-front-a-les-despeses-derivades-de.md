@@ -3,7 +3,7 @@ title: "Llei de crèdit extraordinari per fer front a les despeses derivades de 
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-12-18
+date: 1996-12-19
 published: 1997-01-14
 bopa: "BOPA núm. 5, any 1997"
 status: unknown

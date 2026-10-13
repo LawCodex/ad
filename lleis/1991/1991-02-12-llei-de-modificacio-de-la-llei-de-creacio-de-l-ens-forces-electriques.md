@@ -3,7 +3,7 @@ title: "Llei de modificació de la Llei de Creació de l'Ens Forces Elèctriques
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-01-17
+date: 1991-01-18
 published: 1991-02-12
 bopa: "BOPA núm. 7, any 1991"
 status: unknown

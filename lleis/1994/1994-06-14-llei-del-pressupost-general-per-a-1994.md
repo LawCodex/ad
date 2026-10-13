@@ -3,7 +3,7 @@ title: "Llei del Pressupost General per a 1994, de 19-5-94."
 type: act
 jurisdiction: ad
 language: ca
-date: 1994-05-18
+date: 1994-05-19
 published: 1994-06-14
 bopa: "BOPA núm. 41, any 1994"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei relativa al Dret Successori del Principat, de 31-7-89."
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-07-30
+date: 1989-07-31
 published: 1989-08-20
 bopa: "BOPA núm. 18, any 1989"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei de suplement de crèdit per a les despeses derivades del projecte, 
 type: act
 jurisdiction: ad
 language: ca
-date: 2002-04-17
+date: 2002-04-18
 published: 2002-05-14
 bopa: "BOPA núm. 38, any 2002"
 status: unknown

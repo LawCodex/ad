@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 2 del Reglament d'ampliació núm. 6 i
 type: act
 jurisdiction: ad
 language: ca
-date: 1994-12-28
+date: 1994-12-29
 published: 1995-01-24
 bopa: "BOPA núm. 6, any 1995"
 status: unknown

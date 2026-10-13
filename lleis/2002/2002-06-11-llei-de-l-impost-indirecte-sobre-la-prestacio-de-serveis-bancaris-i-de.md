@@ -3,7 +3,7 @@ title: "Llei de l'impost indirecte sobre la prestació de serveis bancaris i de 
 type: act
 jurisdiction: ad
 language: ca
-date: 2002-05-13
+date: 2002-05-14
 published: 2002-06-11
 bopa: "BOPA núm. 44, any 2002"
 status: unknown

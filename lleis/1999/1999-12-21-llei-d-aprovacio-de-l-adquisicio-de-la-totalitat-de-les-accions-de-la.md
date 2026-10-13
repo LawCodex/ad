@@ -3,7 +3,7 @@ title: "Llei d'aprovació de l'adquisició de la totalitat de les accions de la 
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-11-25
+date: 1999-11-26
 published: 1999-12-21
 bopa: "BOPA núm. 76, any 1999"
 status: unknown

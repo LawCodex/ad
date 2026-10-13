@@ -3,7 +3,7 @@ title: "Llei de suplement de crèdit pressupostari per a les despeses dels progr
 type: act
 jurisdiction: ad
 language: ca
-date: 1995-04-05
+date: 1995-04-06
 published: 1995-05-02
 bopa: "BOPA núm. 24, any 1995"
 status: unknown

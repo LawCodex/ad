@@ -3,7 +3,7 @@ title: "Llei qualificada de l'adopció i de les altres formes de protecció del 
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1996-03-20
+date: 1996-03-21
 published: 1996-04-23
 bopa: "BOPA núm. 29, any 1996"
 status: unknown

@@ -3,7 +3,7 @@ title: "Correcció d'errata relativa a la Llei d'expropiació, de 26-10-94."
 type: act
 jurisdiction: ad
 language: ca
-date: 1994-06-29
+date: 1994-10-26
 published: 1994-10-25
 bopa: "BOPA núm. 65, any 1994"
 status: unknown

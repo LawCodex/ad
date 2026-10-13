@@ -3,7 +3,7 @@ title: "Llei de patents, de 10-6-99."
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-06-09
+date: 1999-06-10
 published: 1999-07-06
 bopa: "BOPA núm. 38, any 1999"
 status: unknown

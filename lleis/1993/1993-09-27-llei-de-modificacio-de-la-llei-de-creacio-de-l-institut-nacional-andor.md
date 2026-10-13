@@ -3,7 +3,7 @@ title: "Llei de modificació de la llei de creació de l'Institut Nacional Andor
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-09-02
+date: 1993-09-03
 published: 1993-09-27
 bopa: "BOPA núm. 51, any 1993 (extra)"
 status: unknown

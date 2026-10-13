@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 2 del Reglament d'aplicació núm. 6 i
 type: act
 jurisdiction: ad
 language: ca
-date: 1995-12-13
+date: 1995-12-14
 published: 1996-01-16
 bopa: "BOPA núm. 6, any 1996"
 status: unknown

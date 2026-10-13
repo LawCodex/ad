@@ -3,7 +3,7 @@ title: "Llei General de Sanitat aprovada pel M.I. Consell General en la seva ses
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-03-19
+date: 1989-03-20
 published: 1989-04-09
 bopa: "BOPA núm. 6, any 1989"
 status: unknown

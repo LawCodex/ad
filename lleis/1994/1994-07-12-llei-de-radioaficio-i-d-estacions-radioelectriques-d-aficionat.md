@@ -3,7 +3,7 @@ title: "Llei de radioafició i d'estacions radioelèctriques d'aficionat, de 9-6
 type: act
 jurisdiction: ad
 language: ca
-date: 1994-06-08
+date: 1994-06-09
 published: 1994-07-12
 bopa: "BOPA núm. 48, any 1994"
 status: unknown

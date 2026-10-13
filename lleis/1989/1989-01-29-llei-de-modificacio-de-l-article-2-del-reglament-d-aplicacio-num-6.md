@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 2 del Reglament d'Aplicació núm. 6, 
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-01-09
+date: 1989-01-10
 published: 1989-01-29
 bopa: "BOPA núm. 1, any 1989"
 status: unknown

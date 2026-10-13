@@ -3,7 +3,7 @@ title: "Llei de l'Impost de Mercaderies Indirecte (I.M.I.), de 26-6-91."
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-06-25
+date: 1991-06-26
 published: 1991-06-27
 bopa: "BOPA núm. 107, any 1991 (extra)"
 status: unknown

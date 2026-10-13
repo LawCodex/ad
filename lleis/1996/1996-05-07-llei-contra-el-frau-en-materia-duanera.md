@@ -3,7 +3,7 @@ title: "Llei contra el frau en matèria duanera, d'11-4-96."
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-04-10
+date: 1996-04-11
 published: 1996-05-07
 bopa: "BOPA núm. 32, any 1996"
 status: unknown

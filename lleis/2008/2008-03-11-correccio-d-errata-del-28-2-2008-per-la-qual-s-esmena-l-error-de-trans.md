@@ -3,7 +3,7 @@ title: "Correcció d'errata del 28-2-2008 per la qual s'esmena l'error de transc
 type: other
 jurisdiction: ad
 language: ca
-date: 2008-02-27
+date: 2008-01-10
 published: 2008-03-11
 bopa: "BOPA núm. 24, any 2008"
 status: unknown

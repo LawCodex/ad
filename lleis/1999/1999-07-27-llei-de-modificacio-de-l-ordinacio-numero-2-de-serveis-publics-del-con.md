@@ -3,7 +3,7 @@ title: "Llei de modificació de l'Ordinació número 2 de Serveis Públics del C
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-06-29
+date: 1999-06-30
 published: 1999-07-27
 bopa: "BOPA núm. 43, any 1999"
 status: unknown

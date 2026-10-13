@@ -3,7 +3,7 @@ title: "Llei sobre les condicions per a l'exercici de l'activitat de transport i
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-11-03
+date: 1993-11-04
 published: 1993-11-28
 bopa: "BOPA núm. 64, any 1994"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei de creació de la societat pública Forces Elèctriques d'Andorra, 
 type: act
 jurisdiction: ad
 language: ca
-date: 1999-09-29
+date: 1999-09-30
 published: 1999-10-26
 bopa: "BOPA núm. 61, any 1999"
 status: unknown

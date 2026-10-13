@@ -3,7 +3,7 @@ title: "Llei de modificació de l'article 3 de la llei d'instauració de la juri
 type: act
 jurisdiction: ad
 language: ca
-date: 1992-05-29
+date: 1992-05-30
 published: 1992-06-23
 bopa: "BOPA núm. 26, any 1992"
 status: unknown

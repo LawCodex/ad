@@ -3,7 +3,7 @@ title: "Llei reguladora de les mesures per garantir la transició cap a l'euro a
 type: act
 jurisdiction: ad
 language: ca
-date: 2000-10-10
+date: 2000-10-11
 published: 2000-11-07
 bopa: "BOPA núm. 65, any 2000"
 status: unknown

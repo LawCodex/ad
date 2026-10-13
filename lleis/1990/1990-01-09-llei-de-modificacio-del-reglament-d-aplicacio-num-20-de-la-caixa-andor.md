@@ -3,7 +3,7 @@ title: "Llei de modificació del Reglament d'Aplicació núm. 20 de la Caixa And
 type: act
 jurisdiction: ad
 language: ca
-date: 1989-12-26
+date: 1989-12-27
 published: 1990-01-09
 bopa: "BOPA núm. 1, any 1990"
 status: unknown

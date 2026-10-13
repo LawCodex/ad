@@ -3,7 +3,7 @@ title: "Llei sobre l'inventari de les instal.lacions turístiques i hoteleres de
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-03-05
+date: 1991-03-06
 published: 1991-04-09
 bopa: "BOPA núm. 15, any 1991"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei del pressupost per a l'exercici de 1998, de 13-11-97."
 type: act
 jurisdiction: ad
 language: ca
-date: 1997-11-12
+date: 1997-11-13
 published: 1997-12-09
 bopa: "BOPA núm. 74, any 1997"
 status: unknown

@@ -3,7 +3,7 @@ title: "Llei qualificada de la jurisdicció de menors, de modificació parcial d
 type: qualified_act
 jurisdiction: ad
 language: ca
-date: 1999-04-21
+date: 1999-04-22
 published: 1999-05-18
 bopa: "BOPA núm. 27, any 1999"
 status: unknown

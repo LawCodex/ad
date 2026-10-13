@@ -3,7 +3,7 @@ title: "Llei de la quota d'immigració per al darrer trimestre de 1993 i el prim
 type: act
 jurisdiction: ad
 language: ca
-date: 1993-11-03
+date: 1993-11-04
 published: 1993-11-28
 bopa: "BOPA núm. 64, any 1993 (extra)"
 status: unknown

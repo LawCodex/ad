@@ -3,7 +3,7 @@ title: "Llei de modificació de la Llei del joc del bingo, de 15-11-2001."
 type: act
 jurisdiction: ad
 language: ca
-date: 2001-11-14
+date: 2001-11-15
 published: 2001-12-11
 bopa: "BOPA núm. 105, any 2001"
 status: unknown

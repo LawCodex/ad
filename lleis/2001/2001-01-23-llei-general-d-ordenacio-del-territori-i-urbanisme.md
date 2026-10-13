@@ -3,7 +3,7 @@ title: "Llei general d'ordenació del territori i urbanisme, de 29-12-2000."
 type: act
 jurisdiction: ad
 language: ca
-date: 2000-12-28
+date: 2000-12-29
 published: 2001-01-23
 bopa: "BOPA núm. 10, any 2001"
 status: unknown

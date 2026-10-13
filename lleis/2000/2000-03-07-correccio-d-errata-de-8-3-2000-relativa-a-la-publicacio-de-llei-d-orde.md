@@ -3,7 +3,7 @@ title: "Correcció d'errata de 8-3-2000 relativa a la publicació de Llei d'orde
 type: other
 jurisdiction: ad
 language: ca
-date: 1999-12-15
+date: 2000-01-12
 published: 2000-03-07
 bopa: "BOPA núm. 11, any 2000"
 status: unknown

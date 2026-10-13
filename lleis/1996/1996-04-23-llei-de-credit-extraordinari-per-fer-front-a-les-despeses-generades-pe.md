@@ -3,7 +3,7 @@ title: "Llei de crèdit extraordinari per fer front a les despeses generades per
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-03-20
+date: 1996-03-21
 published: 1996-04-23
 bopa: "BOPA núm. 29, any 1996"
 status: unknown

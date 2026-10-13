@@ -3,7 +3,7 @@ title: "Llei sobre les transferències als Honorables Comuns, de 23-12-91."
 type: act
 jurisdiction: ad
 language: ca
-date: 1991-12-22
+date: 1991-12-23
 published: 1991-12-29
 bopa: "BOPA núm. 201, any 1991 (extra)"
 status: unknown

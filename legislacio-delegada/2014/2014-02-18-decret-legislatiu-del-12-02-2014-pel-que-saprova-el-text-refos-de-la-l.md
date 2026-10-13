@@ -3,7 +3,7 @@ title: "Decret legislatiu del 12-02-2014 pel que s’aprova el text refós de la
 type: legislative_decree
 jurisdiction: ad
 language: ca
-date: 2014-02-11
+date: 2014-02-12
 published: 2014-02-18
 bopa: "BOPA núm. 14, any 2014"
 status: unknown

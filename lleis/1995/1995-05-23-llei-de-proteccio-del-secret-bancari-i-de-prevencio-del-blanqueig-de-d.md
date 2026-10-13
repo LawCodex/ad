@@ -3,7 +3,7 @@ title: "Llei de protecció del secret bancari i de prevenció del blanqueig de d
 type: act
 jurisdiction: ad
 language: ca
-date: 1995-05-10
+date: 1995-05-11
 published: 1995-05-23
 bopa: "BOPA núm. 29, any 1995"
 status: unknown

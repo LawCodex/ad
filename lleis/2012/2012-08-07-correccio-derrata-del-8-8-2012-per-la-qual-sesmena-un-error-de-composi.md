@@ -3,7 +3,7 @@ title: "Correcció d’errata del 8-8-2012 per la qual s’esmena un error de co
 type: other
 jurisdiction: ad
 language: ca
-date: 2012-08-07
+date: 2012-07-03
 published: 2012-08-07
 bopa: "BOPA núm. 38, any 2012"
 status: unknown

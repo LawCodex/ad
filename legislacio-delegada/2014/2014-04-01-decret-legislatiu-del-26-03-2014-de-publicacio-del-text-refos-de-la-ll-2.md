@@ -3,7 +3,7 @@ title: "Decret legislatiu del 26-03-2014 de publicació del text refós de la Ll
 type: legislative_decree
 jurisdiction: ad
 language: ca
-date: 2014-03-25
+date: 2012-05-31
 published: 2014-04-01
 bopa: "BOPA núm. 23, any 2014"
 status: unknown

@@ -3,7 +3,7 @@ title: "Correcció d’errata del 5-3-2014 per la qual s’esmena l’error de m
 type: other
 jurisdiction: ad
 language: ca
-date: 2014-03-04
+date: 2014-01-23
 published: 2014-03-04
 bopa: "BOPA núm. 19, any 2014"
 status: unknown

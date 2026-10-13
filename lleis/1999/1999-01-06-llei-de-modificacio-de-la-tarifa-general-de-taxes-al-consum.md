@@ -3,7 +3,7 @@ title: "Llei de modificació de la tarifa general de taxes al consum, de 10-12-9
 type: act
 jurisdiction: ad
 language: ca
-date: 1998-12-09
+date: 1998-12-10
 published: 1999-01-06
 bopa: "BOPA núm. 1, any 1999"
 status: unknown

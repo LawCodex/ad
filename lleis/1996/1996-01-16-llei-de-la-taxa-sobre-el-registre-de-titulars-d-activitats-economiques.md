@@ -3,7 +3,7 @@ title: "Llei de la taxa sobre el Registre de Titulars d'Activitats Econòmiques,
 type: act
 jurisdiction: ad
 language: ca
-date: 1996-01-19
+date: 1995-12-20
 published: 1996-01-16
 bopa: "BOPA núm. 6, any 1996"
 status: unknown

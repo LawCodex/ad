@@ -3,7 +3,7 @@ title: "Llei de modificació de la tarifa general de taxes del consum, d'11-3-98
 type: act
 jurisdiction: ad
 language: ca
-date: 1998-03-15
+date: 1998-03-11
 published: 1998-04-02
 bopa: "BOPA núm. 16, any 1998 (extra)"
 status: unknown
